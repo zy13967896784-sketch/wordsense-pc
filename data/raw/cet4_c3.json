@@ -1,0 +1,2778 @@
+[
+  {
+    "w": "cabinet",
+    "ph": "ˈkæbɪnət",
+    "pos": "n.",
+    "zh": "橱柜；内阁",
+    "ex": "The old cabinet in the kitchen holds all our plates.",
+    "exzh": "厨房里的旧橱柜放着我们所有的盘子。"
+  },
+  {
+    "w": "cable",
+    "ph": "ˈkeɪbl",
+    "pos": "n./v.",
+    "zh": "电缆；缆绳；发电报",
+    "ex": "Workers laid a new cable under the busy street last month.",
+    "exzh": "工人们上个月在繁忙的街道下铺设了一条新电缆。"
+  },
+  {
+    "w": "cafeteria",
+    "ph": "ˌkæfəˈtɪriə",
+    "pos": "n.",
+    "zh": "自助餐厅；食堂",
+    "ex": "Students gather in the cafeteria for lunch every weekday.",
+    "exzh": "每个工作日学生们都聚在自助餐厅吃午饭。"
+  },
+  {
+    "w": "cage",
+    "ph": "keɪdʒ",
+    "pos": "n./v.",
+    "zh": "笼子；把…关进笼子",
+    "ex": "The bird flew out when someone left the cage open.",
+    "exzh": "有人没关笼子，鸟就飞了出去。"
+  },
+  {
+    "w": "calculator",
+    "ph": "ˈkælkjuleɪtər",
+    "pos": "n.",
+    "zh": "计算器",
+    "ex": "You may use a calculator during the second part of the exam.",
+    "exzh": "考试的第二部分你可以使用计算器。"
+  },
+  {
+    "w": "calendar",
+    "ph": "ˈkælɪndər",
+    "pos": "n.",
+    "zh": "日历；日程表",
+    "ex": "She marked the deadline on her calendar in bright red.",
+    "exzh": "她用鲜红色把截止日期标在日历上。"
+  },
+  {
+    "w": "calm",
+    "ph": "kɑːm",
+    "pos": "adj./v.",
+    "zh": "平静的；使镇静",
+    "ex": "The teacher stayed calm and answered every angry question.",
+    "exzh": "老师保持平静，回答了每一个愤怒的问题。"
+  },
+  {
+    "w": "camel",
+    "ph": "ˈkæml",
+    "pos": "n.",
+    "zh": "骆驼",
+    "ex": "A camel can travel for days without drinking any water.",
+    "exzh": "骆驼可以几天不喝水赶路。"
+  },
+  {
+    "w": "campus",
+    "ph": "ˈkæmpəs",
+    "pos": "n.",
+    "zh": "校园；大学校区",
+    "ex": "Most first-year students live on campus during the term.",
+    "exzh": "大多数一年级学生学期内住在校园里。"
+  },
+  {
+    "w": "canal",
+    "ph": "kəˈnæl",
+    "pos": "n.",
+    "zh": "运河；水道",
+    "ex": "Boats still carry goods along the narrow canal today.",
+    "exzh": "如今船只仍沿着这条狭窄的运河运货。"
+  },
+  {
+    "w": "cancer",
+    "ph": "ˈkænsər",
+    "pos": "n.",
+    "zh": "癌症；毒瘤",
+    "ex": "Early tests can help doctors treat cancer more successfully.",
+    "exzh": "早期检查能帮助医生更成功地治疗癌症。"
+  },
+  {
+    "w": "candle",
+    "ph": "ˈkændl",
+    "pos": "n.",
+    "zh": "蜡烛",
+    "ex": "She lit a candle when the power suddenly went out.",
+    "exzh": "突然停电时她点了一支蜡烛。"
+  },
+  {
+    "w": "cannon",
+    "ph": "ˈkænən",
+    "pos": "n.",
+    "zh": "大炮",
+    "ex": "The old cannon stands in the square as a monument.",
+    "exzh": "那门旧大炮作为纪念物立在广场上。"
+  },
+  {
+    "w": "canteen",
+    "ph": "kænˈtiːn",
+    "pos": "n.",
+    "zh": "食堂；水壶",
+    "ex": "We usually eat lunch in the school canteen.",
+    "exzh": "我们通常在学校食堂吃午饭。"
+  },
+  {
+    "w": "canvas",
+    "ph": "ˈkænvəs",
+    "pos": "n.",
+    "zh": "帆布；油画",
+    "ex": "The artist stretched a fresh canvas before starting to paint.",
+    "exzh": "画家在开始作画前绷好了一块新画布。"
+  },
+  {
+    "w": "cap",
+    "ph": "kæp",
+    "pos": "n.",
+    "zh": "帽子；盖子",
+    "ex": "He wore a blue cap to keep the sun away.",
+    "exzh": "他戴了一顶蓝帽子遮太阳。"
+  },
+  {
+    "w": "capital",
+    "ph": "ˈkæpɪtl",
+    "pos": "n./adj.",
+    "zh": "首都；资本；大写的",
+    "ex": "Beijing is the capital of China and a huge city.",
+    "exzh": "北京是中国的首都，也是一座巨大的城市。"
+  },
+  {
+    "w": "capitalism",
+    "ph": "ˈkæpɪtəlɪzəm",
+    "pos": "n.",
+    "zh": "资本主义",
+    "ex": "The book compares socialism and capitalism in simple language.",
+    "exzh": "这本书用简单的语言比较了社会主义和资本主义。"
+  },
+  {
+    "w": "captain",
+    "ph": "ˈkæptɪn",
+    "pos": "n.",
+    "zh": "船长；队长；上尉",
+    "ex": "The captain told the team to keep passing the ball.",
+    "exzh": "队长告诉队员们继续传球。"
+  },
+  {
+    "w": "captive",
+    "ph": "ˈkæptɪv",
+    "pos": "adj./n.",
+    "zh": "被俘的；俘虏",
+    "ex": "The captive bird was later set free near the forest.",
+    "exzh": "那只被捕获的鸟后来在森林附近被放生了。"
+  },
+  {
+    "w": "carbon",
+    "ph": "ˈkɑːrbən",
+    "pos": "n.",
+    "zh": "碳",
+    "ex": "Burning coal releases a large amount of carbon into the air.",
+    "exzh": "燃烧煤炭会向空气中释放大量碳。"
+  },
+  {
+    "w": "card",
+    "ph": "kɑːrd",
+    "pos": "n.",
+    "zh": "卡片；纸牌",
+    "ex": "He sent a birthday card to his grandmother abroad.",
+    "exzh": "他给在国外的祖母寄了一张生日贺卡。"
+  },
+  {
+    "w": "cargo",
+    "ph": "ˈkɑːrɡoʊ",
+    "pos": "n.",
+    "zh": "货物；船货",
+    "ex": "The ship carried a heavy cargo of timber and coal.",
+    "exzh": "这艘船装载着沉重的木材和煤炭。"
+  },
+  {
+    "w": "carpenter",
+    "ph": "ˈkɑːrpəntər",
+    "pos": "n.",
+    "zh": "木匠",
+    "ex": "The carpenter fixed the broken table in ten minutes.",
+    "exzh": "木匠十分钟就修好了那张坏桌子。"
+  },
+  {
+    "w": "carpet",
+    "ph": "ˈkɑːrpɪt",
+    "pos": "n.",
+    "zh": "地毯",
+    "ex": "They laid a soft carpet in the living room.",
+    "exzh": "他们在客厅铺了一块柔软的地毯。"
+  },
+  {
+    "w": "carriage",
+    "ph": "ˈkærɪdʒ",
+    "pos": "n.",
+    "zh": "马车；车厢",
+    "ex": "The train carriage was packed with tired commuters.",
+    "exzh": "火车车厢里挤满了疲惫的通勤者。"
+  },
+  {
+    "w": "carrier",
+    "ph": "ˈkæriər",
+    "pos": "n.",
+    "zh": "运输工具；承运人；携带者",
+    "ex": "The airline is the largest carrier in the region.",
+    "exzh": "这家航空公司是该地区最大的承运人。"
+  },
+  {
+    "w": "carrot",
+    "ph": "ˈkærət",
+    "pos": "n.",
+    "zh": "胡萝卜",
+    "ex": "She cut a carrot into small pieces for the soup.",
+    "exzh": "她把一根胡萝卜切成小块放进汤里。"
+  },
+  {
+    "w": "cart",
+    "ph": "kɑːrt",
+    "pos": "n./v.",
+    "zh": "手推车；用车装运",
+    "ex": "He pushed a heavy cart through the crowded market.",
+    "exzh": "他推着一辆沉重的车穿过拥挤的市场。"
+  },
+  {
+    "w": "cartoon",
+    "ph": "kɑːrˈtuːn",
+    "pos": "n.",
+    "zh": "卡通片；漫画",
+    "ex": "Children love the cartoon about a clever little mouse.",
+    "exzh": "孩子们喜欢那部关于一只聪明小老鼠的卡通片。"
+  },
+  {
+    "w": "carve",
+    "ph": "kɑːrv",
+    "pos": "v.",
+    "zh": "雕刻；切开",
+    "ex": "The artist can carve animals out of a single piece of wood.",
+    "exzh": "这位艺术家能用一块木头雕出动物。"
+  },
+  {
+    "w": "case",
+    "ph": "keɪs",
+    "pos": "n.",
+    "zh": "情况；案例；箱子",
+    "ex": "In that case we should leave the meeting earlier.",
+    "exzh": "那样的话我们应该早点离开会议。"
+  },
+  {
+    "w": "cash",
+    "ph": "kæʃ",
+    "pos": "n./v.",
+    "zh": "现金；兑现",
+    "ex": "I paid in cash because the shop had no machine.",
+    "exzh": "我付了现金，因为那家店没有刷卡机。"
+  },
+  {
+    "w": "cast",
+    "ph": "kæst",
+    "pos": "v./n.",
+    "zh": "投掷；扮演；演员阵容",
+    "ex": "The tall tree cast a long shadow across the road.",
+    "exzh": "那棵高树在马路上投下一道长长的影子。"
+  },
+  {
+    "w": "castle",
+    "ph": "ˈkæsl",
+    "pos": "n.",
+    "zh": "城堡",
+    "ex": "The ancient castle stands on top of a green hill.",
+    "exzh": "那座古堡坐落在绿色山丘的顶上。"
+  },
+  {
+    "w": "casual",
+    "ph": "ˈkæʒuəl",
+    "pos": "adj.",
+    "zh": "随意的；偶然的；非正式的",
+    "ex": "He wore casual clothes to the informal dinner party.",
+    "exzh": "他穿着休闲装去参加那个非正式的晚宴。"
+  },
+  {
+    "w": "casualty",
+    "ph": "ˈkæʒuəlti",
+    "pos": "n.",
+    "zh": "伤亡人员；受害者",
+    "ex": "The accident caused one casualty and several minor injuries.",
+    "exzh": "这起事故造成一人死亡，另有几人轻伤。"
+  },
+  {
+    "w": "catalogue",
+    "ph": "ˈkætəlɔːɡ",
+    "pos": "n./v.",
+    "zh": "目录；编入目录",
+    "ex": "She found the book in the library catalogue by title.",
+    "exzh": "她按书名在图书馆目录中找到了这本书。"
+  },
+  {
+    "w": "catastrophe",
+    "ph": "kəˈtæstrəfi",
+    "pos": "n.",
+    "zh": "灾难；大祸",
+    "ex": "The flood was a catastrophe for the small farming community.",
+    "exzh": "这场洪水对这个农业小社区来说是一场灾难。"
+  },
+  {
+    "w": "cathedral",
+    "ph": "kəˈθiːdrəl",
+    "pos": "n.",
+    "zh": "大教堂",
+    "ex": "Tourists queue every morning to enter the ancient cathedral.",
+    "exzh": "游客每天早上排队进入这座古老的大教堂。"
+  },
+  {
+    "w": "cattle",
+    "ph": "ˈkætl",
+    "pos": "n.",
+    "zh": "牛；牲畜",
+    "ex": "The farmer keeps cattle on the land behind the barn.",
+    "exzh": "农民在谷仓后面的地上养牛。"
+  },
+  {
+    "w": "cause",
+    "ph": "kɔːz",
+    "pos": "n./v.",
+    "zh": "原因；事业；引起",
+    "ex": "Heavy rain may cause serious floods in low areas.",
+    "exzh": "大雨可能会在低洼地区造成严重洪水。"
+  },
+  {
+    "w": "caution",
+    "ph": "ˈkɔːʃn",
+    "pos": "n./v.",
+    "zh": "谨慎；警告",
+    "ex": "Drive with caution while the roads are still wet.",
+    "exzh": "路面还湿的时候开车要谨慎。"
+  },
+  {
+    "w": "cautious",
+    "ph": "ˈkɔːʃəs",
+    "pos": "adj.",
+    "zh": "谨慎的；小心的",
+    "ex": "The doctor was cautious about promising a complete recovery.",
+    "exzh": "医生对承诺完全康复持谨慎态度。"
+  },
+  {
+    "w": "cave",
+    "ph": "keɪv",
+    "pos": "n.",
+    "zh": "洞穴",
+    "ex": "The explorers found ancient drawings inside the dark cave.",
+    "exzh": "探险者在黑暗的洞穴里发现了古代壁画。"
+  },
+  {
+    "w": "ceiling",
+    "ph": "ˈsiːlɪŋ",
+    "pos": "n.",
+    "zh": "天花板；上限",
+    "ex": "A bright lamp hangs from the ceiling above the table.",
+    "exzh": "一盏明亮的灯吊在桌子上方的天花板上。"
+  },
+  {
+    "w": "celebration",
+    "ph": "ˌselɪˈbreɪʃn",
+    "pos": "n.",
+    "zh": "庆祝；庆典",
+    "ex": "The whole village joined the celebration after the harvest.",
+    "exzh": "丰收之后全村人都参加了庆祝活动。"
+  },
+  {
+    "w": "celebrity",
+    "ph": "səˈlebrəti",
+    "pos": "n.",
+    "zh": "名人；名声",
+    "ex": "A famous celebrity opened the new shopping centre yesterday.",
+    "exzh": "一位名人昨天为新购物中心剪彩。"
+  },
+  {
+    "w": "cell",
+    "ph": "sel",
+    "pos": "n.",
+    "zh": "细胞；电池；小房间",
+    "ex": "The scientist studied a single cell under the microscope.",
+    "exzh": "科学家在显微镜下研究了一个细胞。"
+  },
+  {
+    "w": "cement",
+    "ph": "sɪˈment",
+    "pos": "n./v.",
+    "zh": "水泥；巩固",
+    "ex": "Workers mixed cement and sand to build the wall.",
+    "exzh": "工人们把水泥和沙子混合起来砌墙。"
+  },
+  {
+    "w": "cemetery",
+    "ph": "ˈseməteri",
+    "pos": "n.",
+    "zh": "墓地；公墓",
+    "ex": "The old cemetery lies behind the church on the hill.",
+    "exzh": "那座老公墓位于山上教堂的后面。"
+  },
+  {
+    "w": "central",
+    "ph": "ˈsentrəl",
+    "pos": "adj.",
+    "zh": "中心的；主要的",
+    "ex": "The hotel is central, so we can walk everywhere.",
+    "exzh": "这家旅馆位于市中心，所以我们去哪儿都能步行。"
+  },
+  {
+    "w": "century",
+    "ph": "ˈsentʃəri",
+    "pos": "n.",
+    "zh": "世纪；百年",
+    "ex": "This church was built in the sixteenth century.",
+    "exzh": "这座教堂建于十六世纪。"
+  },
+  {
+    "w": "cereal",
+    "ph": "ˈsɪriəl",
+    "pos": "n.",
+    "zh": "谷物；麦片",
+    "ex": "He eats a bowl of cereal before leaving for work.",
+    "exzh": "他上班前吃了一碗麦片。"
+  },
+  {
+    "w": "ceremony",
+    "ph": "ˈserəmoʊni",
+    "pos": "n.",
+    "zh": "典礼；仪式",
+    "ex": "The wedding ceremony took place in a small garden.",
+    "exzh": "婚礼仪式在一个小花园里举行。"
+  },
+  {
+    "w": "certain",
+    "ph": "ˈsɜːrtn",
+    "pos": "adj.",
+    "zh": "确定的；某些",
+    "ex": "I am certain that the answer is correct this time.",
+    "exzh": "我确定这次答案是正确的。"
+  },
+  {
+    "w": "certificate",
+    "ph": "sərˈtɪfɪkət",
+    "pos": "n.",
+    "zh": "证书；证明",
+    "ex": "She received a certificate after completing the training course.",
+    "exzh": "她完成培训课程后拿到了一张证书。"
+  },
+  {
+    "w": "certify",
+    "ph": "ˈsɜːrtɪfaɪ",
+    "pos": "v.",
+    "zh": "证明；颁发证书",
+    "ex": "The doctor must certify that the patient is fit to work.",
+    "exzh": "医生必须证明这位病人适合工作。"
+  },
+  {
+    "w": "chairman",
+    "ph": "ˈtʃermən",
+    "pos": "n.",
+    "zh": "主席；董事长",
+    "ex": "The chairman opened the meeting with a short speech.",
+    "exzh": "主席用一段简短的讲话宣布会议开始。"
+  },
+  {
+    "w": "chalk",
+    "ph": "tʃɔːk",
+    "pos": "n.",
+    "zh": "粉笔",
+    "ex": "The teacher wrote the new words on the board with chalk.",
+    "exzh": "老师用粉笔把生词写在黑板上。"
+  },
+  {
+    "w": "chamber",
+    "ph": "ˈtʃeɪmbər",
+    "pos": "n.",
+    "zh": "房间；议院；腔",
+    "ex": "The members gathered in the main chamber of the building.",
+    "exzh": "成员们聚集在大楼的主厅里。"
+  },
+  {
+    "w": "champion",
+    "ph": "ˈtʃæmpiən",
+    "pos": "n.",
+    "zh": "冠军；拥护者",
+    "ex": "She became the national champion at the age of nineteen.",
+    "exzh": "她十九岁时成为全国冠军。"
+  },
+  {
+    "w": "championship",
+    "ph": "ˈtʃæmpiənʃɪp",
+    "pos": "n.",
+    "zh": "锦标赛；冠军称号",
+    "ex": "Our team won the championship for the second year running.",
+    "exzh": "我们队连续第二年赢得冠军。"
+  },
+  {
+    "w": "chaos",
+    "ph": "ˈkeɪɑːs",
+    "pos": "n.",
+    "zh": "混乱",
+    "ex": "The heavy snow caused chaos at the airport yesterday.",
+    "exzh": "昨天的大雪在机场造成了混乱。"
+  },
+  {
+    "w": "chapter",
+    "ph": "ˈtʃæptər",
+    "pos": "n.",
+    "zh": "章节",
+    "ex": "Read the first chapter before Friday's discussion group.",
+    "exzh": "在周五的讨论课之前读完第一章。"
+  },
+  {
+    "w": "characteristic",
+    "ph": "ˌkærəktəˈrɪstɪk",
+    "pos": "n./adj.",
+    "zh": "特征；典型的",
+    "ex": "Patience is a characteristic of every good language teacher.",
+    "exzh": "耐心是每一位优秀语言教师的特点。"
+  },
+  {
+    "w": "characterize",
+    "ph": "ˈkærəktəraɪz",
+    "pos": "v.",
+    "zh": "描述特性；以…为特征",
+    "ex": "Long summers and mild winters characterize this part of the country.",
+    "exzh": "长夏暖冬是这个地区的特点。"
+  },
+  {
+    "w": "charity",
+    "ph": "ˈtʃerəti",
+    "pos": "n.",
+    "zh": "慈善；慈善机构",
+    "ex": "They gave the money to a local charity for children.",
+    "exzh": "他们把钱捐给了当地一家儿童慈善机构。"
+  },
+  {
+    "w": "charm",
+    "ph": "tʃɑːrm",
+    "pos": "n./v.",
+    "zh": "魅力；使着迷",
+    "ex": "The small town has a charm that visitors remember.",
+    "exzh": "这座小镇有一种让游客难忘的魅力。"
+  },
+  {
+    "w": "chart",
+    "ph": "tʃɑːrt",
+    "pos": "n./v.",
+    "zh": "图表；绘制",
+    "ex": "The chart shows how prices changed over five years.",
+    "exzh": "这张图表显示了五年间价格的变化。"
+  },
+  {
+    "w": "charter",
+    "ph": "ˈtʃɑːrtər",
+    "pos": "n./v.",
+    "zh": "宪章；包租",
+    "ex": "The school chartered a bus for the science trip.",
+    "exzh": "学校为这次科学考察包租了一辆大巴。"
+  },
+  {
+    "w": "chase",
+    "ph": "tʃeɪs",
+    "pos": "v./n.",
+    "zh": "追赶；追逐",
+    "ex": "The dog ran across the field to chase the ball.",
+    "exzh": "狗跑过田野去追球。"
+  },
+  {
+    "w": "cheat",
+    "ph": "tʃiːt",
+    "pos": "v./n.",
+    "zh": "欺骗；作弊",
+    "ex": "Students who cheat in exams face serious punishment.",
+    "exzh": "考试作弊的学生会面临严厉的处罚。"
+  },
+  {
+    "w": "check",
+    "ph": "tʃek",
+    "pos": "n./v.",
+    "zh": "检查；核对",
+    "ex": "Please check your answers before handing in the paper.",
+    "exzh": "交卷前请检查你的答案。"
+  },
+  {
+    "w": "cheek",
+    "ph": "tʃiːk",
+    "pos": "n.",
+    "zh": "脸颊",
+    "ex": "Tears ran down her cheek as she read the letter.",
+    "exzh": "她读信时眼泪顺着脸颊流下来。"
+  },
+  {
+    "w": "cheer",
+    "ph": "tʃɪr",
+    "pos": "v./n.",
+    "zh": "欢呼；使高兴",
+    "ex": "The crowd began to cheer when the singer appeared.",
+    "exzh": "歌手出现时人群开始欢呼。"
+  },
+  {
+    "w": "cheerful",
+    "ph": "ˈtʃɪrfl",
+    "pos": "adj.",
+    "zh": "快乐的；愉快的",
+    "ex": "She is always cheerful, even on cold rainy mornings.",
+    "exzh": "即使在寒冷的雨天早晨，她也总是快快乐乐的。"
+  },
+  {
+    "w": "chemist",
+    "ph": "ˈkemɪst",
+    "pos": "n.",
+    "zh": "化学家；药剂师",
+    "ex": "The chemist explained how the two liquids react together.",
+    "exzh": "化学家解释了这两种液体如何反应。"
+  },
+  {
+    "w": "chemistry",
+    "ph": "ˈkemɪstri",
+    "pos": "n.",
+    "zh": "化学",
+    "ex": "He studied chemistry and biology at the same university.",
+    "exzh": "他在同一所大学学习化学和生物。"
+  },
+  {
+    "w": "cherish",
+    "ph": "ˈtʃerɪʃ",
+    "pos": "v.",
+    "zh": "珍惜；怀有",
+    "ex": "I will always cherish the memories of that summer.",
+    "exzh": "我会永远珍惜那个夏天的回忆。"
+  },
+  {
+    "w": "cherry",
+    "ph": "ˈtʃeri",
+    "pos": "n.",
+    "zh": "樱桃",
+    "ex": "Each cherry on the tree was small and bright red.",
+    "exzh": "树上的每颗樱桃都很小，而且鲜红。"
+  },
+  {
+    "w": "chess",
+    "ph": "tʃes",
+    "pos": "n.",
+    "zh": "国际象棋",
+    "ex": "My grandfather taught me to play chess when I was eight.",
+    "exzh": "我八岁时祖父教我下国际象棋。"
+  },
+  {
+    "w": "chest",
+    "ph": "tʃest",
+    "pos": "n.",
+    "zh": "胸部；箱子",
+    "ex": "He felt a sharp pain in his chest while running.",
+    "exzh": "他跑步时感到胸口一阵剧痛。"
+  },
+  {
+    "w": "chew",
+    "ph": "tʃuː",
+    "pos": "v.",
+    "zh": "咀嚼",
+    "ex": "You should chew your food slowly and carefully.",
+    "exzh": "你应该慢慢仔细地咀嚼食物。"
+  },
+  {
+    "w": "chief",
+    "ph": "tʃiːf",
+    "pos": "adj./n.",
+    "zh": "主要的；首领",
+    "ex": "Our chief concern is the safety of the passengers.",
+    "exzh": "我们最关心的是乘客的安全。"
+  },
+  {
+    "w": "childhood",
+    "ph": "ˈtʃaɪldhʊd",
+    "pos": "n.",
+    "zh": "童年",
+    "ex": "She spent most of her childhood in a quiet village.",
+    "exzh": "她的童年大部分是在一个安静的村庄度过的。"
+  },
+  {
+    "w": "chill",
+    "ph": "tʃɪl",
+    "pos": "n./v.",
+    "zh": "寒意；使变冷",
+    "ex": "There was a chill in the air after sunset.",
+    "exzh": "日落之后空气中有了一股寒意。"
+  },
+  {
+    "w": "chimney",
+    "ph": "ˈtʃɪmni",
+    "pos": "n.",
+    "zh": "烟囱",
+    "ex": "Smoke rose slowly from the chimney of the old house.",
+    "exzh": "烟从老房子的烟囱里缓缓升起。"
+  },
+  {
+    "w": "chin",
+    "ph": "tʃɪn",
+    "pos": "n.",
+    "zh": "下巴",
+    "ex": "He rested his chin on his hand and listened.",
+    "exzh": "他用手托着下巴听着。"
+  },
+  {
+    "w": "chip",
+    "ph": "tʃɪp",
+    "pos": "n.",
+    "zh": "芯片；碎片",
+    "ex": "A tiny chip controls almost every function of the phone.",
+    "exzh": "一块小小的芯片控制着手机的几乎全部功能。"
+  },
+  {
+    "w": "choice",
+    "ph": "tʃɔɪs",
+    "pos": "n.",
+    "zh": "选择；选择权",
+    "ex": "You have a choice between the two evening classes.",
+    "exzh": "你可以在两个晚班之间做选择。"
+  },
+  {
+    "w": "chorus",
+    "ph": "ˈkɔːrəs",
+    "pos": "n.",
+    "zh": "合唱队；副歌",
+    "ex": "The chorus sang the final line together with great energy.",
+    "exzh": "合唱队充满力量地一起唱出最后一句。"
+  },
+  {
+    "w": "church",
+    "ph": "tʃɜːrtʃ",
+    "pos": "n.",
+    "zh": "教堂；教会",
+    "ex": "The old church has stood here for three hundred years.",
+    "exzh": "这座古老的教堂在这里矗立了三百年。"
+  },
+  {
+    "w": "cigarette",
+    "ph": "ˌsɪɡəˈret",
+    "pos": "n.",
+    "zh": "香烟",
+    "ex": "He put out the cigarette and opened the window.",
+    "exzh": "他掐灭香烟，打开了窗户。"
+  },
+  {
+    "w": "cinema",
+    "ph": "ˈsɪnəmə",
+    "pos": "n.",
+    "zh": "电影院；电影",
+    "ex": "We went to the cinema to see a new French film.",
+    "exzh": "我们去电影院看了一部新的法国电影。"
+  },
+  {
+    "w": "circle",
+    "ph": "ˈsɜːrkl",
+    "pos": "n./v.",
+    "zh": "圆圈；环绕",
+    "ex": "The children sat in a circle and sang together.",
+    "exzh": "孩子们围坐成一圈一起唱歌。"
+  },
+  {
+    "w": "circuit",
+    "ph": "ˈsɜːrkɪt",
+    "pos": "n.",
+    "zh": "电路；巡回",
+    "ex": "A broken wire interrupted the circuit and stopped the machine.",
+    "exzh": "一根断线切断了电路，使机器停了下来。"
+  },
+  {
+    "w": "circular",
+    "ph": "ˈsɜːrkjələr",
+    "pos": "adj.",
+    "zh": "圆形的；循环的",
+    "ex": "The table has a circular top made of dark wood.",
+    "exzh": "这张桌子有一个深色木制的圆形桌面。"
+  },
+  {
+    "w": "circulation",
+    "ph": "ˌsɜːrkjəˈleɪʃn",
+    "pos": "n.",
+    "zh": "循环；发行量",
+    "ex": "Regular exercise improves the circulation of blood in your body.",
+    "exzh": "经常锻炼能改善体内血液循环。"
+  },
+  {
+    "w": "citizen",
+    "ph": "ˈsɪtɪzn",
+    "pos": "n.",
+    "zh": "公民；市民",
+    "ex": "Every citizen has the right to vote in elections.",
+    "exzh": "每个公民都有在选举中投票的权利。"
+  },
+  {
+    "w": "civic",
+    "ph": "ˈsɪvɪk",
+    "pos": "adj.",
+    "zh": "公民的；市政的",
+    "ex": "Voting is a basic civic duty in a democracy.",
+    "exzh": "在民主国家，投票是一项基本的公民义务。"
+  },
+  {
+    "w": "civilian",
+    "ph": "səˈvɪliən",
+    "pos": "n./adj.",
+    "zh": "平民；民用的",
+    "ex": "The army promised to protect civilians during the operation.",
+    "exzh": "军方承诺在行动中保护平民。"
+  },
+  {
+    "w": "clap",
+    "ph": "klæp",
+    "pos": "v./n.",
+    "zh": "拍手；鼓掌",
+    "ex": "The audience began to clap loudly after the final song.",
+    "exzh": "最后一首歌结束后观众开始大声鼓掌。"
+  },
+  {
+    "w": "clarity",
+    "ph": "ˈklærəti",
+    "pos": "n.",
+    "zh": "清晰；明确",
+    "ex": "The teacher explained the rule with great clarity.",
+    "exzh": "老师非常清晰地解释了这个规则。"
+  },
+  {
+    "w": "clash",
+    "ph": "klæʃ",
+    "pos": "n./v.",
+    "zh": "冲突；抵触",
+    "ex": "The two groups clashed outside the stadium after the match.",
+    "exzh": "比赛结束后两个团体在体育场外发生了冲突。"
+  },
+  {
+    "w": "class",
+    "ph": "klæs",
+    "pos": "n.",
+    "zh": "班级；课；阶级",
+    "ex": "Our class meets in this room every Monday morning.",
+    "exzh": "我们班每周一上午在这个房间上课。"
+  },
+  {
+    "w": "classic",
+    "ph": "ˈklæsɪk",
+    "pos": "adj./n.",
+    "zh": "经典的；名著",
+    "ex": "The novel is a classic example of early detective fiction.",
+    "exzh": "这部小说是早期侦探小说的经典例子。"
+  },
+  {
+    "w": "classical",
+    "ph": "ˈklæsɪkl",
+    "pos": "adj.",
+    "zh": "古典的",
+    "ex": "She prefers classical music to modern pop songs.",
+    "exzh": "比起现代流行歌曲，她更喜欢古典音乐。"
+  },
+  {
+    "w": "classification",
+    "ph": "ˌklæsɪfɪˈkeɪʃn",
+    "pos": "n.",
+    "zh": "分类；类别",
+    "ex": "The classification of these plants took the team years.",
+    "exzh": "对这些植物进行分类花了团队数年时间。"
+  },
+  {
+    "w": "classmate",
+    "ph": "ˈklæsmeɪt",
+    "pos": "n.",
+    "zh": "同学",
+    "ex": "My old classmate called me after ten years.",
+    "exzh": "我的一位老同学十年后给我打了电话。"
+  },
+  {
+    "w": "classroom",
+    "ph": "ˈklæsruːm",
+    "pos": "n.",
+    "zh": "教室",
+    "ex": "The classroom is bright because it faces the south.",
+    "exzh": "这间教室朝南，所以很明亮。"
+  },
+  {
+    "w": "clause",
+    "ph": "klɔːz",
+    "pos": "n.",
+    "zh": "条款；从句",
+    "ex": "Study the third clause of the agreement very carefully.",
+    "exzh": "仔细研究协议的第三条。"
+  },
+  {
+    "w": "claw",
+    "ph": "klɔː",
+    "pos": "n.",
+    "zh": "爪；钳",
+    "ex": "The cat caught the rope with one sharp claw.",
+    "exzh": "猫用一只尖利的爪子抓住了绳子。"
+  },
+  {
+    "w": "clay",
+    "ph": "kleɪ",
+    "pos": "n.",
+    "zh": "黏土",
+    "ex": "Children shaped wet clay into small bowls and cups.",
+    "exzh": "孩子们把湿黏土捏成小碗和小杯子。"
+  },
+  {
+    "w": "clerk",
+    "ph": "klɜːrk",
+    "pos": "n.",
+    "zh": "职员；店员",
+    "ex": "The clerk checked our tickets before we entered.",
+    "exzh": "我们进去之前，职员检查了我们的票。"
+  },
+  {
+    "w": "clever",
+    "ph": "ˈklevər",
+    "pos": "adj.",
+    "zh": "聪明的",
+    "ex": "That was a clever way to solve the problem.",
+    "exzh": "那是解决这个问题的一个聪明办法。"
+  },
+  {
+    "w": "click",
+    "ph": "klɪk",
+    "pos": "n./v.",
+    "zh": "点击；发出咔嗒声",
+    "ex": "Click the button twice to open the settings menu.",
+    "exzh": "点击按钮两次打开设置菜单。"
+  },
+  {
+    "w": "client",
+    "ph": "ˈklaɪənt",
+    "pos": "n.",
+    "zh": "客户；委托人",
+    "ex": "The designer showed her client three different logos.",
+    "exzh": "设计师给客户看了三个不同的标识。"
+  },
+  {
+    "w": "cliff",
+    "ph": "klɪf",
+    "pos": "n.",
+    "zh": "悬崖",
+    "ex": "They walked carefully along the edge of the cliff.",
+    "exzh": "他们沿着悬崖边小心地走着。"
+  },
+  {
+    "w": "climax",
+    "ph": "ˈklaɪmæks",
+    "pos": "n.",
+    "zh": "高潮；顶点",
+    "ex": "The story reaches its climax in the final chapter.",
+    "exzh": "故事在最后一章达到高潮。"
+  },
+  {
+    "w": "cling",
+    "ph": "klɪŋ",
+    "pos": "v.",
+    "zh": "紧抓；依附",
+    "ex": "The child clung to her mother's hand in the crowd.",
+    "exzh": "在人群中孩子紧紧抓着母亲的手。"
+  },
+  {
+    "w": "clinic",
+    "ph": "ˈklɪnɪk",
+    "pos": "n.",
+    "zh": "诊所",
+    "ex": "The clinic opens at eight and closes at six.",
+    "exzh": "这家诊所八点开门，六点关门。"
+  },
+  {
+    "w": "clip",
+    "ph": "klɪp",
+    "pos": "n./v.",
+    "zh": "夹子；修剪",
+    "ex": "Please clip these pages together before you file them.",
+    "exzh": "归档前请把这些页夹在一起。"
+  },
+  {
+    "w": "clock",
+    "ph": "klɑːk",
+    "pos": "n.",
+    "zh": "钟",
+    "ex": "The clock on the wall is five minutes slow.",
+    "exzh": "墙上的钟慢了五分钟。"
+  },
+  {
+    "w": "clone",
+    "ph": "kloʊn",
+    "pos": "n./v.",
+    "zh": "克隆；复制品",
+    "ex": "Scientists managed to clone a sheep from a single cell.",
+    "exzh": "科学家成功用一个细胞克隆了一只羊。"
+  },
+  {
+    "w": "closure",
+    "ph": "ˈkloʊʒər",
+    "pos": "n.",
+    "zh": "关闭；结束",
+    "ex": "The closure of the factory left many people without work.",
+    "exzh": "工厂的关闭使许多人失去了工作。"
+  },
+  {
+    "w": "cloth",
+    "ph": "klɔːθ",
+    "pos": "n.",
+    "zh": "布；织物",
+    "ex": "She wiped the table with a clean cloth.",
+    "exzh": "她用一块干净的布擦桌子。"
+  },
+  {
+    "w": "clothing",
+    "ph": "ˈkloʊðɪŋ",
+    "pos": "n.",
+    "zh": "衣服；服装",
+    "ex": "Warm clothing is necessary during the winter months.",
+    "exzh": "冬季几个月里保暖的衣物是必需的。"
+  },
+  {
+    "w": "cloudy",
+    "ph": "ˈklaʊdi",
+    "pos": "adj.",
+    "zh": "多云的",
+    "ex": "It was cloudy all morning, but no rain came.",
+    "exzh": "整个上午都是阴天，但没有下雨。"
+  },
+  {
+    "w": "club",
+    "ph": "klʌb",
+    "pos": "n.",
+    "zh": "俱乐部；棍棒",
+    "ex": "He joined the photography club at the start of term.",
+    "exzh": "学期开始时他加入了摄影俱乐部。"
+  },
+  {
+    "w": "clue",
+    "ph": "kluː",
+    "pos": "n.",
+    "zh": "线索；提示",
+    "ex": "The police found an important clue near the door.",
+    "exzh": "警方在门附近发现了一条重要线索。"
+  },
+  {
+    "w": "cluster",
+    "ph": "ˈklʌstər",
+    "pos": "n./v.",
+    "zh": "群；簇；聚集",
+    "ex": "A cluster of small houses stands near the river.",
+    "exzh": "河边有一片小房子。"
+  },
+  {
+    "w": "coach",
+    "ph": "koʊtʃ",
+    "pos": "n./v.",
+    "zh": "教练；指导；长途汽车",
+    "ex": "Our coach told us to rest before the big match.",
+    "exzh": "教练让我们在大赛前好好休息。"
+  },
+  {
+    "w": "coal",
+    "ph": "koʊl",
+    "pos": "n.",
+    "zh": "煤",
+    "ex": "This region once produced coal for the whole country.",
+    "exzh": "这个地区曾为全国生产煤炭。"
+  },
+  {
+    "w": "coarse",
+    "ph": "kɔːrs",
+    "pos": "adj.",
+    "zh": "粗糙的；粗俗的",
+    "ex": "The coarse cloth felt rough against my skin.",
+    "exzh": "这块粗布蹭在皮肤上感觉很粗糙。"
+  },
+  {
+    "w": "coastal",
+    "ph": "ˈkoʊstl",
+    "pos": "adj.",
+    "zh": "沿海的",
+    "ex": "The coastal town attracts many visitors in summer.",
+    "exzh": "这座海滨小镇夏天吸引许多游客。"
+  },
+  {
+    "w": "coat",
+    "ph": "koʊt",
+    "pos": "n./v.",
+    "zh": "外套；覆盖",
+    "ex": "Take a warm coat with you, the evening will be cold.",
+    "exzh": "带件暖和的外套，晚上会冷。"
+  },
+  {
+    "w": "code",
+    "ph": "koʊd",
+    "pos": "n./v.",
+    "zh": "密码；代码；编码",
+    "ex": "He spent the night writing code for the new website.",
+    "exzh": "他花了一整夜为新网站写代码。"
+  },
+  {
+    "w": "coin",
+    "ph": "kɔɪn",
+    "pos": "n.",
+    "zh": "硬币",
+    "ex": "She found an old coin under the kitchen floor.",
+    "exzh": "她在厨房地板下发现了一枚旧硬币。"
+  },
+  {
+    "w": "coincidence",
+    "ph": "koʊˈɪnsɪdəns",
+    "pos": "n.",
+    "zh": "巧合",
+    "ex": "It was a coincidence that we took the same train.",
+    "exzh": "我们坐了同一趟火车，这真是巧合。"
+  },
+  {
+    "w": "collar",
+    "ph": "ˈkɑːlər",
+    "pos": "n.",
+    "zh": "衣领",
+    "ex": "He turned up the collar of his jacket against the wind.",
+    "exzh": "他竖起夹克的衣领挡风。"
+  },
+  {
+    "w": "colleague",
+    "ph": "ˈkɑːliːɡ",
+    "pos": "n.",
+    "zh": "同事",
+    "ex": "My colleague helped me finish the report on time.",
+    "exzh": "我的同事帮我按时完成了报告。"
+  },
+  {
+    "w": "collect",
+    "ph": "kəˈlekt",
+    "pos": "v.",
+    "zh": "收集；领取",
+    "ex": "They collect old books and give them to schools.",
+    "exzh": "他们收集旧书并送给学校。"
+  },
+  {
+    "w": "collection",
+    "ph": "kəˈlekʃn",
+    "pos": "n.",
+    "zh": "收藏；收集",
+    "ex": "Her collection of stamps includes some rare foreign ones.",
+    "exzh": "她的邮票收藏中有一些稀有的外国邮票。"
+  },
+  {
+    "w": "collective",
+    "ph": "kəˈlektɪv",
+    "pos": "adj./n.",
+    "zh": "集体的；集体",
+    "ex": "The decision was a collective one, not mine alone.",
+    "exzh": "这是集体的决定，不是我一个人的。"
+  },
+  {
+    "w": "college",
+    "ph": "ˈkɑːlɪdʒ",
+    "pos": "n.",
+    "zh": "大学；学院",
+    "ex": "He left college early to work in a bank.",
+    "exzh": "他提前离开大学去银行工作。"
+  },
+  {
+    "w": "collide",
+    "ph": "kəˈlaɪd",
+    "pos": "v.",
+    "zh": "碰撞；冲突",
+    "ex": "Two buses collided on the bridge during the morning rush.",
+    "exzh": "早晨高峰时段两辆公交车在桥上相撞。"
+  },
+  {
+    "w": "collision",
+    "ph": "kəˈlɪʒn",
+    "pos": "n.",
+    "zh": "碰撞；冲突",
+    "ex": "The collision damaged both cars but nobody was hurt.",
+    "exzh": "碰撞损坏了两辆车，但没有人受伤。"
+  },
+  {
+    "w": "colonial",
+    "ph": "kəˈloʊniəl",
+    "pos": "adj.",
+    "zh": "殖民的；殖民地的",
+    "ex": "The museum displays furniture from the colonial period.",
+    "exzh": "博物馆展出殖民时期的家具。"
+  },
+  {
+    "w": "color",
+    "ph": "ˈkʌlər",
+    "pos": "n./v.",
+    "zh": "颜色；着色",
+    "ex": "The children used bright paint to color the walls.",
+    "exzh": "孩子们用鲜艳的颜料给墙着色。"
+  },
+  {
+    "w": "column",
+    "ph": "ˈkɑːləm",
+    "pos": "n.",
+    "zh": "圆柱；专栏",
+    "ex": "The temple is supported by six stone columns.",
+    "exzh": "这座神庙由六根石柱支撑。"
+  },
+  {
+    "w": "combat",
+    "ph": "ˈkɑːmbæt",
+    "pos": "n./v.",
+    "zh": "战斗；与…斗争",
+    "ex": "New laws aim to combat the illegal trade in wildlife.",
+    "exzh": "新法律旨在打击野生动植物的非法贸易。"
+  },
+  {
+    "w": "combination",
+    "ph": "ˌkɑːmbɪˈneɪʃn",
+    "pos": "n.",
+    "zh": "结合；组合",
+    "ex": "Success comes from a combination of work and luck.",
+    "exzh": "成功来自努力和运气的结合。"
+  },
+  {
+    "w": "comedy",
+    "ph": "ˈkɑːmədi",
+    "pos": "n.",
+    "zh": "喜剧",
+    "ex": "The film is a comedy about two unhappy neighbors.",
+    "exzh": "这部电影是一部关于两个不快乐邻居的喜剧。"
+  },
+  {
+    "w": "comfort",
+    "ph": "ˈkʌmfərt",
+    "pos": "n./v.",
+    "zh": "舒适；安慰",
+    "ex": "A kind word can bring great comfort to someone.",
+    "exzh": "一句善意的话能给人带来很大的安慰。"
+  },
+  {
+    "w": "comfortable",
+    "ph": "ˈkʌmftəbl",
+    "pos": "adj.",
+    "zh": "舒适的",
+    "ex": "This chair is more comfortable than the one downstairs.",
+    "exzh": "这把椅子比楼下那把更舒服。"
+  },
+  {
+    "w": "comic",
+    "ph": "ˈkɑːmɪk",
+    "pos": "adj./n.",
+    "zh": "滑稽的；连环画",
+    "ex": "He reads a comic on the bus every morning.",
+    "exzh": "他每天早上在公交车上读一本漫画。"
+  },
+  {
+    "w": "command",
+    "ph": "kəˈmænd",
+    "pos": "n./v.",
+    "zh": "命令；指挥",
+    "ex": "The officer gave the command and the soldiers stopped.",
+    "exzh": "军官下达命令，士兵们停了下来。"
+  },
+  {
+    "w": "comment",
+    "ph": "ˈkɑːment",
+    "pos": "n./v.",
+    "zh": "评论；发表意见",
+    "ex": "She refused to comment on the result of the vote.",
+    "exzh": "她拒绝对投票结果发表评论。"
+  },
+  {
+    "w": "commentary",
+    "ph": "ˈkɑːmənteri",
+    "pos": "n.",
+    "zh": "评论；解说",
+    "ex": "His commentary on the match was lively and accurate.",
+    "exzh": "他对这场比赛的解说生动而准确。"
+  },
+  {
+    "w": "commerce",
+    "ph": "ˈkɑːmɜːrs",
+    "pos": "n.",
+    "zh": "商业；贸易",
+    "ex": "The city grew rich through trade and commerce.",
+    "exzh": "这座城市通过贸易和商业变得富裕。"
+  },
+  {
+    "w": "commission",
+    "ph": "kəˈmɪʃn",
+    "pos": "n.",
+    "zh": "委员会；佣金；委托",
+    "ex": "The commission will report its findings next month.",
+    "exzh": "委员会将于下个月报告调查结果。"
+  },
+  {
+    "w": "commitment",
+    "ph": "kəˈmɪtmənt",
+    "pos": "n.",
+    "zh": "承诺；投入",
+    "ex": "The job demands a serious commitment of time and energy.",
+    "exzh": "这份工作需要投入大量时间和精力。"
+  },
+  {
+    "w": "communication",
+    "ph": "kəˌmjuːnɪˈkeɪʃn",
+    "pos": "n.",
+    "zh": "交流；通信",
+    "ex": "Good communication between teachers and parents helps students.",
+    "exzh": "师生与家长之间的良好沟通对学生有帮助。"
+  },
+  {
+    "w": "commute",
+    "ph": "kəˈmjuːt",
+    "pos": "v.",
+    "zh": "通勤；上下班往返",
+    "ex": "She commutes an hour each way to her office.",
+    "exzh": "她上下班单程要通勤一小时。"
+  },
+  {
+    "w": "compact",
+    "ph": "kəmˈpækt",
+    "pos": "adj.",
+    "zh": "紧凑的；小巧的",
+    "ex": "This compact camera fits easily into a coat pocket.",
+    "exzh": "这款小巧的相机很容易放进大衣口袋。"
+  },
+  {
+    "w": "companion",
+    "ph": "kəmˈpæniən",
+    "pos": "n.",
+    "zh": "同伴；伴侣",
+    "ex": "The old dog was his only companion for years.",
+    "exzh": "那只老狗多年来是他唯一的伙伴。"
+  },
+  {
+    "w": "comparable",
+    "ph": "ˈkɑːmpərəbl",
+    "pos": "adj.",
+    "zh": "可比较的；类似的",
+    "ex": "The two cities have comparable populations and climates.",
+    "exzh": "这两座城市的人口和气候相近。"
+  },
+  {
+    "w": "comparison",
+    "ph": "kəmˈpærɪsn",
+    "pos": "n.",
+    "zh": "比较",
+    "ex": "A comparison of the two plans shows clear differences.",
+    "exzh": "对两个方案进行比较可以看出明显差异。"
+  },
+  {
+    "w": "compass",
+    "ph": "ˈkʌmpəs",
+    "pos": "n.",
+    "zh": "指南针；圆规",
+    "ex": "Without a compass, they could not find the path.",
+    "exzh": "没有指南针，他们找不到那条路。"
+  },
+  {
+    "w": "compassion",
+    "ph": "kəmˈpæʃn",
+    "pos": "n.",
+    "zh": "同情；怜悯",
+    "ex": "She treated the old man with real compassion and respect.",
+    "exzh": "她以真诚的同情和尊重对待那位老人。"
+  },
+  {
+    "w": "compatible",
+    "ph": "kəmˈpætəbl",
+    "pos": "adj.",
+    "zh": "兼容的；相容的",
+    "ex": "This program is not compatible with older computers.",
+    "exzh": "这个程序与旧电脑不兼容。"
+  },
+  {
+    "w": "compel",
+    "ph": "kəmˈpel",
+    "pos": "v.",
+    "zh": "强迫；迫使",
+    "ex": "Bad weather compelled us to cancel the outdoor event.",
+    "exzh": "恶劣天气迫使我们取消了户外活动。"
+  },
+  {
+    "w": "compensation",
+    "ph": "ˌkɑːmpenˈseɪʃn",
+    "pos": "n.",
+    "zh": "补偿；赔偿金",
+    "ex": "The workers received compensation for the lost wages.",
+    "exzh": "工人们获得了损失工资的补偿。"
+  },
+  {
+    "w": "competence",
+    "ph": "ˈkɑːmpɪtəns",
+    "pos": "n.",
+    "zh": "能力；胜任",
+    "ex": "The test measures the competence of future teachers.",
+    "exzh": "这项测试衡量未来教师的能力。"
+  },
+  {
+    "w": "competition",
+    "ph": "ˌkɑːmpəˈtɪʃn",
+    "pos": "n.",
+    "zh": "竞争；比赛",
+    "ex": "The competition for these jobs is extremely strong.",
+    "exzh": "这些职位的竞争极其激烈。"
+  },
+  {
+    "w": "competitive",
+    "ph": "kəmˈpetətɪv",
+    "pos": "adj.",
+    "zh": "竞争的；有竞争力的",
+    "ex": "Their prices are competitive, and the service is good.",
+    "exzh": "他们的价格有竞争力，服务也好。"
+  },
+  {
+    "w": "complaint",
+    "ph": "kəmˈpleɪnt",
+    "pos": "n.",
+    "zh": "抱怨；投诉",
+    "ex": "The manager answered every complaint from the guests calmly.",
+    "exzh": "经理平静地回应了客人的每一个投诉。"
+  },
+  {
+    "w": "complete",
+    "ph": "kəmˈpliːt",
+    "pos": "adj./v.",
+    "zh": "完整的；完成",
+    "ex": "You must complete the form before the office closes.",
+    "exzh": "你必须在办公室关门前填完表格。"
+  },
+  {
+    "w": "complexity",
+    "ph": "kəmˈpleksəti",
+    "pos": "n.",
+    "zh": "复杂性",
+    "ex": "The complexity of the tax system confuses most people.",
+    "exzh": "税制的复杂性让大多数人感到困惑。"
+  },
+  {
+    "w": "complicated",
+    "ph": "ˈkɑːmplɪkeɪtɪd",
+    "pos": "adj.",
+    "zh": "复杂的",
+    "ex": "The rules are too complicated for new members to follow.",
+    "exzh": "这些规则太复杂，新成员难以遵守。"
+  },
+  {
+    "w": "compliment",
+    "ph": "ˈkɑːmplɪmənt",
+    "pos": "n./v.",
+    "zh": "赞美；恭维",
+    "ex": "She took his remark as a compliment, not a joke.",
+    "exzh": "她把他那句话当成赞美，而不是玩笑。"
+  },
+  {
+    "w": "component",
+    "ph": "kəmˈpoʊnənt",
+    "pos": "n.",
+    "zh": "组成部分；部件",
+    "ex": "Each component of the machine is tested before assembly.",
+    "exzh": "机器的每个部件在组装前都要经过测试。"
+  },
+  {
+    "w": "compose",
+    "ph": "kəmˈpoʊz",
+    "pos": "v.",
+    "zh": "组成；创作",
+    "ex": "He began to compose music at the age of ten.",
+    "exzh": "他十岁开始作曲。"
+  },
+  {
+    "w": "composite",
+    "ph": "kəmˈpɑːzɪt",
+    "pos": "adj./n.",
+    "zh": "复合的；合成物",
+    "ex": "The bridge is made of a strong composite material.",
+    "exzh": "这座桥由一种坚固的复合材料制成。"
+  },
+  {
+    "w": "composition",
+    "ph": "ˌkɑːmpəˈzɪʃn",
+    "pos": "n.",
+    "zh": "作文；构图；组成",
+    "ex": "Our teacher asked us to write a composition about travel.",
+    "exzh": "老师让我们写一篇关于旅行的作文。"
+  },
+  {
+    "w": "compound",
+    "ph": "ˈkɑːmpaʊnd",
+    "pos": "n./adj.",
+    "zh": "化合物；复合的",
+    "ex": "Water is a simple compound of hydrogen and oxygen.",
+    "exzh": "水是氢和氧构成的一种简单化合物。"
+  },
+  {
+    "w": "comprehend",
+    "ph": "ˌkɑːmprɪˈhend",
+    "pos": "v.",
+    "zh": "理解；领会",
+    "ex": "Young readers cannot fully comprehend this difficult poem.",
+    "exzh": "小读者无法完全理解这首难懂的诗。"
+  },
+  {
+    "w": "comprehension",
+    "ph": "ˌkɑːmprɪˈhenʃn",
+    "pos": "n.",
+    "zh": "理解；理解力",
+    "ex": "Reading comprehension is tested in the first part.",
+    "exzh": "第一部分考查阅读理解。"
+  },
+  {
+    "w": "compress",
+    "ph": "kəmˈpres",
+    "pos": "v.",
+    "zh": "压缩；精简",
+    "ex": "You can compress the photos to save space on disk.",
+    "exzh": "你可以压缩照片以节省磁盘空间。"
+  },
+  {
+    "w": "comprise",
+    "ph": "kəmˈpraɪz",
+    "pos": "v.",
+    "zh": "包括；由…组成",
+    "ex": "The committee comprises eight members from four countries.",
+    "exzh": "委员会由来自四个国家的八名成员组成。"
+  },
+  {
+    "w": "compulsory",
+    "ph": "kəmˈpʌlsəri",
+    "pos": "adj.",
+    "zh": "强制的；必修的",
+    "ex": "Physical education is compulsory for all first-year students.",
+    "exzh": "体育是所有一年级学生的必修课。"
+  },
+  {
+    "w": "compute",
+    "ph": "kəmˈpjuːt",
+    "pos": "v.",
+    "zh": "计算；估算",
+    "ex": "The software can compute the total cost in seconds.",
+    "exzh": "这个软件能在几秒钟内算出总费用。"
+  },
+  {
+    "w": "concentration",
+    "ph": "ˌkɑːnsnˈtreɪʃn",
+    "pos": "n.",
+    "zh": "专注；浓度",
+    "ex": "Loud music makes concentration almost impossible for me.",
+    "exzh": "吵闹的音乐让我几乎无法集中注意力。"
+  },
+  {
+    "w": "concert",
+    "ph": "ˈkɑːnsərt",
+    "pos": "n.",
+    "zh": "音乐会",
+    "ex": "The concert starts at seven in the main hall.",
+    "exzh": "音乐会在七点于大厅开始。"
+  },
+  {
+    "w": "concession",
+    "ph": "kənˈseʃn",
+    "pos": "n.",
+    "zh": "让步；优惠",
+    "ex": "Both sides made concessions to reach an agreement.",
+    "exzh": "双方都做出了让步以达成协议。"
+  },
+  {
+    "w": "concise",
+    "ph": "kənˈsaɪs",
+    "pos": "adj.",
+    "zh": "简明的；简洁的",
+    "ex": "Her answer was concise and easy to remember.",
+    "exzh": "她的回答简明扼要，容易记住。"
+  },
+  {
+    "w": "conclusion",
+    "ph": "kənˈkluːʒn",
+    "pos": "n.",
+    "zh": "结论；结尾",
+    "ex": "The report reaches a surprising conclusion about the cause.",
+    "exzh": "报告就其原因得出了令人惊讶的结论。"
+  },
+  {
+    "w": "condense",
+    "ph": "kənˈdens",
+    "pos": "v.",
+    "zh": "浓缩；压缩",
+    "ex": "He condensed the long report into two short pages.",
+    "exzh": "他把长报告压缩成了两页短文。"
+  },
+  {
+    "w": "conductor",
+    "ph": "kənˈdʌktər",
+    "pos": "n.",
+    "zh": "指挥；导体；售票员",
+    "ex": "The conductor raised his hand and the music began.",
+    "exzh": "指挥抬起手，音乐开始了。"
+  },
+  {
+    "w": "confer",
+    "ph": "kənˈfɜːr",
+    "pos": "v.",
+    "zh": "授予；商议",
+    "ex": "The university will confer degrees at the ceremony.",
+    "exzh": "大学将在典礼上授予学位。"
+  },
+  {
+    "w": "conference",
+    "ph": "ˈkɑːnfərəns",
+    "pos": "n.",
+    "zh": "会议；讨论会",
+    "ex": "Over two hundred doctors attended the medical conference.",
+    "exzh": "两百多名医生参加了这次医学会议。"
+  },
+  {
+    "w": "confess",
+    "ph": "kənˈfes",
+    "pos": "v.",
+    "zh": "承认；坦白",
+    "ex": "He finally confessed that he had lost the key.",
+    "exzh": "他最终承认自己把钥匙弄丢了。"
+  },
+  {
+    "w": "confident",
+    "ph": "ˈkɑːnfɪdənt",
+    "pos": "adj.",
+    "zh": "自信的；有把握的",
+    "ex": "She felt confident about the interview after practising.",
+    "exzh": "练习之后她对面试有了信心。"
+  },
+  {
+    "w": "confine",
+    "ph": "kənˈfaɪn",
+    "pos": "v.",
+    "zh": "限制；禁闭",
+    "ex": "Please confine your comments to the topic under discussion.",
+    "exzh": "请把你的评论限制在讨论的话题内。"
+  },
+  {
+    "w": "confirmation",
+    "ph": "ˌkɑːnfərˈmeɪʃn",
+    "pos": "n.",
+    "zh": "确认；证实",
+    "ex": "We are waiting for confirmation of the flight time.",
+    "exzh": "我们在等待航班时间的确认。"
+  },
+  {
+    "w": "conform",
+    "ph": "kənˈfɔːrm",
+    "pos": "v.",
+    "zh": "遵守；符合",
+    "ex": "All new buildings must conform to strict safety rules.",
+    "exzh": "所有新建筑都必须符合严格的安全规定。"
+  },
+  {
+    "w": "confusion",
+    "ph": "kənˈfjuːʒn",
+    "pos": "n.",
+    "zh": "混乱；困惑",
+    "ex": "The sudden change of plan caused a lot of confusion.",
+    "exzh": "计划的突然改变造成了很多混乱。"
+  },
+  {
+    "w": "congestion",
+    "ph": "kənˈdʒestʃən",
+    "pos": "n.",
+    "zh": "拥挤；堵塞",
+    "ex": "Traffic congestion in the city centre gets worse each year.",
+    "exzh": "市中心的交通拥堵每年都在加重。"
+  },
+  {
+    "w": "congratulate",
+    "ph": "kənˈɡrætʃuleɪt",
+    "pos": "v.",
+    "zh": "祝贺",
+    "ex": "I want to congratulate you on passing the exam.",
+    "exzh": "我想祝贺你通过了考试。"
+  },
+  {
+    "w": "congratulation",
+    "ph": "kənˌɡrætʃuˈleɪʃn",
+    "pos": "n.",
+    "zh": "祝贺；贺词",
+    "ex": "They sent a card of congratulation to the new parents.",
+    "exzh": "他们给这对新父母寄了一张祝贺卡。"
+  },
+  {
+    "w": "congress",
+    "ph": "ˈkɑːŋɡrəs",
+    "pos": "n.",
+    "zh": "国会；代表大会",
+    "ex": "The congress passed the new law after a long debate.",
+    "exzh": "经过长时间辩论，国会通过了这项新法律。"
+  },
+  {
+    "w": "connection",
+    "ph": "kəˈnekʃn",
+    "pos": "n.",
+    "zh": "连接；关系",
+    "ex": "There is a clear connection between diet and health.",
+    "exzh": "饮食与健康之间有明显的联系。"
+  },
+  {
+    "w": "conquer",
+    "ph": "ˈkɑːŋkər",
+    "pos": "v.",
+    "zh": "征服；克服",
+    "ex": "It took him years to conquer his fear of water.",
+    "exzh": "他花了好几年才克服对水的恐惧。"
+  },
+  {
+    "w": "conscience",
+    "ph": "ˈkɑːnʃəns",
+    "pos": "n.",
+    "zh": "良心",
+    "ex": "His conscience would not let him keep the money.",
+    "exzh": "他的良心不容许他把钱留下。"
+  },
+  {
+    "w": "consciousness",
+    "ph": "ˈkɑːnʃəsnəs",
+    "pos": "n.",
+    "zh": "意识；知觉",
+    "ex": "The patient lost consciousness for a few seconds.",
+    "exzh": "病人失去了几秒钟的知觉。"
+  },
+  {
+    "w": "consensus",
+    "ph": "kənˈsensəs",
+    "pos": "n.",
+    "zh": "共识；一致意见",
+    "ex": "The group finally reached a consensus on the plan.",
+    "exzh": "小组最终就这个计划达成了共识。"
+  },
+  {
+    "w": "consent",
+    "ph": "kənˈsent",
+    "pos": "n./v.",
+    "zh": "同意；允许",
+    "ex": "Her parents gave consent for the school trip.",
+    "exzh": "她父母同意了这次学校旅行。"
+  },
+  {
+    "w": "conservative",
+    "ph": "kənˈsɜːrvətɪv",
+    "pos": "adj.",
+    "zh": "保守的",
+    "ex": "The company takes a conservative approach to investment.",
+    "exzh": "这家公司在投资上采取保守的方式。"
+  },
+  {
+    "w": "conserve",
+    "ph": "kənˈsɜːrv",
+    "pos": "v.",
+    "zh": "保护；节约",
+    "ex": "We should conserve water during the dry summer months.",
+    "exzh": "在干燥的夏季我们应该节约用水。"
+  },
+  {
+    "w": "consideration",
+    "ph": "kənˌsɪdəˈreɪʃn",
+    "pos": "n.",
+    "zh": "考虑；体谅",
+    "ex": "Please give the offer careful consideration before deciding.",
+    "exzh": "决定之前请仔细考虑这个提议。"
+  },
+  {
+    "w": "consist",
+    "ph": "kənˈsɪst",
+    "pos": "v.",
+    "zh": "由…组成；在于",
+    "ex": "The team consists of six students from different cities.",
+    "exzh": "这个团队由来自不同城市的六名学生组成。"
+  },
+  {
+    "w": "consistent",
+    "ph": "kənˈsɪstənt",
+    "pos": "adj.",
+    "zh": "一致的；始终如一的",
+    "ex": "His results are consistent with the earlier research.",
+    "exzh": "他的结果与早先的研究一致。"
+  },
+  {
+    "w": "console",
+    "ph": "kənˈsoʊl",
+    "pos": "v.",
+    "zh": "安慰；慰藉",
+    "ex": "He tried to console his friend after the failure.",
+    "exzh": "失败之后他试图安慰他的朋友。"
+  },
+  {
+    "w": "conspiracy",
+    "ph": "kənˈspɪrəsi",
+    "pos": "n.",
+    "zh": "阴谋；密谋",
+    "ex": "Two men were arrested for a conspiracy to steal data.",
+    "exzh": "两名男子因密谋窃取数据被捕。"
+  },
+  {
+    "w": "constant",
+    "ph": "ˈkɑːnstənt",
+    "pos": "adj.",
+    "zh": "不断的；恒定的",
+    "ex": "The constant noise from the street kept me awake.",
+    "exzh": "街上不断的噪音让我睡不着。"
+  },
+  {
+    "w": "constitution",
+    "ph": "ˌkɑːnstɪˈtuːʃn",
+    "pos": "n.",
+    "zh": "宪法；体质",
+    "ex": "The constitution protects the basic rights of citizens.",
+    "exzh": "宪法保护公民的基本权利。"
+  },
+  {
+    "w": "constrain",
+    "ph": "kənˈstreɪn",
+    "pos": "v.",
+    "zh": "限制；约束",
+    "ex": "A small budget constrained the size of the project.",
+    "exzh": "有限的预算限制了这个项目的规模。"
+  },
+  {
+    "w": "construct",
+    "ph": "kənˈstrʌkt",
+    "pos": "v.",
+    "zh": "建造；组成",
+    "ex": "They plan to construct a new bridge across the river.",
+    "exzh": "他们计划在河上建一座新桥。"
+  },
+  {
+    "w": "construction",
+    "ph": "kənˈstrʌkʃn",
+    "pos": "n.",
+    "zh": "建设；建筑物",
+    "ex": "The construction of the road will take two years.",
+    "exzh": "这条路的修建将耗时两年。"
+  },
+  {
+    "w": "consult",
+    "ph": "kənˈsʌlt",
+    "pos": "v.",
+    "zh": "咨询；查阅",
+    "ex": "You should consult a doctor if the pain continues.",
+    "exzh": "如果疼痛持续，你应该去看医生。"
+  },
+  {
+    "w": "consumer",
+    "ph": "kənˈsuːmər",
+    "pos": "n.",
+    "zh": "消费者",
+    "ex": "The new rules give consumers more protection when buying online.",
+    "exzh": "新规定在网上购物时给消费者更多保护。"
+  },
+  {
+    "w": "consumption",
+    "ph": "kənˈsʌmpʃn",
+    "pos": "n.",
+    "zh": "消费；消耗量",
+    "ex": "Water consumption rises sharply during the summer months.",
+    "exzh": "夏季用水量急剧上升。"
+  },
+  {
+    "w": "contact",
+    "ph": "ˈkɑːntækt",
+    "pos": "n./v.",
+    "zh": "联系；接触",
+    "ex": "Please contact the office if your address changes.",
+    "exzh": "如果你的地址变了，请联系办公室。"
+  },
+  {
+    "w": "contain",
+    "ph": "kənˈteɪn",
+    "pos": "v.",
+    "zh": "包含；控制",
+    "ex": "This drink contains too much sugar for young children.",
+    "exzh": "这种饮料对幼儿来说含糖太多。"
+  },
+  {
+    "w": "container",
+    "ph": "kənˈteɪnər",
+    "pos": "n.",
+    "zh": "容器；集装箱",
+    "ex": "Store the seeds in a dry container away from light.",
+    "exzh": "把种子存放在避光的干燥容器里。"
+  },
+  {
+    "w": "contaminate",
+    "ph": "kənˈtæmɪneɪt",
+    "pos": "v.",
+    "zh": "污染；弄脏",
+    "ex": "Waste from the factory contaminated the river downstream.",
+    "exzh": "工厂的废料污染了下游的河水。"
+  },
+  {
+    "w": "contemplate",
+    "ph": "ˈkɑːntəmpleɪt",
+    "pos": "v.",
+    "zh": "沉思；考虑",
+    "ex": "She sat by the window and contemplated her next move.",
+    "exzh": "她坐在窗边沉思下一步该怎么做。"
+  },
+  {
+    "w": "contempt",
+    "ph": "kənˈtempt",
+    "pos": "n.",
+    "zh": "蔑视；轻视",
+    "ex": "He looked at the offer with obvious contempt.",
+    "exzh": "他带着明显的轻蔑看着这个提议。"
+  },
+  {
+    "w": "contend",
+    "ph": "kənˈtend",
+    "pos": "v.",
+    "zh": "竞争；主张",
+    "ex": "Several teams will contend for the cup this season.",
+    "exzh": "本赛季将有几支球队争夺这座奖杯。"
+  },
+  {
+    "w": "content",
+    "ph": "ˈkɑːntent",
+    "pos": "n./adj.",
+    "zh": "内容；满足的",
+    "ex": "She seems content with her simple life in the country.",
+    "exzh": "她似乎对乡下的简朴生活感到满足。"
+  },
+  {
+    "w": "contest",
+    "ph": "ˈkɑːntest",
+    "pos": "n./v.",
+    "zh": "竞赛；争夺",
+    "ex": "He entered a writing contest and won second prize.",
+    "exzh": "他参加了一次写作比赛并获得了二等奖。"
+  },
+  {
+    "w": "context",
+    "ph": "ˈkɑːntekst",
+    "pos": "n.",
+    "zh": "语境；背景",
+    "ex": "Try to guess the meaning from the context of the sentence.",
+    "exzh": "试着从句子语境中猜出意思。"
+  },
+  {
+    "w": "continent",
+    "ph": "ˈkɑːntɪnənt",
+    "pos": "n.",
+    "zh": "大陆；洲",
+    "ex": "Africa is the second largest continent in the world.",
+    "exzh": "非洲是世界第二大洲。"
+  },
+  {
+    "w": "continual",
+    "ph": "kənˈtɪnjuəl",
+    "pos": "adj.",
+    "zh": "不断的；频繁的",
+    "ex": "The continual interruptions made it hard to concentrate.",
+    "exzh": "不断的打扰让人难以集中注意力。"
+  },
+  {
+    "w": "continue",
+    "ph": "kənˈtɪnjuː",
+    "pos": "v.",
+    "zh": "继续",
+    "ex": "The rain will continue until late in the evening.",
+    "exzh": "雨会一直下到晚上很晚。"
+  },
+  {
+    "w": "continuous",
+    "ph": "kənˈtɪnjuəs",
+    "pos": "adj.",
+    "zh": "连续的",
+    "ex": "Three days of continuous rain flooded the fields.",
+    "exzh": "连续三天的降雨淹没了田地。"
+  },
+  {
+    "w": "contradiction",
+    "ph": "ˌkɑːntrəˈdɪkʃn",
+    "pos": "n.",
+    "zh": "矛盾；反驳",
+    "ex": "There is a contradiction between his words and actions.",
+    "exzh": "他的言行之间存在矛盾。"
+  },
+  {
+    "w": "contrary",
+    "ph": "ˈkɑːntreri",
+    "pos": "adj./n.",
+    "zh": "相反的；相反",
+    "ex": "Contrary to what people think, the test was easy.",
+    "exzh": "与人们的想法相反，这次考试很容易。"
+  },
+  {
+    "w": "contribution",
+    "ph": "ˌkɑːntrɪˈbjuːʃn",
+    "pos": "n.",
+    "zh": "贡献；捐款",
+    "ex": "Her contribution to the project was never properly recognized.",
+    "exzh": "她对项目的贡献从未得到恰当的认可。"
+  },
+  {
+    "w": "control",
+    "ph": "kənˈtroʊl",
+    "pos": "n./v.",
+    "zh": "控制；管理",
+    "ex": "He lost control of the car on the icy road.",
+    "exzh": "在结冰的路面上他失去了对汽车的控制。"
+  },
+  {
+    "w": "convenience",
+    "ph": "kənˈviːniəns",
+    "pos": "n.",
+    "zh": "方便；便利",
+    "ex": "The shop stays open late for the convenience of customers.",
+    "exzh": "为方便顾客，这家店营业到很晚。"
+  },
+  {
+    "w": "convenient",
+    "ph": "kənˈviːniənt",
+    "pos": "adj.",
+    "zh": "方便的",
+    "ex": "Is Tuesday afternoon convenient for our next meeting?",
+    "exzh": "周二下午方便我们下次开会吗？"
+  },
+  {
+    "w": "convention",
+    "ph": "kənˈvenʃn",
+    "pos": "n.",
+    "zh": "惯例；会议",
+    "ex": "By convention, the guests arrive before the meal begins.",
+    "exzh": "按照惯例，客人会在用餐开始前到达。"
+  },
+  {
+    "w": "conversation",
+    "ph": "ˌkɑːnvərˈseɪʃn",
+    "pos": "n.",
+    "zh": "谈话；交谈",
+    "ex": "We had a long conversation about our school days.",
+    "exzh": "我们聊了很久关于学生时代的事。"
+  },
+  {
+    "w": "conversion",
+    "ph": "kənˈvɜːrʒn",
+    "pos": "n.",
+    "zh": "转变；转换",
+    "ex": "The conversion of the old factory into flats took years.",
+    "exzh": "把旧工厂改造成公寓花了数年时间。"
+  },
+  {
+    "w": "convert",
+    "ph": "kənˈvɜːrt",
+    "pos": "v.",
+    "zh": "转换；改变",
+    "ex": "They converted the spare room into a small office.",
+    "exzh": "他们把空房间改成了一间小办公室。"
+  },
+  {
+    "w": "convey",
+    "ph": "kənˈveɪ",
+    "pos": "v.",
+    "zh": "传达；运送",
+    "ex": "Words cannot convey how grateful I am for your help.",
+    "exzh": "言语无法表达我对你帮助的感激。"
+  },
+  {
+    "w": "convict",
+    "ph": "kənˈvɪkt",
+    "pos": "v./n.",
+    "zh": "定罪；罪犯",
+    "ex": "The court convicted him of stealing company funds.",
+    "exzh": "法庭判定他盗用公司资金罪名成立。"
+  },
+  {
+    "w": "cooperate",
+    "ph": "koʊˈɑːpəreɪt",
+    "pos": "v.",
+    "zh": "合作；配合",
+    "ex": "The two schools agreed to cooperate on the research.",
+    "exzh": "两所学校同意在这项研究上合作。"
+  },
+  {
+    "w": "cooperation",
+    "ph": "koʊˌɑːpəˈreɪʃn",
+    "pos": "n.",
+    "zh": "合作；协作",
+    "ex": "Thank you for your cooperation during the whole process.",
+    "exzh": "感谢你在整个过程中的合作。"
+  },
+  {
+    "w": "coordinate",
+    "ph": "koʊˈɔːrdɪneɪt",
+    "pos": "v.",
+    "zh": "协调；使配合",
+    "ex": "She was asked to coordinate the work of three teams.",
+    "exzh": "她被要求协调三个团队的工作。"
+  },
+  {
+    "w": "cope",
+    "ph": "koʊp",
+    "pos": "v.",
+    "zh": "应对；处理",
+    "ex": "Many families find it hard to cope with rising prices.",
+    "exzh": "许多家庭发现难以应对上涨的物价。"
+  },
+  {
+    "w": "copper",
+    "ph": "ˈkɑːpər",
+    "pos": "n.",
+    "zh": "铜",
+    "ex": "The wire inside the cable is made of copper.",
+    "exzh": "电缆里面的导线是铜做的。"
+  },
+  {
+    "w": "copy",
+    "ph": "ˈkɑːpi",
+    "pos": "n./v.",
+    "zh": "复制；副本",
+    "ex": "Please make a copy of this letter for my file.",
+    "exzh": "请把这封信复印一份放进我的档案。"
+  },
+  {
+    "w": "copyright",
+    "ph": "ˈkɑːpiraɪt",
+    "pos": "n.",
+    "zh": "版权",
+    "ex": "The photographs are protected by copyright and cannot be copied.",
+    "exzh": "这些照片受版权保护，不能复制。"
+  },
+  {
+    "w": "core",
+    "ph": "kɔːr",
+    "pos": "n.",
+    "zh": "核心；果核",
+    "ex": "Reading is at the core of all language learning.",
+    "exzh": "阅读是所有语言学习的核心。"
+  },
+  {
+    "w": "corn",
+    "ph": "kɔːrn",
+    "pos": "n.",
+    "zh": "玉米；谷物",
+    "ex": "The farmers grow corn and wheat on this land.",
+    "exzh": "农民在这块地上种玉米和小麦。"
+  },
+  {
+    "w": "corner",
+    "ph": "ˈkɔːrnər",
+    "pos": "n.",
+    "zh": "角落；拐角",
+    "ex": "A small cafe stands on the corner of the street.",
+    "exzh": "街角有一家小咖啡馆。"
+  },
+  {
+    "w": "corporate",
+    "ph": "ˈkɔːrpərət",
+    "pos": "adj.",
+    "zh": "公司的；法人的",
+    "ex": "The hotel mainly serves corporate clients and visiting teams.",
+    "exzh": "这家酒店主要接待企业客户和来访团队。"
+  },
+  {
+    "w": "corporation",
+    "ph": "ˌkɔːrpəˈreɪʃn",
+    "pos": "n.",
+    "zh": "公司；法人",
+    "ex": "He works for a large corporation in the energy business.",
+    "exzh": "他在一家能源行业的大公司工作。"
+  },
+  {
+    "w": "correct",
+    "ph": "kəˈrekt",
+    "pos": "adj./v.",
+    "zh": "正确的；改正",
+    "ex": "The teacher corrected the mistakes in my essay carefully.",
+    "exzh": "老师仔细改正了我文章中的错误。"
+  },
+  {
+    "w": "correspond",
+    "ph": "ˌkɔːrəˈspɑːnd",
+    "pos": "v.",
+    "zh": "符合；通信",
+    "ex": "The results correspond closely with our earlier predictions.",
+    "exzh": "结果与我们早先的预测高度吻合。"
+  },
+  {
+    "w": "corridor",
+    "ph": "ˈkɔːrɪdɔːr",
+    "pos": "n.",
+    "zh": "走廊",
+    "ex": "Students waited quietly in the corridor outside the exam room.",
+    "exzh": "学生们在考场外的走廊里安静地等着。"
+  },
+  {
+    "w": "corrupt",
+    "ph": "kəˈrʌpt",
+    "pos": "adj./v.",
+    "zh": "腐败的；使腐化",
+    "ex": "The corrupt official was removed from his position.",
+    "exzh": "那名腐败官员被免职了。"
+  },
+  {
+    "w": "corruption",
+    "ph": "kəˈrʌpʃn",
+    "pos": "n.",
+    "zh": "腐败；贪污",
+    "ex": "The new government promised to fight corruption at every level.",
+    "exzh": "新政府承诺在各个层面打击腐败。"
+  },
+  {
+    "w": "costly",
+    "ph": "ˈkɔːstli",
+    "pos": "adj.",
+    "zh": "昂贵的；代价高的",
+    "ex": "That was a costly mistake for the small company.",
+    "exzh": "对这家小公司来说，那是个代价高昂的错误。"
+  },
+  {
+    "w": "costume",
+    "ph": "ˈkɑːstuːm",
+    "pos": "n.",
+    "zh": "服装；戏装",
+    "ex": "The actors wore beautiful costumes from the eighteenth century.",
+    "exzh": "演员们穿着十八世纪的漂亮戏服。"
+  },
+  {
+    "w": "cottage",
+    "ph": "ˈkɑːtɪdʒ",
+    "pos": "n.",
+    "zh": "小屋；村舍",
+    "ex": "They spent the weekend in a quiet country cottage.",
+    "exzh": "他们在一个安静的乡村小屋里度过了周末。"
+  },
+  {
+    "w": "cotton",
+    "ph": "ˈkɑːtn",
+    "pos": "n.",
+    "zh": "棉花；棉布",
+    "ex": "This shirt is made of soft cotton from the south.",
+    "exzh": "这件衬衫是用南方的柔软棉布做的。"
+  },
+  {
+    "w": "couch",
+    "ph": "kaʊtʃ",
+    "pos": "n.",
+    "zh": "长沙发",
+    "ex": "He fell asleep on the couch while watching television.",
+    "exzh": "他看电视时在沙发上睡着了。"
+  },
+  {
+    "w": "cough",
+    "ph": "kɔːf",
+    "pos": "v./n.",
+    "zh": "咳嗽",
+    "ex": "Cover your mouth when you cough in public places.",
+    "exzh": "在公共场所咳嗽时要捂住嘴。"
+  },
+  {
+    "w": "council",
+    "ph": "ˈkaʊnsl",
+    "pos": "n.",
+    "zh": "委员会；议会",
+    "ex": "The city council voted to build a new library.",
+    "exzh": "市议会投票决定建一座新图书馆。"
+  },
+  {
+    "w": "counsel",
+    "ph": "ˈkaʊnsl",
+    "pos": "n./v.",
+    "zh": "建议；律师",
+    "ex": "She sought counsel from an experienced lawyer before signing.",
+    "exzh": "签字前她向一位有经验的律师咨询。"
+  },
+  {
+    "w": "count",
+    "ph": "kaʊnt",
+    "pos": "v./n.",
+    "zh": "数；计算；重要",
+    "ex": "Please count the chairs before the guests arrive.",
+    "exzh": "客人到之前请数一下椅子。"
+  },
+  {
+    "w": "counter",
+    "ph": "ˈkaʊntər",
+    "pos": "n./v.",
+    "zh": "柜台；反驳",
+    "ex": "The keys are at the front counter near the entrance.",
+    "exzh": "钥匙在入口附近的柜台。"
+  },
+  {
+    "w": "countryside",
+    "ph": "ˈkʌntrisaɪd",
+    "pos": "n.",
+    "zh": "乡村；农村",
+    "ex": "We drove into the countryside to enjoy the fresh air.",
+    "exzh": "我们开车到乡下享受新鲜空气。"
+  },
+  {
+    "w": "county",
+    "ph": "ˈkaʊnti",
+    "pos": "n.",
+    "zh": "县；郡",
+    "ex": "This county is famous for its apples and cheese.",
+    "exzh": "这个县以苹果和奶酪闻名。"
+  },
+  {
+    "w": "couple",
+    "ph": "ˈkʌpl",
+    "pos": "n.",
+    "zh": "一对；夫妇；几个",
+    "ex": "A young couple moved into the house next door.",
+    "exzh": "一对年轻夫妇搬进了隔壁的房子。"
+  },
+  {
+    "w": "courageous",
+    "ph": "kəˈreɪdʒəs",
+    "pos": "adj.",
+    "zh": "勇敢的",
+    "ex": "It was a courageous decision to speak against the plan.",
+    "exzh": "站出来反对这个计划是个勇敢的决定。"
+  },
+  {
+    "w": "course",
+    "ph": "kɔːrs",
+    "pos": "n.",
+    "zh": "课程；过程；路线",
+    "ex": "The course lasts twelve weeks and ends in June.",
+    "exzh": "这门课持续十二周，六月结束。"
+  },
+  {
+    "w": "court",
+    "ph": "kɔːrt",
+    "pos": "n.",
+    "zh": "法庭；球场；宫廷",
+    "ex": "The case will come before the court next week.",
+    "exzh": "这个案子下周将在法庭审理。"
+  },
+  {
+    "w": "courteous",
+    "ph": "ˈkɜːrtiəs",
+    "pos": "adj.",
+    "zh": "有礼貌的；殷勤的",
+    "ex": "The staff were courteous and answered every question patiently.",
+    "exzh": "员工们很有礼貌，耐心回答了每个问题。"
+  },
+  {
+    "w": "courtesy",
+    "ph": "ˈkɜːrtəsi",
+    "pos": "n.",
+    "zh": "礼貌；谦恭",
+    "ex": "He treated every guest with great courtesy and patience.",
+    "exzh": "他非常有礼貌和耐心地对待每一位客人。"
+  },
+  {
+    "w": "cousin",
+    "ph": "ˈkʌzn",
+    "pos": "n.",
+    "zh": "表亲；堂亲",
+    "ex": "My cousin is coming to visit us this weekend.",
+    "exzh": "我表弟这个周末要来看我们。"
+  },
+  {
+    "w": "cover",
+    "ph": "ˈkʌvər",
+    "pos": "v./n.",
+    "zh": "覆盖；包括；封面",
+    "ex": "Snow covered the whole garden by early morning.",
+    "exzh": "到清早大雪覆盖了整个花园。"
+  },
+  {
+    "w": "coverage",
+    "ph": "ˈkʌvərɪdʒ",
+    "pos": "n.",
+    "zh": "报道；覆盖范围",
+    "ex": "The election received wide coverage in the national press.",
+    "exzh": "这次选举在全国性报刊上得到了广泛报道。"
+  },
+  {
+    "w": "coward",
+    "ph": "ˈkaʊərd",
+    "pos": "n.",
+    "zh": "懦夫；胆小鬼",
+    "ex": "He called himself a coward for not telling the truth.",
+    "exzh": "他称自己是懦夫，因为没有说出真相。"
+  },
+  {
+    "w": "crack",
+    "ph": "kræk",
+    "pos": "v./n.",
+    "zh": "裂缝；破裂",
+    "ex": "A thin crack appeared in the wall after the earthquake.",
+    "exzh": "地震后墙上出现了一道细裂缝。"
+  },
+  {
+    "w": "cradle",
+    "ph": "ˈkreɪdl",
+    "pos": "n./v.",
+    "zh": "摇篮；轻抱",
+    "ex": "The baby slept quietly in a wooden cradle.",
+    "exzh": "婴儿在木摇篮里安静地睡着。"
+  },
+  {
+    "w": "craft",
+    "ph": "kræft",
+    "pos": "n.",
+    "zh": "工艺；手艺；船",
+    "ex": "She learned the craft of making paper flowers.",
+    "exzh": "她学会了制作纸花的手艺。"
+  },
+  {
+    "w": "crash",
+    "ph": "kræʃ",
+    "pos": "v./n.",
+    "zh": "碰撞；坠毁",
+    "ex": "The two cars crashed at the corner of the road.",
+    "exzh": "两辆车在路口相撞。"
+  },
+  {
+    "w": "crawl",
+    "ph": "krɔːl",
+    "pos": "v.",
+    "zh": "爬行；缓慢移动",
+    "ex": "The baby crawled across the floor towards the door.",
+    "exzh": "婴儿爬过地板朝门口去。"
+  },
+  {
+    "w": "crazy",
+    "ph": "ˈkreɪzi",
+    "pos": "adj.",
+    "zh": "疯狂的；着迷的",
+    "ex": "He is crazy about football and never misses a match.",
+    "exzh": "他痴迷足球，从不错过一场比赛。"
+  },
+  {
+    "w": "cream",
+    "ph": "kriːm",
+    "pos": "n.",
+    "zh": "奶油；乳霜",
+    "ex": "Add a little cream to the soup before serving.",
+    "exzh": "上桌前往汤里加一点奶油。"
+  },
+  {
+    "w": "creation",
+    "ph": "kriˈeɪʃn",
+    "pos": "n.",
+    "zh": "创造；作品",
+    "ex": "The creation of this park took nearly ten years.",
+    "exzh": "这个公园的建成用了将近十年。"
+  },
+  {
+    "w": "creative",
+    "ph": "kriˈeɪtɪv",
+    "pos": "adj.",
+    "zh": "有创造力的",
+    "ex": "The school encourages students to find creative solutions.",
+    "exzh": "学校鼓励学生寻找有创意的解决办法。"
+  },
+  {
+    "w": "creativity",
+    "ph": "ˌkriːeɪˈtɪvəti",
+    "pos": "n.",
+    "zh": "创造力",
+    "ex": "Art classes help children develop creativity and confidence.",
+    "exzh": "美术课帮助孩子培养创造力和自信。"
+  },
+  {
+    "w": "creature",
+    "ph": "ˈkriːtʃər",
+    "pos": "n.",
+    "zh": "生物；动物",
+    "ex": "Some strange creatures live deep in the ocean.",
+    "exzh": "有些奇怪的生物生活在深海。"
+  },
+  {
+    "w": "credible",
+    "ph": "ˈkredəbl",
+    "pos": "adj.",
+    "zh": "可信的；可靠的",
+    "ex": "The witness gave a credible account of the accident.",
+    "exzh": "目击者对事故做了可信的描述。"
+  },
+  {
+    "w": "credit",
+    "ph": "ˈkredɪt",
+    "pos": "n./v.",
+    "zh": "信用；学分；赞扬",
+    "ex": "You need three more credits to finish the course.",
+    "exzh": "你还需要三个学分才能完成这门课。"
+  },
+  {
+    "w": "creep",
+    "ph": "kriːp",
+    "pos": "v.",
+    "zh": "爬行；蔓延",
+    "ex": "A cat crept quietly along the garden wall.",
+    "exzh": "一只猫沿着花园的墙悄悄爬行。"
+  },
+  {
+    "w": "crew",
+    "ph": "kruː",
+    "pos": "n.",
+    "zh": "全体船员；工作人员",
+    "ex": "The crew worked all night to repair the ship.",
+    "exzh": "船员们通宵工作修理这艘船。"
+  },
+  {
+    "w": "crime",
+    "ph": "kraɪm",
+    "pos": "n.",
+    "zh": "犯罪；罪行",
+    "ex": "The number of serious crimes fell last year.",
+    "exzh": "去年严重犯罪的数量下降了。"
+  },
+  {
+    "w": "criminal",
+    "ph": "ˈkrɪmɪnl",
+    "pos": "n./adj.",
+    "zh": "罪犯；犯罪的",
+    "ex": "The criminal was caught two days after the robbery.",
+    "exzh": "抢劫案发生两天后罪犯被抓到了。"
+  },
+  {
+    "w": "criterion",
+    "ph": "kraɪˈtɪriən",
+    "pos": "n.",
+    "zh": "标准；准则",
+    "ex": "Price is not the only criterion for choosing a school.",
+    "exzh": "价格不是选择学校的唯一标准。"
+  },
+  {
+    "w": "critic",
+    "ph": "ˈkrɪtɪk",
+    "pos": "n.",
+    "zh": "批评家；评论家",
+    "ex": "One critic praised the film, but others disliked it.",
+    "exzh": "一位评论家称赞了这部电影，但其他人不喜欢。"
+  },
+  {
+    "w": "criticism",
+    "ph": "ˈkrɪtɪsɪzəm",
+    "pos": "n.",
+    "zh": "批评；评论",
+    "ex": "He accepted the criticism and improved his work.",
+    "exzh": "他接受了批评并改进了自己的工作。"
+  },
+  {
+    "w": "criticize",
+    "ph": "ˈkrɪtɪsaɪz",
+    "pos": "v.",
+    "zh": "批评；评论",
+    "ex": "She criticized the plan without offering any alternative.",
+    "exzh": "她批评了这个计划，却没有提出任何替代方案。"
+  },
+  {
+    "w": "crop",
+    "ph": "krɑːp",
+    "pos": "n.",
+    "zh": "农作物；收成",
+    "ex": "The rice crop was poor because of the dry weather.",
+    "exzh": "由于天气干旱，水稻收成很差。"
+  },
+  {
+    "w": "cross",
+    "ph": "krɔːs",
+    "pos": "v./n.",
+    "zh": "穿过；十字",
+    "ex": "Look both ways before you cross the busy street.",
+    "exzh": "过这条繁忙的马路前要左右看。"
+  },
+  {
+    "w": "crowd",
+    "ph": "kraʊd",
+    "pos": "n./v.",
+    "zh": "人群；挤满",
+    "ex": "A large crowd gathered outside the concert hall.",
+    "exzh": "一大群人聚集在音乐厅外面。"
+  },
+  {
+    "w": "crowded",
+    "ph": "ˈkraʊdɪd",
+    "pos": "adj.",
+    "zh": "拥挤的",
+    "ex": "The train is always crowded at this hour.",
+    "exzh": "这个时间火车总是很挤。"
+  },
+  {
+    "w": "crown",
+    "ph": "kraʊn",
+    "pos": "n.",
+    "zh": "王冠",
+    "ex": "The crown is kept in a glass case in the museum.",
+    "exzh": "王冠保存在博物馆的玻璃柜里。"
+  },
+  {
+    "w": "crude",
+    "ph": "kruːd",
+    "pos": "adj.",
+    "zh": "粗糙的；未加工的",
+    "ex": "The price of crude oil rose again last week.",
+    "exzh": "上周原油价格再次上涨。"
+  },
+  {
+    "w": "cruel",
+    "ph": "ˈkruːəl",
+    "pos": "adj.",
+    "zh": "残酷的；残忍的",
+    "ex": "It is cruel to leave a dog alone all day.",
+    "exzh": "把狗整天独自留下是残忍的。"
+  },
+  {
+    "w": "crush",
+    "ph": "krʌʃ",
+    "pos": "v.",
+    "zh": "压碎；镇压",
+    "ex": "The machine can crush stones into fine powder.",
+    "exzh": "这台机器能把石头压成细粉。"
+  },
+  {
+    "w": "crust",
+    "ph": "krʌst",
+    "pos": "n.",
+    "zh": "外壳；面包皮",
+    "ex": "The bread has a hard crust and a soft centre.",
+    "exzh": "这面包外皮硬，里面软。"
+  },
+  {
+    "w": "cry",
+    "ph": "kraɪ",
+    "pos": "v./n.",
+    "zh": "哭；喊叫",
+    "ex": "The baby began to cry when the room went dark.",
+    "exzh": "房间变暗时婴儿开始哭。"
+  },
+  {
+    "w": "crystal",
+    "ph": "ˈkrɪstl",
+    "pos": "n.",
+    "zh": "水晶；晶体",
+    "ex": "The water in the lake was as clear as crystal.",
+    "exzh": "湖水清澈得像水晶一样。"
+  },
+  {
+    "w": "cube",
+    "ph": "kjuːb",
+    "pos": "n.",
+    "zh": "立方体；块",
+    "ex": "He dropped a cube of ice into his glass.",
+    "exzh": "他往杯子里放了一块方冰。"
+  },
+  {
+    "w": "cucumber",
+    "ph": "ˈkjuːkʌmbər",
+    "pos": "n.",
+    "zh": "黄瓜",
+    "ex": "She sliced a cucumber and added it to the salad.",
+    "exzh": "她切了一根黄瓜加进沙拉里。"
+  },
+  {
+    "w": "cuisine",
+    "ph": "kwɪˈziːn",
+    "pos": "n.",
+    "zh": "烹饪；菜肴",
+    "ex": "This restaurant is famous for its spicy local cuisine.",
+    "exzh": "这家餐馆以辛辣的本地菜肴闻名。"
+  },
+  {
+    "w": "cultivate",
+    "ph": "ˈkʌltɪveɪt",
+    "pos": "v.",
+    "zh": "培养；耕种",
+    "ex": "Reading widely helps students cultivate good writing habits.",
+    "exzh": "广泛阅读有助于学生培养良好的写作习惯。"
+  },
+  {
+    "w": "culture",
+    "ph": "ˈkʌltʃər",
+    "pos": "n.",
+    "zh": "文化",
+    "ex": "Learning a language means learning about its culture.",
+    "exzh": "学一门语言意味着了解它的文化。"
+  },
+  {
+    "w": "cupboard",
+    "ph": "ˈkʌbərd",
+    "pos": "n.",
+    "zh": "橱柜",
+    "ex": "The plates are in the cupboard above the sink.",
+    "exzh": "盘子在洗涤池上方的橱柜里。"
+  },
+  {
+    "w": "curb",
+    "ph": "kɜːrb",
+    "pos": "v./n.",
+    "zh": "控制；路边",
+    "ex": "The city hopes to curb traffic in the old centre.",
+    "exzh": "市政府希望控制老城中心的交通。"
+  },
+  {
+    "w": "cure",
+    "ph": "kjʊr",
+    "pos": "v./n.",
+    "zh": "治愈；疗法",
+    "ex": "Doctors still have no cure for this rare disease.",
+    "exzh": "医生仍然没有治愈这种罕见疾病的方法。"
+  },
+  {
+    "w": "curiosity",
+    "ph": "ˌkjʊriˈɑːsəti",
+    "pos": "n.",
+    "zh": "好奇心",
+    "ex": "Her curiosity about space led her to study physics.",
+    "exzh": "她对太空的好奇促使她学习物理。"
+  },
+  {
+    "w": "curious",
+    "ph": "ˈkjʊriəs",
+    "pos": "adj.",
+    "zh": "好奇的",
+    "ex": "The children were curious about the old machine.",
+    "exzh": "孩子们对那台旧机器感到好奇。"
+  },
+  {
+    "w": "curl",
+    "ph": "kɜːrl",
+    "pos": "v./n.",
+    "zh": "卷曲；卷发",
+    "ex": "She curled her hair before the party on Friday.",
+    "exzh": "周五聚会前她把头发烫卷了。"
+  },
+  {
+    "w": "currency",
+    "ph": "ˈkɜːrənsi",
+    "pos": "n.",
+    "zh": "货币；流通",
+    "ex": "The local currency lost value against the dollar.",
+    "exzh": "当地货币对美元贬值了。"
+  },
+  {
+    "w": "curriculum",
+    "ph": "kəˈrɪkjələm",
+    "pos": "n.",
+    "zh": "课程；全部课程",
+    "ex": "The school added computer science to its curriculum last year.",
+    "exzh": "学校去年把计算机科学加入了课程。"
+  },
+  {
+    "w": "curtain",
+    "ph": "ˈkɜːrtn",
+    "pos": "n.",
+    "zh": "窗帘；幕",
+    "ex": "Please draw the curtain, the sunlight is too strong.",
+    "exzh": "请拉上窗帘，阳光太强了。"
+  },
+  {
+    "w": "curve",
+    "ph": "kɜːrv",
+    "pos": "n./v.",
+    "zh": "曲线；弯曲",
+    "ex": "The road curves sharply just beyond the bridge.",
+    "exzh": "这条路在过了桥之后急转弯。"
+  },
+  {
+    "w": "cushion",
+    "ph": "ˈkʊʃn",
+    "pos": "n.",
+    "zh": "垫子；缓冲",
+    "ex": "She put a soft cushion behind her aching back.",
+    "exzh": "她在酸痛的背后垫了一个软垫。"
+  },
+  {
+    "w": "cycle",
+    "ph": "ˈsaɪkl",
+    "pos": "n./v.",
+    "zh": "循环；周期；骑自行车",
+    "ex": "He cycles to work every day, even in winter.",
+    "exzh": "他每天骑车上班，甚至冬天也是。"
+  }
+]

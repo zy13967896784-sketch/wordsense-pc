@@ -1,0 +1,1890 @@
+[
+  {
+    "w": "macabre",
+    "ph": "məˈkɑːbrə",
+    "pos": "adj.",
+    "zh": "可怕的；阴森的；与死亡有关的",
+    "ex": "The museum's macabre exhibit of medieval torture devices drew huge crowds.",
+    "exzh": "博物馆那个关于中世纪刑具的阴森展览吸引了大量人群。"
+  },
+  {
+    "w": "magnanimous",
+    "ph": "mæɡˈnænɪməs",
+    "pos": "adj.",
+    "zh": "宽宏大量的；慷慨的",
+    "ex": "She was magnanimous enough to congratulate the rival who defeated her.",
+    "exzh": "她宽宏大量，向击败她的对手表示祝贺。"
+  },
+  {
+    "w": "malady",
+    "ph": "ˈmælədi",
+    "pos": "n.",
+    "zh": "疾病；弊病；痼疾",
+    "ex": "Loneliness has become a modern malady that few institutions know how to cure.",
+    "exzh": "孤独已成为一种现代痼疾，很少有机构知道如何治愈。"
+  },
+  {
+    "w": "mangle",
+    "ph": "ˈmæŋɡl",
+    "pos": "v.",
+    "zh": "损毁；破坏；压碎",
+    "ex": "Careless editing can mangle a sentence until its original meaning disappears entirely.",
+    "exzh": "粗心的编辑会把句子改得支离破碎，直到原意完全消失。"
+  },
+  {
+    "w": "martyrdom",
+    "ph": "ˈmɑːrtərdəm",
+    "pos": "n.",
+    "zh": "殉难；牺牲；受难",
+    "ex": "The novel treats his martyrdom as a political myth rather than a tragedy.",
+    "exzh": "这部小说把他的牺牲当作政治神话而非悲剧来写。"
+  },
+  {
+    "w": "maverick",
+    "ph": "ˈmævərɪk",
+    "pos": "n.",
+    "zh": "持独立见解者；特立独行的人",
+    "ex": "As a maverick economist, he questioned assumptions his colleagues took for granted.",
+    "exzh": "作为一个特立独行的经济学家，他质疑同事们视为理所当然的假设。"
+  },
+  {
+    "w": "mercurial",
+    "ph": "mərˈkjʊriəl",
+    "pos": "adj.",
+    "zh": "反复无常的；机敏的",
+    "ex": "His mercurial temper made him brilliant in debate but difficult to work with.",
+    "exzh": "他喜怒无常的脾气让他在辩论中很出色，却难以共事。"
+  },
+  {
+    "w": "metamorphosis",
+    "ph": "ˌmetəˈmɔːrfəsɪs",
+    "pos": "n.",
+    "zh": "变形；质变；蜕变",
+    "ex": "Digital technology has brought about a metamorphosis in how newspapers operate.",
+    "exzh": "数字技术给报纸的运作方式带来了彻底的蜕变。"
+  },
+  {
+    "w": "mien",
+    "ph": "miːn",
+    "pos": "n.",
+    "zh": "神态；举止；风度",
+    "ex": "His calm mien concealed the anxiety he felt before every public speech.",
+    "exzh": "他平静的神态掩盖了每次公开演讲前的焦虑。"
+  },
+  {
+    "w": "milieu",
+    "ph": "mɪlˈjɜː",
+    "pos": "n.",
+    "zh": "环境；社会背景；氛围",
+    "ex": "The author grew up in a literary milieu that shaped her later writing.",
+    "exzh": "作者在一个文学氛围浓厚的环境中长大，这塑造了她后来的写作。"
+  },
+  {
+    "w": "modicum",
+    "ph": "ˈmɑːdɪkəm",
+    "pos": "n.",
+    "zh": "少量；一点点",
+    "ex": "Even a modicum of patience would have prevented that pointless argument.",
+    "exzh": "哪怕一点点耐心也能避免那场无谓的争吵。"
+  },
+  {
+    "w": "mollify",
+    "ph": "ˈmɑːlɪfaɪ",
+    "pos": "v.",
+    "zh": "安抚；使平静；缓和",
+    "ex": "The manager tried to mollify angry customers by offering full refunds.",
+    "exzh": "经理试图通过全额退款来安抚愤怒的顾客。"
+  },
+  {
+    "w": "morass",
+    "ph": "məˈræs",
+    "pos": "n.",
+    "zh": "泥沼；困境；混乱局面",
+    "ex": "The company sank into a morass of legal disputes and mounting debt.",
+    "exzh": "公司陷入了法律纠纷与不断增加的债务的泥沼。"
+  },
+  {
+    "w": "mores",
+    "ph": "ˈmɔːreɪz",
+    "pos": "n.",
+    "zh": "风俗；社会习俗；道德观念",
+    "ex": "Social mores change slowly, even when the law changes overnight.",
+    "exzh": "即使法律一夜之间改变，社会习俗也变化缓慢。"
+  },
+  {
+    "w": "munificent",
+    "ph": "mjuːˈnɪfɪsnt",
+    "pos": "adj.",
+    "zh": "慷慨的；丰厚的",
+    "ex": "A munificent donor paid for the entire library renovation without publicity.",
+    "exzh": "一位慷慨的捐赠者不事声张地支付了整个图书馆的翻新费用。"
+  },
+  {
+    "w": "myopic",
+    "ph": "maɪˈɑːpɪk",
+    "pos": "adj.",
+    "zh": "短视的；近视的",
+    "ex": "A myopic focus on quarterly profits can destroy a company's long-term prospects.",
+    "exzh": "只盯着季度利润的短视做法会毁掉公司的长期前景。"
+  },
+  {
+    "w": "nadir",
+    "ph": "ˈneɪdɪr",
+    "pos": "n.",
+    "zh": "最低点；最糟糕的时刻",
+    "ex": "His career reached its nadir after the scandal forced him to resign.",
+    "exzh": "丑闻迫使他辞职后，他的事业跌到了最低点。"
+  },
+  {
+    "w": "naivety",
+    "ph": "naɪˈiːvəti",
+    "pos": "n.",
+    "zh": "天真；幼稚；单纯",
+    "ex": "There is a certain naivety in believing technology alone can solve poverty.",
+    "exzh": "相信单靠技术就能解决贫困，这是一种天真。"
+  },
+  {
+    "w": "narcissism",
+    "ph": "ˈnɑːrsɪsɪzəm",
+    "pos": "n.",
+    "zh": "自恋；自我陶醉",
+    "ex": "Social media is often blamed for encouraging narcissism among young users.",
+    "exzh": "社交媒体常被指责助长了年轻用户的自恋。"
+  },
+  {
+    "w": "nefarious",
+    "ph": "nɪˈferiəs",
+    "pos": "adj.",
+    "zh": "邪恶的；罪恶的；不法的",
+    "ex": "The report exposed the nefarious schemes behind the supposedly charitable foundation.",
+    "exzh": "报告揭露了这家所谓慈善基金会背后的邪恶图谋。"
+  },
+  {
+    "w": "nonchalant",
+    "ph": "ˌnɑːnʃəˈlɑːnt",
+    "pos": "adj.",
+    "zh": "漠不关心的；若无其事的",
+    "ex": "He gave a nonchalant shrug when asked about the missing documents.",
+    "exzh": "被问及丢失的文件时，他满不在乎地耸了耸肩。"
+  },
+  {
+    "w": "noncommittal",
+    "ph": "ˌnɑːnkəˈmɪtl",
+    "pos": "adj.",
+    "zh": "不表态的；含糊其辞的",
+    "ex": "The minister remained noncommittal about whether taxes would rise next year.",
+    "exzh": "部长对明年是否增税不作明确表态。"
+  },
+  {
+    "w": "obdurate",
+    "ph": "ˈɑːbdərət",
+    "pos": "adj.",
+    "zh": "顽固的；执拗的；冷酷的",
+    "ex": "The obdurate official refused to reconsider the decision despite new evidence.",
+    "exzh": "尽管有新证据，这位顽固的官员仍拒绝重新考虑该决定。"
+  },
+  {
+    "w": "obfuscate",
+    "ph": "ˈɑːbfəskeɪt",
+    "pos": "v.",
+    "zh": "使模糊；混淆；使费解",
+    "ex": "Politicians sometimes obfuscate instead of answering the question directly.",
+    "exzh": "政客有时会含糊其辞，而不是直接回答问题。"
+  },
+  {
+    "w": "obliterate",
+    "ph": "əˈblɪtəreɪt",
+    "pos": "v.",
+    "zh": "消灭；摧毁；抹去",
+    "ex": "The flood obliterated entire villages along the lower reaches of the river.",
+    "exzh": "洪水摧毁了这条河下游的整个村庄。"
+  },
+  {
+    "w": "obsequious",
+    "ph": "əbˈsiːkwiəs",
+    "pos": "adj.",
+    "zh": "谄媚的；奉承的；卑躬的",
+    "ex": "His obsequious manner toward the director annoyed everyone in the office.",
+    "exzh": "他对主管那副谄媚的样子让办公室里所有人都反感。"
+  },
+  {
+    "w": "obstreperous",
+    "ph": "əbˈstrepərəs",
+    "pos": "adj.",
+    "zh": "喧闹的；难驾驭的；不守秩序的",
+    "ex": "The obstreperous crowd refused to quiet down until the speaker left.",
+    "exzh": "喧闹的人群直到演讲者离开才安静下来。"
+  },
+  {
+    "w": "obtrusive",
+    "ph": "əbˈtruːsɪv",
+    "pos": "adj.",
+    "zh": "显眼的；冒失的；强加于人的",
+    "ex": "The building's obtrusive design clashes with the historic neighborhood around it.",
+    "exzh": "这栋楼显眼的设计与周围的历史街区格格不入。"
+  },
+  {
+    "w": "odium",
+    "ph": "ˈoʊdiəm",
+    "pos": "n.",
+    "zh": "憎恶；恶名；公愤",
+    "ex": "He bore the odium of a policy that ruined thousands of small businesses.",
+    "exzh": "他承担了一项毁掉数千家小企业的政策所带来的恶名。"
+  },
+  {
+    "w": "opine",
+    "ph": "oʊˈpaɪn",
+    "pos": "v.",
+    "zh": "认为；发表意见",
+    "ex": "Critics opined that the film was too long and too sentimental.",
+    "exzh": "评论家认为这部电影太长、太煽情。"
+  },
+  {
+    "w": "opprobrium",
+    "ph": "əˈproʊbriəm",
+    "pos": "n.",
+    "zh": "谴责；耻辱；骂名",
+    "ex": "The company faced public opprobrium after the safety failures were revealed.",
+    "exzh": "安全疏漏曝光后，公司遭到公众谴责。"
+  },
+  {
+    "w": "ossify",
+    "ph": "ˈɑːsɪfaɪ",
+    "pos": "v.",
+    "zh": "僵化；骨化；变得刻板",
+    "ex": "Without new members, the organization's routines gradually ossified into empty ritual.",
+    "exzh": "没有新成员加入，这个组织的例行程序逐渐僵化成空洞的仪式。"
+  },
+  {
+    "w": "ostentatious",
+    "ph": "ˌɑːstenˈteɪʃəs",
+    "pos": "adj.",
+    "zh": "炫耀的；浮华的；招摇的",
+    "ex": "He disliked ostentatious displays of wealth and drove an old car.",
+    "exzh": "他讨厌炫耀财富，开的是一辆旧车。"
+  },
+  {
+    "w": "ostracize",
+    "ph": "ˈɑːstrəsaɪz",
+    "pos": "v.",
+    "zh": "排斥；放逐；孤立",
+    "ex": "The community ostracized him after he spoke out against the local factory.",
+    "exzh": "他公开反对当地工厂后，社区排斥了他。"
+  },
+  {
+    "w": "outlandish",
+    "ph": "aʊtˈlændɪʃ",
+    "pos": "adj.",
+    "zh": "古怪的；异乎寻常的",
+    "ex": "Her outlandish proposal initially sounded absurd but eventually won support.",
+    "exzh": "她那古怪的提议最初听起来荒谬，但最终赢得了支持。"
+  },
+  {
+    "w": "outmoded",
+    "ph": "ˌaʊtˈmoʊdɪd",
+    "pos": "adj.",
+    "zh": "过时的；废弃的",
+    "ex": "Many schools still rely on outmoded teaching methods that discourage curiosity.",
+    "exzh": "许多学校仍依赖压制好奇心的过时教学方法。"
+  },
+  {
+    "w": "overwrought",
+    "ph": "ˌoʊvərˈrɔːt",
+    "pos": "adj.",
+    "zh": "过度激动的；过于雕琢的",
+    "ex": "The overwrought essay tried too hard to sound profound and moving.",
+    "exzh": "这篇过度雕琢的文章太想显得深刻动人。"
+  },
+  {
+    "w": "palatable",
+    "ph": "ˈpælətəbl",
+    "pos": "adj.",
+    "zh": "可接受的；美味的",
+    "ex": "The government needed to make the tax increase palatable to ordinary voters.",
+    "exzh": "政府需要让增税对普通选民来说变得可以接受。"
+  },
+  {
+    "w": "palpable",
+    "ph": "ˈpælpəbl",
+    "pos": "adj.",
+    "zh": "明显的；可触知的",
+    "ex": "The tension in the room was so palpable that nobody dared speak.",
+    "exzh": "房间里紧张的气氛如此明显，没人敢说话。"
+  },
+  {
+    "w": "paltry",
+    "ph": "ˈpɔːltri",
+    "pos": "adj.",
+    "zh": "微不足道的；少得可怜的",
+    "ex": "He was offered a paltry sum for twenty years of loyal service.",
+    "exzh": "他二十年的忠诚服务只换来一笔微不足道的钱。"
+  },
+  {
+    "w": "panacea",
+    "ph": "ˌpænəˈsiːə",
+    "pos": "n.",
+    "zh": "灵丹妙药；万灵药",
+    "ex": "Technology is no panacea for the complex problems facing rural schools.",
+    "exzh": "技术并非解决农村学校所面临复杂问题的万灵药。"
+  },
+  {
+    "w": "paragon",
+    "ph": "ˈpærəɡɑːn",
+    "pos": "n.",
+    "zh": "典范；完美的榜样",
+    "ex": "Her mentor was a paragon of integrity in a notoriously corrupt industry.",
+    "exzh": "在一个以腐败闻名的行业里，她的导师是正直的典范。"
+  },
+  {
+    "w": "pariah",
+    "ph": "pəˈraɪə",
+    "pos": "n.",
+    "zh": "被排斥者；贱民",
+    "ex": "After the leak, the whistleblower became a pariah among former colleagues.",
+    "exzh": "泄密事件后，这名举报人在昔日同事中成了被排斥的人。"
+  },
+  {
+    "w": "parochial",
+    "ph": "pəˈroʊkiəl",
+    "pos": "adj.",
+    "zh": "狭隘的；地方性的",
+    "ex": "A parochial outlook prevents students from understanding cultures beyond their own.",
+    "exzh": "狭隘的视野使学生无法理解自身之外的文化。"
+  },
+  {
+    "w": "paroxysm",
+    "ph": "ˈpærəksɪzəm",
+    "pos": "n.",
+    "zh": "发作；突发；阵发",
+    "ex": "The news sent him into a paroxysm of rage and grief.",
+    "exzh": "这个消息让他陷入一阵狂怒与悲痛之中。"
+  },
+  {
+    "w": "parsimonious",
+    "ph": "ˌpɑːrsɪˈmoʊniəs",
+    "pos": "adj.",
+    "zh": "吝啬的；过分节俭的",
+    "ex": "The parsimonious budget left no money for basic laboratory equipment.",
+    "exzh": "这份过分节俭的预算没有给基础实验室设备留出任何经费。"
+  },
+  {
+    "w": "peccadillo",
+    "ph": "ˌpekəˈdɪloʊ",
+    "pos": "n.",
+    "zh": "小过失；小错",
+    "ex": "The biography forgives his peccadilloes while documenting his cruelty.",
+    "exzh": "这部传记宽恕了他的小过失，却记录了他的残酷。"
+  },
+  {
+    "w": "pecuniary",
+    "ph": "pɪˈkjuːnieri",
+    "pos": "adj.",
+    "zh": "金钱的；财务的",
+    "ex": "His motives were partly pecuniary, though he claimed to care about justice.",
+    "exzh": "他的动机有一部分是金钱上的，尽管他声称关心正义。"
+  },
+  {
+    "w": "pedagogy",
+    "ph": "ˈpedəɡɑːdʒi",
+    "pos": "n.",
+    "zh": "教育学；教学法",
+    "ex": "Modern pedagogy stresses discussion over memorization of isolated facts.",
+    "exzh": "现代教学法强调讨论，而非背诵孤立的事实。"
+  },
+  {
+    "w": "pedantic",
+    "ph": "pɪˈdæntɪk",
+    "pos": "adj.",
+    "zh": "迂腐的；卖弄学问的",
+    "ex": "The pedantic professor corrected every minor error in our citations.",
+    "exzh": "那位迂腐的教授纠正了我们引文中的每一个小错误。"
+  },
+  {
+    "w": "pejorative",
+    "ph": "pɪˈdʒɔːrətɪv",
+    "pos": "adj.",
+    "zh": "贬义的；轻蔑的",
+    "ex": "The term populist has become pejorative in much political commentary.",
+    "exzh": "在许多政治评论中，民粹主义者一词已带有贬义。"
+  },
+  {
+    "w": "pellucid",
+    "ph": "pəˈluːsɪd",
+    "pos": "adj.",
+    "zh": "清澈的；清晰易懂的",
+    "ex": "The professor's pellucid prose makes a difficult subject seem simple.",
+    "exzh": "教授清晰易懂的文字让一个艰深的问题显得简单。"
+  },
+  {
+    "w": "penchant",
+    "ph": "ˈpentʃənt",
+    "pos": "n.",
+    "zh": "嗜好；强烈倾向",
+    "ex": "She has a penchant for asking questions that make people uncomfortable.",
+    "exzh": "她有一种爱问让人不舒服问题的癖好。"
+  },
+  {
+    "w": "penury",
+    "ph": "ˈpenjəri",
+    "pos": "n.",
+    "zh": "贫困；赤贫",
+    "ex": "The painter died in penury despite the current value of his work.",
+    "exzh": "尽管他的作品如今价值不菲，这位画家却在贫困中去世。"
+  },
+  {
+    "w": "perceptive",
+    "ph": "pərˈseptɪv",
+    "pos": "adj.",
+    "zh": "敏锐的；有洞察力的",
+    "ex": "Her perceptive reading of the data revealed a pattern others had missed.",
+    "exzh": "她对数据的敏锐解读揭示了别人遗漏的模式。"
+  },
+  {
+    "w": "perfunctory",
+    "ph": "pərˈfʌŋktəri",
+    "pos": "adj.",
+    "zh": "敷衍的；草率的",
+    "ex": "The inspection was perfunctory and failed to catch the structural cracks.",
+    "exzh": "这次检查敷衍了事，没能发现结构裂缝。"
+  },
+  {
+    "w": "peripatetic",
+    "ph": "ˌperɪpəˈtetɪk",
+    "pos": "adj.",
+    "zh": "漫游的；巡回的",
+    "ex": "His peripatetic childhood left him fluent in three languages.",
+    "exzh": "他四处迁徙的童年让他能流利使用三种语言。"
+  },
+  {
+    "w": "perspicacious",
+    "ph": "ˌpərspɪˈkeɪʃəs",
+    "pos": "adj.",
+    "zh": "敏锐的；有洞察力的",
+    "ex": "A perspicacious editor spotted the flaw that three reviewers had missed.",
+    "exzh": "一位眼光敏锐的编辑发现了三位审稿人漏掉的缺陷。"
+  },
+  {
+    "w": "perturb",
+    "ph": "pərˈtɜːrb",
+    "pos": "v.",
+    "zh": "使不安；扰乱",
+    "ex": "The unexpected resignation did not perturb the company's steady expansion.",
+    "exzh": "这次意外辞职并未扰乱公司稳步扩张的步伐。"
+  },
+  {
+    "w": "petulant",
+    "ph": "ˈpetʃələnt",
+    "pos": "adj.",
+    "zh": "脾气坏的；任性的",
+    "ex": "His petulant refusal to apologize only deepened the conflict.",
+    "exzh": "他任性地拒绝道歉，只会加深冲突。"
+  },
+  {
+    "w": "phenomenal",
+    "ph": "fəˈnɑːmɪnl",
+    "pos": "adj.",
+    "zh": "非凡的；显著的",
+    "ex": "The city has seen phenomenal growth in renewable energy investment.",
+    "exzh": "该市在可再生能源投资方面出现了非凡增长。"
+  },
+  {
+    "w": "philanthropic",
+    "ph": "ˌfɪlənˈθrɑːpɪk",
+    "pos": "adj.",
+    "zh": "慈善的；博爱的",
+    "ex": "Philanthropic foundations increasingly fund research on climate adaptation.",
+    "exzh": "慈善基金会越来越多地资助气候适应研究。"
+  },
+  {
+    "w": "pique",
+    "ph": "piːk",
+    "pos": "v./n.",
+    "zh": "激起；使恼怒；不满",
+    "ex": "The documentary piqued public interest in the forgotten poet.",
+    "exzh": "这部纪录片激起了公众对那位被遗忘诗人的兴趣。"
+  },
+  {
+    "w": "placate",
+    "ph": "ˈpleɪkeɪt",
+    "pos": "v.",
+    "zh": "安抚；平息",
+    "ex": "Officials tried to placate residents by promising a new park.",
+    "exzh": "官员们试图通过承诺新建一座公园来安抚居民。"
+  },
+  {
+    "w": "placid",
+    "ph": "ˈplæsɪd",
+    "pos": "adj.",
+    "zh": "平静的；温和的",
+    "ex": "The placid surface of the lake hid a strong underwater current.",
+    "exzh": "湖面平静，水下却隐藏着一股强劲的水流。"
+  },
+  {
+    "w": "plagiarize",
+    "ph": "ˈpleɪdʒəraɪz",
+    "pos": "v.",
+    "zh": "抄袭；剽窃",
+    "ex": "Two students were expelled for plagiarizing passages from an obscure journal.",
+    "exzh": "两名学生因抄袭一本冷门期刊的段落被开除。"
+  },
+  {
+    "w": "plaintiff",
+    "ph": "ˈpleɪntɪf",
+    "pos": "n.",
+    "zh": "原告",
+    "ex": "The plaintiff argued that the company had ignored repeated safety warnings.",
+    "exzh": "原告主张公司无视了多次安全警告。"
+  },
+  {
+    "w": "platitude",
+    "ph": "ˈplætɪtuːd",
+    "pos": "n.",
+    "zh": "陈词滥调；老生常谈",
+    "ex": "The speech was full of platitudes about hope and hard work.",
+    "exzh": "这篇演讲满是关于希望与努力的老生常谈。"
+  },
+  {
+    "w": "pliable",
+    "ph": "ˈplaɪəbl",
+    "pos": "adj.",
+    "zh": "易弯曲的；易受影响的",
+    "ex": "Young minds are pliable, which makes early education so influential.",
+    "exzh": "年轻人的头脑易于塑造，这正是早期教育影响深远的原因。"
+  },
+  {
+    "w": "plummet",
+    "ph": "ˈplʌmɪt",
+    "pos": "v.",
+    "zh": "暴跌；骤降",
+    "ex": "Sales plummeted after the recall damaged the brand's reputation.",
+    "exzh": "召回损害了品牌声誉后，销售额暴跌。"
+  },
+  {
+    "w": "portend",
+    "ph": "pɔːrˈtend",
+    "pos": "v.",
+    "zh": "预示；成为…的征兆",
+    "ex": "The sudden drop in orders may portend a deeper recession.",
+    "exzh": "订单骤降可能预示着更严重的衰退。"
+  },
+  {
+    "w": "precarious",
+    "ph": "prɪˈkeriəs",
+    "pos": "adj.",
+    "zh": "不稳定的；危险的",
+    "ex": "Many gig workers live in precarious conditions with no health insurance.",
+    "exzh": "许多零工劳动者在没有医疗保险的不稳定条件下生活。"
+  },
+  {
+    "w": "precipitate",
+    "ph": "prɪˈsɪpɪteɪt",
+    "pos": "v./adj.",
+    "zh": "促使；使突然发生；仓促的",
+    "ex": "A single careless remark precipitated a crisis in the negotiations.",
+    "exzh": "一句不慎的话让谈判骤然陷入危机。"
+  },
+  {
+    "w": "precursor",
+    "ph": "prɪˈkɜːrsər",
+    "pos": "n.",
+    "zh": "前身；先驱；先兆",
+    "ex": "The typewriter was a precursor of the modern computer keyboard.",
+    "exzh": "打字机是现代电脑键盘的前身。"
+  },
+  {
+    "w": "predilection",
+    "ph": "ˌpriːdɪˈlekʃn",
+    "pos": "n.",
+    "zh": "偏爱；偏好",
+    "ex": "He has a predilection for long novels about ordinary family life.",
+    "exzh": "他偏爱描写普通家庭生活的长篇小说。"
+  },
+  {
+    "w": "preeminent",
+    "ph": "priˈemɪnənt",
+    "pos": "adj.",
+    "zh": "卓越的；最杰出的",
+    "ex": "She is the preeminent scholar of nineteenth-century urban history.",
+    "exzh": "她是研究十九世纪城市史最杰出的学者。"
+  },
+  {
+    "w": "preempt",
+    "ph": "priˈempt",
+    "pos": "v.",
+    "zh": "预先阻止；先发制人",
+    "ex": "The company filed early patents to preempt competitors' research efforts.",
+    "exzh": "该公司抢先申请专利，以阻止竞争对手的研发工作。"
+  },
+  {
+    "w": "premonition",
+    "ph": "ˌpriːməˈnɪʃn",
+    "pos": "n.",
+    "zh": "预感；先兆",
+    "ex": "He had a premonition that the meeting would end badly.",
+    "exzh": "他有一种预感，这次会议会不欢而散。"
+  },
+  {
+    "w": "preposterous",
+    "ph": "prɪˈpɑːstərəs",
+    "pos": "adj.",
+    "zh": "荒谬的；反常的",
+    "ex": "The idea that one test can measure intelligence is preposterous.",
+    "exzh": "认为一次考试就能衡量智力，这种想法十分荒谬。"
+  },
+  {
+    "w": "prerogative",
+    "ph": "prɪˈrɑːɡətɪv",
+    "pos": "n.",
+    "zh": "特权；职权",
+    "ex": "Choosing the curriculum should be the prerogative of trained teachers.",
+    "exzh": "选择课程应当是受过训练的教师的职权。"
+  },
+  {
+    "w": "prescient",
+    "ph": "ˈpreʃnt",
+    "pos": "adj.",
+    "zh": "有先见之明的",
+    "ex": "Her prescient warning about the housing bubble was ignored for years.",
+    "exzh": "她关于房地产泡沫的有先见之明的警告多年无人理会。"
+  },
+  {
+    "w": "presumption",
+    "ph": "prɪˈzʌmpʃn",
+    "pos": "n.",
+    "zh": "推测；假定；傲慢",
+    "ex": "The presumption that economic growth benefits everyone deserves closer scrutiny.",
+    "exzh": "经济增长惠及所有人的假定值得更仔细的审视。"
+  },
+  {
+    "w": "pretentious",
+    "ph": "prɪˈtenʃəs",
+    "pos": "adj.",
+    "zh": "自命不凡的；矫饰的",
+    "ex": "The novel feels pretentious, stuffing every paragraph with obscure allusions.",
+    "exzh": "这部小说显得矫揉造作，每段都塞满生僻典故。"
+  },
+  {
+    "w": "pretext",
+    "ph": "ˈpriːtekst",
+    "pos": "n.",
+    "zh": "借口；托词",
+    "ex": "They used security concerns as a pretext for restricting free speech.",
+    "exzh": "他们以安全顾虑为借口限制言论自由。"
+  },
+  {
+    "w": "pristine",
+    "ph": "ˈprɪstiːn",
+    "pos": "adj.",
+    "zh": "原始的；崭新的；纯净的",
+    "ex": "The island remains pristine because few tourists have ever reached it.",
+    "exzh": "这座岛因少有游客抵达而保持着原始状态。"
+  },
+  {
+    "w": "proclivity",
+    "ph": "prəˈklɪvəti",
+    "pos": "n.",
+    "zh": "倾向；癖性",
+    "ex": "His proclivity for exaggeration makes his memoirs hard to trust.",
+    "exzh": "他喜好夸张的倾向使他的回忆录难以令人信服。"
+  },
+  {
+    "w": "procrastinate",
+    "ph": "prəˈkræstɪneɪt",
+    "pos": "v.",
+    "zh": "拖延；耽搁",
+    "ex": "Students who procrastinate often mistake anxiety for laziness.",
+    "exzh": "拖延的学生常把焦虑误当作懒惰。"
+  },
+  {
+    "w": "prodigious",
+    "ph": "prəˈdɪdʒəs",
+    "pos": "adj.",
+    "zh": "巨大的；惊人的",
+    "ex": "The young pianist displayed a prodigious talent for improvisation.",
+    "exzh": "这位年轻钢琴家展现出惊人的即兴演奏天赋。"
+  },
+  {
+    "w": "profane",
+    "ph": "prəˈfeɪn",
+    "pos": "adj./v.",
+    "zh": "亵渎的；世俗的；玷污",
+    "ex": "The film mixes sacred imagery with profane humor and pop music.",
+    "exzh": "这部影片把神圣意象与世俗幽默和流行音乐混在一起。"
+  },
+  {
+    "w": "prognosis",
+    "ph": "prɑːɡˈnoʊsɪs",
+    "pos": "n.",
+    "zh": "预后；预测",
+    "ex": "The economic prognosis for small manufacturers remains cautiously optimistic.",
+    "exzh": "对小制造商的经济预测仍保持谨慎乐观。"
+  },
+  {
+    "w": "prohibitive",
+    "ph": "prəˈhɪbətɪv",
+    "pos": "adj.",
+    "zh": "高得令人却步的；禁止的",
+    "ex": "Housing costs in the capital are prohibitive for young families.",
+    "exzh": "首都的住房成本对年轻家庭来说高得令人却步。"
+  },
+  {
+    "w": "proliferate",
+    "ph": "prəˈlɪfəreɪt",
+    "pos": "v.",
+    "zh": "激增；扩散",
+    "ex": "Online courses proliferated once broadband became widely available.",
+    "exzh": "宽带普及后，网络课程迅速激增。"
+  },
+  {
+    "w": "prolific",
+    "ph": "prəˈlɪfɪk",
+    "pos": "adj.",
+    "zh": "多产的；丰富的",
+    "ex": "The prolific author published four novels in a single year.",
+    "exzh": "这位多产作家一年之内出版了四部小说。"
+  },
+  {
+    "w": "promulgate",
+    "ph": "ˈprɑːmlɡeɪt",
+    "pos": "v.",
+    "zh": "颁布；宣传",
+    "ex": "The agency promulgated new rules on vehicle emissions last spring.",
+    "exzh": "该机构去年春天颁布了新的车辆排放规定。"
+  },
+  {
+    "w": "propensity",
+    "ph": "prəˈpensəti",
+    "pos": "n.",
+    "zh": "倾向；习性",
+    "ex": "People have a propensity to overestimate their own good judgment.",
+    "exzh": "人们有一种高估自己判断力的倾向。"
+  },
+  {
+    "w": "propitious",
+    "ph": "prəˈpɪʃəs",
+    "pos": "adj.",
+    "zh": "有利的；吉祥的",
+    "ex": "The conditions were propitious for launching a small business.",
+    "exzh": "当时的条件对创业十分有利。"
+  },
+  {
+    "w": "proponent",
+    "ph": "prəˈpoʊnənt",
+    "pos": "n.",
+    "zh": "支持者；提倡者",
+    "ex": "Proponents of the reform argue that transparency reduces corruption.",
+    "exzh": "改革的支持者认为透明度能减少腐败。"
+  },
+  {
+    "w": "propriety",
+    "ph": "prəˈpraɪəti",
+    "pos": "n.",
+    "zh": "得体；礼节；正当性",
+    "ex": "She questioned the propriety of accepting gifts from contractors.",
+    "exzh": "她质疑接受承包商礼物是否得体。"
+  },
+  {
+    "w": "prosaic",
+    "ph": "proʊˈzeɪɪk",
+    "pos": "adj.",
+    "zh": "平淡的；乏味的",
+    "ex": "The report's prosaic style concealed the seriousness of its findings.",
+    "exzh": "这份报告平淡的文风掩盖了其发现的严重性。"
+  },
+  {
+    "w": "protagonist",
+    "ph": "prəˈtæɡənɪst",
+    "pos": "n.",
+    "zh": "主角；主要人物",
+    "ex": "The protagonist gradually learns that freedom requires uncomfortable choices.",
+    "exzh": "主人公逐渐明白自由需要做出令人不适的选择。"
+  },
+  {
+    "w": "protracted",
+    "ph": "proʊˈtræktɪd",
+    "pos": "adj.",
+    "zh": "持久的；拖延的",
+    "ex": "A protracted legal battle exhausted the family's savings.",
+    "exzh": "一场旷日持久的官司耗尽了这家人的积蓄。"
+  },
+  {
+    "w": "protrude",
+    "ph": "proʊˈtruːd",
+    "pos": "v.",
+    "zh": "突出；伸出",
+    "ex": "Rusty pipes protrude from the wall where the old radiator stood.",
+    "exzh": "锈迹斑斑的管道从旧暖气片所在的墙里伸出来。"
+  },
+  {
+    "w": "provincial",
+    "ph": "prəˈvɪnʃl",
+    "pos": "adj.",
+    "zh": "地方的；狭隘的",
+    "ex": "His provincial attitudes embarrassed colleagues at the international conference.",
+    "exzh": "他狭隘的观念让国际会议上的同事感到尴尬。"
+  },
+  {
+    "w": "provisional",
+    "ph": "prəˈvɪʒənl",
+    "pos": "adj.",
+    "zh": "临时的；暂定的",
+    "ex": "The government reached a provisional agreement with the union.",
+    "exzh": "政府与工会达成了一项临时协议。"
+  },
+  {
+    "w": "provocative",
+    "ph": "prəˈvɑːkətɪv",
+    "pos": "adj.",
+    "zh": "挑衅的；发人深省的",
+    "ex": "Her provocative essay forced economists to defend their basic assumptions.",
+    "exzh": "她那篇发人深省的文章迫使经济学家为基本假设辩护。"
+  },
+  {
+    "w": "prowess",
+    "ph": "ˈpraʊəs",
+    "pos": "n.",
+    "zh": "高超技艺；才能",
+    "ex": "The surgeon's technical prowess attracted patients from across the country.",
+    "exzh": "这位外科医生高超的技术吸引了全国各地的病人。"
+  },
+  {
+    "w": "prudence",
+    "ph": "ˈpruːdns",
+    "pos": "n.",
+    "zh": "谨慎；审慎",
+    "ex": "Financial prudence matters more than luck in a volatile market.",
+    "exzh": "在动荡的市场中，财务上的谨慎比运气更重要。"
+  },
+  {
+    "w": "pundit",
+    "ph": "ˈpʌndɪt",
+    "pos": "n.",
+    "zh": "权威评论员；专家",
+    "ex": "Political pundits predicted a close race, and they were right.",
+    "exzh": "政治评论员预测选情胶着，他们是对的。"
+  },
+  {
+    "w": "pungent",
+    "ph": "ˈpʌndʒənt",
+    "pos": "adj.",
+    "zh": "刺鼻的；辛辣的",
+    "ex": "The pungent smell of chemicals drifted from the abandoned factory.",
+    "exzh": "刺鼻的化学品气味从废弃工厂飘出来。"
+  },
+  {
+    "w": "purport",
+    "ph": "pərˈpɔːrt",
+    "pos": "v.",
+    "zh": "声称；意在表明",
+    "ex": "These labels purport to tell consumers where their food comes from.",
+    "exzh": "这些标签声称能告诉消费者食物的来源。"
+  },
+  {
+    "w": "putative",
+    "ph": "ˈpjuːtətɪv",
+    "pos": "adj.",
+    "zh": "据称的；假定的",
+    "ex": "The putative leader of the network has never been charged.",
+    "exzh": "这个网络所谓的头目从未被起诉。"
+  },
+  {
+    "w": "quandary",
+    "ph": "ˈkwɑːndəri",
+    "pos": "n.",
+    "zh": "困境；窘境",
+    "ex": "She was in a quandary about whether to report the error.",
+    "exzh": "她陷入两难，不知道该不该报告这个错误。"
+  },
+  {
+    "w": "quarrelsome",
+    "ph": "ˈkwɔːrəlsəm",
+    "pos": "adj.",
+    "zh": "好争吵的；爱吵架的",
+    "ex": "His quarrelsome nature made him a poor candidate for teamwork.",
+    "exzh": "他好争吵的性格使他很不适合团队合作。"
+  },
+  {
+    "w": "quash",
+    "ph": "kwɑːʃ",
+    "pos": "v.",
+    "zh": "撤销；镇压；平息",
+    "ex": "The court quashed the conviction after new forensic evidence emerged.",
+    "exzh": "新的法医证据出现后，法院撤销了该定罪。"
+  },
+  {
+    "w": "querulous",
+    "ph": "ˈkwerələs",
+    "pos": "adj.",
+    "zh": "爱抱怨的；不满的",
+    "ex": "The querulous tenant complained about the heating every single week.",
+    "exzh": "这位爱抱怨的租客每周都要投诉暖气问题。"
+  },
+  {
+    "w": "quibble",
+    "ph": "ˈkwɪbl",
+    "pos": "v./n.",
+    "zh": "吹毛求疵；小争论",
+    "ex": "They quibbled over minor details instead of addressing the main issue.",
+    "exzh": "他们在细枝末节上争论不休，却没有解决主要问题。"
+  },
+  {
+    "w": "quiescent",
+    "ph": "kwiˈesnt",
+    "pos": "adj.",
+    "zh": "静止的；休眠的；不活跃的",
+    "ex": "The volcano had been quiescent for centuries before the eruption.",
+    "exzh": "这座火山在喷发前已休眠了几个世纪。"
+  },
+  {
+    "w": "quintessential",
+    "ph": "ˌkwɪntɪˈsenʃl",
+    "pos": "adj.",
+    "zh": "典型的；精髓的",
+    "ex": "The cafe is the quintessential neighborhood meeting place in this city.",
+    "exzh": "这家咖啡馆是这座城市最典型的社区聚会场所。"
+  },
+  {
+    "w": "quip",
+    "ph": "kwɪp",
+    "pos": "n./v.",
+    "zh": "俏皮话；打趣",
+    "ex": "He made a witty quip that broke the tension in the room.",
+    "exzh": "他说了句俏皮话，打破了房间里的紧张气氛。"
+  },
+  {
+    "w": "rabid",
+    "ph": "ˈræbɪd",
+    "pos": "adj.",
+    "zh": "狂热的；极端的；患狂犬病的",
+    "ex": "Rabid fans camped outside the stadium for three nights.",
+    "exzh": "狂热的粉丝在体育场外露营了三个晚上。"
+  },
+  {
+    "w": "rancor",
+    "ph": "ˈræŋkər",
+    "pos": "n.",
+    "zh": "深仇；怨恨；敌意",
+    "ex": "Years of litigation left rancor between the two neighboring families.",
+    "exzh": "多年的诉讼让这两个邻居家庭之间积下了怨恨。"
+  },
+  {
+    "w": "rapport",
+    "ph": "ræˈpɔːr",
+    "pos": "n.",
+    "zh": "融洽关系；和谐",
+    "ex": "The therapist quickly established rapport with the anxious teenager.",
+    "exzh": "治疗师很快与这个焦虑的少年建立了融洽关系。"
+  },
+  {
+    "w": "raucous",
+    "ph": "ˈrɔːkəs",
+    "pos": "adj.",
+    "zh": "喧闹的；刺耳的",
+    "ex": "Raucous laughter echoed from the crowded student bar downstairs.",
+    "exzh": "楼下拥挤的学生酒吧里回荡着喧闹的笑声。"
+  },
+  {
+    "w": "rebuff",
+    "ph": "rɪˈbʌf",
+    "pos": "v./n.",
+    "zh": "断然拒绝；冷落",
+    "ex": "The committee rebuffed her proposal without offering any explanation.",
+    "exzh": "委员会断然拒绝了她的提案，未作任何解释。"
+  },
+  {
+    "w": "recant",
+    "ph": "rɪˈkænt",
+    "pos": "v.",
+    "zh": "撤回；公开认错",
+    "ex": "Under pressure, the witness recanted his earlier testimony.",
+    "exzh": "在压力之下，证人撤回了先前的证词。"
+  },
+  {
+    "w": "recapitulate",
+    "ph": "ˌriːkəˈpɪtʃuleɪt",
+    "pos": "v.",
+    "zh": "概括；重述要点",
+    "ex": "The chairman recapitulated the main arguments before the vote.",
+    "exzh": "主席在投票前重述了主要论点。"
+  },
+  {
+    "w": "reciprocate",
+    "ph": "rɪˈsɪprəkeɪt",
+    "pos": "v.",
+    "zh": "回报；互惠",
+    "ex": "He never reciprocated the kindness his neighbors had shown him.",
+    "exzh": "他从未回报邻居们对他的好意。"
+  },
+  {
+    "w": "reclusive",
+    "ph": "rɪˈkluːsɪv",
+    "pos": "adj.",
+    "zh": "隐居的；遁世的",
+    "ex": "The reclusive billionaire rarely appears in public or gives interviews.",
+    "exzh": "这位隐居的亿万富翁很少公开露面或接受采访。"
+  },
+  {
+    "w": "reconnaissance",
+    "ph": "rɪˈkɑːnɪsns",
+    "pos": "n.",
+    "zh": "侦察；勘查",
+    "ex": "The team conducted reconnaissance before selecting the construction site.",
+    "exzh": "团队在选择建筑工地之前进行了勘查。"
+  },
+  {
+    "w": "recuperate",
+    "ph": "rɪˈkuːpəreɪt",
+    "pos": "v.",
+    "zh": "恢复；康复",
+    "ex": "She spent the summer recuperating from a serious knee injury.",
+    "exzh": "她整个夏天都在从严重的膝伤中康复。"
+  },
+  {
+    "w": "redolent",
+    "ph": "ˈredələnt",
+    "pos": "adj.",
+    "zh": "使人联想到的；芳香的",
+    "ex": "The old kitchen was redolent of fresh bread and cinnamon.",
+    "exzh": "那间旧厨房散发着新鲜面包和肉桂的香气。"
+  },
+  {
+    "w": "regimen",
+    "ph": "ˈredʒɪmən",
+    "pos": "n.",
+    "zh": "养生法；常规；管理制度",
+    "ex": "His daily regimen includes an hour of swimming and careful meals.",
+    "exzh": "他的日常安排包括一小时游泳和讲究的饮食。"
+  },
+  {
+    "w": "rejuvenate",
+    "ph": "rɪˈdʒuːvəneɪt",
+    "pos": "v.",
+    "zh": "使恢复活力；使年轻",
+    "ex": "The new park rejuvenated a district that had lost its shops.",
+    "exzh": "新公园让一个失去商铺的街区重新焕发了活力。"
+  },
+  {
+    "w": "relapse",
+    "ph": "rɪˈlæps",
+    "pos": "n./v.",
+    "zh": "复发；旧病复发",
+    "ex": "He suffered a relapse after stopping the treatment too early.",
+    "exzh": "他过早停止治疗，导致旧病复发。"
+  },
+  {
+    "w": "relish",
+    "ph": "ˈrelɪʃ",
+    "pos": "v./n.",
+    "zh": "享受；喜爱；滋味",
+    "ex": "She relished the challenge of debating more experienced opponents.",
+    "exzh": "她很享受与经验更丰富的对手辩论的挑战。"
+  },
+  {
+    "w": "reminiscence",
+    "ph": "ˌremɪˈnɪsns",
+    "pos": "n.",
+    "zh": "回忆；追忆",
+    "ex": "His reminiscences of village life read like gentle, affectionate fiction.",
+    "exzh": "他对乡村生活的回忆读起来像温和而深情的虚构作品。"
+  },
+  {
+    "w": "remiss",
+    "ph": "rɪˈmɪs",
+    "pos": "adj.",
+    "zh": "疏忽的；失职的",
+    "ex": "The hospital was remiss in monitoring patients after surgery.",
+    "exzh": "这家医院在术后监测病人方面存在失职。"
+  },
+  {
+    "w": "remuneration",
+    "ph": "rɪˌmjuːnəˈreɪʃn",
+    "pos": "n.",
+    "zh": "报酬；酬劳",
+    "ex": "Academic remuneration rarely matches the hours that research demands.",
+    "exzh": "学术工作的报酬很少与研究所耗费的时间相匹配。"
+  },
+  {
+    "w": "renaissance",
+    "ph": "ˈrenəsɑːns",
+    "pos": "n.",
+    "zh": "复兴；文艺复兴",
+    "ex": "The city is enjoying a cultural renaissance after decades of decline.",
+    "exzh": "经历了数十年的衰落之后，这座城市正迎来文化复兴。"
+  },
+  {
+    "w": "reparation",
+    "ph": "ˌrepəˈreɪʃn",
+    "pos": "n.",
+    "zh": "赔偿；补偿",
+    "ex": "The treaty required reparations for the damage caused by the war.",
+    "exzh": "该条约要求为战争造成的损失支付赔偿。"
+  },
+  {
+    "w": "replete",
+    "ph": "rɪˈpliːt",
+    "pos": "adj.",
+    "zh": "充满的；饱足的",
+    "ex": "The archive is replete with letters that historians have never read.",
+    "exzh": "档案馆里满是历史学家从未读过的信件。"
+  },
+  {
+    "w": "reprehensible",
+    "ph": "ˌreprɪˈhensəbl",
+    "pos": "adj.",
+    "zh": "应受谴责的；可耻的",
+    "ex": "It is reprehensible to sell dangerous products to unsuspecting consumers.",
+    "exzh": "向毫不知情的消费者出售危险产品是应受谴责的。"
+  },
+  {
+    "w": "reprobate",
+    "ph": "ˈreprəbeɪt",
+    "pos": "n./adj.",
+    "zh": "堕落者；堕落的",
+    "ex": "The novel's reprobate hero wastes his inheritance on gambling.",
+    "exzh": "小说中那个堕落的男主角把遗产挥霍在赌博上。"
+  },
+  {
+    "w": "reproof",
+    "ph": "rɪˈpruːf",
+    "pos": "n.",
+    "zh": "责备；斥责",
+    "ex": "Her gentle reproof did more good than any official warning.",
+    "exzh": "她温和的责备比任何官方警告都更有效。"
+  },
+  {
+    "w": "repugnant",
+    "ph": "rɪˈpʌɡnənt",
+    "pos": "adj.",
+    "zh": "令人厌恶的；反感的",
+    "ex": "The idea of charging patients for basic care is morally repugnant.",
+    "exzh": "向病人收取基本护理费用的想法在道德上令人厌恶。"
+  },
+  {
+    "w": "resonant",
+    "ph": "ˈrezənənt",
+    "pos": "adj.",
+    "zh": "响亮的；引起共鸣的",
+    "ex": "Her resonant voice carried easily to the back of the hall.",
+    "exzh": "她那响亮的声音轻松传到了大厅后排。"
+  },
+  {
+    "w": "restitution",
+    "ph": "ˌrestɪˈtuːʃn",
+    "pos": "n.",
+    "zh": "赔偿；归还",
+    "ex": "The court ordered restitution to families who had lost their homes.",
+    "exzh": "法院判令向失去家园的家庭作出赔偿。"
+  },
+  {
+    "w": "restive",
+    "ph": "ˈrestɪv",
+    "pos": "adj.",
+    "zh": "焦躁不安的；难控制的",
+    "ex": "The restive crowd demanded answers from the exhausted officials.",
+    "exzh": "焦躁的人群要求疲惫的官员们给出答复。"
+  },
+  {
+    "w": "resuscitate",
+    "ph": "rɪˈsʌsɪteɪt",
+    "pos": "v.",
+    "zh": "使复苏；复兴",
+    "ex": "Paramedics managed to resuscitate the swimmer pulled from the pool.",
+    "exzh": "急救人员成功使那名从泳池中被拉出的游泳者恢复了心跳。"
+  },
+  {
+    "w": "retribution",
+    "ph": "ˌretrɪˈbjuːʃn",
+    "pos": "n.",
+    "zh": "报应；惩罚",
+    "ex": "He feared retribution from those he had exposed in the report.",
+    "exzh": "他担心遭到那些被他在报告中曝光的人的报复。"
+  },
+  {
+    "w": "retrograde",
+    "ph": "ˈretrəɡreɪd",
+    "pos": "adj.",
+    "zh": "倒退的；退步的",
+    "ex": "Critics called the new policy a retrograde step for women's rights.",
+    "exzh": "批评者称这项新政策是女性权利的倒退。"
+  },
+  {
+    "w": "reverberate",
+    "ph": "rɪˈvɜːrbəreɪt",
+    "pos": "v.",
+    "zh": "回荡；引起强烈反响",
+    "ex": "The scandal reverberated through the entire publishing industry for months.",
+    "exzh": "这桩丑闻在整个出版业引发了数月的强烈反响。"
+  },
+  {
+    "w": "revile",
+    "ph": "rɪˈvaɪl",
+    "pos": "v.",
+    "zh": "辱骂；痛斥",
+    "ex": "The reformer was reviled by newspapers that had once praised her.",
+    "exzh": "这位改革者遭到曾赞扬过她的报纸的痛斥。"
+  },
+  {
+    "w": "revitalize",
+    "ph": "riːˈvaɪtəlaɪz",
+    "pos": "v.",
+    "zh": "使复兴；使恢复生机",
+    "ex": "Tax incentives helped revitalize the old industrial district downtown.",
+    "exzh": "税收优惠帮助市中心的旧工业区恢复了生机。"
+  },
+  {
+    "w": "rueful",
+    "ph": "ˈruːfl",
+    "pos": "adj.",
+    "zh": "懊悔的；悲伤的",
+    "ex": "He gave a rueful smile when asked about his failed startup.",
+    "exzh": "被问及失败的创业时，他露出懊悔的微笑。"
+  },
+  {
+    "w": "ruminate",
+    "ph": "ˈruːmɪneɪt",
+    "pos": "v.",
+    "zh": "沉思；反复思考",
+    "ex": "She ruminated on the offer for days before replying.",
+    "exzh": "她对这份提议反复思考了好几天才回复。"
+  },
+  {
+    "w": "ruse",
+    "ph": "ruːz",
+    "pos": "n.",
+    "zh": "诡计；计策",
+    "ex": "The fake illness was merely a ruse to avoid questioning.",
+    "exzh": "那场假病只是为了逃避审问的计策。"
+  },
+  {
+    "w": "rustic",
+    "ph": "ˈrʌstɪk",
+    "pos": "adj.",
+    "zh": "乡村的；质朴的",
+    "ex": "They rented a rustic cottage with no electricity or running water.",
+    "exzh": "他们租了一间没有电和自来水的乡间小屋。"
+  },
+  {
+    "w": "sacrosanct",
+    "ph": "ˈsækroʊsæŋkt",
+    "pos": "adj.",
+    "zh": "神圣不可侵犯的",
+    "ex": "In many cultures, the family home remains sacrosanct and cannot be sold.",
+    "exzh": "在许多文化中，家族住宅神圣不可侵犯，不能出售。"
+  },
+  {
+    "w": "sagacious",
+    "ph": "səˈɡeɪʃəs",
+    "pos": "adj.",
+    "zh": "睿智的；精明的",
+    "ex": "The sagacious judge saw through the lawyer's theatrical performance.",
+    "exzh": "这位睿智的法官看穿了律师的戏剧化表演。"
+  },
+  {
+    "w": "salubrious",
+    "ph": "səˈluːbriəs",
+    "pos": "adj.",
+    "zh": "有益健康的；宜人的",
+    "ex": "The town's salubrious climate attracted patients with lung disease.",
+    "exzh": "这座小镇宜人的气候吸引了肺病患者。"
+  },
+  {
+    "w": "salutary",
+    "ph": "ˈsæljəteri",
+    "pos": "adj.",
+    "zh": "有益的；有教益的",
+    "ex": "The failure proved a salutary lesson in humility for the team.",
+    "exzh": "这次失败给团队上了关于谦逊的有益一课。"
+  },
+  {
+    "w": "sanctimonious",
+    "ph": "ˌsæŋktɪˈmoʊniəs",
+    "pos": "adj.",
+    "zh": "伪善的；道貌岸然的",
+    "ex": "His sanctimonious sermons about thrift annoyed even his own family.",
+    "exzh": "他那套关于节俭的伪善说教连他自己的家人都厌烦。"
+  },
+  {
+    "w": "sanguine",
+    "ph": "ˈsæŋɡwɪn",
+    "pos": "adj.",
+    "zh": "乐观的；自信的",
+    "ex": "Analysts remain sanguine about the region's long-term economic prospects.",
+    "exzh": "分析人士对该地区的长期经济前景仍持乐观态度。"
+  },
+  {
+    "w": "sardonic",
+    "ph": "sɑːrˈdɑːnɪk",
+    "pos": "adj.",
+    "zh": "讥讽的；冷笑的",
+    "ex": "She responded to the praise with a sardonic, almost dismissive smile.",
+    "exzh": "面对赞扬，她报以讥讽而近乎不屑的微笑。"
+  },
+  {
+    "w": "satiate",
+    "ph": "ˈseɪʃieɪt",
+    "pos": "v.",
+    "zh": "使满足；使厌腻",
+    "ex": "No amount of publicity could satiate his appetite for recognition.",
+    "exzh": "再多的宣传也无法满足他对认可的渴求。"
+  },
+  {
+    "w": "savor",
+    "ph": "ˈseɪvər",
+    "pos": "v.",
+    "zh": "品味；享受；细细体会",
+    "ex": "He savored the quiet morning before the office filled with people.",
+    "exzh": "他享受着办公室人满之前的宁静清晨。"
+  },
+  {
+    "w": "scathing",
+    "ph": "ˈskeɪðɪŋ",
+    "pos": "adj.",
+    "zh": "严厉的；尖刻的",
+    "ex": "The review was scathing about the director's careless historical errors.",
+    "exzh": "这篇评论严厉批评了导演在历史细节上的粗心错误。"
+  },
+  {
+    "w": "scurrilous",
+    "ph": "ˈskɜːrələs",
+    "pos": "adj.",
+    "zh": "诽谤的；粗俗的",
+    "ex": "The magazine published scurrilous rumors about the minister's private life.",
+    "exzh": "该杂志刊登了关于部长私生活的诽谤性谣言。"
+  },
+  {
+    "w": "sedate",
+    "ph": "sɪˈdeɪt",
+    "pos": "adj./v.",
+    "zh": "沉静的；给…服镇静剂",
+    "ex": "The sedate village wakes early and closes its shops by eight.",
+    "exzh": "这个宁静的村庄早起，商店八点前就关门了。"
+  },
+  {
+    "w": "sedition",
+    "ph": "sɪˈdɪʃn",
+    "pos": "n.",
+    "zh": "煽动叛乱；叛乱",
+    "ex": "The pamphlet was condemned as sedition and publicly burned.",
+    "exzh": "这本小册子被斥为煽动叛乱之物并被当众焚烧。"
+  },
+  {
+    "w": "seminal",
+    "ph": "ˈsemɪnl",
+    "pos": "adj.",
+    "zh": "开创性的；有重大影响的",
+    "ex": "Her seminal paper on memory changed the direction of psychology.",
+    "exzh": "她那篇关于记忆的开创性论文改变了心理学的发展方向。"
+  },
+  {
+    "w": "sequester",
+    "ph": "sɪˈkwestər",
+    "pos": "v.",
+    "zh": "隔离；扣押",
+    "ex": "Judges may sequester jurors to prevent outside influence during trials.",
+    "exzh": "法官可以隔离陪审员，以防审判期间受到外界影响。"
+  },
+  {
+    "w": "serendipity",
+    "ph": "ˌserənˈdɪpəti",
+    "pos": "n.",
+    "zh": "意外发现；机缘巧合",
+    "ex": "The discovery of the drug was pure serendipity rather than design.",
+    "exzh": "这种药物的发现纯属机缘巧合，而非有意设计。"
+  },
+  {
+    "w": "servile",
+    "ph": "ˈsɜːrvaɪl",
+    "pos": "adj.",
+    "zh": "奴性的；卑躬屈膝的",
+    "ex": "His servile flattery impressed nobody at the negotiating table.",
+    "exzh": "他在谈判桌上那套奴颜婢膝的奉承没能打动任何人。"
+  },
+  {
+    "w": "sobriety",
+    "ph": "səˈbraɪəti",
+    "pos": "n.",
+    "zh": "清醒；节制；庄重",
+    "ex": "He celebrated ten years of sobriety with a quiet family dinner.",
+    "exzh": "他以一顿安静的家庭晚餐庆祝自己戒酒十年。"
+  },
+  {
+    "w": "solicitous",
+    "ph": "səˈlɪsɪtəs",
+    "pos": "adj.",
+    "zh": "关切的；体贴的",
+    "ex": "The solicitous nurse checked on the patient every twenty minutes.",
+    "exzh": "这位体贴的护士每二十分钟查看一次病人。"
+  },
+  {
+    "w": "soporific",
+    "ph": "ˌsɑːpəˈrɪfɪk",
+    "pos": "adj.",
+    "zh": "催眠的；使人昏昏欲睡的",
+    "ex": "The lecture's soporific tone put half the audience to sleep.",
+    "exzh": "讲座那催眠的语调让半数听众睡着了。"
+  },
+  {
+    "w": "specious",
+    "ph": "ˈspiːʃəs",
+    "pos": "adj.",
+    "zh": "似是而非的；虚假的",
+    "ex": "The argument sounds reasonable but rests on specious statistics.",
+    "exzh": "这个论点听起来合理，却建立在似是而非的统计数据上。"
+  },
+  {
+    "w": "spendthrift",
+    "ph": "ˈspendθrɪft",
+    "pos": "n./adj.",
+    "zh": "挥霍者；挥霍的",
+    "ex": "The spendthrift heir sold the family estate within five years.",
+    "exzh": "这个挥霍成性的继承人五年内就卖掉了家族庄园。"
+  },
+  {
+    "w": "spurious",
+    "ph": "ˈspjʊriəs",
+    "pos": "adj.",
+    "zh": "虚假的；伪造的",
+    "ex": "The paper retracted the study after discovering spurious data.",
+    "exzh": "发现数据虚假后，该期刊撤回了这项研究。"
+  },
+  {
+    "w": "spurn",
+    "ph": "spɜːrn",
+    "pos": "v.",
+    "zh": "拒绝；轻蔑地拒绝",
+    "ex": "She spurned every job offer that required moving abroad.",
+    "exzh": "她拒绝了每一份需要移居国外的工作邀请。"
+  },
+  {
+    "w": "squalid",
+    "ph": "ˈskwɑːlɪd",
+    "pos": "adj.",
+    "zh": "肮脏的；卑劣的",
+    "ex": "Workers were housed in squalid rooms without heating or windows.",
+    "exzh": "工人们被安置在没有暖气、没有窗户的肮脏房间里。"
+  },
+  {
+    "w": "stalwart",
+    "ph": "ˈstɔːlwərt",
+    "pos": "adj./n.",
+    "zh": "坚定的；忠诚的支持者",
+    "ex": "The senator remained a stalwart defender of public education.",
+    "exzh": "这位参议员始终是公共教育的坚定捍卫者。"
+  },
+  {
+    "w": "staunch",
+    "ph": "stɔːntʃ",
+    "pos": "adj.",
+    "zh": "坚定的；忠诚的",
+    "ex": "She is a staunch opponent of privatizing the water supply.",
+    "exzh": "她坚决反对供水私有化。"
+  },
+  {
+    "w": "stoic",
+    "ph": "ˈstoʊɪk",
+    "pos": "adj.",
+    "zh": "坚忍的；禁欲的",
+    "ex": "He remained stoic as the doctors described the difficult treatment.",
+    "exzh": "医生描述艰难的治疗方案时，他始终坚忍不语。"
+  },
+  {
+    "w": "strident",
+    "ph": "ˈstraɪdnt",
+    "pos": "adj.",
+    "zh": "刺耳的；尖锐的",
+    "ex": "Her strident criticism alienated colleagues who might have helped.",
+    "exzh": "她尖锐的批评疏远了本可以帮助她的同事。"
+  },
+  {
+    "w": "subterfuge",
+    "ph": "ˈsʌbtərfjuːdʒ",
+    "pos": "n.",
+    "zh": "诡计；托词；掩饰",
+    "ex": "The company used legal subterfuge to avoid paying compensation.",
+    "exzh": "这家公司用法律上的诡计来逃避支付赔偿。"
+  },
+  {
+    "w": "succinct",
+    "ph": "səkˈsɪŋkt",
+    "pos": "adj.",
+    "zh": "简洁的；简明的",
+    "ex": "His succinct summary captured the report in three short sentences.",
+    "exzh": "他用三句简短的话概括了这份报告，十分简洁。"
+  },
+  {
+    "w": "sundry",
+    "ph": "ˈsʌndri",
+    "pos": "adj.",
+    "zh": "各种的；杂多的",
+    "ex": "The stall sells herbs, spices, and sundry household goods.",
+    "exzh": "那个摊位出售香草、香料和各种家用物品。"
+  },
+  {
+    "w": "supersede",
+    "ph": "ˌsuːpərˈsiːd",
+    "pos": "v.",
+    "zh": "取代；代替",
+    "ex": "Email has largely superseded formal letters in everyday business.",
+    "exzh": "在日常商务中，电子邮件已大体取代了正式信函。"
+  },
+  {
+    "w": "supplant",
+    "ph": "səˈplænt",
+    "pos": "v.",
+    "zh": "取代；排挤",
+    "ex": "Automated systems gradually supplanted the clerks who once ran the office.",
+    "exzh": "自动化系统逐渐取代了曾经管理办公室的职员。"
+  },
+  {
+    "w": "surreptitious",
+    "ph": "ˌsɜːrəpˈtɪʃəs",
+    "pos": "adj.",
+    "zh": "秘密的；偷偷摸摸的",
+    "ex": "He took a surreptitious glance at the confidential file.",
+    "exzh": "他偷偷瞟了一眼那份机密文件。"
+  },
+  {
+    "w": "sycophant",
+    "ph": "ˈsɪkəfænt",
+    "pos": "n.",
+    "zh": "谄媚者；奉承者",
+    "ex": "The ruler surrounded himself with sycophants who never disagreed.",
+    "exzh": "这位统治者身边尽是些从不表示异议的谄媚者。"
+  },
+  {
+    "w": "tacit",
+    "ph": "ˈtæsɪt",
+    "pos": "adj.",
+    "zh": "默许的；不言而喻的",
+    "ex": "Their arrangement rested on a tacit agreement never put in writing.",
+    "exzh": "他们的合作建立在从未写下来的默契之上。"
+  },
+  {
+    "w": "taciturn",
+    "ph": "ˈtæsɪtɜːrn",
+    "pos": "adj.",
+    "zh": "沉默寡言的",
+    "ex": "The taciturn farmer answered questions with a nod or a shrug.",
+    "exzh": "这位沉默寡言的农民只用点头或耸肩回答问题。"
+  },
+  {
+    "w": "temerity",
+    "ph": "təˈmerəti",
+    "pos": "n.",
+    "zh": "鲁莽；冒失",
+    "ex": "He had the temerity to question the chairman's figures publicly.",
+    "exzh": "他竟鲁莽地当众质疑主席的数据。"
+  },
+  {
+    "w": "tepid",
+    "ph": "ˈtepɪd",
+    "pos": "adj.",
+    "zh": "微温的；不热情的",
+    "ex": "The audience gave the performance a tepid round of applause.",
+    "exzh": "观众对这场演出报以冷淡的掌声。"
+  },
+  {
+    "w": "terse",
+    "ph": "tɜːrs",
+    "pos": "adj.",
+    "zh": "简洁的；简短生硬的",
+    "ex": "Her terse reply suggested the discussion was already over.",
+    "exzh": "她那简短生硬的回答表明讨论已经结束了。"
+  },
+  {
+    "w": "tirade",
+    "ph": "ˈtaɪreɪd",
+    "pos": "n.",
+    "zh": "长篇激烈演说；痛骂",
+    "ex": "The coach launched into a tirade about missed tackles.",
+    "exzh": "教练就漏掉的擒抱开始了一通痛骂。"
+  },
+  {
+    "w": "torpid",
+    "ph": "ˈtɔːrpɪd",
+    "pos": "adj.",
+    "zh": "迟钝的；懒散的；麻木的",
+    "ex": "The torpid economy showed no sign of recovery last quarter.",
+    "exzh": "上个季度，这个死气沉沉的经济体没有任何复苏迹象。"
+  },
+  {
+    "w": "tractable",
+    "ph": "ˈtræktəbl",
+    "pos": "adj.",
+    "zh": "易处理的；温顺的",
+    "ex": "The problem looks intractable but becomes tractable once properly defined.",
+    "exzh": "这个问题看似难解，一旦界定清楚就变得容易处理。"
+  },
+  {
+    "w": "travesty",
+    "ph": "ˈtrævəsti",
+    "pos": "n.",
+    "zh": "滑稽模仿；歪曲；嘲弄",
+    "ex": "The trial was a travesty of justice from the very start.",
+    "exzh": "这场审判从一开始就是对正义的嘲弄。"
+  },
+  {
+    "w": "trenchant",
+    "ph": "ˈtrentʃənt",
+    "pos": "adj.",
+    "zh": "犀利的；尖锐的",
+    "ex": "Her trenchant analysis exposed the weaknesses in the government's case.",
+    "exzh": "她犀利的分析揭露了政府论据中的薄弱之处。"
+  },
+  {
+    "w": "tribulation",
+    "ph": "ˌtrɪbjuˈleɪʃn",
+    "pos": "n.",
+    "zh": "苦难；磨难",
+    "ex": "The memoir recounts the tribulations of a refugee family.",
+    "exzh": "这部回忆录讲述了一个难民家庭的种种磨难。"
+  },
+  {
+    "w": "truculent",
+    "ph": "ˈtrʌkjələnt",
+    "pos": "adj.",
+    "zh": "好斗的；凶狠的",
+    "ex": "The truculent demonstrators refused to negotiate with the police.",
+    "exzh": "好斗的示威者拒绝与警方谈判。"
+  },
+  {
+    "w": "turbid",
+    "ph": "ˈtɜːrbɪd",
+    "pos": "adj.",
+    "zh": "浑浊的；混乱的",
+    "ex": "The turbid river water carried sediment from upstream farms.",
+    "exzh": "浑浊的河水夹带着上游农田的泥沙。"
+  },
+  {
+    "w": "turgid",
+    "ph": "ˈtɜːrdʒɪd",
+    "pos": "adj.",
+    "zh": "肿胀的；浮夸的",
+    "ex": "The essay's turgid prose buried a few genuinely interesting ideas.",
+    "exzh": "这篇文章浮夸的文风掩盖了几个真正有趣的观点。"
+  },
+  {
+    "w": "ubiquitous",
+    "ph": "juːˈbɪkwɪtəs",
+    "pos": "adj.",
+    "zh": "无处不在的；普遍存在的",
+    "ex": "Smartphones have become ubiquitous in classrooms, offices, and buses.",
+    "exzh": "智能手机在教室、办公室和公交车上已无处不在。"
+  },
+  {
+    "w": "umbrage",
+    "ph": "ˈʌmbrɪdʒ",
+    "pos": "n.",
+    "zh": "愤怒；不快；冒犯",
+    "ex": "He took umbrage at the suggestion that his methods were outdated.",
+    "exzh": "有人暗示他的方法过时，他对此感到不快。"
+  },
+  {
+    "w": "unanimity",
+    "ph": "ˌjuːnəˈnɪməti",
+    "pos": "n.",
+    "zh": "一致同意；全体一致",
+    "ex": "The board reached unanimity after two hours of heated debate.",
+    "exzh": "经过两小时激烈辩论，董事会达成了一致。"
+  },
+  {
+    "w": "unctuous",
+    "ph": "ˈʌŋktʃuəs",
+    "pos": "adj.",
+    "zh": "油腔滑调的；油腻的",
+    "ex": "The salesman's unctuous manner made customers suspicious rather than reassured.",
+    "exzh": "推销员油腔滑调的样子让顾客心生怀疑，而非安心。"
+  },
+  {
+    "w": "undulate",
+    "ph": "ˈʌndʒəleɪt",
+    "pos": "v.",
+    "zh": "波动；起伏",
+    "ex": "The wheat fields undulate gently across the wide valley.",
+    "exzh": "麦田在宽阔的山谷中轻柔起伏。"
+  },
+  {
+    "w": "unfeigned",
+    "ph": "ʌnˈfeɪnd",
+    "pos": "adj.",
+    "zh": "真诚的；不假装的",
+    "ex": "Her unfeigned delight at the news surprised everyone.",
+    "exzh": "她对这个消息发自内心的喜悦让所有人都感到意外。"
+  },
+  {
+    "w": "unimpeachable",
+    "ph": "ˌʌnɪmˈpiːtʃəbl",
+    "pos": "adj.",
+    "zh": "无可指责的；无懈可击的",
+    "ex": "His record on environmental issues is not entirely unimpeachable.",
+    "exzh": "他在环境问题上的记录并非完全无懈可击。"
+  },
+  {
+    "w": "unwieldy",
+    "ph": "ʌnˈwiːldi",
+    "pos": "adj.",
+    "zh": "笨重的；臃肿难办的",
+    "ex": "The unwieldy bureaucracy delayed approval for nearly two years.",
+    "exzh": "臃肿的官僚机构把审批拖延了近两年。"
+  },
+  {
+    "w": "upbraid",
+    "ph": "ʌpˈbreɪd",
+    "pos": "v.",
+    "zh": "责骂；训斥",
+    "ex": "The manager upbraided the staff for ignoring safety procedures.",
+    "exzh": "经理训斥员工无视安全规程。"
+  },
+  {
+    "w": "usurp",
+    "ph": "juˈzɜːrp",
+    "pos": "v.",
+    "zh": "篡夺；侵占",
+    "ex": "The general attempted to usurp power while the president was abroad.",
+    "exzh": "总统出国期间，这位将军试图篡夺权力。"
+  },
+  {
+    "w": "utilitarian",
+    "ph": "ˌjuːtɪlɪˈteriən",
+    "pos": "adj.",
+    "zh": "实用的；功利主义的",
+    "ex": "The building's utilitarian design values efficiency over beauty.",
+    "exzh": "这栋楼实用的设计更看重效率而非美观。"
+  },
+  {
+    "w": "vacuous",
+    "ph": "ˈvækjuəs",
+    "pos": "adj.",
+    "zh": "空洞的；无思想的",
+    "ex": "The interview was full of vacuous phrases about synergy and growth.",
+    "exzh": "那次采访满是关于协同与增长的空洞套话。"
+  },
+  {
+    "w": "vagary",
+    "ph": "ˈveɪɡəri",
+    "pos": "n.",
+    "zh": "奇想；变幻莫测",
+    "ex": "Farmers must cope with the vagaries of weather and market prices.",
+    "exzh": "农民必须应对天气和市场价格的变化无常。"
+  },
+  {
+    "w": "vanquish",
+    "ph": "ˈvæŋkwɪʃ",
+    "pos": "v.",
+    "zh": "征服；战胜",
+    "ex": "The young champion vanquished three seasoned players in one afternoon.",
+    "exzh": "这位年轻冠军一个下午就战胜了三位老练选手。"
+  },
+  {
+    "w": "vapid",
+    "ph": "ˈvæpɪd",
+    "pos": "adj.",
+    "zh": "乏味的；无生气的",
+    "ex": "The sequel felt vapid, repeating jokes without adding anything new.",
+    "exzh": "这部续集乏味空洞，重复着老笑话却毫无新意。"
+  },
+  {
+    "w": "veer",
+    "ph": "vɪr",
+    "pos": "v.",
+    "zh": "转向；改变方向",
+    "ex": "The conversation veered from economics to childhood memories.",
+    "exzh": "谈话从经济学转向了童年回忆。"
+  },
+  {
+    "w": "venal",
+    "ph": "ˈviːnl",
+    "pos": "adj.",
+    "zh": "贪财的；腐败的",
+    "ex": "The venal official accepted bribes in exchange for building permits.",
+    "exzh": "这名腐败的官员收受贿赂，以换取建筑许可。"
+  },
+  {
+    "w": "veracity",
+    "ph": "vəˈræsəti",
+    "pos": "n.",
+    "zh": "真实性；诚实",
+    "ex": "Reporters questioned the veracity of the company's public statements.",
+    "exzh": "记者质疑该公司公开声明的真实性。"
+  },
+  {
+    "w": "verdant",
+    "ph": "ˈvɜːrdnt",
+    "pos": "adj.",
+    "zh": "翠绿的；青葱的",
+    "ex": "The verdant hills contrast sharply with the dry coastal plain.",
+    "exzh": "翠绿的山丘与干燥的沿海平原形成鲜明对比。"
+  },
+  {
+    "w": "veritable",
+    "ph": "ˈverɪtəbl",
+    "pos": "adj.",
+    "zh": "名副其实的；真正的",
+    "ex": "The archive is a veritable treasure house of local history.",
+    "exzh": "这座档案馆堪称地方史的名副其实的宝库。"
+  },
+  {
+    "w": "vindictive",
+    "ph": "vɪnˈdɪktɪv",
+    "pos": "adj.",
+    "zh": "报复性的；怀恨的",
+    "ex": "His vindictive campaign against former allies damaged his reputation.",
+    "exzh": "他对昔日盟友的报复性攻击损害了自己的声誉。"
+  },
+  {
+    "w": "virulent",
+    "ph": "ˈvɪrələnt",
+    "pos": "adj.",
+    "zh": "剧毒的；恶毒的；猛烈的",
+    "ex": "The virulent strain spread quickly through crowded dormitories.",
+    "exzh": "这种毒性极强的菌株在拥挤的宿舍里迅速传播。"
+  },
+  {
+    "w": "viscous",
+    "ph": "ˈvɪskəs",
+    "pos": "adj.",
+    "zh": "粘稠的；粘性的",
+    "ex": "The viscous liquid clogs the pipes unless it is heated.",
+    "exzh": "这种粘稠液体不加热就会堵塞管道。"
+  },
+  {
+    "w": "voluble",
+    "ph": "ˈvɑːljəbl",
+    "pos": "adj.",
+    "zh": "健谈的；滔滔不绝的",
+    "ex": "A voluble guide described every stone of the ancient ruin.",
+    "exzh": "一位健谈的导游把古迹的每块石头都讲了一遍。"
+  },
+  {
+    "w": "voracious",
+    "ph": "vəˈreɪʃəs",
+    "pos": "adj.",
+    "zh": "贪婪的；贪吃的",
+    "ex": "The voracious reader finished three novels during the flight.",
+    "exzh": "这位如饥似渴的读者在飞行途中读完了三部小说。"
+  },
+  {
+    "w": "vouchsafe",
+    "ph": "vaʊtʃˈseɪf",
+    "pos": "v.",
+    "zh": "赐予；惠予；允诺",
+    "ex": "The director vouchsafed no explanation for the sudden cancellation.",
+    "exzh": "主任对突然取消一事没有给予任何解释。"
+  },
+  {
+    "w": "whet",
+    "ph": "wet",
+    "pos": "v.",
+    "zh": "刺激；激起；磨快",
+    "ex": "The first chapter whetted my appetite for the rest of the book.",
+    "exzh": "第一章就吊起了我读完整本书的胃口。"
+  },
+  {
+    "w": "wizened",
+    "ph": "ˈwɪznd",
+    "pos": "adj.",
+    "zh": "干瘪的；枯槁的",
+    "ex": "The wizened old sailor told stories of storms and lost ships.",
+    "exzh": "那位干瘦的老水手讲着风暴和失踪船只的故事。"
+  }
+]

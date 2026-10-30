@@ -1,0 +1,7 @@
+dist/stage/
+dist/pack/
+dist/app.zip
+dist/*.idsig
+*.log
+.DS_Store
+Thumbs.db

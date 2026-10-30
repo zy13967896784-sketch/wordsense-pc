@@ -1,0 +1,1786 @@
+[
+  {
+    "w": "abiding",
+    "ph": "əˈbaɪdɪŋ",
+    "pos": "adj.",
+    "zh": "持久的；永恒的",
+    "ex": "She has an abiding interest in classical music.",
+    "exzh": "她对古典音乐有着持久的兴趣。"
+  },
+  {
+    "w": "abolition",
+    "ph": "ˌæbəˈlɪʃn",
+    "pos": "n.",
+    "zh": "废除；废止",
+    "ex": "The abolition of the tax was welcomed by small businesses.",
+    "exzh": "这项税收的废除受到小企业的欢迎。"
+  },
+  {
+    "w": "abrasive",
+    "ph": "əˈbreɪsɪv",
+    "pos": "adj.",
+    "zh": "磨损的；生硬的",
+    "ex": "His abrasive manner often upset new colleagues.",
+    "exzh": "他生硬的态度常常让新同事感到不快。"
+  },
+  {
+    "w": "absorption",
+    "ph": "əbˈzɔːrpʃn",
+    "pos": "n.",
+    "zh": "吸收；专注；合并",
+    "ex": "Plants depend on the absorption of water through their roots.",
+    "exzh": "植物依靠根部吸收水分。"
+  },
+  {
+    "w": "abstention",
+    "ph": "əbˈstenʃn",
+    "pos": "n.",
+    "zh": "弃权；节制",
+    "ex": "Several members explained their abstention from the final vote.",
+    "exzh": "几名成员解释了他们在最终投票中弃权的原因。"
+  },
+  {
+    "w": "abstraction",
+    "ph": "æbˈstrækʃn",
+    "pos": "n.",
+    "zh": "抽象；抽象概念",
+    "ex": "His argument remains an abstraction without concrete supporting evidence.",
+    "exzh": "他的论点缺乏具体证据，仍停留在抽象层面。"
+  },
+  {
+    "w": "accreditation",
+    "ph": "əˌkredɪˈteɪʃn",
+    "pos": "n.",
+    "zh": "认证；资格鉴定",
+    "ex": "The university received accreditation for its new engineering program.",
+    "exzh": "这所大学的新工程专业获得了认证。"
+  },
+  {
+    "w": "acidification",
+    "ph": "əˌsɪdɪfɪˈkeɪʃn",
+    "pos": "n.",
+    "zh": "酸化",
+    "ex": "Ocean acidification threatens coral reefs and many shell-forming species.",
+    "exzh": "海洋酸化威胁着珊瑚礁和许多形成外壳的物种。"
+  },
+  {
+    "w": "acoustic",
+    "ph": "əˈkuːstɪk",
+    "pos": "adj.",
+    "zh": "声学的；听觉的",
+    "ex": "The hall was designed for acoustic performances without amplification.",
+    "exzh": "这座音乐厅是为无需扩音的声学演出而设计的。"
+  },
+  {
+    "w": "acquiesce",
+    "ph": "ˌækwiˈes",
+    "pos": "v.",
+    "zh": "默许；勉强同意",
+    "ex": "She refused to acquiesce in the unfair decision.",
+    "exzh": "她拒绝默许这一不公平的决定。"
+  },
+  {
+    "w": "acrimonious",
+    "ph": "ˌækrɪˈmoʊniəs",
+    "pos": "adj.",
+    "zh": "尖刻的；激烈的",
+    "ex": "The debate became acrimonious after the latest disclosure.",
+    "exzh": "最新披露之后，辩论变得尖刻激烈。"
+  },
+  {
+    "w": "activation",
+    "ph": "ˌæktɪˈveɪʃn",
+    "pos": "n.",
+    "zh": "激活；启动",
+    "ex": "Activation of the alarm system requires a special security code.",
+    "exzh": "启动警报系统需要特殊的安全密码。"
+  },
+  {
+    "w": "adaptability",
+    "ph": "əˌdæptəˈbɪləti",
+    "pos": "n.",
+    "zh": "适应性",
+    "ex": "Adaptability is essential for workers facing rapid technological change.",
+    "exzh": "对于面对快速技术变革的劳动者来说，适应能力至关重要。"
+  },
+  {
+    "w": "adaptation",
+    "ph": "ˌædæpˈteɪʃn",
+    "pos": "n.",
+    "zh": "适应；改编本",
+    "ex": "Climate adaptation requires long-term planning at every government level.",
+    "exzh": "气候适应需要各级政府进行长期规划。"
+  },
+  {
+    "w": "adherence",
+    "ph": "ədˈhɪrəns",
+    "pos": "n.",
+    "zh": "坚持；遵守；黏附",
+    "ex": "Strict adherence to safety rules prevents most workplace accidents.",
+    "exzh": "严格遵守安全规则可以防止大多数工作场所事故。"
+  },
+  {
+    "w": "admonition",
+    "ph": "ˌædməˈnɪʃn",
+    "pos": "n.",
+    "zh": "告诫；警告",
+    "ex": "The teacher's gentle admonition reminded students to submit original work.",
+    "exzh": "老师温和的告诫提醒学生提交原创作品。"
+  },
+  {
+    "w": "advancement",
+    "ph": "ədˈvænsmənt",
+    "pos": "n.",
+    "zh": "进步；提升；促进",
+    "ex": "Scientific advancement often depends on reliable funding and patient research.",
+    "exzh": "科学进步往往取决于可靠的资金和耐心的研究。"
+  },
+  {
+    "w": "affable",
+    "ph": "ˈæfəbl",
+    "pos": "adj.",
+    "zh": "和蔼可亲的",
+    "ex": "The affable manager greeted every visitor with genuine warmth.",
+    "exzh": "这位和蔼的经理真诚热情地迎接每一位访客。"
+  },
+  {
+    "w": "affiliation",
+    "ph": "əˌfɪliˈeɪʃn",
+    "pos": "n.",
+    "zh": "隶属；附属机构",
+    "ex": "Her university affiliation was listed clearly on the conference badge.",
+    "exzh": "她的大学隶属关系清楚地印在会议胸牌上。"
+  },
+  {
+    "w": "afflict",
+    "ph": "əˈflɪkt",
+    "pos": "v.",
+    "zh": "折磨；使痛苦",
+    "ex": "Chronic pain can afflict patients for many years.",
+    "exzh": "慢性疼痛可能折磨患者多年。"
+  },
+  {
+    "w": "affliction",
+    "ph": "əˈflɪkʃn",
+    "pos": "n.",
+    "zh": "痛苦；折磨；苦恼",
+    "ex": "Arthritis became a painful affliction for the aging farmer.",
+    "exzh": "关节炎成了这位年迈农民痛苦的折磨。"
+  },
+  {
+    "w": "affluence",
+    "ph": "ˈæfluəns",
+    "pos": "n.",
+    "zh": "富裕；丰富",
+    "ex": "Growing affluence has changed the eating habits of many families.",
+    "exzh": "日益富裕改变了许多家庭的饮食习惯。"
+  },
+  {
+    "w": "aggravation",
+    "ph": "ˌæɡrəˈveɪʃn",
+    "pos": "n.",
+    "zh": "加重；恶化；烦恼",
+    "ex": "Poor communication caused further aggravation of the existing dispute.",
+    "exzh": "沟通不畅导致现有争端进一步恶化。"
+  },
+  {
+    "w": "agonize",
+    "ph": "ˈæɡənaɪz",
+    "pos": "v.",
+    "zh": "苦苦思索；痛苦",
+    "ex": "He agonized over the choice for several weeks.",
+    "exzh": "他为这个选择苦恼了好几周。"
+  },
+  {
+    "w": "alienation",
+    "ph": "ˌeɪliəˈneɪʃn",
+    "pos": "n.",
+    "zh": "疏远；异化",
+    "ex": "Economic inequality can deepen alienation among young urban workers.",
+    "exzh": "经济不平等可能加深年轻城市工人的疏离感。"
+  },
+  {
+    "w": "allotment",
+    "ph": "əˈlɑːtmənt",
+    "pos": "n.",
+    "zh": "分配；小块土地",
+    "ex": "Each department received a modest allotment of research funds.",
+    "exzh": "每个部门都获得了适量的研究经费。"
+  },
+  {
+    "w": "alternation",
+    "ph": "ˌɔːltərˈneɪʃn",
+    "pos": "n.",
+    "zh": "交替；轮流",
+    "ex": "The alternation of wet and dry seasons shapes local farming.",
+    "exzh": "旱雨季交替影响着当地农业。"
+  },
+  {
+    "w": "ambivalent",
+    "ph": "æmˈbɪvələnt",
+    "pos": "adj.",
+    "zh": "矛盾的；犹豫不决的",
+    "ex": "Many voters remain ambivalent about the proposed tax increase.",
+    "exzh": "许多选民对拟议的增税仍持矛盾态度。"
+  },
+  {
+    "w": "analytical",
+    "ph": "ˌænəˈlɪtɪkl",
+    "pos": "adj.",
+    "zh": "分析的；善于分析的",
+    "ex": "An analytical approach helps researchers separate cause from coincidence.",
+    "exzh": "分析方法有助于研究者把原因与巧合区分开来。"
+  },
+  {
+    "w": "anarchism",
+    "ph": "ˈænərkɪzəm",
+    "pos": "n.",
+    "zh": "无政府主义",
+    "ex": "Anarchism rejects centralized authority in favor of voluntary cooperation.",
+    "exzh": "无政府主义反对中央集权，主张自愿合作。"
+  },
+  {
+    "w": "animated",
+    "ph": "ˈænɪmeɪtɪd",
+    "pos": "adj.",
+    "zh": "活跃的；动画的",
+    "ex": "The professor gave an animated lecture about ancient trade routes.",
+    "exzh": "教授就古代贸易路线做了一场生动的讲座。"
+  },
+  {
+    "w": "annotate",
+    "ph": "ˈænəteɪt",
+    "pos": "v.",
+    "zh": "注释；标注",
+    "ex": "Students annotate the text before the seminar discussion.",
+    "exzh": "学生们在研讨会讨论前给文本作注释。"
+  },
+  {
+    "w": "antagonist",
+    "ph": "ænˈtæɡənɪst",
+    "pos": "n.",
+    "zh": "对手；敌对者",
+    "ex": "The novel's antagonist hides his motives behind charming words.",
+    "exzh": "小说中的反派用动听的话语掩盖自己的动机。"
+  },
+  {
+    "w": "anticipation",
+    "ph": "ænˌtɪsɪˈpeɪʃn",
+    "pos": "n.",
+    "zh": "预期；期待",
+    "ex": "Passengers waited in quiet anticipation for the delayed announcement.",
+    "exzh": "乘客们安静地等待推迟发布的公告。"
+  },
+  {
+    "w": "antiquated",
+    "ph": "ˈæntɪkweɪtɪd",
+    "pos": "adj.",
+    "zh": "过时的；陈旧的",
+    "ex": "The factory still relies on antiquated machinery and unsafe methods.",
+    "exzh": "这家工厂仍依赖过时的机器和不安全的方法。"
+  },
+  {
+    "w": "appease",
+    "ph": "əˈpiːz",
+    "pos": "v.",
+    "zh": "安抚；平息",
+    "ex": "The government lowered taxes to appease angry voters.",
+    "exzh": "政府降低税收以安抚愤怒的选民。"
+  },
+  {
+    "w": "applicability",
+    "ph": "əˌplɪkəˈbɪləti",
+    "pos": "n.",
+    "zh": "适用性；实用性",
+    "ex": "Researchers questioned the applicability of these results to rural schools.",
+    "exzh": "研究人员质疑这些结果对农村学校的适用性。"
+  },
+  {
+    "w": "approximation",
+    "ph": "əˌprɑːksɪˈmeɪʃn",
+    "pos": "n.",
+    "zh": "近似值；接近",
+    "ex": "The map offers only a rough approximation of the mountain trail.",
+    "exzh": "这张地图只是对山间小径的粗略近似。"
+  },
+  {
+    "w": "archaeology",
+    "ph": "ˌɑːrkiˈɑːlədʒi",
+    "pos": "n.",
+    "zh": "考古学",
+    "ex": "Modern archaeology relies on careful excavation and laboratory analysis.",
+    "exzh": "现代考古学依赖细致的发掘和实验室分析。"
+  },
+  {
+    "w": "aristocracy",
+    "ph": "ˌærɪˈstɑːkrəsi",
+    "pos": "n.",
+    "zh": "贵族；贵族统治",
+    "ex": "The old aristocracy gradually lost influence after the revolution.",
+    "exzh": "革命后，旧贵族逐渐失去了影响力。"
+  },
+  {
+    "w": "articulation",
+    "ph": "ɑːrˌtɪkjuˈleɪʃn",
+    "pos": "n.",
+    "zh": "表达；发音；关节",
+    "ex": "Clear articulation of goals helps teams avoid unnecessary conflict.",
+    "exzh": "清晰表达目标有助于团队避免不必要的冲突。"
+  },
+  {
+    "w": "assassination",
+    "ph": "əˌsæsɪˈneɪʃn",
+    "pos": "n.",
+    "zh": "暗杀",
+    "ex": "The assassination shocked the nation and changed its political future.",
+    "exzh": "这起暗杀震惊全国，改变了国家的政治未来。"
+  },
+  {
+    "w": "assertion",
+    "ph": "əˈzɜːrʃn",
+    "pos": "n.",
+    "zh": "断言；主张",
+    "ex": "Her assertion about falling crime rates lacked reliable statistical support.",
+    "exzh": "她关于犯罪率下降的说法缺乏可靠的统计支持。"
+  },
+  {
+    "w": "assiduous",
+    "ph": "əˈsɪdʒuəs",
+    "pos": "adj.",
+    "zh": "勤奋的；一丝不苟的",
+    "ex": "Assiduous research uncovered several overlooked documents.",
+    "exzh": "勤奋的研究发现了数份被忽视的文件。"
+  },
+  {
+    "w": "astonishment",
+    "ph": "əˈstɑːnɪʃmənt",
+    "pos": "n.",
+    "zh": "惊讶；惊奇",
+    "ex": "To everyone's astonishment, the tiny startup won the contract.",
+    "exzh": "令所有人惊讶的是，这家小型初创公司赢得了合同。"
+  },
+  {
+    "w": "audacious",
+    "ph": "ɔːˈdeɪʃəs",
+    "pos": "adj.",
+    "zh": "大胆的；无畏的",
+    "ex": "It was an audacious plan, but it eventually succeeded.",
+    "exzh": "这是一个大胆的计划，但最终成功了。"
+  },
+  {
+    "w": "authenticity",
+    "ph": "ˌɔːθenˈtɪsəti",
+    "pos": "n.",
+    "zh": "真实性；可靠性",
+    "ex": "Scholars questioned the authenticity of the newly discovered letter.",
+    "exzh": "学者们质疑这封新发现信件的真实性。"
+  },
+  {
+    "w": "authorization",
+    "ph": "ˌɔːθərəˈzeɪʃn",
+    "pos": "n.",
+    "zh": "授权；批准",
+    "ex": "Any use of personal data requires explicit authorization from the owner.",
+    "exzh": "使用个人数据必须获得所有者的明确授权。"
+  },
+  {
+    "w": "avoidance",
+    "ph": "əˈvɔɪdəns",
+    "pos": "n.",
+    "zh": "避免；回避",
+    "ex": "Tax avoidance through legal loopholes attracts growing public criticism.",
+    "exzh": "利用法律漏洞避税正招致越来越多的公众批评。"
+  },
+  {
+    "w": "awareness",
+    "ph": "əˈwernəs",
+    "pos": "n.",
+    "zh": "意识；认识",
+    "ex": "Public awareness of plastic pollution has increased sharply.",
+    "exzh": "公众对塑料污染的认识已显著提高。"
+  },
+  {
+    "w": "backfire",
+    "ph": "ˈbækfaɪər",
+    "pos": "v.",
+    "zh": "适得其反；回火",
+    "ex": "The cost-cutting plan backfired when quality collapsed.",
+    "exzh": "削减成本的计划因质量崩塌而适得其反。"
+  },
+  {
+    "w": "bandwidth",
+    "ph": "ˈbændwɪdθ",
+    "pos": "n.",
+    "zh": "带宽；频宽",
+    "ex": "Streaming high-definition video consumes a large amount of bandwidth.",
+    "exzh": "流媒体高清视频消耗大量带宽。"
+  },
+  {
+    "w": "banishment",
+    "ph": "ˈbænɪʃmənt",
+    "pos": "n.",
+    "zh": "流放；驱逐",
+    "ex": "The writer spent years in banishment after criticizing the regime.",
+    "exzh": "这位作家批评政权后多年流亡在外。"
+  },
+  {
+    "w": "barometer",
+    "ph": "bəˈrɑːmɪtər",
+    "pos": "n.",
+    "zh": "气压计；晴雨表",
+    "ex": "Consumer spending is often treated as a barometer of confidence.",
+    "exzh": "消费者支出常被视为信心的晴雨表。"
+  },
+  {
+    "w": "begrudge",
+    "ph": "bɪˈɡrʌdʒ",
+    "pos": "v.",
+    "zh": "嫉妒；吝惜",
+    "ex": "Few parents begrudge the money spent on their children.",
+    "exzh": "很少有父母吝惜花在孩子身上的钱。"
+  },
+  {
+    "w": "behavioral",
+    "ph": "bɪˈheɪvjərəl",
+    "pos": "adj.",
+    "zh": "行为的；行为学的",
+    "ex": "Behavioral studies show how small incentives influence daily decisions.",
+    "exzh": "行为研究表明小激励如何影响日常决策。"
+  },
+  {
+    "w": "beneficiary",
+    "ph": "ˌbenɪˈfɪʃieri",
+    "pos": "n.",
+    "zh": "受益人",
+    "ex": "The main beneficiary of the new policy is low-income families.",
+    "exzh": "新政策的主要受益者是低收入家庭。"
+  },
+  {
+    "w": "berate",
+    "ph": "bɪˈreɪt",
+    "pos": "v.",
+    "zh": "严厉斥责",
+    "ex": "The manager publicly berated the team for missing the deadline.",
+    "exzh": "经理因团队错过截止日期而公开斥责他们。"
+  },
+  {
+    "w": "beseech",
+    "ph": "bɪˈsiːtʃ",
+    "pos": "v.",
+    "zh": "恳求；哀求",
+    "ex": "The villagers beseeched the council to protect the ancient forest.",
+    "exzh": "村民们恳求委员会保护这片古老的森林。"
+  },
+  {
+    "w": "betrayal",
+    "ph": "bɪˈtreɪəl",
+    "pos": "n.",
+    "zh": "背叛；出卖",
+    "ex": "The disclosure felt like a betrayal of trust to many employees.",
+    "exzh": "这一披露让许多员工觉得信任被背叛了。"
+  },
+  {
+    "w": "bewilderment",
+    "ph": "bɪˈwɪldərmənt",
+    "pos": "n.",
+    "zh": "困惑；迷惘",
+    "ex": "She stared at the complex instructions in complete bewilderment.",
+    "exzh": "她完全困惑地盯着复杂的说明。"
+  },
+  {
+    "w": "biological",
+    "ph": "ˌbaɪəˈlɑːdʒɪkl",
+    "pos": "adj.",
+    "zh": "生物的；生物学的",
+    "ex": "Biological research has transformed our understanding of inherited disease.",
+    "exzh": "生物学研究改变了我们对遗传病的理解。"
+  },
+  {
+    "w": "biotechnology",
+    "ph": "ˌbaɪoʊtekˈnɑːlədʒi",
+    "pos": "n.",
+    "zh": "生物技术",
+    "ex": "Biotechnology may offer new solutions to food and medicine shortages.",
+    "exzh": "生物技术可能为粮食和药品短缺提供新方案。"
+  },
+  {
+    "w": "blight",
+    "ph": "ˈblaɪt",
+    "pos": "v.",
+    "zh": "损害；使枯萎",
+    "ex": "Poverty can blight the lives of an entire generation.",
+    "exzh": "贫困可能毁掉整整一代人的生活。"
+  },
+  {
+    "w": "bourgeois",
+    "ph": "ˌbʊrˈʒwɑː",
+    "pos": "adj./n.",
+    "zh": "资产阶级的；中产阶级",
+    "ex": "Critics described the novel as a portrait of bourgeois family life.",
+    "exzh": "评论家称这部小说描绘了资产阶级家庭生活。"
+  },
+  {
+    "w": "breathtaking",
+    "ph": "ˈbreθteɪkɪŋ",
+    "pos": "adj.",
+    "zh": "令人惊叹的；惊人的",
+    "ex": "The view from the summit was absolutely breathtaking at sunrise.",
+    "exzh": "日出时从山顶看到的景色令人叹为观止。"
+  },
+  {
+    "w": "calibration",
+    "ph": "ˌkælɪˈbreɪʃn",
+    "pos": "n.",
+    "zh": "校准；刻度",
+    "ex": "Regular calibration keeps the laboratory instruments accurate and reliable.",
+    "exzh": "定期校准可保持实验室仪器准确可靠。"
+  },
+  {
+    "w": "callous",
+    "ph": "ˈkæləs",
+    "pos": "adj.",
+    "zh": "冷酷的；无情的",
+    "ex": "His callous response to the accident angered many people.",
+    "exzh": "他对事故的冷酷回应激怒了许多人。"
+  },
+  {
+    "w": "canon",
+    "ph": "ˈkænən",
+    "pos": "n.",
+    "zh": "准则；经典；教规",
+    "ex": "These essays form part of the canon of political thought.",
+    "exzh": "这些文章构成了政治思想经典的一部分。"
+  },
+  {
+    "w": "capability",
+    "ph": "ˌkeɪpəˈbɪləti",
+    "pos": "n.",
+    "zh": "能力；性能",
+    "ex": "The new telescope has the capability to detect distant galaxies.",
+    "exzh": "新望远镜有能力探测遥远的星系。"
+  },
+  {
+    "w": "capitalist",
+    "ph": "ˈkæpɪtəlɪst",
+    "pos": "n./adj.",
+    "zh": "资本家；资本主义的",
+    "ex": "Capitalist economies depend on private investment and competitive markets.",
+    "exzh": "资本主义经济依赖私人投资和竞争性市场。"
+  },
+  {
+    "w": "capitalization",
+    "ph": "ˌkæpɪtələˈzeɪʃn",
+    "pos": "n.",
+    "zh": "资本化；大写",
+    "ex": "Market capitalization fell sharply after the disappointing earnings report.",
+    "exzh": "令人失望的财报发布后，市值大幅下跌。"
+  },
+  {
+    "w": "capitulate",
+    "ph": "kəˈpɪtʃuleɪt",
+    "pos": "v.",
+    "zh": "投降；屈服",
+    "ex": "The company refused to capitulate to the union's demands.",
+    "exzh": "公司拒绝向工会的要求屈服。"
+  },
+  {
+    "w": "capitulation",
+    "ph": "kəˌpɪtʃuˈleɪʃn",
+    "pos": "n.",
+    "zh": "投降；屈服",
+    "ex": "The treaty amounted to a complete capitulation to foreign demands.",
+    "exzh": "该条约等于完全向外国要求屈服。"
+  },
+  {
+    "w": "capricious",
+    "ph": "kəˈprɪʃəs",
+    "pos": "adj.",
+    "zh": "反复无常的",
+    "ex": "The capricious weather ruined several outdoor events.",
+    "exzh": "反复无常的天气毁掉了好几个户外活动。"
+  },
+  {
+    "w": "cardiac",
+    "ph": "ˈkɑːrdiæk",
+    "pos": "adj.",
+    "zh": "心脏的",
+    "ex": "Regular exercise reduces the risk of serious cardiac disease.",
+    "exzh": "经常锻炼可降低严重心脏病的风险。"
+  },
+  {
+    "w": "categorization",
+    "ph": "ˌkætəɡərəˈzeɪʃn",
+    "pos": "n.",
+    "zh": "分类；归类",
+    "ex": "Rigid categorization often conceals important differences between cases.",
+    "exzh": "僵化的分类往往掩盖了案例之间的重要差异。"
+  },
+  {
+    "w": "causation",
+    "ph": "kɔːˈzeɪʃn",
+    "pos": "n.",
+    "zh": "因果关系；起因",
+    "ex": "Researchers must distinguish correlation from causation in observational studies.",
+    "exzh": "研究人员在观察性研究中必须区分相关与因果。"
+  },
+  {
+    "w": "caustic",
+    "ph": "ˈkɔːstɪk",
+    "pos": "adj.",
+    "zh": "腐蚀性的；刻薄的",
+    "ex": "Her caustic remarks left the audience visibly uncomfortable.",
+    "exzh": "她刻薄的话语让观众明显感到不适。"
+  },
+  {
+    "w": "censorship",
+    "ph": "ˈsensərʃɪp",
+    "pos": "n.",
+    "zh": "审查；审查制度",
+    "ex": "Strict censorship prevented journalists from reporting the protests.",
+    "exzh": "严格的审查阻止记者报道抗议活动。"
+  },
+  {
+    "w": "certification",
+    "ph": "ˌsɜːrtɪfɪˈkeɪʃn",
+    "pos": "n.",
+    "zh": "认证；证明",
+    "ex": "Professional certification demonstrates that a worker meets industry standards.",
+    "exzh": "专业认证表明劳动者达到了行业标准。"
+  },
+  {
+    "w": "chastise",
+    "ph": "tʃæˈstaɪz",
+    "pos": "v.",
+    "zh": "批评；惩罚",
+    "ex": "The coach chastised the players for their careless mistakes.",
+    "exzh": "教练批评了球员们粗心的失误。"
+  },
+  {
+    "w": "chronology",
+    "ph": "krəˈnɑːlədʒi",
+    "pos": "n.",
+    "zh": "年代学；时间顺序",
+    "ex": "Careful chronology helped historians reconstruct the sequence of events.",
+    "exzh": "细致的年代考订帮助历史学家重建事件顺序。"
+  },
+  {
+    "w": "circumference",
+    "ph": "sərˈkʌmfərəns",
+    "pos": "n.",
+    "zh": "圆周；周长",
+    "ex": "Measure the circumference of the pipe before buying a new seal.",
+    "exzh": "购买新密封圈前先测量管道的周长。"
+  },
+  {
+    "w": "citizenship",
+    "ph": "ˈsɪtɪzənʃɪp",
+    "pos": "n.",
+    "zh": "公民身份；公民权",
+    "ex": "Applicants must pass a language test to receive citizenship.",
+    "exzh": "申请人必须通过语言测试才能获得公民身份。"
+  },
+  {
+    "w": "cleanse",
+    "ph": "ˈklenz",
+    "pos": "v.",
+    "zh": "清洁；净化",
+    "ex": "The ritual is meant to cleanse the body and mind.",
+    "exzh": "这一仪式旨在净化身心。"
+  },
+  {
+    "w": "clergy",
+    "ph": "ˈklɜːrdʒi",
+    "pos": "n.",
+    "zh": "神职人员",
+    "ex": "Members of the clergy joined the campaign for social reform.",
+    "exzh": "神职人员加入了社会改革运动。"
+  },
+  {
+    "w": "coax",
+    "ph": "ˈkoʊks",
+    "pos": "v.",
+    "zh": "哄劝；诱使",
+    "ex": "She gently coaxed the frightened child out of hiding.",
+    "exzh": "她轻声哄着受惊的孩子从藏身处出来。"
+  },
+  {
+    "w": "coexistence",
+    "ph": "ˌkoʊɪɡˈzɪstəns",
+    "pos": "n.",
+    "zh": "共存；共处",
+    "ex": "Peaceful coexistence requires tolerance and respect for difference.",
+    "exzh": "和平共处需要宽容和对差异的尊重。"
+  },
+  {
+    "w": "coherence",
+    "ph": "koʊˈhɪrəns",
+    "pos": "n.",
+    "zh": "连贯性；一致性",
+    "ex": "A clear thesis gives the essay unity and coherence.",
+    "exzh": "明确的论点使文章具有整体性和连贯性。"
+  },
+  {
+    "w": "cohesion",
+    "ph": "koʊˈhiːʒn",
+    "pos": "n.",
+    "zh": "凝聚力；黏合",
+    "ex": "Shared rituals strengthen social cohesion within the community.",
+    "exzh": "共同的仪式增强了社区内的社会凝聚力。"
+  },
+  {
+    "w": "cohort",
+    "ph": "ˈkoʊhɔːrt",
+    "pos": "n.",
+    "zh": "群体；同批人",
+    "ex": "Researchers followed a cohort of students for ten years.",
+    "exzh": "研究人员对一批学生进行了十年跟踪调查。"
+  },
+  {
+    "w": "collaboration",
+    "ph": "kəˌlæbəˈreɪʃn",
+    "pos": "n.",
+    "zh": "合作；协作",
+    "ex": "International collaboration accelerated the development of the vaccine.",
+    "exzh": "国际合作加速了疫苗的研发。"
+  },
+  {
+    "w": "collateral",
+    "ph": "kəˈlætərəl",
+    "pos": "n./adj.",
+    "zh": "抵押品；附带的",
+    "ex": "The borrower offered her house as collateral for the loan.",
+    "exzh": "借款人用房子作为贷款抵押。"
+  },
+  {
+    "w": "commemoration",
+    "ph": "kəˌmeməˈreɪʃn",
+    "pos": "n.",
+    "zh": "纪念；纪念活动",
+    "ex": "The museum opened an exhibition in commemoration of the victims.",
+    "exzh": "博物馆举办展览以纪念遇难者。"
+  },
+  {
+    "w": "commencement",
+    "ph": "kəˈmensmənt",
+    "pos": "n.",
+    "zh": "开始；毕业典礼",
+    "ex": "Thousands of families gathered for the university's commencement ceremony.",
+    "exzh": "数千个家庭聚集参加大学的毕业典礼。"
+  },
+  {
+    "w": "commonplace",
+    "ph": "ˈkɑːmənpleɪs",
+    "pos": "adj./n.",
+    "zh": "寻常的；老生常谈",
+    "ex": "Remote work has become commonplace in many professional industries.",
+    "exzh": "远程办公在许多专业行业已变得很常见。"
+  },
+  {
+    "w": "comparative",
+    "ph": "kəmˈpærətɪv",
+    "pos": "adj.",
+    "zh": "比较的；相对的",
+    "ex": "A comparative study revealed striking differences between the two systems.",
+    "exzh": "一项比较研究揭示了两套制度之间的显著差异。"
+  },
+  {
+    "w": "compatibility",
+    "ph": "kəmˌpætəˈbɪləti",
+    "pos": "n.",
+    "zh": "兼容性；相容",
+    "ex": "Software compatibility problems delayed the launch of the new system.",
+    "exzh": "软件兼容性问题推迟了新系统的发布。"
+  },
+  {
+    "w": "compilation",
+    "ph": "ˌkɑːmpɪˈleɪʃn",
+    "pos": "n.",
+    "zh": "汇编；编纂",
+    "ex": "The album is a compilation of recordings from the 1960s.",
+    "exzh": "这张专辑收录了二十世纪六十年代的录音。"
+  },
+  {
+    "w": "complacency",
+    "ph": "kəmˈpleɪsnsi",
+    "pos": "n.",
+    "zh": "自满；满足",
+    "ex": "Success bred complacency, and the company soon lost its advantage.",
+    "exzh": "成功滋生了自满，公司很快失去了优势。"
+  },
+  {
+    "w": "complacent",
+    "ph": "kəmˈpleɪsnt",
+    "pos": "adj.",
+    "zh": "自满的；得意的",
+    "ex": "Successful companies become complacent and stop listening to customers.",
+    "exzh": "成功的公司会变得自满，不再倾听客户的意见。"
+  },
+  {
+    "w": "compliance",
+    "ph": "kəmˈplaɪəns",
+    "pos": "n.",
+    "zh": "遵守；服从",
+    "ex": "Strict compliance with environmental rules raises production costs.",
+    "exzh": "严格遵守环境法规会提高生产成本。"
+  },
+  {
+    "w": "compliant",
+    "ph": "kəmˈplaɪənt",
+    "pos": "adj.",
+    "zh": "顺从的；合规的",
+    "ex": "The company remained compliant with all safety regulations.",
+    "exzh": "该公司始终遵守所有安全法规。"
+  },
+  {
+    "w": "complication",
+    "ph": "ˌkɑːmplɪˈkeɪʃn",
+    "pos": "n.",
+    "zh": "并发症；复杂情况",
+    "ex": "Infection is a common complication after this type of surgery.",
+    "exzh": "感染是这类手术后常见的并发症。"
+  },
+  {
+    "w": "composer",
+    "ph": "kəmˈpoʊzər",
+    "pos": "n.",
+    "zh": "作曲家",
+    "ex": "The composer spent three years writing the symphony.",
+    "exzh": "这位作曲家花了三年时间创作这部交响曲。"
+  },
+  {
+    "w": "compression",
+    "ph": "kəmˈpreʃn",
+    "pos": "n.",
+    "zh": "压缩；压紧",
+    "ex": "Data compression reduces file size without removing essential information.",
+    "exzh": "数据压缩可在不丢失关键信息的情况下减小文件大小。"
+  },
+  {
+    "w": "computation",
+    "ph": "ˌkɑːmpjuˈteɪʃn",
+    "pos": "n.",
+    "zh": "计算；计算过程",
+    "ex": "Accurate computation is essential when designing a bridge.",
+    "exzh": "设计桥梁时，精确计算至关重要。"
+  },
+  {
+    "w": "concealment",
+    "ph": "kənˈsiːlmənt",
+    "pos": "n.",
+    "zh": "隐藏；隐瞒",
+    "ex": "The deliberate concealment of evidence damaged the company's reputation.",
+    "exzh": "故意隐瞒证据损害了公司的声誉。"
+  },
+  {
+    "w": "condemnation",
+    "ph": "ˌkɑːndemˈneɪʃn",
+    "pos": "n.",
+    "zh": "谴责；定罪",
+    "ex": "The proposal drew sharp condemnation from environmental groups.",
+    "exzh": "该提案遭到环保组织的强烈谴责。"
+  },
+  {
+    "w": "condone",
+    "ph": "kənˈdoʊn",
+    "pos": "v.",
+    "zh": "宽恕；容忍",
+    "ex": "The school does not condone any form of bullying.",
+    "exzh": "学校不容忍任何形式的欺凌。"
+  },
+  {
+    "w": "confinement",
+    "ph": "kənˈfaɪnmənt",
+    "pos": "n.",
+    "zh": "限制；监禁；分娩",
+    "ex": "Months of confinement left many residents anxious and depressed.",
+    "exzh": "数月的封闭让许多居民焦虑抑郁。"
+  },
+  {
+    "w": "confrontation",
+    "ph": "ˌkɑːnfrənˈteɪʃn",
+    "pos": "n.",
+    "zh": "对抗；冲突",
+    "ex": "The two leaders avoided a direct confrontation over trade policy.",
+    "exzh": "两位领导人避免了在贸易政策上的直接对抗。"
+  },
+  {
+    "w": "conquest",
+    "ph": "ˈkɑːŋkwest",
+    "pos": "n.",
+    "zh": "征服；占领",
+    "ex": "The Norman conquest transformed English language and society.",
+    "exzh": "诺曼征服改变了英语语言和社会。"
+  },
+  {
+    "w": "consolidation",
+    "ph": "kənˌsɑːlɪˈdeɪʃn",
+    "pos": "n.",
+    "zh": "巩固；合并",
+    "ex": "The consolidation of small farms increased efficiency but reduced diversity.",
+    "exzh": "小农场的合并提高了效率，却降低了多样性。"
+  },
+  {
+    "w": "constraint",
+    "ph": "kənˈstreɪnt",
+    "pos": "n.",
+    "zh": "限制；约束",
+    "ex": "Limited funding is the main constraint on this research.",
+    "exzh": "有限的资金是这项研究的主要制约因素。"
+  },
+  {
+    "w": "contamination",
+    "ph": "kənˌtæmɪˈneɪʃn",
+    "pos": "n.",
+    "zh": "污染；玷污",
+    "ex": "Groundwater contamination poses a serious risk to public health.",
+    "exzh": "地下水污染对公众健康构成严重威胁。"
+  },
+  {
+    "w": "contemplation",
+    "ph": "ˌkɑːntəmˈpleɪʃn",
+    "pos": "n.",
+    "zh": "沉思；考虑",
+    "ex": "After long contemplation, she decided to leave the city.",
+    "exzh": "经过长时间沉思，她决定离开这座城市。"
+  },
+  {
+    "w": "contention",
+    "ph": "kənˈtenʃn",
+    "pos": "n.",
+    "zh": "争论；论点",
+    "ex": "The central contention of the book is widely debated.",
+    "exzh": "这本书的核心论点广受争议。"
+  },
+  {
+    "w": "contiguous",
+    "ph": "kənˈtɪɡjuəs",
+    "pos": "adj.",
+    "zh": "相邻的；连续的",
+    "ex": "The two counties share a long contiguous border.",
+    "exzh": "这两个县共享一条漫长的相邻边界。"
+  },
+  {
+    "w": "contingency",
+    "ph": "kənˈtɪndʒənsi",
+    "pos": "n.",
+    "zh": "意外事件；应急措施",
+    "ex": "The team prepared a contingency plan for severe weather.",
+    "exzh": "团队制定了应对恶劣天气的应急计划。"
+  },
+  {
+    "w": "continuity",
+    "ph": "ˌkɑːntɪˈnuːəti",
+    "pos": "n.",
+    "zh": "连续性；连贯",
+    "ex": "Continuity of care is vital for patients with chronic illness.",
+    "exzh": "对于慢性病患者来说，治疗的连续性至关重要。"
+  },
+  {
+    "w": "contrive",
+    "ph": "kənˈtraɪv",
+    "pos": "v.",
+    "zh": "设法做到；策划",
+    "ex": "They contrived a clever way to reduce production costs.",
+    "exzh": "他们想出了一个降低生产成本的巧妙办法。"
+  },
+  {
+    "w": "controversy",
+    "ph": "ˈkɑːntrəvɜːrsi",
+    "pos": "n.",
+    "zh": "争议；争论",
+    "ex": "The new curriculum sparked controversy among teachers and parents.",
+    "exzh": "新课程在教师和家长中引发了争议。"
+  },
+  {
+    "w": "convergence",
+    "ph": "kənˈvɜːrdʒəns",
+    "pos": "n.",
+    "zh": "汇聚；趋同",
+    "ex": "The convergence of art and technology created new forms of expression.",
+    "exzh": "艺术与技术的融合创造了新的表达形式。"
+  },
+  {
+    "w": "conviction",
+    "ph": "kənˈvɪkʃn",
+    "pos": "n.",
+    "zh": "定罪；信念",
+    "ex": "Her conviction that education changes lives guided her career.",
+    "exzh": "她坚信教育能改变人生，这指引着她的职业生涯。"
+  },
+  {
+    "w": "coordination",
+    "ph": "koʊˌɔːrdɪˈneɪʃn",
+    "pos": "n.",
+    "zh": "协调；配合",
+    "ex": "Better coordination between agencies would prevent repeated mistakes.",
+    "exzh": "机构之间更好的协调可以避免重复犯错。"
+  },
+  {
+    "w": "correlation",
+    "ph": "ˌkɔːrəˈleɪʃn",
+    "pos": "n.",
+    "zh": "相关性；关联",
+    "ex": "The study found a strong correlation between income and health.",
+    "exzh": "研究发现收入与健康之间存在很强的相关性。"
+  },
+  {
+    "w": "correspondence",
+    "ph": "ˌkɔːrəˈspɑːndəns",
+    "pos": "n.",
+    "zh": "通信；对应",
+    "ex": "The archive contains decades of correspondence between the two writers.",
+    "exzh": "档案馆保存着两位作家数十年的通信。"
+  },
+  {
+    "w": "creditor",
+    "ph": "ˈkredɪtər",
+    "pos": "n.",
+    "zh": "债权人",
+    "ex": "The company negotiated with each creditor to reschedule its debts.",
+    "exzh": "公司与每位债权人协商重新安排债务。"
+  },
+  {
+    "w": "cultivation",
+    "ph": "ˌkʌltɪˈveɪʃn",
+    "pos": "n.",
+    "zh": "耕作；培养",
+    "ex": "Rice cultivation requires abundant water and careful timing.",
+    "exzh": "水稻种植需要充足的水源和精细的时机安排。"
+  },
+  {
+    "w": "cynicism",
+    "ph": "ˈsɪnɪsɪzəm",
+    "pos": "n.",
+    "zh": "愤世嫉俗；怀疑",
+    "ex": "Years of broken promises bred cynicism among local voters.",
+    "exzh": "多年的空头承诺让当地选民变得愤世嫉俗。"
+  },
+  {
+    "w": "decentralization",
+    "ph": "ˌdiːˌsentrələˈzeɪʃn",
+    "pos": "n.",
+    "zh": "权力下放；分散",
+    "ex": "Decentralization gave local governments more control over education spending.",
+    "exzh": "权力下放使地方政府对教育支出有更多控制权。"
+  },
+  {
+    "w": "deduction",
+    "ph": "dɪˈdʌkʃn",
+    "pos": "n.",
+    "zh": "推论；扣除",
+    "ex": "Her deduction proved correct once the missing records appeared.",
+    "exzh": "失踪记录出现后，她的推断被证明是正确的。"
+  },
+  {
+    "w": "degrade",
+    "ph": "dɪˈɡreɪd",
+    "pos": "v.",
+    "zh": "降低；贬低；降解",
+    "ex": "Plastic waste slowly degrades in the ocean.",
+    "exzh": "塑料垃圾在海洋中缓慢降解。"
+  },
+  {
+    "w": "delegation",
+    "ph": "ˌdelɪˈɡeɪʃn",
+    "pos": "n.",
+    "zh": "代表团；授权",
+    "ex": "A trade delegation visited the region to explore investment opportunities.",
+    "exzh": "一个贸易代表团访问该地区，考察投资机会。"
+  },
+  {
+    "w": "deliberation",
+    "ph": "dɪˌlɪbəˈreɪʃn",
+    "pos": "n.",
+    "zh": "审议；深思熟虑",
+    "ex": "After hours of deliberation, the jury reached a unanimous verdict.",
+    "exzh": "经过数小时审议，陪审团达成一致裁决。"
+  },
+  {
+    "w": "demolition",
+    "ph": "ˌdeməˈlɪʃn",
+    "pos": "n.",
+    "zh": "拆除；毁坏",
+    "ex": "The demolition of the old factory began early this morning.",
+    "exzh": "旧工厂的拆除工作今天一早开始。"
+  },
+  {
+    "w": "dependency",
+    "ph": "dɪˈpendənsi",
+    "pos": "n.",
+    "zh": "依赖；附属",
+    "ex": "Energy dependency makes the country vulnerable to price shocks.",
+    "exzh": "能源依赖使该国容易受到价格冲击。"
+  },
+  {
+    "w": "depiction",
+    "ph": "dɪˈpɪkʃn",
+    "pos": "n.",
+    "zh": "描绘；描述",
+    "ex": "The film's depiction of rural poverty drew both praise and criticism.",
+    "exzh": "这部电影对农村贫困的描绘既赢得赞扬，也招致批评。"
+  },
+  {
+    "w": "depletion",
+    "ph": "dɪˈpliːʃn",
+    "pos": "n.",
+    "zh": "耗尽；枯竭",
+    "ex": "Overfishing has caused a dangerous depletion of marine resources.",
+    "exzh": "过度捕捞已造成海洋资源的危险枯竭。"
+  },
+  {
+    "w": "deployment",
+    "ph": "dɪˈplɔɪmənt",
+    "pos": "n.",
+    "zh": "部署；调动",
+    "ex": "The deployment of additional troops raised tensions in the region.",
+    "exzh": "增派部队的部署加剧了该地区的紧张局势。"
+  },
+  {
+    "w": "deprivation",
+    "ph": "ˌdeprɪˈveɪʃn",
+    "pos": "n.",
+    "zh": "剥夺；匮乏",
+    "ex": "Childhood deprivation can affect learning and health for decades.",
+    "exzh": "童年匮乏会影响学习和健康数十年。"
+  },
+  {
+    "w": "derail",
+    "ph": "dɪˈreɪl",
+    "pos": "v.",
+    "zh": "使脱轨；破坏",
+    "ex": "A single scandal could derail the entire reform effort.",
+    "exzh": "一桩丑闻就可能破坏整个改革努力。"
+  },
+  {
+    "w": "derivation",
+    "ph": "ˌderɪˈveɪʃn",
+    "pos": "n.",
+    "zh": "起源；推导",
+    "ex": "The derivation of the word reflects its Latin origins.",
+    "exzh": "这个词的起源反映了它的拉丁语根源。"
+  },
+  {
+    "w": "desertification",
+    "ph": "dɪˌzɜːrtɪfɪˈkeɪʃn",
+    "pos": "n.",
+    "zh": "沙漠化",
+    "ex": "Overgrazing and drought have accelerated desertification across the region.",
+    "exzh": "过度放牧和干旱加速了整个地区的沙漠化。"
+  },
+  {
+    "w": "designation",
+    "ph": "ˌdezɪɡˈneɪʃn",
+    "pos": "n.",
+    "zh": "指定；称号",
+    "ex": "The area received official designation as a national park.",
+    "exzh": "该地区被正式指定为国家公园。"
+  },
+  {
+    "w": "desperation",
+    "ph": "ˌdespəˈreɪʃn",
+    "pos": "n.",
+    "zh": "绝望；铤而走险",
+    "ex": "In desperation, the family sold their few remaining possessions.",
+    "exzh": "绝望之下，这家人卖掉了仅剩的几件财物。"
+  },
+  {
+    "w": "detachment",
+    "ph": "dɪˈtætʃmənt",
+    "pos": "n.",
+    "zh": "超然；分遣队；脱离",
+    "ex": "Her professional detachment made it easier to handle difficult cases.",
+    "exzh": "她的职业超然态度使她更容易处理棘手案件。"
+  },
+  {
+    "w": "deterioration",
+    "ph": "dɪˌtɪriəˈreɪʃn",
+    "pos": "n.",
+    "zh": "恶化；退化",
+    "ex": "The report documents a steady deterioration in water quality.",
+    "exzh": "报告记录了水质的持续恶化。"
+  },
+  {
+    "w": "deviation",
+    "ph": "ˌdiːviˈeɪʃn",
+    "pos": "n.",
+    "zh": "偏离；偏差",
+    "ex": "Any deviation from the standard procedure must be recorded.",
+    "exzh": "任何偏离标准程序的情况都必须记录。"
+  },
+  {
+    "w": "dictatorship",
+    "ph": "dɪkˈteɪtərʃɪp",
+    "pos": "n.",
+    "zh": "独裁；专政",
+    "ex": "The country suffered under a brutal dictatorship for twenty years.",
+    "exzh": "这个国家在残酷的独裁统治下历经二十年。"
+  },
+  {
+    "w": "digestion",
+    "ph": "daɪˈdʒestʃən",
+    "pos": "n.",
+    "zh": "消化；领悟",
+    "ex": "Fiber aids digestion and helps maintain a healthy gut.",
+    "exzh": "纤维有助于消化并保持肠道健康。"
+  },
+  {
+    "w": "diminution",
+    "ph": "ˌdɪmɪˈnuːʃn",
+    "pos": "n.",
+    "zh": "减少；缩小",
+    "ex": "The diminution of public trust is a serious political problem.",
+    "exzh": "公众信任的减少是一个严重的政治问题。"
+  },
+  {
+    "w": "disclosure",
+    "ph": "dɪsˈkloʊʒər",
+    "pos": "n.",
+    "zh": "披露；公开",
+    "ex": "The disclosure of confidential documents triggered a formal investigation.",
+    "exzh": "机密文件的披露引发了正式调查。"
+  },
+  {
+    "w": "discretion",
+    "ph": "dɪˈskreʃn",
+    "pos": "n.",
+    "zh": "谨慎；自行决定权",
+    "ex": "Employees may use their discretion when handling unusual requests.",
+    "exzh": "员工在处理特殊请求时可以自行斟酌。"
+  },
+  {
+    "w": "discrimination",
+    "ph": "dɪˌskrɪmɪˈneɪʃn",
+    "pos": "n.",
+    "zh": "歧视；辨别",
+    "ex": "Age discrimination remains difficult to prove in many workplaces.",
+    "exzh": "在许多工作场所，年龄歧视仍然难以证明。"
+  },
+  {
+    "w": "dishonesty",
+    "ph": "dɪsˈɑːnɪsti",
+    "pos": "n.",
+    "zh": "不诚实；欺诈",
+    "ex": "Financial dishonesty can destroy a career in a single day.",
+    "exzh": "财务欺诈可能在一天之内毁掉一份职业。"
+  },
+  {
+    "w": "disobedience",
+    "ph": "ˌdɪsəˈbiːdiəns",
+    "pos": "n.",
+    "zh": "不服从；违抗",
+    "ex": "Peaceful disobedience played a central role in the movement.",
+    "exzh": "和平不服从运动在该运动中发挥了核心作用。"
+  },
+  {
+    "w": "displacement",
+    "ph": "dɪsˈpleɪsmənt",
+    "pos": "n.",
+    "zh": "位移；流离失所",
+    "ex": "The war caused the displacement of millions of civilians.",
+    "exzh": "战争导致数百万平民流离失所。"
+  },
+  {
+    "w": "dissolution",
+    "ph": "ˌdɪsəˈluːʃn",
+    "pos": "n.",
+    "zh": "解散；溶解",
+    "ex": "The dissolution of parliament led to an early election.",
+    "exzh": "议会解散导致了提前选举。"
+  },
+  {
+    "w": "distortion",
+    "ph": "dɪˈstɔːrʃn",
+    "pos": "n.",
+    "zh": "扭曲；失真",
+    "ex": "Selective editing creates a serious distortion of the original argument.",
+    "exzh": "选择性剪辑严重扭曲了原论点。"
+  },
+  {
+    "w": "distraction",
+    "ph": "dɪˈstrækʃn",
+    "pos": "n.",
+    "zh": "分心；消遣",
+    "ex": "Constant notifications are a major distraction during deep work.",
+    "exzh": "持续的通知是深度工作时的一大干扰。"
+  },
+  {
+    "w": "duality",
+    "ph": "duːˈæləti",
+    "pos": "n.",
+    "zh": "二元性；双重性",
+    "ex": "The novel explores the duality of human nature and social duty.",
+    "exzh": "这部小说探讨了人性与社会责任的二元性。"
+  },
+  {
+    "w": "durability",
+    "ph": "ˌdʊrəˈbɪləti",
+    "pos": "n.",
+    "zh": "耐久性；持久性",
+    "ex": "Engineers tested the durability of the material under extreme conditions.",
+    "exzh": "工程师测试了该材料在极端条件下的耐久性。"
+  },
+  {
+    "w": "dynamics",
+    "ph": "daɪˈnæmɪks",
+    "pos": "n.",
+    "zh": "动力学；动态",
+    "ex": "Understanding group dynamics helps managers build more effective teams.",
+    "exzh": "理解群体动态有助于管理者建立更高效的团队。"
+  },
+  {
+    "w": "eligibility",
+    "ph": "ˌelɪdʒəˈbɪləti",
+    "pos": "n.",
+    "zh": "资格；合格",
+    "ex": "Residency determines eligibility for most local health programs.",
+    "exzh": "居住身份决定是否有资格参加大多数当地医疗项目。"
+  },
+  {
+    "w": "elimination",
+    "ph": "ɪˌlɪmɪˈneɪʃn",
+    "pos": "n.",
+    "zh": "消除；淘汰",
+    "ex": "The elimination of waste requires cooperation across the entire supply chain.",
+    "exzh": "消除浪费需要整个供应链的合作。"
+  },
+  {
+    "w": "empowerment",
+    "ph": "ɪmˈpaʊərmənt",
+    "pos": "n.",
+    "zh": "赋权；增强能力",
+    "ex": "Education is widely regarded as a tool of personal empowerment.",
+    "exzh": "教育被广泛视为个人赋权的工具。"
+  },
+  {
+    "w": "enactment",
+    "ph": "ɪˈnæktmənt",
+    "pos": "n.",
+    "zh": "颁布；制定",
+    "ex": "The enactment of the new law followed years of debate.",
+    "exzh": "新法律的颁布经历了多年辩论。"
+  },
+  {
+    "w": "endorsement",
+    "ph": "ɪnˈdɔːrsmənt",
+    "pos": "n.",
+    "zh": "支持；代言；背书",
+    "ex": "The athlete's endorsement of the product increased sales dramatically.",
+    "exzh": "这位运动员对产品的代言大幅提升了销量。"
+  },
+  {
+    "w": "entitlement",
+    "ph": "ɪnˈtaɪtlmənt",
+    "pos": "n.",
+    "zh": "权利；津贴",
+    "ex": "Many citizens view healthcare as a basic entitlement rather than a privilege.",
+    "exzh": "许多公民将医疗保健视为基本权利而非特权。"
+  },
+  {
+    "w": "eruption",
+    "ph": "ɪˈrʌpʃn",
+    "pos": "n.",
+    "zh": "爆发；喷发",
+    "ex": "The volcanic eruption forced thousands of residents to evacuate.",
+    "exzh": "火山喷发迫使数千名居民撤离。"
+  },
+  {
+    "w": "escalation",
+    "ph": "ˌeskəˈleɪʃn",
+    "pos": "n.",
+    "zh": "升级；扩大",
+    "ex": "Swift diplomatic action prevented an escalation of the conflict.",
+    "exzh": "迅速的外交行动阻止了冲突升级。"
+  },
+  {
+    "w": "ethnicity",
+    "ph": "eθˈnɪsəti",
+    "pos": "n.",
+    "zh": "种族；族裔",
+    "ex": "The survey recorded age, gender, and ethnicity for each participant.",
+    "exzh": "调查记录了每位参与者的年龄、性别和族裔。"
+  },
+  {
+    "w": "eventual",
+    "ph": "ɪˈventʃuəl",
+    "pos": "adj.",
+    "zh": "最终的",
+    "ex": "The eventual cost of the project exceeded early estimates.",
+    "exzh": "项目的最终成本超出了早期估计。"
+  },
+  {
+    "w": "exaggeration",
+    "ph": "ɪɡˌzædʒəˈreɪʃn",
+    "pos": "n.",
+    "zh": "夸张；夸大",
+    "ex": "His claim about the company's growth was a clear exaggeration.",
+    "exzh": "他关于公司增长的说法明显是夸大。"
+  },
+  {
+    "w": "exalt",
+    "ph": "ɪɡˈzɔːlt",
+    "pos": "v.",
+    "zh": "赞扬；提升",
+    "ex": "The poem exalts the courage of ordinary workers.",
+    "exzh": "这首诗赞颂普通劳动者的勇气。"
+  },
+  {
+    "w": "exhaustion",
+    "ph": "ɪɡˈzɔːstʃən",
+    "pos": "n.",
+    "zh": "疲惫；耗尽",
+    "ex": "After the long march, the soldiers collapsed from exhaustion.",
+    "exzh": "长途行军后，士兵们因疲惫倒下。"
+  },
+  {
+    "w": "exploitation",
+    "ph": "ˌeksplɔɪˈteɪʃn",
+    "pos": "n.",
+    "zh": "开发；剥削",
+    "ex": "The exploitation of cheap labor raises serious ethical questions.",
+    "exzh": "剥削廉价劳动力引发了严重的伦理问题。"
+  },
+  {
+    "w": "extraction",
+    "ph": "ɪkˈstrækʃn",
+    "pos": "n.",
+    "zh": "提取；开采",
+    "ex": "The extraction of minerals has damaged the surrounding landscape.",
+    "exzh": "矿产开采破坏了周围的景观。"
+  },
+  {
+    "w": "fabrication",
+    "ph": "ˌfæbrɪˈkeɪʃn",
+    "pos": "n.",
+    "zh": "制造；捏造",
+    "ex": "The report was criticized for its fabrication of key evidence.",
+    "exzh": "该报告因捏造关键证据而受到批评。"
+  },
+  {
+    "w": "familiarity",
+    "ph": "fəˌmɪliˈærəti",
+    "pos": "n.",
+    "zh": "熟悉；熟知",
+    "ex": "Familiarity with local customs helps travelers avoid misunderstandings.",
+    "exzh": "熟悉当地习俗有助于旅行者避免误会。"
+  },
+  {
+    "w": "fascination",
+    "ph": "ˌfæsɪˈneɪʃn",
+    "pos": "n.",
+    "zh": "迷恋；吸引力",
+    "ex": "Her lifelong fascination with insects began in childhood.",
+    "exzh": "她对昆虫的终生迷恋始于童年。"
+  },
+  {
+    "w": "feasibility",
+    "ph": "ˌfiːzəˈbɪləti",
+    "pos": "n.",
+    "zh": "可行性",
+    "ex": "The team completed a feasibility study before building the plant.",
+    "exzh": "团队在建厂前完成了可行性研究。"
+  },
+  {
+    "w": "feminism",
+    "ph": "ˈfemənɪzəm",
+    "pos": "n.",
+    "zh": "女权主义",
+    "ex": "Modern feminism campaigns for equality in work and family life.",
+    "exzh": "现代女权主义致力于争取工作和家庭生活中的平等。"
+  },
+  {
+    "w": "fluctuation",
+    "ph": "ˌflʌktʃuˈeɪʃn",
+    "pos": "n.",
+    "zh": "波动；起伏",
+    "ex": "Small fluctuations in temperature can affect crop yields.",
+    "exzh": "温度的微小波动会影响作物产量。"
+  },
+  {
+    "w": "fragility",
+    "ph": "frəˈdʒɪləti",
+    "pos": "n.",
+    "zh": "脆弱；易碎",
+    "ex": "The fragility of the ecosystem makes it vulnerable to invasive species.",
+    "exzh": "生态系统的脆弱性使其易受入侵物种影响。"
+  },
+  {
+    "w": "franchise",
+    "ph": "ˈfræntʃaɪz",
+    "pos": "n.",
+    "zh": "特许经营权；选举权",
+    "ex": "The restaurant chain sells its franchise rights across the country.",
+    "exzh": "这家连锁餐厅在全国出售特许经营权。"
+  },
+  {
+    "w": "fulfillment",
+    "ph": "fʊlˈfɪlmənt",
+    "pos": "n.",
+    "zh": "履行；满足感",
+    "ex": "Volunteering brings a deep sense of fulfillment to many retirees.",
+    "exzh": "志愿服务给许多退休人员带来深深的满足感。"
+  },
+  {
+    "w": "fungus",
+    "ph": "ˈfʌŋɡəs",
+    "pos": "n.",
+    "zh": "真菌",
+    "ex": "A strange fungus appeared on the damp basement wall.",
+    "exzh": "潮湿的地下室墙上出现了一种奇怪的真菌。"
+  },
+  {
+    "w": "galaxy",
+    "ph": "ˈɡæləksi",
+    "pos": "n.",
+    "zh": "星系；银河系",
+    "ex": "The newly discovered galaxy contains billions of young stars.",
+    "exzh": "新发现的星系包含数十亿颗年轻恒星。"
+  },
+  {
+    "w": "gambling",
+    "ph": "ˈɡæmblɪŋ",
+    "pos": "n.",
+    "zh": "赌博",
+    "ex": "Legal gambling generates substantial revenue for some state governments.",
+    "exzh": "合法赌博为一些州政府带来可观的收入。"
+  },
+  {
+    "w": "glossary",
+    "ph": "ˈɡlɑːsəri",
+    "pos": "n.",
+    "zh": "词汇表；术语表",
+    "ex": "A glossary at the back explains specialized terms used in the book.",
+    "exzh": "书后的词汇表解释了书中使用的专业术语。"
+  },
+  {
+    "w": "gnaw",
+    "ph": "ˈnɔː",
+    "pos": "v.",
+    "zh": "啃咬；侵蚀",
+    "ex": "Rising debt continues to gnaw at the family's savings.",
+    "exzh": "不断增加的债务持续侵蚀这个家庭的储蓄。"
+  },
+  {
+    "w": "governance",
+    "ph": "ˈɡʌvərnəns",
+    "pos": "n.",
+    "zh": "治理；管理",
+    "ex": "Good governance requires transparency, accountability, and public participation.",
+    "exzh": "良好治理需要透明、问责和公众参与。"
+  },
+  {
+    "w": "groundwater",
+    "ph": "ˈɡraʊndwɔːtər",
+    "pos": "n.",
+    "zh": "地下水",
+    "ex": "Intensive farming has reduced groundwater levels across the valley.",
+    "exzh": "集约化农业降低了整个山谷的地下水位。"
+  },
+  {
+    "w": "hasten",
+    "ph": "ˈheɪsn",
+    "pos": "v.",
+    "zh": "加速；急忙",
+    "ex": "Rapid deforestation may hasten the loss of biodiversity.",
+    "exzh": "快速毁林可能加速生物多样性的丧失。"
+  },
+  {
+    "w": "hospitality",
+    "ph": "ˌhɑːspɪˈtæləti",
+    "pos": "n.",
+    "zh": "好客；款待",
+    "ex": "The island is famous for the warmth and hospitality of its people.",
+    "exzh": "这个岛以人民的热情好客而闻名。"
+  },
+  {
+    "w": "illiteracy",
+    "ph": "ɪˈlɪtərəsi",
+    "pos": "n.",
+    "zh": "文盲；文盲状态",
+    "ex": "Adult illiteracy limits access to better jobs and information.",
+    "exzh": "成人文盲限制了获得更好工作和信息的机会。"
+  },
+  {
+    "w": "immersion",
+    "ph": "ɪˈmɜːrʒn",
+    "pos": "n.",
+    "zh": "沉浸；浸入",
+    "ex": "Language immersion programs help students learn faster.",
+    "exzh": "语言沉浸式课程帮助学生学得更快。"
+  },
+  {
+    "w": "impairment",
+    "ph": "ɪmˈpermənt",
+    "pos": "n.",
+    "zh": "损伤；损害",
+    "ex": "Hearing impairment did not stop her from becoming a successful musician.",
+    "exzh": "听力损伤没有阻止她成为一名成功的音乐家。"
+  },
+  {
+    "w": "impart",
+    "ph": "ɪmˈpɑːrt",
+    "pos": "v.",
+    "zh": "传授；告知",
+    "ex": "Good teachers impart both knowledge and confidence to students.",
+    "exzh": "好老师向学生传授知识和信心。"
+  },
+  {
+    "w": "impartiality",
+    "ph": "ˌɪmpɑːrʃiˈæləti",
+    "pos": "n.",
+    "zh": "公正；不偏不倚",
+    "ex": "Judges must maintain impartiality throughout every stage of the trial.",
+    "exzh": "法官在审判的每个阶段都必须保持公正。"
+  },
+  {
+    "w": "implementation",
+    "ph": "ˌɪmplɪmenˈteɪʃn",
+    "pos": "n.",
+    "zh": "实施；执行",
+    "ex": "Successful implementation of the policy requires clear local guidelines.",
+    "exzh": "政策的成功实施需要明确的地方指导方针。"
+  },
+  {
+    "w": "inaccuracy",
+    "ph": "ɪnˈækjərəsi",
+    "pos": "n.",
+    "zh": "不准确；错误",
+    "ex": "The article was withdrawn because of a serious factual inaccuracy.",
+    "exzh": "这篇文章因严重的事实错误而被撤回。"
+  },
+  {
+    "w": "inclined",
+    "ph": "ɪnˈklaɪnd",
+    "pos": "adj.",
+    "zh": "倾向于的",
+    "ex": "She is inclined to question every claim she hears.",
+    "exzh": "她倾向于质疑自己听到的每一个说法。"
+  },
+  {
+    "w": "inertia",
+    "ph": "ɪˈnɜːrʃə",
+    "pos": "n.",
+    "zh": "惯性；惰性",
+    "ex": "Organizational inertia makes large institutions slow to change.",
+    "exzh": "组织惰性使大型机构变革缓慢。"
+  },
+  {
+    "w": "inevitability",
+    "ph": "ɪnˌevɪtəˈbɪləti",
+    "pos": "n.",
+    "zh": "必然性",
+    "ex": "The inevitability of change is a recurring theme in his work.",
+    "exzh": "变化的必然性是他作品中反复出现的主题。"
+  },
+  {
+    "w": "inferiority",
+    "ph": "ɪnˌfɪriˈɔːrəti",
+    "pos": "n.",
+    "zh": "劣势；低等",
+    "ex": "Constant comparison can create a painful sense of inferiority.",
+    "exzh": "不断比较会让人产生痛苦的自卑感。"
+  },
+  {
+    "w": "inhibition",
+    "ph": "ˌɪnhɪˈbɪʃn",
+    "pos": "n.",
+    "zh": "抑制；拘谨",
+    "ex": "Alcohol lowers inhibition and can lead to risky behavior.",
+    "exzh": "酒精会降低抑制力，可能导致危险行为。"
+  },
+  {
+    "w": "innovate",
+    "ph": "ˈɪnəveɪt",
+    "pos": "v.",
+    "zh": "创新；革新",
+    "ex": "Small firms must innovate constantly to survive in competitive markets.",
+    "exzh": "小公司必须不断创新才能在竞争激烈的市场中生存。"
+  },
+  {
+    "w": "insulation",
+    "ph": "ˌɪnsəˈleɪʃn",
+    "pos": "n.",
+    "zh": "绝缘；隔热",
+    "ex": "Better insulation reduces energy use during winter and summer.",
+    "exzh": "更好的隔热层可减少冬夏两季的能源消耗。"
+  },
+  {
+    "w": "interface",
+    "ph": "ˈɪntərfeɪs",
+    "pos": "n.",
+    "zh": "界面；接口",
+    "ex": "The user interface was redesigned to be simpler and clearer.",
+    "exzh": "用户界面经过重新设计，变得更简单清晰。"
+  },
+  {
+    "w": "intimacy",
+    "ph": "ˈɪntɪməsi",
+    "pos": "n.",
+    "zh": "亲密；密切",
+    "ex": "The novel describes the intimacy of a long marriage with great care.",
+    "exzh": "这部小说细致地描写了一段长久婚姻中的亲密。"
+  },
+  {
+    "w": "intimidation",
+    "ph": "ɪnˌtɪmɪˈdeɪʃn",
+    "pos": "n.",
+    "zh": "恐吓；威胁",
+    "ex": "Witnesses described a campaign of threats and intimidation.",
+    "exzh": "目击者描述了威胁和恐吓活动。"
+  },
+  {
+    "w": "intolerance",
+    "ph": "ɪnˈtɑːlərəns",
+    "pos": "n.",
+    "zh": "不容忍；偏狭",
+    "ex": "Religious intolerance has caused conflict throughout human history.",
+    "exzh": "宗教偏狭在人类历史上引发了冲突。"
+  },
+  {
+    "w": "irregularity",
+    "ph": "ɪˌreɡjəˈlærəti",
+    "pos": "n.",
+    "zh": "不规则；异常",
+    "ex": "Investigators found a serious irregularity in the accounting records.",
+    "exzh": "调查人员在会计记录中发现了严重异常。"
+  },
+  {
+    "w": "justification",
+    "ph": "ˌdʒʌstɪfɪˈkeɪʃn",
+    "pos": "n.",
+    "zh": "正当理由；辩护",
+    "ex": "There is little justification for cutting funding to public libraries.",
+    "exzh": "削减公共图书馆经费几乎没有正当理由。"
+  },
+  {
+    "w": "languish",
+    "ph": "ˈlæŋɡwɪʃ",
+    "pos": "v.",
+    "zh": "衰弱；停滞",
+    "ex": "Without investment, the project will languish for another year.",
+    "exzh": "没有投资，这个项目将再停滞一年。"
+  },
+  {
+    "w": "legitimacy",
+    "ph": "lɪˈdʒɪtɪməsi",
+    "pos": "n.",
+    "zh": "合法性；正当性",
+    "ex": "Elected leaders must earn public confidence in their legitimacy.",
+    "exzh": "民选领导人必须赢得公众对其合法性的信任。"
+  },
+  {
+    "w": "lineage",
+    "ph": "ˈlɪniɪdʒ",
+    "pos": "n.",
+    "zh": "血统；世系",
+    "ex": "She traced her family lineage back to the eighteenth century.",
+    "exzh": "她将家族血统追溯到十八世纪。"
+  },
+  {
+    "w": "livelihood",
+    "ph": "ˈlaɪvlihʊd",
+    "pos": "n.",
+    "zh": "生计；谋生手段",
+    "ex": "Fishing provides a livelihood for hundreds of coastal families.",
+    "exzh": "捕鱼为数百个沿海家庭提供了生计。"
+  }
+]

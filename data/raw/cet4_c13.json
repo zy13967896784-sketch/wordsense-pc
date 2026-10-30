@@ -1,0 +1,2202 @@
+[
+  {
+    "w": "quake",
+    "ph": "ˈkweɪk",
+    "pos": "v./n.",
+    "zh": "颤抖；震动；地震",
+    "ex": "The walls began to quake as the train passed below.",
+    "exzh": "火车从下面经过时，墙壁开始震动。"
+  },
+  {
+    "w": "qualification",
+    "ph": "ˌkwɑːlɪfɪˈkeɪʃən",
+    "pos": "n.",
+    "zh": "资格；资历；条件",
+    "ex": "Her qualifications make her the strongest candidate for the position.",
+    "exzh": "她的资历使她成为这个职位最有力的候选人。"
+  },
+  {
+    "w": "quantify",
+    "ph": "ˈkwɑːntɪfaɪ",
+    "pos": "v.",
+    "zh": "量化；确定数量",
+    "ex": "Researchers tried to quantify the effect of noise on sleep.",
+    "exzh": "研究人员试图量化噪音对睡眠的影响。"
+  },
+  {
+    "w": "quantitative",
+    "ph": "ˈkwɑːntəteɪtɪv",
+    "pos": "adj.",
+    "zh": "定量的；数量上的",
+    "ex": "The report presents quantitative evidence from three large surveys.",
+    "exzh": "该报告呈现了来自三份大型调查的定量证据。"
+  },
+  {
+    "w": "quarter",
+    "ph": "ˈkwɔːrtər",
+    "pos": "n.",
+    "zh": "四分之一；季度；一刻钟",
+    "ex": "Profits fell by a quarter in the last three months.",
+    "exzh": "过去三个月利润下降了四分之一。"
+  },
+  {
+    "w": "quarterly",
+    "ph": "ˈkwɔːrtərli",
+    "pos": "adj./adv.",
+    "zh": "季度的；按季度地",
+    "ex": "The journal publishes a quarterly review of new research.",
+    "exzh": "该期刊按季度发表新研究综述。"
+  },
+  {
+    "w": "query",
+    "ph": "ˈkwɪri",
+    "pos": "n./v.",
+    "zh": "疑问；询问",
+    "ex": "She sent a query to the bank about the missing payment.",
+    "exzh": "她向银行询问那笔丢失的付款。"
+  },
+  {
+    "w": "quest",
+    "ph": "ˈkwest",
+    "pos": "n.",
+    "zh": "探索；追求",
+    "ex": "His quest for a cure lasted more than twenty years.",
+    "exzh": "他寻找治愈方法的探索持续了二十多年。"
+  },
+  {
+    "w": "questionnaire",
+    "ph": "ˌkwestʃəˈner",
+    "pos": "n.",
+    "zh": "问卷；调查表",
+    "ex": "Please fill in the questionnaire before your appointment begins.",
+    "exzh": "请在预约开始前填写这份问卷。"
+  },
+  {
+    "w": "queue",
+    "ph": "ˈkjuː",
+    "pos": "n./v.",
+    "zh": "队列；排队",
+    "ex": "A long queue stretched outside the ticket office.",
+    "exzh": "售票处外排着长队。"
+  },
+  {
+    "w": "quit",
+    "ph": "ˈkwɪt",
+    "pos": "v.",
+    "zh": "停止；放弃；离开",
+    "ex": "He decided to quit his job and study abroad.",
+    "exzh": "他决定辞掉工作出国留学。"
+  },
+  {
+    "w": "quiver",
+    "ph": "ˈkwɪvər",
+    "pos": "v.",
+    "zh": "颤抖；抖动",
+    "ex": "Her lips began to quiver as she read the letter.",
+    "exzh": "她读信时嘴唇开始颤抖。"
+  },
+  {
+    "w": "quiz",
+    "ph": "ˈkwɪz",
+    "pos": "n./v.",
+    "zh": "测验；提问",
+    "ex": "The teacher gave us a short quiz on irregular verbs.",
+    "exzh": "老师给我们做了一个关于不规则动词的小测验。"
+  },
+  {
+    "w": "quota",
+    "ph": "ˈkwoʊtə",
+    "pos": "n.",
+    "zh": "定额；配额",
+    "ex": "Each factory must meet its monthly production quota.",
+    "exzh": "每家工厂都必须完成月度生产配额。"
+  },
+  {
+    "w": "quotation",
+    "ph": "kwoʊˈteɪʃən",
+    "pos": "n.",
+    "zh": "引语；报价",
+    "ex": "He opened his speech with a quotation from Confucius.",
+    "exzh": "他以一句孔子的话开始了演讲。"
+  },
+  {
+    "w": "racial",
+    "ph": "ˈreɪʃəl",
+    "pos": "adj.",
+    "zh": "种族的；人种的",
+    "ex": "The law banned racial discrimination in hiring and housing.",
+    "exzh": "该法律禁止在招聘和住房方面的种族歧视。"
+  },
+  {
+    "w": "rack",
+    "ph": "ˈræk",
+    "pos": "n./v.",
+    "zh": "架子；使痛苦",
+    "ex": "She hung her coat on the rack by the door.",
+    "exzh": "她把外套挂在门边的架子上。"
+  },
+  {
+    "w": "radar",
+    "ph": "ˈreɪdɑːr",
+    "pos": "n.",
+    "zh": "雷达；无线电探测",
+    "ex": "The plane disappeared from the radar screen near the coast.",
+    "exzh": "飞机在海岸附近从雷达屏幕上消失了。"
+  },
+  {
+    "w": "radiation",
+    "ph": "ˌreɪdiˈeɪʃən",
+    "pos": "n.",
+    "zh": "辐射；放射",
+    "ex": "Workers wore protective suits to limit exposure to radiation.",
+    "exzh": "工人们穿着防护服以限制辐射暴露。"
+  },
+  {
+    "w": "radiator",
+    "ph": "ˈreɪdieɪtər",
+    "pos": "n.",
+    "zh": "散热器；暖气片",
+    "ex": "The radiator under the window keeps the whole room warm.",
+    "exzh": "窗下的暖气片让整个房间保持温暖。"
+  },
+  {
+    "w": "radical",
+    "ph": "ˈrædɪkəl",
+    "pos": "adj./n.",
+    "zh": "激进的；根本的；激进分子",
+    "ex": "The company needs radical changes to survive the crisis.",
+    "exzh": "公司需要根本性的变革才能在危机中生存。"
+  },
+  {
+    "w": "radioactive",
+    "ph": "ˌreɪdioʊˈæktɪv",
+    "pos": "adj.",
+    "zh": "放射性的；有辐射的",
+    "ex": "The site still contains radioactive waste from the old plant.",
+    "exzh": "该场地仍存有旧工厂留下的放射性废料。"
+  },
+  {
+    "w": "radius",
+    "ph": "ˈreɪdiəs",
+    "pos": "n.",
+    "zh": "半径；范围",
+    "ex": "All shops within a one-mile radius were closed for the day.",
+    "exzh": "一英里半径内的所有商店那天都关门了。"
+  },
+  {
+    "w": "raft",
+    "ph": "ˈræft",
+    "pos": "n.",
+    "zh": "筏子；木筏",
+    "ex": "They crossed the river on a raft made of logs.",
+    "exzh": "他们乘着木筏过河。"
+  },
+  {
+    "w": "rage",
+    "ph": "ˈreɪdʒ",
+    "pos": "n./v.",
+    "zh": "狂怒；肆虐",
+    "ex": "He flew into a rage when he saw the broken window.",
+    "exzh": "他看到破窗户时勃然大怒。"
+  },
+  {
+    "w": "raid",
+    "ph": "ˈreɪd",
+    "pos": "n./v.",
+    "zh": "突袭；突击搜查",
+    "ex": "Police carried out a raid on the warehouse at dawn.",
+    "exzh": "警方在黎明时对仓库进行了突击搜查。"
+  },
+  {
+    "w": "rail",
+    "ph": "ˈreɪl",
+    "pos": "n.",
+    "zh": "栏杆；铁轨",
+    "ex": "Hold the rail while you walk down the stairs.",
+    "exzh": "下楼梯时请扶住栏杆。"
+  },
+  {
+    "w": "railroad",
+    "ph": "ˈreɪlroʊd",
+    "pos": "n.",
+    "zh": "铁路；铁路公司",
+    "ex": "The railroad linked the two cities in the late nineteenth century.",
+    "exzh": "这条铁路在十九世纪末连接了这两座城市。"
+  },
+  {
+    "w": "railway",
+    "ph": "ˈreɪlweɪ",
+    "pos": "n.",
+    "zh": "铁路；铁道",
+    "ex": "A new railway will connect the airport to the city center.",
+    "exzh": "一条新铁路将把机场与市中心连接起来。"
+  },
+  {
+    "w": "rainbow",
+    "ph": "ˈreɪnboʊ",
+    "pos": "n.",
+    "zh": "彩虹；五彩缤纷",
+    "ex": "A bright rainbow appeared after the storm passed.",
+    "exzh": "暴风雨过后出现了一道明亮的彩虹。"
+  },
+  {
+    "w": "rainfall",
+    "ph": "ˈreɪnfɔːl",
+    "pos": "n.",
+    "zh": "降雨量；降水",
+    "ex": "Annual rainfall in the region has dropped sharply since 1990.",
+    "exzh": "该地区的年降雨量自1990年以来急剧下降。"
+  },
+  {
+    "w": "rainforest",
+    "ph": "ˈreɪnfɔːrɪst",
+    "pos": "n.",
+    "zh": "热带雨林；雨林",
+    "ex": "The rainforest is home to thousands of unknown species.",
+    "exzh": "这片雨林是数千种未知物种的家园。"
+  },
+  {
+    "w": "rainy",
+    "ph": "ˈreɪni",
+    "pos": "adj.",
+    "zh": "下雨的；多雨的",
+    "ex": "We spent the rainy afternoon reading in the library.",
+    "exzh": "我们在图书馆里度过了那个下雨的下午。"
+  },
+  {
+    "w": "raise",
+    "ph": "ˈreɪz",
+    "pos": "v.",
+    "zh": "提高；筹集；抚养",
+    "ex": "The charity hopes to raise enough money for a new clinic.",
+    "exzh": "该慈善机构希望能为新诊所筹集足够的资金。"
+  },
+  {
+    "w": "rally",
+    "ph": "ˈræli",
+    "pos": "n./v.",
+    "zh": "集会；重整",
+    "ex": "Thousands of supporters attended the rally in the square.",
+    "exzh": "数千名支持者参加了广场上的集会。"
+  },
+  {
+    "w": "random",
+    "ph": "ˈrændəm",
+    "pos": "adj.",
+    "zh": "随机的；任意的",
+    "ex": "The software chooses a random password for each new account.",
+    "exzh": "该软件为每个新账户随机生成一个密码。"
+  },
+  {
+    "w": "rank",
+    "ph": "ˈræŋk",
+    "pos": "n./v.",
+    "zh": "等级；排名",
+    "ex": "The university ranks among the top ten in the country.",
+    "exzh": "这所大学在全国排名前十。"
+  },
+  {
+    "w": "rapidly",
+    "ph": "ˈræpɪdli",
+    "pos": "adv.",
+    "zh": "迅速地；快速地",
+    "ex": "The market for electric cars is growing rapidly in China.",
+    "exzh": "中国的电动汽车市场正在迅速增长。"
+  },
+  {
+    "w": "rarely",
+    "ph": "ˈrerli",
+    "pos": "adv.",
+    "zh": "很少；罕见地",
+    "ex": "She rarely speaks in public, so the speech surprised us.",
+    "exzh": "她很少当众讲话，所以这次演讲让我们很惊讶。"
+  },
+  {
+    "w": "rate",
+    "ph": "ˈreɪt",
+    "pos": "n./v.",
+    "zh": "比率；速度；评价",
+    "ex": "The unemployment rate fell slightly in the second half.",
+    "exzh": "失业率在下半年略有下降。"
+  },
+  {
+    "w": "rather",
+    "ph": "ˈræðər",
+    "pos": "adv.",
+    "zh": "相当；宁愿",
+    "ex": "The film was rather long, but the ending was moving.",
+    "exzh": "这部电影相当长，但结局很感人。"
+  },
+  {
+    "w": "ratio",
+    "ph": "ˈreɪʃioʊ",
+    "pos": "n.",
+    "zh": "比率；比例",
+    "ex": "The ratio of teachers to students has improved this year.",
+    "exzh": "今年师生比例有所改善。"
+  },
+  {
+    "w": "rational",
+    "ph": "ˈræʃənəl",
+    "pos": "adj.",
+    "zh": "理性的；合理的",
+    "ex": "We need a rational discussion instead of an angry argument.",
+    "exzh": "我们需要理性的讨论而不是愤怒的争吵。"
+  },
+  {
+    "w": "raw",
+    "ph": "ˈrɔː",
+    "pos": "adj.",
+    "zh": "生的；未加工的；原始的",
+    "ex": "The factory imports raw materials from several African countries.",
+    "exzh": "这家工厂从几个非洲国家进口原材料。"
+  },
+  {
+    "w": "ray",
+    "ph": "ˈreɪ",
+    "pos": "n.",
+    "zh": "光线；射线",
+    "ex": "A thin ray of sunlight came through the curtains.",
+    "exzh": "一缕细弱的阳光透过窗帘照进来。"
+  },
+  {
+    "w": "razor",
+    "ph": "ˈreɪzər",
+    "pos": "n.",
+    "zh": "剃刀；剃须刀",
+    "ex": "He cut himself while shaving with a blunt razor.",
+    "exzh": "他用钝剃刀刮胡子时割伤了自己。"
+  },
+  {
+    "w": "reach",
+    "ph": "ˈriːtʃ",
+    "pos": "v./n.",
+    "zh": "到达；伸手；范围",
+    "ex": "They reached the village just before the sun set.",
+    "exzh": "他们正好在日落前到达了那个村庄。"
+  },
+  {
+    "w": "reaction",
+    "ph": "riˈækʃən",
+    "pos": "n.",
+    "zh": "反应；反作用",
+    "ex": "Her first reaction to the news was complete silence.",
+    "exzh": "她对这条消息的第一反应是完全沉默。"
+  },
+  {
+    "w": "reactor",
+    "ph": "riˈæktər",
+    "pos": "n.",
+    "zh": "反应堆；核反应堆",
+    "ex": "Engineers shut down the reactor after a minor fault.",
+    "exzh": "工程师在发生小故障后关闭了反应堆。"
+  },
+  {
+    "w": "readily",
+    "ph": "ˈredɪli",
+    "pos": "adv.",
+    "zh": "乐意地；容易地",
+    "ex": "He readily agreed to help us move the furniture.",
+    "exzh": "他欣然同意帮我们搬家具。"
+  },
+  {
+    "w": "realistic",
+    "ph": "ˌriːəˈlɪstɪk",
+    "pos": "adj.",
+    "zh": "现实的；逼真的",
+    "ex": "We must set realistic goals for the coming year.",
+    "exzh": "我们必须为来年设定现实的目标。"
+  },
+  {
+    "w": "reality",
+    "ph": "riˈæləti",
+    "pos": "n.",
+    "zh": "现实；真实",
+    "ex": "The reality of living alone was harder than he expected.",
+    "exzh": "独自生活的现实比他预想的更难。"
+  },
+  {
+    "w": "realm",
+    "ph": "ˈrelm",
+    "pos": "n.",
+    "zh": "领域；王国",
+    "ex": "These questions belong to the realm of philosophy, not science.",
+    "exzh": "这些问题属于哲学领域，而非科学领域。"
+  },
+  {
+    "w": "reap",
+    "ph": "ˈriːp",
+    "pos": "v.",
+    "zh": "收割；获得",
+    "ex": "Farmers reap the wheat in late summer every year.",
+    "exzh": "农民每年夏末收割小麦。"
+  },
+  {
+    "w": "reappear",
+    "ph": "ˌriːəˈpɪr",
+    "pos": "v.",
+    "zh": "重新出现；再现",
+    "ex": "The sun reappeared just before the match started.",
+    "exzh": "太阳在比赛开始前重新出现。"
+  },
+  {
+    "w": "reasonable",
+    "ph": "ˈriːzənəbəl",
+    "pos": "adj.",
+    "zh": "合理的；通情达理的",
+    "ex": "The hotel charges a reasonable price for a double room.",
+    "exzh": "这家酒店双人间的价格合理。"
+  },
+  {
+    "w": "reasonably",
+    "ph": "ˈriːzənəbli",
+    "pos": "adv.",
+    "zh": "合理地；相当地",
+    "ex": "The tickets are reasonably priced for a weekday evening.",
+    "exzh": "平日晚上这个票价相当合理。"
+  },
+  {
+    "w": "reassure",
+    "ph": "ˌriːəˈʃʊr",
+    "pos": "v.",
+    "zh": "使安心；使放心",
+    "ex": "The doctor reassured her that the lump was harmless.",
+    "exzh": "医生让她放心，那个肿块是无害的。"
+  },
+  {
+    "w": "rebel",
+    "ph": "ˈrebəl",
+    "pos": "v./n.",
+    "zh": "反抗；反叛者",
+    "ex": "Teenagers often rebel against their parents strict rules.",
+    "exzh": "青少年常常反抗父母的严格规定。"
+  },
+  {
+    "w": "rebellion",
+    "ph": "rɪˈbeljən",
+    "pos": "n.",
+    "zh": "叛乱；反抗",
+    "ex": "The government crushed the rebellion within a few weeks.",
+    "exzh": "政府在几周内镇压了叛乱。"
+  },
+  {
+    "w": "rebuild",
+    "ph": "ˌriːˈbɪld",
+    "pos": "v.",
+    "zh": "重建；重新组装",
+    "ex": "Volunteers helped rebuild the school after the flood.",
+    "exzh": "洪水过后，志愿者帮助重建了学校。"
+  },
+  {
+    "w": "recall",
+    "ph": "rɪˈkɔːl",
+    "pos": "v./n.",
+    "zh": "回忆；召回",
+    "ex": "I cannot recall the name of the street where we met.",
+    "exzh": "我想不起我们相遇的那条街的名字。"
+  },
+  {
+    "w": "receipt",
+    "ph": "rɪˈsiːt",
+    "pos": "n.",
+    "zh": "收据；收到",
+    "ex": "Keep the receipt in case you need to return the shoes.",
+    "exzh": "保留收据，以防你需要退鞋。"
+  },
+  {
+    "w": "receiver",
+    "ph": "rɪˈsiːvər",
+    "pos": "n.",
+    "zh": "听筒；接收器",
+    "ex": "He put the receiver down and walked out of the room.",
+    "exzh": "他放下听筒，走出了房间。"
+  },
+  {
+    "w": "recently",
+    "ph": "ˈriːsəntli",
+    "pos": "adv.",
+    "zh": "最近；近来",
+    "ex": "She recently moved to a quieter apartment near the park.",
+    "exzh": "她最近搬到了公园附近一套更安静的公寓。"
+  },
+  {
+    "w": "reception",
+    "ph": "rɪˈsepʃən",
+    "pos": "n.",
+    "zh": "接待；招待会；接收",
+    "ex": "Please report to the reception desk on the first floor.",
+    "exzh": "请到一楼接待台报到。"
+  },
+  {
+    "w": "receptionist",
+    "ph": "rɪˈsepʃənɪst",
+    "pos": "n.",
+    "zh": "接待员；前台人员",
+    "ex": "The receptionist asked us to wait in the lobby.",
+    "exzh": "接待员请我们在大厅等候。"
+  },
+  {
+    "w": "recession",
+    "ph": "rɪˈseʃən",
+    "pos": "n.",
+    "zh": "经济衰退；不景气",
+    "ex": "Many small businesses closed during the last recession.",
+    "exzh": "许多小企业在最近一次经济衰退中倒闭。"
+  },
+  {
+    "w": "recipe",
+    "ph": "ˈresəpi",
+    "pos": "n.",
+    "zh": "食谱；秘诀",
+    "ex": "My grandmother gave me her recipe for apple pie.",
+    "exzh": "我祖母把她的苹果派食谱给了我。"
+  },
+  {
+    "w": "recite",
+    "ph": "rɪˈsaɪt",
+    "pos": "v.",
+    "zh": "背诵；朗诵",
+    "ex": "Each student had to recite a short poem from memory.",
+    "exzh": "每个学生都必须凭记忆背诵一首短诗。"
+  },
+  {
+    "w": "reckon",
+    "ph": "ˈrekən",
+    "pos": "v.",
+    "zh": "认为；估算",
+    "ex": "I reckon it will take about three hours to get there.",
+    "exzh": "我估计到那里大约需要三个小时。"
+  },
+  {
+    "w": "reclaim",
+    "ph": "rɪˈkleɪm",
+    "pos": "v.",
+    "zh": "收回；开垦；回收",
+    "ex": "The city plans to reclaim the old factory site as a park.",
+    "exzh": "该市计划把旧厂址改造成公园。"
+  },
+  {
+    "w": "recognition",
+    "ph": "ˌrekəɡˈnɪʃən",
+    "pos": "n.",
+    "zh": "认出；承认；赏识",
+    "ex": "She gained international recognition for her work on malaria.",
+    "exzh": "她因疟疾研究获得了国际认可。"
+  },
+  {
+    "w": "recommendation",
+    "ph": "ˌrekəmenˈdeɪʃən",
+    "pos": "n.",
+    "zh": "推荐；建议",
+    "ex": "His letter of recommendation helped her get the scholarship.",
+    "exzh": "他的推荐信帮助她获得了奖学金。"
+  },
+  {
+    "w": "reconsider",
+    "ph": "ˌriːkənˈsɪdər",
+    "pos": "v.",
+    "zh": "重新考虑；再考虑",
+    "ex": "Please reconsider your decision before the deadline next week.",
+    "exzh": "请在下周截止日期前重新考虑你的决定。"
+  },
+  {
+    "w": "recorder",
+    "ph": "rɪˈkɔːrdər",
+    "pos": "n.",
+    "zh": "录音机；记录员",
+    "ex": "The reporter switched on the recorder before the interview.",
+    "exzh": "记者在采访前打开了录音机。"
+  },
+  {
+    "w": "recovery",
+    "ph": "rɪˈkʌvəri",
+    "pos": "n.",
+    "zh": "恢复；康复；找回",
+    "ex": "Doctors expect a full recovery within six weeks.",
+    "exzh": "医生预计六周内可完全康复。"
+  },
+  {
+    "w": "recreation",
+    "ph": "ˌrekriˈeɪʃən",
+    "pos": "n.",
+    "zh": "娱乐；消遣",
+    "ex": "The park offers space for recreation and family picnics.",
+    "exzh": "这个公园为娱乐和家庭野餐提供了空间。"
+  },
+  {
+    "w": "recruit",
+    "ph": "rɪˈkruːt",
+    "pos": "v./n.",
+    "zh": "招募；新成员",
+    "ex": "The hospital is trying to recruit more experienced nurses.",
+    "exzh": "这家医院正试图招募更多有经验的护士。"
+  },
+  {
+    "w": "rectangle",
+    "ph": "ˈrektæŋɡəl",
+    "pos": "n.",
+    "zh": "长方形；矩形",
+    "ex": "Draw a rectangle around the correct answer on the form.",
+    "exzh": "请在表格上正确答案周围画一个长方形。"
+  },
+  {
+    "w": "recur",
+    "ph": "rɪˈkɜːr",
+    "pos": "v.",
+    "zh": "再发生；重现",
+    "ex": "The same problem may recur if we ignore the cause.",
+    "exzh": "如果我们忽视原因，同样的问题可能再次发生。"
+  },
+  {
+    "w": "recycle",
+    "ph": "ˌriːˈsaɪkəl",
+    "pos": "v.",
+    "zh": "回收利用；再循环",
+    "ex": "Our school recycles paper, glass, and plastic bottles.",
+    "exzh": "我们学校回收纸张、玻璃和塑料瓶。"
+  },
+  {
+    "w": "reduction",
+    "ph": "rɪˈdʌkʃən",
+    "pos": "n.",
+    "zh": "减少；降低",
+    "ex": "The new machine led to a sharp reduction in waste.",
+    "exzh": "新机器使浪费大幅减少。"
+  },
+  {
+    "w": "reed",
+    "ph": "ˈriːd",
+    "pos": "n.",
+    "zh": "芦苇；簧片",
+    "ex": "Tall reeds grow along the edge of the quiet lake.",
+    "exzh": "高高的芦苇生长在宁静的湖边。"
+  },
+  {
+    "w": "reef",
+    "ph": "ˈriːf",
+    "pos": "n.",
+    "zh": "礁；暗礁",
+    "ex": "The boat struck a reef just outside the harbor.",
+    "exzh": "船在港口外触了礁。"
+  },
+  {
+    "w": "referee",
+    "ph": "ˌrefəˈriː",
+    "pos": "n./v.",
+    "zh": "裁判；仲裁",
+    "ex": "The referee stopped the match after the second injury.",
+    "exzh": "裁判在第二次受伤后中止了比赛。"
+  },
+  {
+    "w": "reference",
+    "ph": "ˈrefrəns",
+    "pos": "n.",
+    "zh": "参考；提及；推荐人",
+    "ex": "She listed her former manager as a reference on the form.",
+    "exzh": "她在表格上把前经理列为推荐人。"
+  },
+  {
+    "w": "refine",
+    "ph": "rɪˈfaɪn",
+    "pos": "v.",
+    "zh": "精炼；改进",
+    "ex": "The team refined the design after testing the first model.",
+    "exzh": "团队在测试首个模型后改进了设计。"
+  },
+  {
+    "w": "reflection",
+    "ph": "rɪˈflekʃən",
+    "pos": "n.",
+    "zh": "反射；映像；反思",
+    "ex": "He saw his own reflection in the dark window.",
+    "exzh": "他在暗色的窗户里看到了自己的倒影。"
+  },
+  {
+    "w": "reform",
+    "ph": "rɪˈfɔːrm",
+    "pos": "n./v.",
+    "zh": "改革；改良",
+    "ex": "The government promised to reform the tax system.",
+    "exzh": "政府承诺改革税制。"
+  },
+  {
+    "w": "refresh",
+    "ph": "rɪˈfreʃ",
+    "pos": "v.",
+    "zh": "使恢复精力；刷新",
+    "ex": "A cold drink will refresh you after the long walk.",
+    "exzh": "长途步行后喝杯冷饮会让你恢复精神。"
+  },
+  {
+    "w": "refrigerator",
+    "ph": "rɪˈfrɪdʒəreɪtər",
+    "pos": "n.",
+    "zh": "冰箱；冷藏库",
+    "ex": "Put the milk in the refrigerator before it spoils.",
+    "exzh": "把牛奶放进冰箱，以免变质。"
+  },
+  {
+    "w": "refuge",
+    "ph": "ˈrefjuːdʒ",
+    "pos": "n.",
+    "zh": "避难所；庇护",
+    "ex": "The travelers took refuge in a small church.",
+    "exzh": "旅行者在一座小教堂里避难。"
+  },
+  {
+    "w": "refugee",
+    "ph": "ˌrefjuˈdʒiː",
+    "pos": "n.",
+    "zh": "难民；避难者",
+    "ex": "The camp provides shelter for thousands of refugees.",
+    "exzh": "这个营地收容了数千名难民。"
+  },
+  {
+    "w": "refund",
+    "ph": "ˈriːfʌnd",
+    "pos": "n./v.",
+    "zh": "退款；退还",
+    "ex": "The shop gave me a full refund without any argument.",
+    "exzh": "商店没有任何争辩就全额退款了。"
+  },
+  {
+    "w": "refusal",
+    "ph": "rɪˈfjuːzəl",
+    "pos": "n.",
+    "zh": "拒绝；回绝",
+    "ex": "His refusal to apologize made the situation much worse.",
+    "exzh": "他拒绝道歉使情况变得更糟。"
+  },
+  {
+    "w": "regain",
+    "ph": "rɪˈɡeɪn",
+    "pos": "v.",
+    "zh": "重新获得；恢复",
+    "ex": "She slowly regained her strength after the long illness.",
+    "exzh": "长期患病后她慢慢恢复了体力。"
+  },
+  {
+    "w": "regarding",
+    "ph": "rɪˈɡɑːrdɪŋ",
+    "pos": "prep.",
+    "zh": "关于；至于",
+    "ex": "I have a question regarding the schedule for next week.",
+    "exzh": "我有个关于下周日程的问题。"
+  },
+  {
+    "w": "regardless",
+    "ph": "rɪˈɡɑːrdləs",
+    "pos": "adv.",
+    "zh": "不管怎样；无论如何",
+    "ex": "He went ahead with the plan regardless of the risks.",
+    "exzh": "他不顾风险继续推进这个计划。"
+  },
+  {
+    "w": "regime",
+    "ph": "reɪˈʒiːm",
+    "pos": "n.",
+    "zh": "政权；制度",
+    "ex": "The old regime fell after months of public protest.",
+    "exzh": "经过数月公众抗议，旧政权垮台了。"
+  },
+  {
+    "w": "regional",
+    "ph": "ˈriːdʒənəl",
+    "pos": "adj.",
+    "zh": "地区的；区域的",
+    "ex": "The regional government funded a new train station.",
+    "exzh": "地区政府出资修建了一个新火车站。"
+  },
+  {
+    "w": "register",
+    "ph": "ˈredʒɪstər",
+    "pos": "v./n.",
+    "zh": "登记；注册；登记簿",
+    "ex": "Students must register for their courses before Friday.",
+    "exzh": "学生必须在周五前注册课程。"
+  },
+  {
+    "w": "registration",
+    "ph": "ˌredʒɪˈstreɪʃən",
+    "pos": "n.",
+    "zh": "登记；注册",
+    "ex": "Registration for the summer camp opens next Monday.",
+    "exzh": "夏令营报名下周一开放。"
+  },
+  {
+    "w": "regret",
+    "ph": "rɪˈɡret",
+    "pos": "v./n.",
+    "zh": "后悔；遗憾",
+    "ex": "I deeply regret not saying goodbye to her.",
+    "exzh": "我非常后悔没有和她道别。"
+  },
+  {
+    "w": "regularly",
+    "ph": "ˈreɡjələrli",
+    "pos": "adv.",
+    "zh": "定期地；经常",
+    "ex": "He regularly visits his grandmother on Sunday afternoons.",
+    "exzh": "他常在周日下午去看望祖母。"
+  },
+  {
+    "w": "regulate",
+    "ph": "ˈreɡjəleɪt",
+    "pos": "v.",
+    "zh": "调节；管理",
+    "ex": "The body uses sweat to regulate its temperature.",
+    "exzh": "身体通过出汗来调节体温。"
+  },
+  {
+    "w": "regulation",
+    "ph": "ˌreɡjəˈleɪʃən",
+    "pos": "n.",
+    "zh": "规章；调节",
+    "ex": "New regulations require factories to reduce their emissions.",
+    "exzh": "新规章要求工厂减少排放。"
+  },
+  {
+    "w": "rehearsal",
+    "ph": "rɪˈhɜːrsəl",
+    "pos": "n.",
+    "zh": "排练；彩排",
+    "ex": "The final rehearsal went smoothly despite the missing props.",
+    "exzh": "尽管少了道具，最后一次排练进行得很顺利。"
+  },
+  {
+    "w": "rehearse",
+    "ph": "rɪˈhɜːrs",
+    "pos": "v.",
+    "zh": "排练；练习",
+    "ex": "The actors rehearse every evening until the opening night.",
+    "exzh": "演员们每晚排练，直到首演之夜。"
+  },
+  {
+    "w": "reign",
+    "ph": "ˈreɪn",
+    "pos": "n./v.",
+    "zh": "统治；在位",
+    "ex": "The queen's reign lasted more than forty years.",
+    "exzh": "女王的统治持续了四十多年。"
+  },
+  {
+    "w": "rein",
+    "ph": "ˈreɪn",
+    "pos": "n.",
+    "zh": "缰绳；控制",
+    "ex": "He pulled the reins and the horse stopped at once.",
+    "exzh": "他拉紧缰绳，马立刻停了下来。"
+  },
+  {
+    "w": "reinforce",
+    "ph": "ˌriːɪnˈfɔːrs",
+    "pos": "v.",
+    "zh": "加强；加固",
+    "ex": "These results reinforce our earlier findings about sleep loss.",
+    "exzh": "这些结果强化了我们先前关于睡眠不足的发现。"
+  },
+  {
+    "w": "rejection",
+    "ph": "rɪˈdʒekʃən",
+    "pos": "n.",
+    "zh": "拒绝；排斥",
+    "ex": "Her first novel received rejection letters from six publishers.",
+    "exzh": "她的第一部小说收到了六家出版社的退稿信。"
+  },
+  {
+    "w": "rejoice",
+    "ph": "rɪˈdʒɔɪs",
+    "pos": "v.",
+    "zh": "高兴；欣喜",
+    "ex": "The whole village rejoiced when the missing child returned.",
+    "exzh": "失踪的孩子回来后，全村人都欢欣鼓舞。"
+  },
+  {
+    "w": "relation",
+    "ph": "rɪˈleɪʃən",
+    "pos": "n.",
+    "zh": "关系；亲属",
+    "ex": "The relation between diet and health is widely studied.",
+    "exzh": "饮食与健康之间的关系被广泛研究。"
+  },
+  {
+    "w": "relationship",
+    "ph": "rɪˈleɪʃənʃɪp",
+    "pos": "n.",
+    "zh": "关系；联系",
+    "ex": "They built a close working relationship over ten years.",
+    "exzh": "他们在十年间建立了紧密的工作关系。"
+  },
+  {
+    "w": "relative",
+    "ph": "ˈrelətɪv",
+    "pos": "adj./n.",
+    "zh": "相对的；亲属",
+    "ex": "A relative of mine lives in the same building.",
+    "exzh": "我的一位亲戚住在同一栋楼里。"
+  },
+  {
+    "w": "relatively",
+    "ph": "ˈrelətɪvli",
+    "pos": "adv.",
+    "zh": "相对地；比较地",
+    "ex": "The exam was relatively easy compared with last year's.",
+    "exzh": "与去年相比，这次考试相对容易。"
+  },
+  {
+    "w": "relax",
+    "ph": "rɪˈlæks",
+    "pos": "v.",
+    "zh": "放松；休息",
+    "ex": "You should relax and stop worrying about the results.",
+    "exzh": "你应该放松，别再担心结果了。"
+  },
+  {
+    "w": "relaxation",
+    "ph": "ˌriːlækˈseɪʃən",
+    "pos": "n.",
+    "zh": "放松；消遣",
+    "ex": "Reading by the fire is her favorite form of relaxation.",
+    "exzh": "在炉火旁读书是她最喜欢的放松方式。"
+  },
+  {
+    "w": "relay",
+    "ph": "ˈriːleɪ",
+    "pos": "n./v.",
+    "zh": "接力赛；转播",
+    "ex": "Our team won the relay by less than a second.",
+    "exzh": "我们队以不到一秒的优势赢得了接力赛。"
+  },
+  {
+    "w": "reliability",
+    "ph": "rɪˌlaɪəˈbɪləti",
+    "pos": "n.",
+    "zh": "可靠性；可信度",
+    "ex": "Engineers tested the reliability of the system for months.",
+    "exzh": "工程师花了数月测试该系统的可靠性。"
+  },
+  {
+    "w": "reliable",
+    "ph": "rɪˈlaɪəbəl",
+    "pos": "adj.",
+    "zh": "可靠的；可信赖的",
+    "ex": "We need reliable data before making any decision.",
+    "exzh": "在做出任何决定之前，我们需要可靠的数据。"
+  },
+  {
+    "w": "reliance",
+    "ph": "rɪˈlaɪəns",
+    "pos": "n.",
+    "zh": "依赖；依靠",
+    "ex": "The country's reliance on imported oil has decreased.",
+    "exzh": "该国对进口石油的依赖已经下降。"
+  },
+  {
+    "w": "relief",
+    "ph": "rɪˈliːf",
+    "pos": "n.",
+    "zh": "宽慰；减轻；救济",
+    "ex": "To her relief, the test results were completely normal.",
+    "exzh": "让她宽慰的是，检查结果完全正常。"
+  },
+  {
+    "w": "relieve",
+    "ph": "rɪˈliːv",
+    "pos": "v.",
+    "zh": "减轻；缓解；使宽慰",
+    "ex": "This medicine should relieve the pain within an hour.",
+    "exzh": "这种药应在一小时内缓解疼痛。"
+  },
+  {
+    "w": "religion",
+    "ph": "rɪˈlɪdʒən",
+    "pos": "n.",
+    "zh": "宗教；信仰",
+    "ex": "Religion plays an important role in many rural communities.",
+    "exzh": "宗教在许多农村社区中起着重要作用。"
+  },
+  {
+    "w": "religious",
+    "ph": "rɪˈlɪdʒəs",
+    "pos": "adj.",
+    "zh": "宗教的；虔诚的",
+    "ex": "The festival has both religious and cultural meaning.",
+    "exzh": "这个节日既有宗教意义也有文化意义。"
+  },
+  {
+    "w": "relocate",
+    "ph": "ˌriːˈloʊkeɪt",
+    "pos": "v.",
+    "zh": "搬迁；重新安置",
+    "ex": "The company plans to relocate its factory to the south.",
+    "exzh": "公司计划把工厂迁到南方。"
+  },
+  {
+    "w": "reluctance",
+    "ph": "rɪˈlʌktəns",
+    "pos": "n.",
+    "zh": "不情愿；勉强",
+    "ex": "He agreed to help, but with obvious reluctance.",
+    "exzh": "他同意帮忙，但明显很不情愿。"
+  },
+  {
+    "w": "reluctant",
+    "ph": "rɪˈlʌktənt",
+    "pos": "adj.",
+    "zh": "不情愿的；勉强的",
+    "ex": "She was reluctant to leave her hometown for work.",
+    "exzh": "她不愿离开家乡去外地工作。"
+  },
+  {
+    "w": "remainder",
+    "ph": "rɪˈmeɪndər",
+    "pos": "n.",
+    "zh": "剩余部分；余数",
+    "ex": "The remainder of the money will be saved for college.",
+    "exzh": "剩下的钱将存作大学费用。"
+  },
+  {
+    "w": "remark",
+    "ph": "rɪˈmɑːrk",
+    "pos": "n./v.",
+    "zh": "评论；谈论",
+    "ex": "His casual remark about her accent hurt her feelings.",
+    "exzh": "他随口评论她的口音伤了她的感情。"
+  },
+  {
+    "w": "remarkable",
+    "ph": "rɪˈmɑːrkəbəl",
+    "pos": "adj.",
+    "zh": "非凡的；显著的",
+    "ex": "The patient made a remarkable recovery in just two weeks.",
+    "exzh": "病人在短短两周内就取得了非凡的康复。"
+  },
+  {
+    "w": "remedy",
+    "ph": "ˈremədi",
+    "pos": "n./v.",
+    "zh": "补救办法；治疗",
+    "ex": "There is no simple remedy for the housing shortage.",
+    "exzh": "对住房短缺没有简单的解决办法。"
+  },
+  {
+    "w": "reminder",
+    "ph": "rɪˈmaɪndər",
+    "pos": "n.",
+    "zh": "提醒；提示物",
+    "ex": "This photo is a reminder of our trip to Yunnan.",
+    "exzh": "这张照片是对我们云南之行的提醒。"
+  },
+  {
+    "w": "remote",
+    "ph": "rɪˈmoʊt",
+    "pos": "adj.",
+    "zh": "遥远的；偏僻的；远程的",
+    "ex": "They live in a remote village without a bus service.",
+    "exzh": "他们住在一个没有公交服务的偏远村庄。"
+  },
+  {
+    "w": "removal",
+    "ph": "rɪˈmuːvəl",
+    "pos": "n.",
+    "zh": "去除；搬迁",
+    "ex": "The removal of the old bridge took three weeks.",
+    "exzh": "拆除旧桥用了三周时间。"
+  },
+  {
+    "w": "render",
+    "ph": "ˈrendər",
+    "pos": "v.",
+    "zh": "使成为；给予",
+    "ex": "The accident rendered him unable to walk for months.",
+    "exzh": "这场事故使他数月无法行走。"
+  },
+  {
+    "w": "renew",
+    "ph": "rɪˈnuː",
+    "pos": "v.",
+    "zh": "更新；续订；重新开始",
+    "ex": "You must renew your passport before it expires.",
+    "exzh": "你必须在护照到期前续办。"
+  },
+  {
+    "w": "renewal",
+    "ph": "rɪˈnuːəl",
+    "pos": "n.",
+    "zh": "更新；续订；复兴",
+    "ex": "The city began an ambitious renewal of its old harbor.",
+    "exzh": "该市开始对旧港区进行雄心勃勃的更新。"
+  },
+  {
+    "w": "rent",
+    "ph": "ˈrent",
+    "pos": "n./v.",
+    "zh": "租金；租用",
+    "ex": "They rent a small flat near the university.",
+    "exzh": "他们在大学附近租了一间小公寓。"
+  },
+  {
+    "w": "rental",
+    "ph": "ˈrentəl",
+    "pos": "n./adj.",
+    "zh": "租金；租赁的",
+    "ex": "The rental agreement lasts for twelve months.",
+    "exzh": "租赁协议为期十二个月。"
+  },
+  {
+    "w": "repay",
+    "ph": "riːˈpeɪ",
+    "pos": "v.",
+    "zh": "偿还；报答",
+    "ex": "He worked two jobs to repay his student loans.",
+    "exzh": "他打两份工来偿还学生贷款。"
+  },
+  {
+    "w": "repayment",
+    "ph": "rɪˈpeɪmənt",
+    "pos": "n.",
+    "zh": "偿还；还款",
+    "ex": "Monthly repayments on the loan start in July.",
+    "exzh": "该贷款的每月还款从七月开始。"
+  },
+  {
+    "w": "repeatedly",
+    "ph": "rɪˈpiːtɪdli",
+    "pos": "adv.",
+    "zh": "多次地；反复地",
+    "ex": "She repeatedly asked for a copy of the report.",
+    "exzh": "她反复要求给她一份报告副本。"
+  },
+  {
+    "w": "repetition",
+    "ph": "ˌrepəˈtɪʃən",
+    "pos": "n.",
+    "zh": "重复；反复",
+    "ex": "Learning a language requires patience and constant repetition.",
+    "exzh": "学习一门语言需要耐心和不断的重复。"
+  },
+  {
+    "w": "replacement",
+    "ph": "rɪˈpleɪsmənt",
+    "pos": "n.",
+    "zh": "替换；替代物",
+    "ex": "The airline offered a replacement flight the next morning.",
+    "exzh": "航空公司提供了次日早上的替代航班。"
+  },
+  {
+    "w": "reporter",
+    "ph": "rɪˈpɔːrtər",
+    "pos": "n.",
+    "zh": "记者；通讯员",
+    "ex": "A reporter from the local paper interviewed the mayor.",
+    "exzh": "当地报纸的一名记者采访了市长。"
+  },
+  {
+    "w": "representation",
+    "ph": "ˌreprɪzenˈteɪʃən",
+    "pos": "n.",
+    "zh": "代表；表现",
+    "ex": "The painting is a fine representation of rural life.",
+    "exzh": "这幅画很好地表现了乡村生活。"
+  },
+  {
+    "w": "representative",
+    "ph": "ˌreprɪˈzentətɪv",
+    "pos": "n./adj.",
+    "zh": "代表；典型的",
+    "ex": "Each department sent a representative to the weekly meeting.",
+    "exzh": "每个部门都派一名代表参加每周会议。"
+  },
+  {
+    "w": "reproduce",
+    "ph": "ˌriːprəˈdjuːs",
+    "pos": "v.",
+    "zh": "繁殖；复制；再现",
+    "ex": "These plants reproduce quickly in warm, wet conditions.",
+    "exzh": "这些植物在温暖潮湿的条件下繁殖很快。"
+  },
+  {
+    "w": "reproduction",
+    "ph": "ˌriːprəˈdʌkʃən",
+    "pos": "n.",
+    "zh": "繁殖；复制品",
+    "ex": "The museum sells high-quality reproductions of famous paintings.",
+    "exzh": "博物馆出售名画的高质量复制品。"
+  },
+  {
+    "w": "reptile",
+    "ph": "ˈreptaɪl",
+    "pos": "n.",
+    "zh": "爬行动物；爬虫",
+    "ex": "Snakes and lizards are reptiles that need little water.",
+    "exzh": "蛇和蜥蜴是需要很少水分的爬行动物。"
+  },
+  {
+    "w": "republic",
+    "ph": "rɪˈpʌblɪk",
+    "pos": "n.",
+    "zh": "共和国；共和政体",
+    "ex": "The republic was founded after a long and bloody war.",
+    "exzh": "这个共和国是在一场漫长血腥的战争后建立的。"
+  },
+  {
+    "w": "reputation",
+    "ph": "ˌrepjəˈteɪʃən",
+    "pos": "n.",
+    "zh": "名声；声誉",
+    "ex": "The restaurant has a good reputation for fresh seafood.",
+    "exzh": "这家餐厅以新鲜海鲜享有良好声誉。"
+  },
+  {
+    "w": "request",
+    "ph": "rɪˈkwest",
+    "pos": "n./v.",
+    "zh": "请求；要求",
+    "ex": "The manager approved my request for two days off.",
+    "exzh": "经理批准了我请两天假的请求。"
+  },
+  {
+    "w": "requirement",
+    "ph": "rɪˈkwaɪərmənt",
+    "pos": "n.",
+    "zh": "要求；必要条件",
+    "ex": "Fluency in English is a basic requirement for the job.",
+    "exzh": "流利的英语是这份工作的基本要求。"
+  },
+  {
+    "w": "rescue",
+    "ph": "ˈreskjuː",
+    "pos": "v./n.",
+    "zh": "营救；救援",
+    "ex": "Firefighters rescued three children from the burning house.",
+    "exzh": "消防员从燃烧的房子里救出了三个孩子。"
+  },
+  {
+    "w": "researcher",
+    "ph": "rɪˈsɜːrtʃər",
+    "pos": "n.",
+    "zh": "研究人员；调查者",
+    "ex": "Researchers found a strong link between stress and illness.",
+    "exzh": "研究人员发现压力与疾病之间存在密切联系。"
+  },
+  {
+    "w": "resemblance",
+    "ph": "rɪˈzembləns",
+    "pos": "n.",
+    "zh": "相似；相似之处",
+    "ex": "There is a strong resemblance between the two sisters.",
+    "exzh": "这对姐妹之间有很强的相似之处。"
+  },
+  {
+    "w": "resemble",
+    "ph": "rɪˈzembəl",
+    "pos": "v.",
+    "zh": "像；类似",
+    "ex": "She closely resembles her mother in both face and voice.",
+    "exzh": "她在相貌和声音上都很像她母亲。"
+  },
+  {
+    "w": "resent",
+    "ph": "rɪˈzent",
+    "pos": "v.",
+    "zh": "怨恨；愤恨",
+    "ex": "He resented being treated like a child at work.",
+    "exzh": "他讨厌在工作中被当作孩子对待。"
+  },
+  {
+    "w": "reservation",
+    "ph": "ˌrezərˈveɪʃən",
+    "pos": "n.",
+    "zh": "预订；保留意见",
+    "ex": "I made a reservation for four people at seven.",
+    "exzh": "我订了七点四个人的位子。"
+  },
+  {
+    "w": "reserve",
+    "ph": "rɪˈzɜːrv",
+    "pos": "v./n.",
+    "zh": "预订；储备；保留",
+    "ex": "The hotel reserves two rooms for late-night guests.",
+    "exzh": "酒店为深夜来客保留了两个房间。"
+  },
+  {
+    "w": "reservoir",
+    "ph": "ˈrezərvwɑːr",
+    "pos": "n.",
+    "zh": "水库；储备",
+    "ex": "The reservoir supplies drinking water to the whole district.",
+    "exzh": "这座水库为整个地区供应饮用水。"
+  },
+  {
+    "w": "reside",
+    "ph": "rɪˈzaɪd",
+    "pos": "v.",
+    "zh": "居住；存在于",
+    "ex": "Most students reside on campus during the first year.",
+    "exzh": "大多数学生在第一年住在校内。"
+  },
+  {
+    "w": "residence",
+    "ph": "ˈrezɪdəns",
+    "pos": "n.",
+    "zh": "住所；居住",
+    "ex": "The ambassador's residence stands behind a high wall.",
+    "exzh": "大使的住所位于一堵高墙后面。"
+  },
+  {
+    "w": "resident",
+    "ph": "ˈrezɪdənt",
+    "pos": "n./adj.",
+    "zh": "居民；居住的",
+    "ex": "Local residents complained about the noise from the factory.",
+    "exzh": "当地居民抱怨工厂的噪音。"
+  },
+  {
+    "w": "residential",
+    "ph": "ˌrezɪˈdenʃəl",
+    "pos": "adj.",
+    "zh": "住宅的；居住的",
+    "ex": "The area is quiet and almost entirely residential.",
+    "exzh": "这个地区很安静，几乎全是住宅。"
+  },
+  {
+    "w": "resign",
+    "ph": "rɪˈzaɪn",
+    "pos": "v.",
+    "zh": "辞职；放弃",
+    "ex": "The director decided to resign after the scandal broke.",
+    "exzh": "丑闻曝光后，董事决定辞职。"
+  },
+  {
+    "w": "resignation",
+    "ph": "ˌrezɪɡˈneɪʃən",
+    "pos": "n.",
+    "zh": "辞职；辞呈；顺从",
+    "ex": "She handed in her resignation on the last day of March.",
+    "exzh": "她在三月的最后一天递交了辞呈。"
+  },
+  {
+    "w": "resistance",
+    "ph": "rɪˈzɪstəns",
+    "pos": "n.",
+    "zh": "抵抗；阻力；电阻",
+    "ex": "The proposal met with strong resistance from local farmers.",
+    "exzh": "该提案遭到当地农民的强烈反对。"
+  },
+  {
+    "w": "resistant",
+    "ph": "rɪˈzɪstənt",
+    "pos": "adj.",
+    "zh": "抵抗的；有抵抗力的",
+    "ex": "These crops are resistant to most common plant diseases.",
+    "exzh": "这些作物对大多数常见植物病害有抵抗力。"
+  },
+  {
+    "w": "resolution",
+    "ph": "ˌrezəˈluːʃən",
+    "pos": "n.",
+    "zh": "决议；决心；解决",
+    "ex": "The committee passed a resolution to protect the wetland.",
+    "exzh": "委员会通过了一项保护湿地的决议。"
+  },
+  {
+    "w": "resolve",
+    "ph": "rɪˈzɑːlv",
+    "pos": "v./n.",
+    "zh": "解决；决心",
+    "ex": "Both sides agreed to resolve the dispute through talks.",
+    "exzh": "双方同意通过会谈解决争端。"
+  },
+  {
+    "w": "resort",
+    "ph": "rɪˈzɔːrt",
+    "pos": "n./v.",
+    "zh": "度假胜地；诉诸",
+    "ex": "The small resort fills up every year in August.",
+    "exzh": "这个小度假地每年八月都客满。"
+  },
+  {
+    "w": "respectable",
+    "ph": "rɪˈspektəbəl",
+    "pos": "adj.",
+    "zh": "体面的；可敬的",
+    "ex": "He earns a respectable salary as a high school teacher.",
+    "exzh": "他当中学教师挣着一份体面的薪水。"
+  },
+  {
+    "w": "respectful",
+    "ph": "rɪˈspektfəl",
+    "pos": "adj.",
+    "zh": "恭敬的；尊重的",
+    "ex": "The students were polite and respectful to the visitors.",
+    "exzh": "学生们对来访者礼貌而恭敬。"
+  },
+  {
+    "w": "respective",
+    "ph": "rɪˈspektɪv",
+    "pos": "adj.",
+    "zh": "各自的；分别的",
+    "ex": "After the meeting, they returned to their respective offices.",
+    "exzh": "会议结束后，他们各自回到办公室。"
+  },
+  {
+    "w": "respectively",
+    "ph": "rɪˈspektɪvli",
+    "pos": "adv.",
+    "zh": "分别地；各自地",
+    "ex": "The two runners finished first and third respectively.",
+    "exzh": "这两名跑步者分别获得第一名和第三名。"
+  },
+  {
+    "w": "restless",
+    "ph": "ˈrestləs",
+    "pos": "adj.",
+    "zh": "焦躁的；不安的",
+    "ex": "The children grew restless during the long car journey.",
+    "exzh": "孩子们在长途汽车旅程中变得焦躁不安。"
+  },
+  {
+    "w": "restoration",
+    "ph": "ˌrestəˈreɪʃən",
+    "pos": "n.",
+    "zh": "恢复；修复",
+    "ex": "The restoration of the old temple took almost a decade.",
+    "exzh": "这座古庙的修复花了将近十年。"
+  },
+  {
+    "w": "restore",
+    "ph": "rɪˈstɔːr",
+    "pos": "v.",
+    "zh": "恢复；修复；归还",
+    "ex": "The city hopes to restore the historic market by 2030.",
+    "exzh": "该市希望在2030年前修复这座历史市场。"
+  },
+  {
+    "w": "restrain",
+    "ph": "rɪˈstreɪn",
+    "pos": "v.",
+    "zh": "克制；抑制；约束",
+    "ex": "He could hardly restrain his anger during the interview.",
+    "exzh": "采访中他几乎无法抑制自己的愤怒。"
+  },
+  {
+    "w": "restraint",
+    "ph": "rɪˈstreɪnt",
+    "pos": "n.",
+    "zh": "克制；限制",
+    "ex": "The government imposed new restraints on bank lending.",
+    "exzh": "政府对银行贷款施加了新的限制。"
+  },
+  {
+    "w": "restrict",
+    "ph": "rɪˈstrɪkt",
+    "pos": "v.",
+    "zh": "限制；约束",
+    "ex": "The new rules restrict the use of plastic bags.",
+    "exzh": "新规定限制塑料袋的使用。"
+  },
+  {
+    "w": "restriction",
+    "ph": "rɪˈstrɪkʃən",
+    "pos": "n.",
+    "zh": "限制；约束",
+    "ex": "Travel restrictions were lifted after the storm ended.",
+    "exzh": "暴风雨结束后，旅行限制被解除。"
+  },
+  {
+    "w": "resume",
+    "ph": "rɪˈzuːm",
+    "pos": "v./n.",
+    "zh": "重新开始；简历",
+    "ex": "She will resume her studies in September after the break.",
+    "exzh": "她将在假期后于九月继续学业。"
+  },
+  {
+    "w": "retail",
+    "ph": "ˈriːteɪl",
+    "pos": "n./v.",
+    "zh": "零售；零售业",
+    "ex": "The company sells its products through retail and online stores.",
+    "exzh": "该公司通过零售店和网店销售产品。"
+  },
+  {
+    "w": "retailer",
+    "ph": "ˈriːteɪlər",
+    "pos": "n.",
+    "zh": "零售商；零售店",
+    "ex": "Online retailers now dominate the sale of small electronics.",
+    "exzh": "在线零售商现在主导小电子产品的销售。"
+  },
+  {
+    "w": "retain",
+    "ph": "rɪˈteɪn",
+    "pos": "v.",
+    "zh": "保持；保留；记住",
+    "ex": "The museum retains its original wooden ceiling.",
+    "exzh": "博物馆保留了原有的木制天花板。"
+  },
+  {
+    "w": "retell",
+    "ph": "ˌriːˈtel",
+    "pos": "v.",
+    "zh": "复述；重讲",
+    "ex": "The children were asked to retell the story in class.",
+    "exzh": "孩子们被要求在课上复述这个故事。"
+  },
+  {
+    "w": "retire",
+    "ph": "rɪˈtaɪər",
+    "pos": "v.",
+    "zh": "退休；退役",
+    "ex": "My father retired from teaching at the age of sixty.",
+    "exzh": "我父亲六十岁时从教师岗位退休。"
+  },
+  {
+    "w": "retirement",
+    "ph": "rɪˈtaɪərmənt",
+    "pos": "n.",
+    "zh": "退休；退休生活",
+    "ex": "They moved to the coast after his retirement.",
+    "exzh": "他退休后他们搬到了海边。"
+  },
+  {
+    "w": "retreat",
+    "ph": "rɪˈtriːt",
+    "pos": "v./n.",
+    "zh": "撤退；退却；静修",
+    "ex": "The soldiers were ordered to retreat before nightfall.",
+    "exzh": "士兵们奉命在夜幕降临前撤退。"
+  },
+  {
+    "w": "retrieve",
+    "ph": "rɪˈtriːv",
+    "pos": "v.",
+    "zh": "取回；检索；挽回",
+    "ex": "The program can retrieve deleted files within thirty days.",
+    "exzh": "该程序可在三十天内恢复已删除的文件。"
+  },
+  {
+    "w": "reunion",
+    "ph": "riːˈjuːniən",
+    "pos": "n.",
+    "zh": "重聚；团聚",
+    "ex": "The family reunion takes place every summer in July.",
+    "exzh": "家庭聚会每年七月举行。"
+  },
+  {
+    "w": "reunite",
+    "ph": "ˌriːjuˈnaɪt",
+    "pos": "v.",
+    "zh": "重聚；使重逢",
+    "ex": "The charity helped reunite the brothers after thirty years.",
+    "exzh": "该慈善机构帮助这对兄弟在三十年后重聚。"
+  },
+  {
+    "w": "reveal",
+    "ph": "rɪˈviːl",
+    "pos": "v.",
+    "zh": "揭示；透露",
+    "ex": "The survey revealed a sharp rise in living costs.",
+    "exzh": "该调查揭示了生活成本的急剧上升。"
+  },
+  {
+    "w": "revelation",
+    "ph": "ˌrevəˈleɪʃən",
+    "pos": "n.",
+    "zh": "揭露；启示",
+    "ex": "The letters were a revelation about his early life.",
+    "exzh": "这些信件揭示了他早年生活的情况。"
+  },
+  {
+    "w": "revenge",
+    "ph": "rɪˈvendʒ",
+    "pos": "n./v.",
+    "zh": "报复；报仇",
+    "ex": "He never forgot the insult and planned his revenge.",
+    "exzh": "他从未忘记那次侮辱，并策划了报复。"
+  },
+  {
+    "w": "revenue",
+    "ph": "ˈrevənuː",
+    "pos": "n.",
+    "zh": "收入；税收",
+    "ex": "Tourism provides most of the island's annual revenue.",
+    "exzh": "旅游业提供了该岛年收入的大部分。"
+  },
+  {
+    "w": "reversal",
+    "ph": "rɪˈvɜːrsəl",
+    "pos": "n.",
+    "zh": "逆转；推翻",
+    "ex": "The court's reversal of the decision surprised everyone.",
+    "exzh": "法院推翻判决让所有人惊讶。"
+  },
+  {
+    "w": "reverse",
+    "ph": "rɪˈvɜːrs",
+    "pos": "v./n./adj.",
+    "zh": "颠倒；倒退；相反的",
+    "ex": "The car reversed slowly out of the narrow lane.",
+    "exzh": "汽车慢慢倒出狭窄的小巷。"
+  },
+  {
+    "w": "reversible",
+    "ph": "rɪˈvɜːrsəbəl",
+    "pos": "adj.",
+    "zh": "可逆的；可翻转的",
+    "ex": "This jacket is reversible, so you get two colors.",
+    "exzh": "这件夹克可两面穿，所以你有两种颜色。"
+  },
+  {
+    "w": "revise",
+    "ph": "rɪˈvaɪz",
+    "pos": "v.",
+    "zh": "修订；修改；复习",
+    "ex": "The author revised the final chapter three times.",
+    "exzh": "作者把最后一章修改了三次。"
+  },
+  {
+    "w": "revision",
+    "ph": "rɪˈvɪʒən",
+    "pos": "n.",
+    "zh": "修订；修改；复习",
+    "ex": "The plan needs a thorough revision before we submit it.",
+    "exzh": "在我们提交之前，这个计划需要彻底修订。"
+  },
+  {
+    "w": "revival",
+    "ph": "rɪˈvaɪvəl",
+    "pos": "n.",
+    "zh": "复兴；恢复",
+    "ex": "The town has seen a revival of traditional crafts.",
+    "exzh": "这个小镇的传统手工艺出现了复兴。"
+  },
+  {
+    "w": "revive",
+    "ph": "rɪˈvaɪv",
+    "pos": "v.",
+    "zh": "复兴；苏醒；恢复",
+    "ex": "A hot meal and a short rest revived the tired hikers.",
+    "exzh": "一顿热饭和短暂休息使疲惫的徒步者恢复了精神。"
+  },
+  {
+    "w": "revolt",
+    "ph": "rɪˈvoʊlt",
+    "pos": "v./n.",
+    "zh": "反抗；起义",
+    "ex": "The peasants revolted against the heavy new taxes.",
+    "exzh": "农民反抗沉重的新税。"
+  },
+  {
+    "w": "revolution",
+    "ph": "ˌrevəˈluːʃən",
+    "pos": "n.",
+    "zh": "革命；巨变",
+    "ex": "The industrial revolution changed the way people worked.",
+    "exzh": "工业革命改变了人们的工作方式。"
+  },
+  {
+    "w": "revolutionary",
+    "ph": "ˌrevəˈluːʃəneri",
+    "pos": "adj./n.",
+    "zh": "革命的；革命者",
+    "ex": "The invention was truly revolutionary for the printing industry.",
+    "exzh": "这项发明对印刷业来说确实是革命性的。"
+  },
+  {
+    "w": "revolve",
+    "ph": "rɪˈvɑːlv",
+    "pos": "v.",
+    "zh": "旋转；围绕",
+    "ex": "The earth revolves around the sun once a year.",
+    "exzh": "地球每年绕太阳公转一周。"
+  },
+  {
+    "w": "reward",
+    "ph": "rɪˈwɔːrd",
+    "pos": "n./v.",
+    "zh": "奖赏；回报",
+    "ex": "The company offers a reward for information about the theft.",
+    "exzh": "公司悬赏征集有关盗窃案的线索。"
+  },
+  {
+    "w": "rewrite",
+    "ph": "ˌriːˈraɪt",
+    "pos": "v.",
+    "zh": "重写；改写",
+    "ex": "The editor asked him to rewrite the final paragraph.",
+    "exzh": "编辑让他重写最后一段。"
+  },
+  {
+    "w": "rhyme",
+    "ph": "ˈraɪm",
+    "pos": "n./v.",
+    "zh": "押韵；韵文",
+    "ex": "Children learn new words through songs and simple rhymes.",
+    "exzh": "孩子们通过歌曲和简单的韵文学习新词。"
+  },
+  {
+    "w": "rhythm",
+    "ph": "ˈrɪðəm",
+    "pos": "n.",
+    "zh": "节奏；韵律",
+    "ex": "The drummer kept a steady rhythm throughout the song.",
+    "exzh": "鼓手在整首歌中保持着稳定的节奏。"
+  },
+  {
+    "w": "rib",
+    "ph": "ˈrɪb",
+    "pos": "n.",
+    "zh": "肋骨；排骨",
+    "ex": "He broke two ribs falling from the ladder.",
+    "exzh": "他从梯子上摔下来，断了两根肋骨。"
+  },
+  {
+    "w": "ribbon",
+    "ph": "ˈrɪbən",
+    "pos": "n.",
+    "zh": "丝带；缎带",
+    "ex": "She tied a red ribbon around the gift box.",
+    "exzh": "她在礼盒上系了一条红丝带。"
+  },
+  {
+    "w": "rid",
+    "ph": "ˈrɪd",
+    "pos": "v.",
+    "zh": "摆脱；清除",
+    "ex": "It took months to rid the garden of weeds.",
+    "exzh": "花了好几个月才清除花园里的杂草。"
+  },
+  {
+    "w": "riddle",
+    "ph": "ˈrɪdəl",
+    "pos": "n.",
+    "zh": "谜语；难解之谜",
+    "ex": "Nobody could solve the riddle written on the wall.",
+    "exzh": "没人能解开墙上写的谜语。"
+  },
+  {
+    "w": "rider",
+    "ph": "ˈraɪdər",
+    "pos": "n.",
+    "zh": "骑手；乘车人",
+    "ex": "The rider lost control of the horse near the bridge.",
+    "exzh": "骑手在桥附近失去了对马的控制。"
+  },
+  {
+    "w": "ridge",
+    "ph": "ˈrɪdʒ",
+    "pos": "n.",
+    "zh": "山脊；隆起",
+    "ex": "We walked along the ridge for nearly two hours.",
+    "exzh": "我们沿着山脊走了将近两个小时。"
+  },
+  {
+    "w": "ridiculous",
+    "ph": "rɪˈdɪkjələs",
+    "pos": "adj.",
+    "zh": "荒谬的；可笑的",
+    "ex": "The price they asked for that old car was ridiculous.",
+    "exzh": "他们对那辆旧车要的价太荒谬了。"
+  },
+  {
+    "w": "rifle",
+    "ph": "ˈraɪfəl",
+    "pos": "n.",
+    "zh": "步枪；来复枪",
+    "ex": "The soldier cleaned his rifle before the morning drill.",
+    "exzh": "士兵在晨练前擦了他的步枪。"
+  },
+  {
+    "w": "rigid",
+    "ph": "ˈrɪdʒɪd",
+    "pos": "adj.",
+    "zh": "僵硬的；死板的",
+    "ex": "The school has rigid rules about mobile phone use.",
+    "exzh": "学校对手机使用有严格死板的规定。"
+  },
+  {
+    "w": "rim",
+    "ph": "ˈrɪm",
+    "pos": "n.",
+    "zh": "边缘；轮缘",
+    "ex": "A thin line of dust covered the rim of the glass.",
+    "exzh": "玻璃杯边缘覆盖着一层薄薄的灰尘。"
+  },
+  {
+    "w": "rinse",
+    "ph": "ˈrɪns",
+    "pos": "v./n.",
+    "zh": "冲洗；漱口",
+    "ex": "Rinse the vegetables well before you cook them.",
+    "exzh": "做菜前把蔬菜好好冲洗一下。"
+  },
+  {
+    "w": "riot",
+    "ph": "ˈraɪət",
+    "pos": "n./v.",
+    "zh": "暴乱；骚乱",
+    "ex": "A riot broke out after the football match ended.",
+    "exzh": "足球比赛结束后爆发了骚乱。"
+  },
+  {
+    "w": "rip",
+    "ph": "ˈrɪp",
+    "pos": "v.",
+    "zh": "撕裂；裂口",
+    "ex": "He ripped the envelope open without using a knife.",
+    "exzh": "他没用小刀就把信封撕开了。"
+  },
+  {
+    "w": "ripe",
+    "ph": "ˈraɪp",
+    "pos": "adj.",
+    "zh": "成熟的；时机成熟的",
+    "ex": "The peaches are ripe enough to pick this week.",
+    "exzh": "这些桃子本周已经熟得可以摘了。"
+  },
+  {
+    "w": "ripple",
+    "ph": "ˈrɪpəl",
+    "pos": "n./v.",
+    "zh": "涟漪；起波纹",
+    "ex": "A small stone sent ripples across the still pond.",
+    "exzh": "一块小石头在平静的池塘里激起层层涟漪。"
+  },
+  {
+    "w": "risky",
+    "ph": "ˈrɪski",
+    "pos": "adj.",
+    "zh": "冒险的；危险的",
+    "ex": "Investing all your savings in one company is risky.",
+    "exzh": "把全部储蓄投资于一家公司是有风险的。"
+  },
+  {
+    "w": "ritual",
+    "ph": "ˈrɪtʃuəl",
+    "pos": "n./adj.",
+    "zh": "仪式；例行习惯",
+    "ex": "Making tea is part of his morning ritual.",
+    "exzh": "泡茶是他早晨例行习惯的一部分。"
+  },
+  {
+    "w": "rival",
+    "ph": "ˈraɪvəl",
+    "pos": "n./v.",
+    "zh": "对手；竞争者",
+    "ex": "The two companies have been rivals for over a decade.",
+    "exzh": "这两家公司已经竞争了十多年。"
+  },
+  {
+    "w": "roadside",
+    "ph": "ˈroʊdsaɪd",
+    "pos": "n./adj.",
+    "zh": "路边；路边的",
+    "ex": "We bought fresh fruit from a roadside stall.",
+    "exzh": "我们在路边摊买了新鲜水果。"
+  },
+  {
+    "w": "roam",
+    "ph": "ˈroʊm",
+    "pos": "v.",
+    "zh": "漫游；闲逛",
+    "ex": "Wild horses roam freely across the northern plains.",
+    "exzh": "野马在北部平原上自由漫游。"
+  },
+  {
+    "w": "roar",
+    "ph": "ˈrɔːr",
+    "pos": "v./n.",
+    "zh": "吼叫；轰鸣",
+    "ex": "The lion roared loudly and the birds flew away.",
+    "exzh": "狮子大声吼叫，鸟儿飞走了。"
+  },
+  {
+    "w": "roast",
+    "ph": "ˈroʊst",
+    "pos": "v./adj.",
+    "zh": "烤；烘",
+    "ex": "We roast vegetables with olive oil and fresh herbs.",
+    "exzh": "我们用橄榄油和新鲜香草烤蔬菜。"
+  },
+  {
+    "w": "rob",
+    "ph": "ˈrɑːb",
+    "pos": "v.",
+    "zh": "抢劫；剥夺",
+    "ex": "Two men tried to rob the shop on Saturday night.",
+    "exzh": "周六晚上两名男子试图抢劫这家商店。"
+  },
+  {
+    "w": "robbery",
+    "ph": "ˈrɑːbəri",
+    "pos": "n.",
+    "zh": "抢劫；抢劫案",
+    "ex": "Police are investigating the robbery of a jewelry store.",
+    "exzh": "警方正在调查一起珠宝店抢劫案。"
+  },
+  {
+    "w": "robe",
+    "ph": "ˈroʊb",
+    "pos": "n.",
+    "zh": "长袍；浴袍",
+    "ex": "The judge wore a black robe and a white collar.",
+    "exzh": "法官穿着黑色长袍和白色领子。"
+  },
+  {
+    "w": "robot",
+    "ph": "ˈroʊbɑːt",
+    "pos": "n.",
+    "zh": "机器人；自动装置",
+    "ex": "A small robot cleans the floor of the warehouse.",
+    "exzh": "一个小机器人在打扫仓库地面。"
+  },
+  {
+    "w": "robust",
+    "ph": "roʊˈbʌst",
+    "pos": "adj.",
+    "zh": "强健的；坚固的；稳健的",
+    "ex": "The economy remains robust despite falling exports.",
+    "exzh": "尽管出口下降，经济依然强劲。"
+  },
+  {
+    "w": "rocket",
+    "ph": "ˈrɑːkɪt",
+    "pos": "n./v.",
+    "zh": "火箭；迅速上升",
+    "ex": "The rocket lifted off from the desert base at noon.",
+    "exzh": "火箭中午从沙漠基地发射升空。"
+  },
+  {
+    "w": "rocky",
+    "ph": "ˈrɑːki",
+    "pos": "adj.",
+    "zh": "多岩石的；崎岖的",
+    "ex": "The path becomes rocky as it climbs the hill.",
+    "exzh": "小路爬上山时变得多石。"
+  },
+  {
+    "w": "rod",
+    "ph": "ˈrɑːd",
+    "pos": "n.",
+    "zh": "杆；棒",
+    "ex": "He used a long iron rod to open the drain.",
+    "exzh": "他用一根长铁杆打开了排水沟。"
+  },
+  {
+    "w": "roll",
+    "ph": "ˈroʊl",
+    "pos": "v./n.",
+    "zh": "滚动；卷；名单",
+    "ex": "The ball rolled down the hill and into the river.",
+    "exzh": "球滚下山坡落进河里。"
+  },
+  {
+    "w": "roller",
+    "ph": "ˈroʊlər",
+    "pos": "n.",
+    "zh": "滚筒；压路机",
+    "ex": "Paint the wall with a roller for a smooth finish.",
+    "exzh": "用滚筒刷墙以获得光滑的表面。"
+  },
+  {
+    "w": "romance",
+    "ph": "roʊˈmæns",
+    "pos": "n.",
+    "zh": "爱情；浪漫故事",
+    "ex": "Their romance began during a summer in Italy.",
+    "exzh": "他们的恋情始于意大利的一个夏天。"
+  },
+  {
+    "w": "romantic",
+    "ph": "roʊˈmæntɪk",
+    "pos": "adj.",
+    "zh": "浪漫的；爱情的",
+    "ex": "He planned a romantic dinner for their anniversary.",
+    "exzh": "他为他们的纪念日安排了一顿浪漫晚餐。"
+  },
+  {
+    "w": "rot",
+    "ph": "ˈrɑːt",
+    "pos": "v./n.",
+    "zh": "腐烂；腐败",
+    "ex": "The wooden steps have begun to rot in the rain.",
+    "exzh": "木台阶在雨中开始腐烂。"
+  },
+  {
+    "w": "rotate",
+    "ph": "ˈroʊteɪt",
+    "pos": "v.",
+    "zh": "旋转；轮流",
+    "ex": "The earth rotates once every twenty-four hours.",
+    "exzh": "地球每二十四小时自转一周。"
+  },
+  {
+    "w": "rotation",
+    "ph": "roʊˈteɪʃən",
+    "pos": "n.",
+    "zh": "旋转；轮换",
+    "ex": "The farmers use crop rotation to keep the soil healthy.",
+    "exzh": "农民采用轮作保持土壤健康。"
+  },
+  {
+    "w": "rotten",
+    "ph": "ˈrɑːtən",
+    "pos": "adj.",
+    "zh": "腐烂的；糟糕的",
+    "ex": "The smell of rotten fruit filled the whole kitchen.",
+    "exzh": "腐烂水果的气味充满了整个厨房。"
+  },
+  {
+    "w": "rough",
+    "ph": "ˈrʌf",
+    "pos": "adj.",
+    "zh": "粗糙的；粗略的；艰难的",
+    "ex": "The road becomes rough after the last village.",
+    "exzh": "过了最后一个村庄后，道路变得崎岖。"
+  },
+  {
+    "w": "roughly",
+    "ph": "ˈrʌfli",
+    "pos": "adv.",
+    "zh": "大约；粗略地",
+    "ex": "The journey takes roughly two hours by high-speed train.",
+    "exzh": "乘高铁到那里大约需要两个小时。"
+  },
+  {
+    "w": "route",
+    "ph": "ˈruːt",
+    "pos": "n.",
+    "zh": "路线；航线",
+    "ex": "This bus route stops at every village along the coast.",
+    "exzh": "这条公交线路在沿岸每个村庄都停。"
+  },
+  {
+    "w": "routine",
+    "ph": "ruːˈtiːn",
+    "pos": "n./adj.",
+    "zh": "常规；例行公事",
+    "ex": "Her morning routine includes stretching and a short walk.",
+    "exzh": "她的早晨例行活动包括伸展和短暂散步。"
+  },
+  {
+    "w": "routinely",
+    "ph": "ruːˈtiːnli",
+    "pos": "adv.",
+    "zh": "例行地；常规地",
+    "ex": "The machines are routinely checked at the end of each shift.",
+    "exzh": "这些机器在每班结束时都会例行检查。"
+  },
+  {
+    "w": "royal",
+    "ph": "ˈrɔɪəl",
+    "pos": "adj.",
+    "zh": "王室的；皇家的",
+    "ex": "The royal family attended the ceremony in full dress.",
+    "exzh": "王室成员身着盛装出席了仪式。"
+  },
+  {
+    "w": "royalty",
+    "ph": "ˈrɔɪəlti",
+    "pos": "n.",
+    "zh": "王室；版税",
+    "ex": "The author receives royalties from every copy sold.",
+    "exzh": "作者从每本售出的书中获得版税。"
+  },
+  {
+    "w": "rub",
+    "ph": "ˈrʌb",
+    "pos": "v.",
+    "zh": "擦；摩擦",
+    "ex": "She rubbed her eyes and looked at the clock again.",
+    "exzh": "她揉了揉眼睛，又看了看钟。"
+  },
+  {
+    "w": "rubber",
+    "ph": "ˈrʌbər",
+    "pos": "n.",
+    "zh": "橡胶；橡皮",
+    "ex": "The soles are made of soft rubber for better grip.",
+    "exzh": "鞋底由软橡胶制成，以获得更好的抓地力。"
+  },
+  {
+    "w": "rubbish",
+    "ph": "ˈrʌbɪʃ",
+    "pos": "n.",
+    "zh": "垃圾；废话",
+    "ex": "Please put your rubbish in the bin outside.",
+    "exzh": "请把垃圾放进外面的垃圾桶。"
+  },
+  {
+    "w": "rude",
+    "ph": "ˈruːd",
+    "pos": "adj.",
+    "zh": "粗鲁的；无礼的",
+    "ex": "It was rude of him to interrupt her like that.",
+    "exzh": "他那样打断她是很无礼的。"
+  },
+  {
+    "w": "rug",
+    "ph": "ˈrʌɡ",
+    "pos": "n.",
+    "zh": "小地毯；毛毯",
+    "ex": "A small wool rug lay in front of the fireplace.",
+    "exzh": "壁炉前铺着一块小羊毛地毯。"
+  },
+  {
+    "w": "ruin",
+    "ph": "ˈruːɪn",
+    "pos": "v./n.",
+    "zh": "毁坏；废墟",
+    "ex": "The heavy rain ruined our plans for a picnic.",
+    "exzh": "大雨毁了我们的野餐计划。"
+  },
+  {
+    "w": "ruler",
+    "ph": "ˈruːlər",
+    "pos": "n.",
+    "zh": "尺子；统治者",
+    "ex": "Use a ruler to draw a straight line across the page.",
+    "exzh": "用尺子在页面上画一条直线。"
+  },
+  {
+    "w": "rumor",
+    "ph": "ˈruːmər",
+    "pos": "n.",
+    "zh": "谣言；传闻",
+    "ex": "A rumor spread that the factory would close soon.",
+    "exzh": "有谣言传开说工厂很快会关闭。"
+  },
+  {
+    "w": "runner",
+    "ph": "ˈrʌnər",
+    "pos": "n.",
+    "zh": "跑步者；赛跑者",
+    "ex": "The runner trained for six months before the race.",
+    "exzh": "这位跑步者在比赛前训练了六个月。"
+  },
+  {
+    "w": "rural",
+    "ph": "ˈrʊrəl",
+    "pos": "adj.",
+    "zh": "农村的；乡村的",
+    "ex": "Many young people are leaving rural areas for cities.",
+    "exzh": "许多年轻人正离开农村地区去城市。"
+  },
+  {
+    "w": "rust",
+    "ph": "ˈrʌst",
+    "pos": "n./v.",
+    "zh": "锈；生锈",
+    "ex": "The old gate had rust on every hinge and bolt.",
+    "exzh": "旧大门的每个铰链和螺栓上都生了锈。"
+  },
+  {
+    "w": "rusty",
+    "ph": "ˈrʌsti",
+    "pos": "adj.",
+    "zh": "生锈的；荒疏的",
+    "ex": "My French is rusty after years without practice.",
+    "exzh": "多年不练习，我的法语已经荒疏了。"
+  }
+]

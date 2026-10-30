@@ -1,0 +1,2242 @@
+[
+  {
+    "w": "dairy",
+    "ph": "ˈderi",
+    "pos": "n.",
+    "zh": "乳制品；牛奶场",
+    "ex": "This farm produces fresh dairy products for local schools.",
+    "exzh": "这个农场为当地学校生产新鲜的乳制品。"
+  },
+  {
+    "w": "dam",
+    "ph": "dæm",
+    "pos": "n.",
+    "zh": "水坝；堤坝",
+    "ex": "The old dam holds back the river during heavy rains.",
+    "exzh": "这座旧水坝在暴雨时拦住河水。"
+  },
+  {
+    "w": "damp",
+    "ph": "dæmp",
+    "pos": "adj.",
+    "zh": "潮湿的；微湿的",
+    "ex": "The basement smells damp after several days of rain.",
+    "exzh": "连下几天雨后，地下室散发着潮湿的气味。"
+  },
+  {
+    "w": "dart",
+    "ph": "dɑːrt",
+    "pos": "v./n.",
+    "zh": "猛冲；飞镖",
+    "ex": "A small bird darted across the path in front of us.",
+    "exzh": "一只小鸟从我们面前猛冲过小路。"
+  },
+  {
+    "w": "dash",
+    "ph": "dæʃ",
+    "pos": "v./n.",
+    "zh": "猛冲；破折号",
+    "ex": "She dashed to the station to catch the last train.",
+    "exzh": "她冲向车站去赶最后一班火车。"
+  },
+  {
+    "w": "data",
+    "ph": "ˈdeɪtə",
+    "pos": "n.",
+    "zh": "数据；资料",
+    "ex": "The researchers collected data from over two thousand students.",
+    "exzh": "研究人员从两千多名学生那里收集了数据。"
+  },
+  {
+    "w": "database",
+    "ph": "ˈdeɪtəbeɪs",
+    "pos": "n.",
+    "zh": "数据库",
+    "ex": "All customer records are stored in a secure database.",
+    "exzh": "所有客户记录都存放在一个安全的数据库里。"
+  },
+  {
+    "w": "daydream",
+    "ph": "ˈdeɪdriːm",
+    "pos": "n./v.",
+    "zh": "白日梦；做白日梦",
+    "ex": "He often daydreams during the long afternoon lectures.",
+    "exzh": "他常在漫长的下午课堂上做白日梦。"
+  },
+  {
+    "w": "daylight",
+    "ph": "ˈdeɪlaɪt",
+    "pos": "n.",
+    "zh": "日光；白昼",
+    "ex": "We finished the whole journey before daylight faded.",
+    "exzh": "我们在日光消失之前走完了整个行程。"
+  },
+  {
+    "w": "daytime",
+    "ph": "ˈdeɪtaɪm",
+    "pos": "n.",
+    "zh": "白天；日间",
+    "ex": "Most shops here open only during the daytime.",
+    "exzh": "这里大多数商店只在白天营业。"
+  },
+  {
+    "w": "dazzle",
+    "ph": "ˈdæzəl",
+    "pos": "v./n.",
+    "zh": "使目眩；耀眼",
+    "ex": "The bright headlights dazzled the driver on the dark road.",
+    "exzh": "刺眼的车灯使黑暗路上的司机目眩。"
+  },
+  {
+    "w": "deadline",
+    "ph": "ˈdedlaɪn",
+    "pos": "n.",
+    "zh": "截止日期；最后期限",
+    "ex": "The deadline for the essay is next Friday afternoon.",
+    "exzh": "这篇论文的截止日期是下周五下午。"
+  },
+  {
+    "w": "deadly",
+    "ph": "ˈdedli",
+    "pos": "adj.",
+    "zh": "致命的；极度的",
+    "ex": "The snake bite can be deadly without quick medical help.",
+    "exzh": "如果不能及时就医，这种蛇咬伤可能致命。"
+  },
+  {
+    "w": "deaf",
+    "ph": "def",
+    "pos": "adj.",
+    "zh": "聋的；不愿听的",
+    "ex": "He has been deaf since a serious illness in childhood.",
+    "exzh": "他因童年时一场重病而失聪。"
+  },
+  {
+    "w": "dealer",
+    "ph": "ˈdiːlər",
+    "pos": "n.",
+    "zh": "经销商；商人",
+    "ex": "A local car dealer offers free repairs for the first year.",
+    "exzh": "当地一家汽车经销商提供第一年免费维修。"
+  },
+  {
+    "w": "dean",
+    "ph": "diːn",
+    "pos": "n.",
+    "zh": "院长；系主任",
+    "ex": "The dean approved the new course for next semester.",
+    "exzh": "院长批准了下学期的新课程。"
+  },
+  {
+    "w": "death",
+    "ph": "deθ",
+    "pos": "n.",
+    "zh": "死亡；终结",
+    "ex": "His sudden death shocked all the members of the team.",
+    "exzh": "他的突然去世震惊了队里所有成员。"
+  },
+  {
+    "w": "debris",
+    "ph": "dəˈbriː",
+    "pos": "n.",
+    "zh": "碎片；残骸",
+    "ex": "Workers cleared the debris from the street after the storm.",
+    "exzh": "暴风雨过后，工人们清理了街上的碎片。"
+  },
+  {
+    "w": "debt",
+    "ph": "det",
+    "pos": "n.",
+    "zh": "债务；欠款",
+    "ex": "She worked two jobs to pay off her student debt.",
+    "exzh": "她做两份工作来还清助学贷款债务。"
+  },
+  {
+    "w": "decay",
+    "ph": "dɪˈkeɪ",
+    "pos": "v./n.",
+    "zh": "腐烂；衰败",
+    "ex": "The apples decayed quickly in the warm kitchen.",
+    "exzh": "那些苹果在温暖的厨房里很快腐烂了。"
+  },
+  {
+    "w": "deceive",
+    "ph": "dɪˈsiːv",
+    "pos": "v.",
+    "zh": "欺骗；误导",
+    "ex": "He tried to deceive his parents about the broken window.",
+    "exzh": "他试图就打破窗户的事欺骗父母。"
+  },
+  {
+    "w": "decent",
+    "ph": "ˈdiːsənt",
+    "pos": "adj.",
+    "zh": "体面的；像样的",
+    "ex": "She found a decent apartment near the subway station.",
+    "exzh": "她在地铁站附近找到了一套像样的公寓。"
+  },
+  {
+    "w": "deception",
+    "ph": "dɪˈsepʃən",
+    "pos": "n.",
+    "zh": "欺骗；骗局",
+    "ex": "The whole story was built on a clever deception.",
+    "exzh": "整个故事建立在一个巧妙的骗局之上。"
+  },
+  {
+    "w": "decimal",
+    "ph": "ˈdesɪməl",
+    "pos": "adj./n.",
+    "zh": "十进制的；小数",
+    "ex": "Write your final answer as a decimal number, not a fraction.",
+    "exzh": "把最终答案写成小数，而不是分数。"
+  },
+  {
+    "w": "decisive",
+    "ph": "dɪˈsaɪsɪv",
+    "pos": "adj.",
+    "zh": "决定性的；果断的",
+    "ex": "Her decisive action saved the company from serious loss.",
+    "exzh": "她果断的行动使公司免于严重损失。"
+  },
+  {
+    "w": "deck",
+    "ph": "dek",
+    "pos": "n.",
+    "zh": "甲板；层面",
+    "ex": "The passengers walked slowly around the upper deck.",
+    "exzh": "乘客们在上层甲板上慢慢散步。"
+  },
+  {
+    "w": "declaration",
+    "ph": "ˌdekləˈreɪʃən",
+    "pos": "n.",
+    "zh": "宣言；申报",
+    "ex": "The two countries signed a joint declaration on climate change.",
+    "exzh": "两国签署了关于气候变化的联合宣言。"
+  },
+  {
+    "w": "declare",
+    "ph": "dɪˈkler",
+    "pos": "v.",
+    "zh": "宣布；申报",
+    "ex": "The mayor declared the new library officially open.",
+    "exzh": "市长宣布新图书馆正式开放。"
+  },
+  {
+    "w": "decorate",
+    "ph": "ˈdekəreɪt",
+    "pos": "v.",
+    "zh": "装饰；装修",
+    "ex": "They decorated the classroom with colorful paper flowers.",
+    "exzh": "他们用彩色的纸花装饰了教室。"
+  },
+  {
+    "w": "decoration",
+    "ph": "ˌdekəˈreɪʃən",
+    "pos": "n.",
+    "zh": "装饰；装饰品",
+    "ex": "The hall looked lovely with simple winter decorations.",
+    "exzh": "大厅配上简单的冬季节日装饰，看起来很漂亮。"
+  },
+  {
+    "w": "decree",
+    "ph": "dɪˈkriː",
+    "pos": "n./v.",
+    "zh": "法令；颁布",
+    "ex": "The government issued a decree banning plastic bags.",
+    "exzh": "政府颁布了一项禁止塑料袋的法令。"
+  },
+  {
+    "w": "dedication",
+    "ph": "ˌdedɪˈkeɪʃən",
+    "pos": "n.",
+    "zh": "奉献；献身",
+    "ex": "Her dedication to teaching impressed every parent in the school.",
+    "exzh": "她对教学的奉献精神给学校每位家长留下了深刻印象。"
+  },
+  {
+    "w": "deduce",
+    "ph": "dɪˈduːs",
+    "pos": "v.",
+    "zh": "推断；演绎",
+    "ex": "From the footprints we deduced that two people had passed.",
+    "exzh": "我们从脚印推断有两个人经过。"
+  },
+  {
+    "w": "deduct",
+    "ph": "dɪˈdʌkt",
+    "pos": "v.",
+    "zh": "扣除；减去",
+    "ex": "The company deducts taxes from every monthly salary payment.",
+    "exzh": "公司从每月的工资中扣除税款。"
+  },
+  {
+    "w": "deed",
+    "ph": "diːd",
+    "pos": "n.",
+    "zh": "行为；契约",
+    "ex": "Good deeds often bring unexpected kindness in return.",
+    "exzh": "善行常常会带来意想不到的善意回报。"
+  },
+  {
+    "w": "deem",
+    "ph": "diːm",
+    "pos": "v.",
+    "zh": "认为；视为",
+    "ex": "The committee deemed the plan too expensive to approve.",
+    "exzh": "委员会认为该计划太昂贵，不予批准。"
+  },
+  {
+    "w": "deepen",
+    "ph": "ˈdiːpən",
+    "pos": "v.",
+    "zh": "加深；深化",
+    "ex": "Their friendship deepened during the long summer camp.",
+    "exzh": "他们的友谊在漫长的夏令营中加深了。"
+  },
+  {
+    "w": "deeply",
+    "ph": "ˈdiːpli",
+    "pos": "adv.",
+    "zh": "深深地；非常",
+    "ex": "She was deeply moved by the old man's story.",
+    "exzh": "她被那位老人的故事深深打动。"
+  },
+  {
+    "w": "default",
+    "ph": "dɪˈfɔːlt",
+    "pos": "n./v.",
+    "zh": "默认；违约",
+    "ex": "The computer saves your work in the default folder.",
+    "exzh": "电脑会把你的工作保存在默认文件夹里。"
+  },
+  {
+    "w": "defer",
+    "ph": "dɪˈfɜːr",
+    "pos": "v.",
+    "zh": "推迟；延期",
+    "ex": "They decided to defer the meeting until next Monday.",
+    "exzh": "他们决定把会议推迟到下周一。"
+  },
+  {
+    "w": "defiance",
+    "ph": "dɪˈfaɪəns",
+    "pos": "n.",
+    "zh": "违抗；蔑视",
+    "ex": "He left the room in silent defiance of the rules.",
+    "exzh": "他默默违抗规定，离开了房间。"
+  },
+  {
+    "w": "definite",
+    "ph": "ˈdefɪnət",
+    "pos": "adj.",
+    "zh": "明确的；肯定的",
+    "ex": "We still need a definite answer about the trip.",
+    "exzh": "我们还需要关于这次旅行的明确答复。"
+  },
+  {
+    "w": "definitely",
+    "ph": "ˈdefɪnətli",
+    "pos": "adv.",
+    "zh": "肯定地；明确地",
+    "ex": "I will definitely finish the report before Friday.",
+    "exzh": "我一定会在周五之前完成报告。"
+  },
+  {
+    "w": "definition",
+    "ph": "ˌdefɪˈnɪʃən",
+    "pos": "n.",
+    "zh": "定义；解释",
+    "ex": "The teacher asked us to memorize the new definition.",
+    "exzh": "老师要求我们记住这个新定义。"
+  },
+  {
+    "w": "degree",
+    "ph": "dɪˈɡriː",
+    "pos": "n.",
+    "zh": "程度；学位；度",
+    "ex": "She earned a degree in economics from a local university.",
+    "exzh": "她从当地一所大学获得了经济学学位。"
+  },
+  {
+    "w": "delegate",
+    "ph": "ˈdelɪɡət",
+    "pos": "n./v.",
+    "zh": "代表；委派",
+    "ex": "Each class sent one delegate to the student meeting.",
+    "exzh": "每个班派一名代表参加学生会会议。"
+  },
+  {
+    "w": "delete",
+    "ph": "dɪˈliːt",
+    "pos": "v.",
+    "zh": "删除；删去",
+    "ex": "Please delete the old files before you leave today.",
+    "exzh": "请在今天离开前删除旧文件。"
+  },
+  {
+    "w": "deliberate",
+    "ph": "dɪˈlɪbərət",
+    "pos": "adj.",
+    "zh": "故意的；深思熟虑的",
+    "ex": "His rude comment was a deliberate attempt to hurt her.",
+    "exzh": "他那句粗鲁的话是故意伤害她的。"
+  },
+  {
+    "w": "delicate",
+    "ph": "ˈdelɪkət",
+    "pos": "adj.",
+    "zh": "精致的；微妙的；脆弱的",
+    "ex": "The delicate glass bowl broke when it hit the floor.",
+    "exzh": "那只精致的玻璃碗掉到地上摔碎了。"
+  },
+  {
+    "w": "delight",
+    "ph": "dɪˈlaɪt",
+    "pos": "n./v.",
+    "zh": "高兴；使高兴",
+    "ex": "The children shouted with delight at the falling snow.",
+    "exzh": "孩子们看到飘雪高兴地叫了起来。"
+  },
+  {
+    "w": "delighted",
+    "ph": "dɪˈlaɪtɪd",
+    "pos": "adj.",
+    "zh": "高兴的；愉快的",
+    "ex": "We were delighted to hear about your new job.",
+    "exzh": "听说你有了新工作，我们非常高兴。"
+  },
+  {
+    "w": "delivery",
+    "ph": "dɪˈlɪvəri",
+    "pos": "n.",
+    "zh": "递送；交付",
+    "ex": "The delivery arrived two hours later than promised.",
+    "exzh": "送货比承诺的时间晚了两个小时。"
+  },
+  {
+    "w": "demanding",
+    "ph": "dɪˈmændɪŋ",
+    "pos": "adj.",
+    "zh": "要求高的；费力的",
+    "ex": "Teaching young children is a demanding but rewarding job.",
+    "exzh": "教幼儿是一项要求高但有回报的工作。"
+  },
+  {
+    "w": "democracy",
+    "ph": "dɪˈmɑːkrəsi",
+    "pos": "n.",
+    "zh": "民主；民主制度",
+    "ex": "Free elections are an important part of modern democracy.",
+    "exzh": "自由选举是现代民主的重要组成部分。"
+  },
+  {
+    "w": "democratic",
+    "ph": "ˌdeməˈkrætɪk",
+    "pos": "adj.",
+    "zh": "民主的；有民主精神的",
+    "ex": "The club makes decisions in a fair and democratic way.",
+    "exzh": "这个俱乐部以公平民主的方式做决定。"
+  },
+  {
+    "w": "demolish",
+    "ph": "dɪˈmɑːlɪʃ",
+    "pos": "v.",
+    "zh": "拆除；推翻",
+    "ex": "Workers will demolish the old factory next spring.",
+    "exzh": "工人们将在明年春天拆除这座旧工厂。"
+  },
+  {
+    "w": "demonstration",
+    "ph": "ˌdemənˈstreɪʃən",
+    "pos": "n.",
+    "zh": "演示；示威",
+    "ex": "The teacher gave a short demonstration of the new machine.",
+    "exzh": "老师对新机器做了简短的演示。"
+  },
+  {
+    "w": "denial",
+    "ph": "dɪˈnaɪəl",
+    "pos": "n.",
+    "zh": "否认；拒绝",
+    "ex": "His denial of the facts convinced nobody in the room.",
+    "exzh": "他对事实的否认没能说服房间里的任何人。"
+  },
+  {
+    "w": "denounce",
+    "ph": "dɪˈnaʊns",
+    "pos": "v.",
+    "zh": "谴责；告发",
+    "ex": "Several writers denounced the plan in an open letter.",
+    "exzh": "几位作家在一封公开信中谴责了该计划。"
+  },
+  {
+    "w": "dense",
+    "ph": "dens",
+    "pos": "adj.",
+    "zh": "密集的；浓密的",
+    "ex": "The village is surrounded by dense green forest.",
+    "exzh": "这个村庄被茂密的绿色森林环绕。"
+  },
+  {
+    "w": "density",
+    "ph": "ˈdensəti",
+    "pos": "n.",
+    "zh": "密度；稠密",
+    "ex": "This city has the highest population density in the country.",
+    "exzh": "这座城市拥有全国最高的人口密度。"
+  },
+  {
+    "w": "dentist",
+    "ph": "ˈdentɪst",
+    "pos": "n.",
+    "zh": "牙医",
+    "ex": "I have an appointment with the dentist on Thursday.",
+    "exzh": "我周四约了牙医。"
+  },
+  {
+    "w": "depart",
+    "ph": "dɪˈpɑːrt",
+    "pos": "v.",
+    "zh": "出发；离开",
+    "ex": "The train departs from platform three at eight.",
+    "exzh": "火车八点从三号站台出发。"
+  },
+  {
+    "w": "department",
+    "ph": "dɪˈpɑːrtmənt",
+    "pos": "n.",
+    "zh": "部门；系",
+    "ex": "She works in the sales department of a small company.",
+    "exzh": "她在一家小公司的销售部工作。"
+  },
+  {
+    "w": "departure",
+    "ph": "dɪˈpɑːrtʃər",
+    "pos": "n.",
+    "zh": "出发；离开",
+    "ex": "His sudden departure surprised everyone at the office.",
+    "exzh": "他突然离开让办公室里的每个人都很惊讶。"
+  },
+  {
+    "w": "dependence",
+    "ph": "dɪˈpendəns",
+    "pos": "n.",
+    "zh": "依赖；依靠",
+    "ex": "The country's dependence on imported oil is falling.",
+    "exzh": "该国对进口石油的依赖正在下降。"
+  },
+  {
+    "w": "dependent",
+    "ph": "dɪˈpendənt",
+    "pos": "adj.",
+    "zh": "依赖的；取决于",
+    "ex": "The crop is dependent on regular rain in summer.",
+    "exzh": "这种作物在夏季依赖规律的降雨。"
+  },
+  {
+    "w": "depict",
+    "ph": "dɪˈpɪkt",
+    "pos": "v.",
+    "zh": "描绘；描述",
+    "ex": "The painting depicts a quiet village beside a river.",
+    "exzh": "这幅画描绘了河边一个安静的村庄。"
+  },
+  {
+    "w": "deplete",
+    "ph": "dɪˈpliːt",
+    "pos": "v.",
+    "zh": "耗尽；减少",
+    "ex": "Heavy fishing has depleted the fish in this lake.",
+    "exzh": "过度捕捞耗尽了湖里的鱼。"
+  },
+  {
+    "w": "deploy",
+    "ph": "dɪˈplɔɪ",
+    "pos": "v.",
+    "zh": "部署；利用",
+    "ex": "The city deployed extra police during the holiday weekend.",
+    "exzh": "该市在假期周末部署了额外的警察。"
+  },
+  {
+    "w": "depressed",
+    "ph": "dɪˈprest",
+    "pos": "adj.",
+    "zh": "沮丧的；萧条的",
+    "ex": "He felt depressed after failing the driving test twice.",
+    "exzh": "两次驾照考试失败后他感到很沮丧。"
+  },
+  {
+    "w": "depression",
+    "ph": "dɪˈpreʃən",
+    "pos": "n.",
+    "zh": "抑郁；萧条",
+    "ex": "Many small shops closed during the economic depression.",
+    "exzh": "经济萧条期间许多小商店都关门了。"
+  },
+  {
+    "w": "deprive",
+    "ph": "dɪˈpraɪv",
+    "pos": "v.",
+    "zh": "剥夺；使丧失",
+    "ex": "The new rules deprived students of their free afternoons.",
+    "exzh": "新规定剥夺了学生们的空闲下午。"
+  },
+  {
+    "w": "depth",
+    "ph": "depθ",
+    "pos": "n.",
+    "zh": "深度；深处",
+    "ex": "The lake reaches a depth of thirty meters here.",
+    "exzh": "这个湖在这里深达三十米。"
+  },
+  {
+    "w": "deputy",
+    "ph": "ˈdepjuti",
+    "pos": "n.",
+    "zh": "副手；代理人",
+    "ex": "The deputy manager will lead the team this week.",
+    "exzh": "副经理本周将带领团队。"
+  },
+  {
+    "w": "derivative",
+    "ph": "dɪˈrɪvətɪv",
+    "pos": "n./adj.",
+    "zh": "衍生词；派生的",
+    "ex": "Many English words are derivatives of Latin roots.",
+    "exzh": "许多英语单词是拉丁词根的派生词。"
+  },
+  {
+    "w": "descend",
+    "ph": "dɪˈsend",
+    "pos": "v.",
+    "zh": "下降；下来",
+    "ex": "We descended the narrow stairs slowly and carefully.",
+    "exzh": "我们缓慢而小心地走下狭窄的楼梯。"
+  },
+  {
+    "w": "descendant",
+    "ph": "dɪˈsendənt",
+    "pos": "n.",
+    "zh": "后代；子孙",
+    "ex": "He is a descendant of an old farming family.",
+    "exzh": "他是一个古老农耕家族的后代。"
+  },
+  {
+    "w": "descent",
+    "ph": "dɪˈsent",
+    "pos": "n.",
+    "zh": "下降；血统",
+    "ex": "The descent from the mountain took nearly three hours.",
+    "exzh": "从山上下来花了将近三个小时。"
+  },
+  {
+    "w": "description",
+    "ph": "dɪˈskrɪpʃən",
+    "pos": "n.",
+    "zh": "描述；说明",
+    "ex": "Her description of the thief helped the police.",
+    "exzh": "她对小偷的描述帮助了警方。"
+  },
+  {
+    "w": "desert",
+    "ph": "ˈdezərt",
+    "pos": "n.",
+    "zh": "沙漠；荒漠",
+    "ex": "Few plants can grow in this dry desert.",
+    "exzh": "在这片干燥的沙漠里几乎没有植物能生长。"
+  },
+  {
+    "w": "designer",
+    "ph": "dɪˈzaɪnər",
+    "pos": "n.",
+    "zh": "设计师",
+    "ex": "The young designer created a simple but elegant chair.",
+    "exzh": "这位年轻设计师设计了一把简洁而优雅的椅子。"
+  },
+  {
+    "w": "desirable",
+    "ph": "dɪˈzaɪərəbəl",
+    "pos": "adj.",
+    "zh": "值得向往的；可取的",
+    "ex": "A quiet neighborhood is highly desirable for young families.",
+    "exzh": "安静的社区对年轻家庭来说非常理想。"
+  },
+  {
+    "w": "desktop",
+    "ph": "ˈdesktɑːp",
+    "pos": "n.",
+    "zh": "桌面；台式电脑",
+    "ex": "He works on a desktop computer at the office.",
+    "exzh": "他在办公室用台式电脑工作。"
+  },
+  {
+    "w": "despair",
+    "ph": "dɪˈsper",
+    "pos": "n./v.",
+    "zh": "绝望",
+    "ex": "She almost gave up in despair after the third failure.",
+    "exzh": "第三次失败后，她几乎绝望地放弃了。"
+  },
+  {
+    "w": "desperate",
+    "ph": "ˈdespərət",
+    "pos": "adj.",
+    "zh": "绝望的；极想的",
+    "ex": "The desperate family asked the neighbors for help.",
+    "exzh": "这个绝望的家庭向邻居求助。"
+  },
+  {
+    "w": "despise",
+    "ph": "dɪˈspaɪz",
+    "pos": "v.",
+    "zh": "鄙视；看不起",
+    "ex": "He despises people who are rude to waiters.",
+    "exzh": "他鄙视那些对服务员无礼的人。"
+  },
+  {
+    "w": "despite",
+    "ph": "dɪˈspaɪt",
+    "pos": "prep.",
+    "zh": "尽管；不管",
+    "ex": "Despite the heavy rain, the match continued as planned.",
+    "exzh": "尽管下着大雨，比赛还是按计划继续。"
+  },
+  {
+    "w": "dessert",
+    "ph": "dɪˈzɜːrt",
+    "pos": "n.",
+    "zh": "甜点；餐后甜食",
+    "ex": "We shared a chocolate dessert after the long dinner.",
+    "exzh": "长时间的晚餐后我们分享了一份巧克力甜点。"
+  },
+  {
+    "w": "destination",
+    "ph": "ˌdestɪˈneɪʃən",
+    "pos": "n.",
+    "zh": "目的地；终点",
+    "ex": "Our final destination is a small town by the sea.",
+    "exzh": "我们的最终目的地是海边的一个小镇。"
+  },
+  {
+    "w": "destiny",
+    "ph": "ˈdestəni",
+    "pos": "n.",
+    "zh": "命运；天命",
+    "ex": "She believes hard work can change a person's destiny.",
+    "exzh": "她相信努力可以改变一个人的命运。"
+  },
+  {
+    "w": "destruction",
+    "ph": "dɪˈstrʌkʃən",
+    "pos": "n.",
+    "zh": "破坏；毁灭",
+    "ex": "The flood caused terrible destruction across the valley.",
+    "exzh": "洪水在整个山谷造成了可怕的破坏。"
+  },
+  {
+    "w": "detach",
+    "ph": "dɪˈtætʃ",
+    "pos": "v.",
+    "zh": "分开；拆卸",
+    "ex": "You can detach the cover and wash it easily.",
+    "exzh": "你可以拆下封面，很容易清洗。"
+  },
+  {
+    "w": "detail",
+    "ph": "ˈdiːteɪl",
+    "pos": "n.",
+    "zh": "细节；详情",
+    "ex": "Please explain the plan again in more detail.",
+    "exzh": "请更详细地再解释一遍这个计划。"
+  },
+  {
+    "w": "detailed",
+    "ph": "ˈdiːteɪld",
+    "pos": "adj.",
+    "zh": "详细的；细致的",
+    "ex": "She wrote a detailed report about the factory accident.",
+    "exzh": "她写了一份关于工厂事故的详细报告。"
+  },
+  {
+    "w": "detain",
+    "ph": "dɪˈteɪn",
+    "pos": "v.",
+    "zh": "拘留；耽搁",
+    "ex": "Heavy traffic detained us for almost an hour.",
+    "exzh": "交通堵塞使我们耽搁了将近一个小时。"
+  },
+  {
+    "w": "detection",
+    "ph": "dɪˈtekʃən",
+    "pos": "n.",
+    "zh": "侦查；探测",
+    "ex": "Early detection of the disease greatly improves survival rates.",
+    "exzh": "早期发现这种疾病大大提高了存活率。"
+  },
+  {
+    "w": "detective",
+    "ph": "dɪˈtektɪv",
+    "pos": "n.",
+    "zh": "侦探",
+    "ex": "The detective questioned every neighbor about the missing painting.",
+    "exzh": "侦探就失踪的画向每位邻居询问。"
+  },
+  {
+    "w": "detention",
+    "ph": "dɪˈtenʃən",
+    "pos": "n.",
+    "zh": "拘留；课后留校",
+    "ex": "The student received detention for missing three classes.",
+    "exzh": "这名学生因缺课三次被留校。"
+  },
+  {
+    "w": "deter",
+    "ph": "dɪˈtɜːr",
+    "pos": "v.",
+    "zh": "阻止；威慑",
+    "ex": "High fines may deter drivers from parking illegally.",
+    "exzh": "高额罚款也许能阻止司机违法停车。"
+  },
+  {
+    "w": "deteriorate",
+    "ph": "dɪˈtɪriəreɪt",
+    "pos": "v.",
+    "zh": "恶化；变坏",
+    "ex": "His health deteriorated rapidly during the cold winter.",
+    "exzh": "在寒冷的冬天，他的健康迅速恶化。"
+  },
+  {
+    "w": "determination",
+    "ph": "dɪˌtɜːrmɪˈneɪʃən",
+    "pos": "n.",
+    "zh": "决心；确定",
+    "ex": "Her determination to finish the race impressed everyone.",
+    "exzh": "她跑完全程的决心让每个人都佩服。"
+  },
+  {
+    "w": "detest",
+    "ph": "dɪˈtest",
+    "pos": "v.",
+    "zh": "厌恶；憎恶",
+    "ex": "I detest waiting in long lines at the bank.",
+    "exzh": "我讨厌在银行排长队等候。"
+  },
+  {
+    "w": "detour",
+    "ph": "ˈdiːtʊr",
+    "pos": "n./v.",
+    "zh": "绕道；弯路",
+    "ex": "The road was closed, so we took a long detour.",
+    "exzh": "道路封闭了，所以我们绕了很长一段路。"
+  },
+  {
+    "w": "devastate",
+    "ph": "ˈdevəsteɪt",
+    "pos": "v.",
+    "zh": "摧毁；使震惊",
+    "ex": "The fire devastated the market and nearby shops.",
+    "exzh": "大火摧毁了市场和附近的商店。"
+  },
+  {
+    "w": "development",
+    "ph": "dɪˈveləpmənt",
+    "pos": "n.",
+    "zh": "发展；开发",
+    "ex": "The rapid development of the town brought many jobs.",
+    "exzh": "小镇的快速发展带来了许多工作机会。"
+  },
+  {
+    "w": "deviate",
+    "ph": "ˈdiːvieɪt",
+    "pos": "v.",
+    "zh": "偏离；背离",
+    "ex": "Do not deviate from the plan without telling me.",
+    "exzh": "不要在没告诉我的情况下偏离计划。"
+  },
+  {
+    "w": "devise",
+    "ph": "dɪˈvaɪz",
+    "pos": "v.",
+    "zh": "设计；想出",
+    "ex": "Engineers devised a simple way to save water.",
+    "exzh": "工程师们想出了一个省水的简单办法。"
+  },
+  {
+    "w": "devotion",
+    "ph": "dɪˈvoʊʃən",
+    "pos": "n.",
+    "zh": "献身；挚爱",
+    "ex": "His devotion to his family never changed over the years.",
+    "exzh": "多年来他对家人的挚爱从未改变。"
+  },
+  {
+    "w": "devour",
+    "ph": "dɪˈvaʊər",
+    "pos": "v.",
+    "zh": "吞食；狼吞虎咽",
+    "ex": "The hungry boys devoured the whole cake in minutes.",
+    "exzh": "饥饿的男孩们几分钟就吞掉了整个蛋糕。"
+  },
+  {
+    "w": "diagnose",
+    "ph": "ˈdaɪəɡnoʊs",
+    "pos": "v.",
+    "zh": "诊断；判断",
+    "ex": "The doctor diagnosed her illness as a mild infection.",
+    "exzh": "医生诊断她的病是轻度感染。"
+  },
+  {
+    "w": "diagram",
+    "ph": "ˈdaɪəɡræm",
+    "pos": "n.",
+    "zh": "图表；示意图",
+    "ex": "The diagram shows how water moves through the plant.",
+    "exzh": "这张图说明了水如何在植物中流动。"
+  },
+  {
+    "w": "dial",
+    "ph": "ˈdaɪəl",
+    "pos": "v./n.",
+    "zh": "拨号；表盘",
+    "ex": "He dialed the number twice but nobody answered.",
+    "exzh": "他拨了两次号码，但没人接。"
+  },
+  {
+    "w": "dialect",
+    "ph": "ˈdaɪəlekt",
+    "pos": "n.",
+    "zh": "方言；土语",
+    "ex": "Many older people here still speak the local dialect.",
+    "exzh": "这里许多老人仍然说当地方言。"
+  },
+  {
+    "w": "dialogue",
+    "ph": "ˈdaɪəlɔːɡ",
+    "pos": "n.",
+    "zh": "对话；对白",
+    "ex": "The film's dialogue sounds natural and often very funny.",
+    "exzh": "这部电影的对白听起来自然，而且常常很有趣。"
+  },
+  {
+    "w": "diameter",
+    "ph": "daɪˈæmɪtər",
+    "pos": "n.",
+    "zh": "直径",
+    "ex": "The tree has a diameter of nearly two meters.",
+    "exzh": "这棵树的直径接近两米。"
+  },
+  {
+    "w": "diamond",
+    "ph": "ˈdaɪmənd",
+    "pos": "n.",
+    "zh": "钻石；菱形",
+    "ex": "She wore a small diamond ring on her finger.",
+    "exzh": "她手指上戴着一枚小钻石戒指。"
+  },
+  {
+    "w": "diary",
+    "ph": "ˈdaɪəri",
+    "pos": "n.",
+    "zh": "日记；日记本",
+    "ex": "He kept a diary of his first year abroad.",
+    "exzh": "他记录了自己在国外第一年的日记。"
+  },
+  {
+    "w": "dictate",
+    "ph": "ˈdɪkteɪt",
+    "pos": "v.",
+    "zh": "口述；命令",
+    "ex": "The manager dictated a short letter to his assistant.",
+    "exzh": "经理向助手口述了一封短信。"
+  },
+  {
+    "w": "diet",
+    "ph": "ˈdaɪət",
+    "pos": "n.",
+    "zh": "饮食；节食",
+    "ex": "A balanced diet keeps your body and mind healthy.",
+    "exzh": "均衡的饮食使你的身心保持健康。"
+  },
+  {
+    "w": "differ",
+    "ph": "ˈdɪfər",
+    "pos": "v.",
+    "zh": "不同；相异",
+    "ex": "Their opinions differ greatly on how to spend the money.",
+    "exzh": "他们对如何花这笔钱的意见大不相同。"
+  },
+  {
+    "w": "differentiate",
+    "ph": "ˌdɪfəˈrenʃieɪt",
+    "pos": "v.",
+    "zh": "区分；辨别",
+    "ex": "Young children cannot always differentiate between fact and fiction.",
+    "exzh": "幼儿并不总能区分事实和虚构。"
+  },
+  {
+    "w": "diffuse",
+    "ph": "dɪˈfjuːs",
+    "pos": "v./adj.",
+    "zh": "扩散；弥漫",
+    "ex": "The smell of coffee diffused through the whole office.",
+    "exzh": "咖啡的香味弥漫了整个办公室。"
+  },
+  {
+    "w": "digest",
+    "ph": "daɪˈdʒest",
+    "pos": "v.",
+    "zh": "消化；领会",
+    "ex": "It takes time to digest such a long report.",
+    "exzh": "消化这么长的报告需要时间。"
+  },
+  {
+    "w": "digit",
+    "ph": "ˈdɪdʒɪt",
+    "pos": "n.",
+    "zh": "数字；数位",
+    "ex": "Please enter the four digit code on the screen.",
+    "exzh": "请在屏幕上输入四位数字的密码。"
+  },
+  {
+    "w": "digital",
+    "ph": "ˈdɪdʒɪtəl",
+    "pos": "adj.",
+    "zh": "数字的；数码的",
+    "ex": "Most students now read books on digital devices.",
+    "exzh": "现在大多数学生在电子设备上读书。"
+  },
+  {
+    "w": "dignity",
+    "ph": "ˈdɪɡnəti",
+    "pos": "n.",
+    "zh": "尊严；自尊",
+    "ex": "He accepted the failure with quiet dignity and courage.",
+    "exzh": "他以平静的尊严和勇气接受了失败。"
+  },
+  {
+    "w": "dilemma",
+    "ph": "dɪˈlemə",
+    "pos": "n.",
+    "zh": "困境；两难",
+    "ex": "She faced a dilemma between work and family.",
+    "exzh": "她面临着工作与家庭之间的两难。"
+  },
+  {
+    "w": "diligent",
+    "ph": "ˈdɪlɪdʒənt",
+    "pos": "adj.",
+    "zh": "勤奋的；用功的",
+    "ex": "A diligent student reviews her notes every evening.",
+    "exzh": "一个勤奋的学生每天晚上复习笔记。"
+  },
+  {
+    "w": "dilute",
+    "ph": "daɪˈluːt",
+    "pos": "v.",
+    "zh": "稀释；削弱",
+    "ex": "Please dilute the juice with cold water before serving.",
+    "exzh": "请在端上桌前用冷水稀释果汁。"
+  },
+  {
+    "w": "dim",
+    "ph": "dɪm",
+    "pos": "adj.",
+    "zh": "昏暗的；模糊的",
+    "ex": "The room was too dim for reading without a lamp.",
+    "exzh": "这房间太暗了，不开灯没法看书。"
+  },
+  {
+    "w": "dimension",
+    "ph": "daɪˈmenʃən",
+    "pos": "n.",
+    "zh": "维度；尺寸",
+    "ex": "The problem has a social dimension that we often ignore.",
+    "exzh": "这个问题有一个我们常常忽视的社会维度。"
+  },
+  {
+    "w": "diminish",
+    "ph": "dɪˈmɪnɪʃ",
+    "pos": "v.",
+    "zh": "减少；降低",
+    "ex": "The pain diminished slowly after she took the medicine.",
+    "exzh": "她吃药后疼痛慢慢减轻了。"
+  },
+  {
+    "w": "dine",
+    "ph": "daɪn",
+    "pos": "v.",
+    "zh": "进餐；用餐",
+    "ex": "They dined at a small restaurant near the river.",
+    "exzh": "他们在河边的一家小餐馆用餐。"
+  },
+  {
+    "w": "dip",
+    "ph": "dɪp",
+    "pos": "v.",
+    "zh": "浸；蘸；下降",
+    "ex": "She dipped her hand into the cool water.",
+    "exzh": "她把手浸入清凉的水中。"
+  },
+  {
+    "w": "diploma",
+    "ph": "dɪˈploʊmə",
+    "pos": "n.",
+    "zh": "文凭；毕业证书",
+    "ex": "He received his diploma at the ceremony in June.",
+    "exzh": "他在六月的典礼上拿到了毕业证书。"
+  },
+  {
+    "w": "diplomacy",
+    "ph": "dɪˈploʊməsi",
+    "pos": "n.",
+    "zh": "外交；外交手腕",
+    "ex": "Quiet diplomacy finally ended the long dispute.",
+    "exzh": "低调的外交最终结束了这场长期争端。"
+  },
+  {
+    "w": "diplomat",
+    "ph": "ˈdɪpləmæt",
+    "pos": "n.",
+    "zh": "外交官",
+    "ex": "The young diplomat speaks four languages fluently.",
+    "exzh": "这位年轻外交官能流利地说四种语言。"
+  },
+  {
+    "w": "dire",
+    "ph": "ˈdaɪər",
+    "pos": "adj.",
+    "zh": "严重的；可怕的",
+    "ex": "The village is in dire need of clean water.",
+    "exzh": "这个村庄急需清洁的水。"
+  },
+  {
+    "w": "direct",
+    "ph": "dɪˈrekt",
+    "pos": "adj./v.",
+    "zh": "直接的；指导",
+    "ex": "There is a direct train from the airport to downtown.",
+    "exzh": "从机场到市中心有一趟直达列车。"
+  },
+  {
+    "w": "director",
+    "ph": "dɪˈrektər",
+    "pos": "n.",
+    "zh": "主任；导演",
+    "ex": "The director asked the actors to try the scene again.",
+    "exzh": "导演要求演员们再试一遍这场戏。"
+  },
+  {
+    "w": "directory",
+    "ph": "dɪˈrektəri",
+    "pos": "n.",
+    "zh": "名录；目录",
+    "ex": "You can find his number in the office directory.",
+    "exzh": "你可以在办公室名录里找到他的号码。"
+  },
+  {
+    "w": "dirt",
+    "ph": "dɜːrt",
+    "pos": "n.",
+    "zh": "污垢；泥土",
+    "ex": "He washed the dirt off his hands after gardening.",
+    "exzh": "园艺工作后他洗掉了手上的污垢。"
+  },
+  {
+    "w": "disability",
+    "ph": "ˌdɪsəˈbɪləti",
+    "pos": "n.",
+    "zh": "残疾；无能力",
+    "ex": "She teaches children with a physical disability every week.",
+    "exzh": "她每周给有身体残疾的孩子们上课。"
+  },
+  {
+    "w": "disable",
+    "ph": "dɪsˈeɪbəl",
+    "pos": "v.",
+    "zh": "使失效；禁用",
+    "ex": "You can disable the alarm with this small key.",
+    "exzh": "你可以用这把小钥匙关闭警报器。"
+  },
+  {
+    "w": "disabled",
+    "ph": "dɪsˈeɪbəld",
+    "pos": "adj.",
+    "zh": "残疾的；有残障的",
+    "ex": "The new bus has seats for disabled passengers.",
+    "exzh": "这辆新公交车有供残障乘客使用的座位。"
+  },
+  {
+    "w": "disadvantage",
+    "ph": "ˌdɪsədˈvæntɪdʒ",
+    "pos": "n.",
+    "zh": "缺点；不利条件",
+    "ex": "The main disadvantage of this plan is its high cost.",
+    "exzh": "这个计划的主要缺点是成本太高。"
+  },
+  {
+    "w": "disagree",
+    "ph": "ˌdɪsəˈɡriː",
+    "pos": "v.",
+    "zh": "不同意；有分歧",
+    "ex": "I disagree with the decision to close the library.",
+    "exzh": "我不同意关闭图书馆的决定。"
+  },
+  {
+    "w": "disagreement",
+    "ph": "ˌdɪsəˈɡriːmənt",
+    "pos": "n.",
+    "zh": "分歧；争执",
+    "ex": "A small disagreement about money ended their friendship.",
+    "exzh": "一次关于金钱的小分歧结束了他们的友谊。"
+  },
+  {
+    "w": "disappear",
+    "ph": "ˌdɪsəˈpɪr",
+    "pos": "v.",
+    "zh": "消失；不见",
+    "ex": "The sun disappeared behind thick gray clouds.",
+    "exzh": "太阳消失在厚厚的乌云后面。"
+  },
+  {
+    "w": "disappoint",
+    "ph": "ˌdɪsəˈpɔɪnt",
+    "pos": "v.",
+    "zh": "使失望",
+    "ex": "I hope the results will not disappoint your parents.",
+    "exzh": "我希望结果不会让你的父母失望。"
+  },
+  {
+    "w": "disappointment",
+    "ph": "ˌdɪsəˈpɔɪntmənt",
+    "pos": "n.",
+    "zh": "失望；令人失望的事",
+    "ex": "The team's early exit was a huge disappointment.",
+    "exzh": "球队早早出局令人非常失望。"
+  },
+  {
+    "w": "disaster",
+    "ph": "dɪˈzæstər",
+    "pos": "n.",
+    "zh": "灾难；灾祸",
+    "ex": "The earthquake was the worst disaster in fifty years.",
+    "exzh": "这次地震是五十年来最严重的灾难。"
+  },
+  {
+    "w": "disastrous",
+    "ph": "dɪˈzæstrəs",
+    "pos": "adj.",
+    "zh": "灾难性的；极糟的",
+    "ex": "The decision to cut the budget was disastrous for schools.",
+    "exzh": "削减预算的决定对学校来说是灾难性的。"
+  },
+  {
+    "w": "disbelief",
+    "ph": "ˌdɪsbɪˈliːf",
+    "pos": "n.",
+    "zh": "不相信；怀疑",
+    "ex": "She stared at the letter in complete disbelief.",
+    "exzh": "她完全无法相信地盯着那封信。"
+  },
+  {
+    "w": "discard",
+    "ph": "dɪsˈkɑːrd",
+    "pos": "v.",
+    "zh": "丢弃；抛弃",
+    "ex": "Please discard old batteries in the marked box.",
+    "exzh": "请把旧电池丢进标记的盒子里。"
+  },
+  {
+    "w": "discern",
+    "ph": "dɪˈsɜːrn",
+    "pos": "v.",
+    "zh": "辨别；察觉",
+    "ex": "It was hard to discern the road in the fog.",
+    "exzh": "在雾中很难辨清道路。"
+  },
+  {
+    "w": "discharge",
+    "ph": "dɪsˈtʃɑːrdʒ",
+    "pos": "v./n.",
+    "zh": "排放；释放；解雇",
+    "ex": "The factory must not discharge waste into the river.",
+    "exzh": "这家工厂不得向河里排放废物。"
+  },
+  {
+    "w": "discipline",
+    "ph": "ˈdɪsəplɪn",
+    "pos": "n.",
+    "zh": "纪律；学科",
+    "ex": "Good discipline helps students learn more in class.",
+    "exzh": "良好的纪律帮助学生在课堂上学到更多。"
+  },
+  {
+    "w": "disclose",
+    "ph": "dɪsˈkloʊz",
+    "pos": "v.",
+    "zh": "透露；揭露",
+    "ex": "The company refused to disclose the details of the deal.",
+    "exzh": "公司拒绝透露这笔交易的细节。"
+  },
+  {
+    "w": "discomfort",
+    "ph": "dɪsˈkʌmfərt",
+    "pos": "n.",
+    "zh": "不适；不舒服",
+    "ex": "He felt slight discomfort after the long flight.",
+    "exzh": "长途飞行后他感到轻微的不适。"
+  },
+  {
+    "w": "disconnect",
+    "ph": "ˌdɪskəˈnekt",
+    "pos": "v.",
+    "zh": "断开；切断",
+    "ex": "Please disconnect the charger before you clean the machine.",
+    "exzh": "清洁机器前请断开充电器。"
+  },
+  {
+    "w": "discontinue",
+    "ph": "ˌdɪskənˈtɪnjuː",
+    "pos": "v.",
+    "zh": "停止；中断",
+    "ex": "The company will discontinue this model next year.",
+    "exzh": "公司明年将停止生产这款型号。"
+  },
+  {
+    "w": "discount",
+    "ph": "ˈdɪskaʊnt",
+    "pos": "n.",
+    "zh": "折扣；减价",
+    "ex": "Students get a ten percent discount at this bookstore.",
+    "exzh": "学生在这家书店可以享受九折优惠。"
+  },
+  {
+    "w": "discourage",
+    "ph": "dɪsˈkɜːrɪdʒ",
+    "pos": "v.",
+    "zh": "使气馁；阻止",
+    "ex": "Bad weather discouraged many people from going out.",
+    "exzh": "恶劣的天气使许多人不想出门。"
+  },
+  {
+    "w": "discourse",
+    "ph": "ˈdɪskɔːrs",
+    "pos": "n.",
+    "zh": "论述；话语",
+    "ex": "Her book is a careful discourse on modern education.",
+    "exzh": "她的书是对现代教育的细致论述。"
+  },
+  {
+    "w": "discovery",
+    "ph": "dɪˈskʌvəri",
+    "pos": "n.",
+    "zh": "发现；发觉",
+    "ex": "The discovery of the old coins excited local historians.",
+    "exzh": "这些古钱币的发现令当地历史学家很兴奋。"
+  },
+  {
+    "w": "discreet",
+    "ph": "dɪˈskriːt",
+    "pos": "adj.",
+    "zh": "谨慎的；慎重的",
+    "ex": "Please be discreet about the news until Monday.",
+    "exzh": "在周一之前请对这个消息保持谨慎。"
+  },
+  {
+    "w": "discrepancy",
+    "ph": "dɪˈskrepənsi",
+    "pos": "n.",
+    "zh": "差异；不一致",
+    "ex": "There is a clear discrepancy between the two reports.",
+    "exzh": "两份报告之间存在明显的差异。"
+  },
+  {
+    "w": "discriminate",
+    "ph": "dɪˈskrɪmɪneɪt",
+    "pos": "v.",
+    "zh": "歧视；区分",
+    "ex": "No company should discriminate against older workers.",
+    "exzh": "任何公司都不应歧视年长的员工。"
+  },
+  {
+    "w": "disease",
+    "ph": "dɪˈziːz",
+    "pos": "n.",
+    "zh": "疾病；病症",
+    "ex": "This disease spreads quickly in crowded places.",
+    "exzh": "这种疾病在拥挤的地方传播得很快。"
+  },
+  {
+    "w": "disgrace",
+    "ph": "dɪsˈɡreɪs",
+    "pos": "n./v.",
+    "zh": "耻辱；使丢脸",
+    "ex": "His behavior brought disgrace on the whole family.",
+    "exzh": "他的行为使整个家庭蒙羞。"
+  },
+  {
+    "w": "disguise",
+    "ph": "dɪsˈɡaɪz",
+    "pos": "v./n.",
+    "zh": "伪装；掩饰",
+    "ex": "He disguised himself as a waiter to escape.",
+    "exzh": "他伪装成服务员逃脱了。"
+  },
+  {
+    "w": "disgust",
+    "ph": "dɪsˈɡʌst",
+    "pos": "n./v.",
+    "zh": "厌恶；使厌恶",
+    "ex": "The dirty kitchen filled her with disgust.",
+    "exzh": "肮脏的厨房让她感到厌恶。"
+  },
+  {
+    "w": "dishonest",
+    "ph": "dɪsˈɑːnɪst",
+    "pos": "adj.",
+    "zh": "不诚实的；不正直的",
+    "ex": "It is dishonest to hide the truth from your friends.",
+    "exzh": "向朋友隐瞒真相是不诚实的。"
+  },
+  {
+    "w": "disk",
+    "ph": "dɪsk",
+    "pos": "n.",
+    "zh": "磁盘；圆盘",
+    "ex": "Save the file on the disk before shutting down.",
+    "exzh": "关机前把文件保存到磁盘上。"
+  },
+  {
+    "w": "dislike",
+    "ph": "dɪsˈlaɪk",
+    "pos": "v./n.",
+    "zh": "不喜欢；厌恶",
+    "ex": "Many students dislike getting up early in winter.",
+    "exzh": "许多学生冬天不喜欢早起。"
+  },
+  {
+    "w": "dismiss",
+    "ph": "dɪsˈmɪs",
+    "pos": "v.",
+    "zh": "解雇；不予考虑",
+    "ex": "The manager dismissed the idea as too expensive.",
+    "exzh": "经理认为这个主意太贵而不予考虑。"
+  },
+  {
+    "w": "disobey",
+    "ph": "ˌdɪsəˈbeɪ",
+    "pos": "v.",
+    "zh": "不服从；违抗",
+    "ex": "Drivers who disobey the rules will be fined.",
+    "exzh": "违反规则的司机将被罚款。"
+  },
+  {
+    "w": "disorder",
+    "ph": "dɪsˈɔːrdər",
+    "pos": "n.",
+    "zh": "混乱；失调",
+    "ex": "The room was left in complete disorder after the party.",
+    "exzh": "聚会后房间被弄得一片混乱。"
+  },
+  {
+    "w": "disparity",
+    "ph": "dɪˈsperəti",
+    "pos": "n.",
+    "zh": "差异；悬殊",
+    "ex": "There is a growing disparity between rich and poor.",
+    "exzh": "贫富之间的差距越来越大。"
+  },
+  {
+    "w": "dispatch",
+    "ph": "dɪˈspætʃ",
+    "pos": "v./n.",
+    "zh": "派遣；发送",
+    "ex": "The shop will dispatch your order within two days.",
+    "exzh": "商店将在两天内发出你的订单。"
+  },
+  {
+    "w": "dispel",
+    "ph": "dɪˈspel",
+    "pos": "v.",
+    "zh": "消除；驱散",
+    "ex": "The teacher's calm voice dispelled our fears.",
+    "exzh": "老师平静的声音消除了我们的恐惧。"
+  },
+  {
+    "w": "dispense",
+    "ph": "dɪˈspens",
+    "pos": "v.",
+    "zh": "分发；配药",
+    "ex": "The nurse dispensed medicine to each patient.",
+    "exzh": "护士给每位病人分发药物。"
+  },
+  {
+    "w": "disperse",
+    "ph": "dɪˈspɜːrs",
+    "pos": "v.",
+    "zh": "驱散；散开",
+    "ex": "The crowd dispersed quietly after the speech ended.",
+    "exzh": "演讲结束后人群安静地散开了。"
+  },
+  {
+    "w": "displace",
+    "ph": "dɪsˈpleɪs",
+    "pos": "v.",
+    "zh": "取代；迫使离开",
+    "ex": "New machines have displaced many workers in the factory.",
+    "exzh": "新机器取代了工厂里的许多工人。"
+  },
+  {
+    "w": "display",
+    "ph": "dɪˈspleɪ",
+    "pos": "v./n.",
+    "zh": "展示；显示",
+    "ex": "The museum displays ancient pots from the region.",
+    "exzh": "博物馆展出了该地区的古代陶罐。"
+  },
+  {
+    "w": "disposal",
+    "ph": "dɪˈspoʊzəl",
+    "pos": "n.",
+    "zh": "处理；处置",
+    "ex": "The safe disposal of waste costs the city a lot.",
+    "exzh": "安全处理垃圾花费了这座城市很多钱。"
+  },
+  {
+    "w": "dispose",
+    "ph": "dɪˈspoʊz",
+    "pos": "v.",
+    "zh": "处理；处置",
+    "ex": "Please dispose of the packaging in the right bin.",
+    "exzh": "请把包装放进正确的垃圾桶里。"
+  },
+  {
+    "w": "dispute",
+    "ph": "dɪˈspjuːt",
+    "pos": "n./v.",
+    "zh": "争论；纠纷",
+    "ex": "The two villages settled their long dispute over water.",
+    "exzh": "两个村庄解决了长期的用水纠纷。"
+  },
+  {
+    "w": "disregard",
+    "ph": "ˌdɪsrɪˈɡɑːrd",
+    "pos": "v./n.",
+    "zh": "忽视；漠视",
+    "ex": "He completely disregarded the doctor's advice about sleep.",
+    "exzh": "他完全无视医生关于睡眠的建议。"
+  },
+  {
+    "w": "disrupt",
+    "ph": "dɪsˈrʌpt",
+    "pos": "v.",
+    "zh": "扰乱；中断",
+    "ex": "Heavy snow disrupted train services across the north.",
+    "exzh": "大雪扰乱了北部的列车服务。"
+  },
+  {
+    "w": "disruption",
+    "ph": "dɪsˈrʌpʃən",
+    "pos": "n.",
+    "zh": "中断；扰乱",
+    "ex": "The strike caused serious disruption to daily life.",
+    "exzh": "罢工给日常生活造成了严重的干扰。"
+  },
+  {
+    "w": "dissolve",
+    "ph": "dɪˈzɑːlv",
+    "pos": "v.",
+    "zh": "溶解；解散",
+    "ex": "Sugar dissolves quickly in a cup of hot water.",
+    "exzh": "糖在一杯热水里很快溶解。"
+  },
+  {
+    "w": "distant",
+    "ph": "ˈdɪstənt",
+    "pos": "adj.",
+    "zh": "遥远的；疏远的",
+    "ex": "She lives in a distant town far from here.",
+    "exzh": "她住在一个很遥远的城镇。"
+  },
+  {
+    "w": "distinct",
+    "ph": "dɪˈstɪŋkt",
+    "pos": "adj.",
+    "zh": "明显的；截然不同的",
+    "ex": "There are two distinct types of soil here.",
+    "exzh": "这里有截然不同的两种土壤。"
+  },
+  {
+    "w": "distinction",
+    "ph": "dɪˈstɪŋkʃən",
+    "pos": "n.",
+    "zh": "区别；卓越",
+    "ex": "He makes a clear distinction between work and rest.",
+    "exzh": "他清楚地区分工作与休息。"
+  },
+  {
+    "w": "distinguish",
+    "ph": "dɪˈstɪŋɡwɪʃ",
+    "pos": "v.",
+    "zh": "区分；辨别",
+    "ex": "It is hard to distinguish the twins from behind.",
+    "exzh": "从背后很难分辨这对双胞胎。"
+  },
+  {
+    "w": "distort",
+    "ph": "dɪˈstɔːrt",
+    "pos": "v.",
+    "zh": "扭曲；歪曲",
+    "ex": "The media often distort what people actually say.",
+    "exzh": "媒体常常歪曲人们实际所说的话。"
+  },
+  {
+    "w": "distract",
+    "ph": "dɪˈstrækt",
+    "pos": "v.",
+    "zh": "分散；使分心",
+    "ex": "Loud music can distract students during exams.",
+    "exzh": "嘈杂的音乐会在考试时使学生分心。"
+  },
+  {
+    "w": "distress",
+    "ph": "dɪˈstres",
+    "pos": "n./v.",
+    "zh": "痛苦；困境",
+    "ex": "The news of the accident caused her great distress.",
+    "exzh": "事故的消息让她非常痛苦。"
+  },
+  {
+    "w": "distribute",
+    "ph": "dɪˈstrɪbjuːt",
+    "pos": "v.",
+    "zh": "分发；分配",
+    "ex": "Volunteers distributed food to families after the flood.",
+    "exzh": "洪水过后，志愿者向家庭分发食物。"
+  },
+  {
+    "w": "distribution",
+    "ph": "ˌdɪstrɪˈbjuːʃən",
+    "pos": "n.",
+    "zh": "分布；分发",
+    "ex": "The map shows the distribution of rainfall across China.",
+    "exzh": "这张地图显示了全国降雨的分布。"
+  },
+  {
+    "w": "district",
+    "ph": "ˈdɪstrɪkt",
+    "pos": "n.",
+    "zh": "地区；区域",
+    "ex": "This district is famous for its small tea shops.",
+    "exzh": "这个地区以它的小茶馆闻名。"
+  },
+  {
+    "w": "disturb",
+    "ph": "dɪˈstɜːrb",
+    "pos": "v.",
+    "zh": "打扰；扰乱",
+    "ex": "Please do not disturb the baby while she sleeps.",
+    "exzh": "孩子睡觉时请不要打扰她。"
+  },
+  {
+    "w": "disturbance",
+    "ph": "dɪˈstɜːrbəns",
+    "pos": "n.",
+    "zh": "干扰；骚乱",
+    "ex": "The loud party caused a disturbance late at night.",
+    "exzh": "吵闹的聚会深夜引起了骚乱。"
+  },
+  {
+    "w": "ditch",
+    "ph": "dɪtʃ",
+    "pos": "n.",
+    "zh": "沟渠；水沟",
+    "ex": "Farmers dug a deep ditch to carry water.",
+    "exzh": "农民挖了一条深沟来引水。"
+  },
+  {
+    "w": "dive",
+    "ph": "daɪv",
+    "pos": "v./n.",
+    "zh": "跳水；潜水",
+    "ex": "He dived into the pool without a sound.",
+    "exzh": "他无声地跳入泳池。"
+  },
+  {
+    "w": "diverse",
+    "ph": "daɪˈvɜːrs",
+    "pos": "adj.",
+    "zh": "多样的；不同的",
+    "ex": "The city has a diverse population from many countries.",
+    "exzh": "这座城市拥有来自许多国家的多元人口。"
+  },
+  {
+    "w": "diversify",
+    "ph": "daɪˈvɜːrsɪfaɪ",
+    "pos": "v.",
+    "zh": "使多样化；多样化",
+    "ex": "The farm began to diversify its crops last year.",
+    "exzh": "这个农场去年开始使作物多样化。"
+  },
+  {
+    "w": "diversion",
+    "ph": "daɪˈvɜːrʒən",
+    "pos": "n.",
+    "zh": "转向；消遣",
+    "ex": "A diversion sent all traffic through the narrow street.",
+    "exzh": "一条绕行路线使所有车辆都穿过窄街。"
+  },
+  {
+    "w": "diversity",
+    "ph": "daɪˈvɜːrsəti",
+    "pos": "n.",
+    "zh": "多样性；差异",
+    "ex": "The forest is known for its rich plant diversity.",
+    "exzh": "这片森林以植物多样性闻名。"
+  },
+  {
+    "w": "divert",
+    "ph": "daɪˈvɜːrt",
+    "pos": "v.",
+    "zh": "转移；使转向",
+    "ex": "Workers diverted the river to build the new bridge.",
+    "exzh": "工人们改变了河道以修建新桥。"
+  },
+  {
+    "w": "divine",
+    "ph": "dɪˈvaɪn",
+    "pos": "adj.",
+    "zh": "神圣的；极好的",
+    "ex": "The old temple was considered a divine place.",
+    "exzh": "这座古庙被视为神圣之地。"
+  },
+  {
+    "w": "division",
+    "ph": "dɪˈvɪʒən",
+    "pos": "n.",
+    "zh": "分开；部门",
+    "ex": "The company created a new division for online sales.",
+    "exzh": "公司为线上销售成立了一个新部门。"
+  },
+  {
+    "w": "divorce",
+    "ph": "dɪˈvɔːrs",
+    "pos": "n./v.",
+    "zh": "离婚；分离",
+    "ex": "They decided to divorce after twenty years of marriage.",
+    "exzh": "结婚二十年后他们决定离婚。"
+  },
+  {
+    "w": "dizzy",
+    "ph": "ˈdɪzi",
+    "pos": "adj.",
+    "zh": "头晕的；眩晕的",
+    "ex": "She felt dizzy after standing up too quickly.",
+    "exzh": "她起得太快，感到头晕。"
+  },
+  {
+    "w": "dock",
+    "ph": "dɑːk",
+    "pos": "n.",
+    "zh": "码头；船坞",
+    "ex": "The fishing boats returned to the dock at sunset.",
+    "exzh": "渔船在日落时返回码头。"
+  },
+  {
+    "w": "doctrine",
+    "ph": "ˈdɑːktrɪn",
+    "pos": "n.",
+    "zh": "教义；学说",
+    "ex": "The new doctrine changed the way farmers worked.",
+    "exzh": "这一新学说改变了农民的工作方式。"
+  },
+  {
+    "w": "document",
+    "ph": "ˈdɑːkjumənt",
+    "pos": "n.",
+    "zh": "文件；文档",
+    "ex": "Please sign this document before the meeting begins.",
+    "exzh": "请在会议开始前签署这份文件。"
+  },
+  {
+    "w": "documentary",
+    "ph": "ˌdɑːkjumenˈteri",
+    "pos": "n.",
+    "zh": "纪录片",
+    "ex": "We watched a documentary about wild animals in Africa.",
+    "exzh": "我们看了一部关于非洲野生动物的纪录片。"
+  },
+  {
+    "w": "dodge",
+    "ph": "dɑːdʒ",
+    "pos": "v.",
+    "zh": "躲开；逃避",
+    "ex": "He dodged the ball and ran toward the goal.",
+    "exzh": "他躲开球，朝球门跑去。"
+  },
+  {
+    "w": "domain",
+    "ph": "doʊˈmeɪn",
+    "pos": "n.",
+    "zh": "领域；范围",
+    "ex": "Medical research lies outside my domain of knowledge.",
+    "exzh": "医学研究不在我的知识领域内。"
+  },
+  {
+    "w": "domestic",
+    "ph": "dəˈmestɪk",
+    "pos": "adj.",
+    "zh": "国内的；家庭的",
+    "ex": "The airport handles both domestic and international flights.",
+    "exzh": "这个机场同时处理国内和国际航班。"
+  },
+  {
+    "w": "dominance",
+    "ph": "ˈdɑːmɪnəns",
+    "pos": "n.",
+    "zh": "优势；支配地位",
+    "ex": "The team lost its dominance in the second half.",
+    "exzh": "这支球队在下半场失去了优势。"
+  },
+  {
+    "w": "dominant",
+    "ph": "ˈdɑːmɪnənt",
+    "pos": "adj.",
+    "zh": "主要的；占优势的",
+    "ex": "English is the dominant language in that company.",
+    "exzh": "英语是那家公司的主要语言。"
+  },
+  {
+    "w": "dominate",
+    "ph": "ˈdɑːmɪneɪt",
+    "pos": "v.",
+    "zh": "支配；占优势",
+    "ex": "Tall buildings dominate the skyline of the city.",
+    "exzh": "高楼群占据着这座城市的天空线。"
+  },
+  {
+    "w": "donate",
+    "ph": "ˈdoʊneɪt",
+    "pos": "v.",
+    "zh": "捐赠；捐献",
+    "ex": "Many people donated clothes to the flood victims.",
+    "exzh": "许多人向洪水受灾者捐赠衣物。"
+  },
+  {
+    "w": "donation",
+    "ph": "doʊˈneɪʃən",
+    "pos": "n.",
+    "zh": "捐赠；捐款",
+    "ex": "The hospital received a large donation from a local family.",
+    "exzh": "医院收到当地一个家庭的巨额捐款。"
+  },
+  {
+    "w": "donor",
+    "ph": "ˈdoʊnər",
+    "pos": "n.",
+    "zh": "捐赠者；捐献者",
+    "ex": "The blood donor rested for ten minutes afterward.",
+    "exzh": "献血者事后休息了十分钟。"
+  },
+  {
+    "w": "doom",
+    "ph": "duːm",
+    "pos": "n./v.",
+    "zh": "厄运；注定",
+    "ex": "The plan was doomed from the very beginning.",
+    "exzh": "这个计划从一开始就注定失败。"
+  },
+  {
+    "w": "dormitory",
+    "ph": "ˈdɔːrmətɔːri",
+    "pos": "n.",
+    "zh": "宿舍",
+    "ex": "The new dormitory houses four hundred students.",
+    "exzh": "新宿舍能容纳四百名学生。"
+  },
+  {
+    "w": "dosage",
+    "ph": "ˈdoʊsɪdʒ",
+    "pos": "n.",
+    "zh": "剂量；用量",
+    "ex": "Do not change the dosage without asking your doctor.",
+    "exzh": "未经医生同意不要改变剂量。"
+  },
+  {
+    "w": "dose",
+    "ph": "doʊs",
+    "pos": "n.",
+    "zh": "剂量；一剂",
+    "ex": "Take one dose of the medicine after each meal.",
+    "exzh": "每餐后服用一剂这种药。"
+  },
+  {
+    "w": "dot",
+    "ph": "dɑːt",
+    "pos": "n.",
+    "zh": "点；圆点",
+    "ex": "A small red dot marks the starting point.",
+    "exzh": "一个小红点标示了起点。"
+  },
+  {
+    "w": "downfall",
+    "ph": "ˈdaʊnfɔːl",
+    "pos": "n.",
+    "zh": "垮台；衰败原因",
+    "ex": "His careless spending led to the company's downfall.",
+    "exzh": "他随意花钱导致公司垮台。"
+  },
+  {
+    "w": "download",
+    "ph": "ˌdaʊnˈloʊd",
+    "pos": "v.",
+    "zh": "下载",
+    "ex": "You can download the whole book in a few minutes.",
+    "exzh": "你可以在几分钟内下载整本书。"
+  },
+  {
+    "w": "downtown",
+    "ph": "ˌdaʊnˈtaʊn",
+    "pos": "adv./n.",
+    "zh": "在市中心；市中心",
+    "ex": "We walked downtown to buy some winter clothes.",
+    "exzh": "我们走到市中心去买冬衣。"
+  },
+  {
+    "w": "downturn",
+    "ph": "ˈdaʊntɜːrn",
+    "pos": "n.",
+    "zh": "下降；低迷",
+    "ex": "The economic downturn forced many shops to close.",
+    "exzh": "经济下滑迫使许多商店关门。"
+  },
+  {
+    "w": "downward",
+    "ph": "ˈdaʊnwərd",
+    "pos": "adj./adv.",
+    "zh": "向下的；下降地",
+    "ex": "Prices have continued their downward trend this month.",
+    "exzh": "本月物价继续呈下降趋势。"
+  },
+  {
+    "w": "dozen",
+    "ph": "ˈdʌzən",
+    "pos": "n.",
+    "zh": "一打；十几个",
+    "ex": "She bought a dozen eggs and some fresh bread.",
+    "exzh": "她买了一打鸡蛋和一些新鲜面包。"
+  },
+  {
+    "w": "draft",
+    "ph": "dræft",
+    "pos": "n./v.",
+    "zh": "草稿；起草",
+    "ex": "He wrote the first draft of the report yesterday.",
+    "exzh": "他昨天写了报告的初稿。"
+  },
+  {
+    "w": "drag",
+    "ph": "dræɡ",
+    "pos": "v.",
+    "zh": "拖；拉",
+    "ex": "They dragged the heavy box across the wooden floor.",
+    "exzh": "他们把沉重的箱子拖过木地板。"
+  },
+  {
+    "w": "drain",
+    "ph": "dreɪn",
+    "pos": "v./n.",
+    "zh": "排水；耗尽",
+    "ex": "The long walk drained all his remaining energy.",
+    "exzh": "长途步行耗尽了他剩下的全部精力。"
+  },
+  {
+    "w": "drainage",
+    "ph": "ˈdreɪnɪdʒ",
+    "pos": "n.",
+    "zh": "排水；排水系统",
+    "ex": "The poor drainage caused water to rise in the streets.",
+    "exzh": "下水系统不畅导致街上积水。"
+  },
+  {
+    "w": "drama",
+    "ph": "ˈdrɑːmə",
+    "pos": "n.",
+    "zh": "戏剧；戏剧性事件",
+    "ex": "She joined the school drama club last term.",
+    "exzh": "她上学期加入了学校戏剧社。"
+  },
+  {
+    "w": "dramatic",
+    "ph": "drəˈmætɪk",
+    "pos": "adj.",
+    "zh": "戏剧性的；显著的",
+    "ex": "There has been a dramatic rise in online learning.",
+    "exzh": "在线学习出现了显著的增加。"
+  },
+  {
+    "w": "drastic",
+    "ph": "ˈdræstɪk",
+    "pos": "adj.",
+    "zh": "激烈的；严厉的",
+    "ex": "The hospital took drastic steps to reduce waiting times.",
+    "exzh": "医院采取激烈措施缩短等候时间。"
+  },
+  {
+    "w": "drawback",
+    "ph": "ˈdrɔːbæk",
+    "pos": "n.",
+    "zh": "缺点；不利之处",
+    "ex": "The main drawback is the small size of the room.",
+    "exzh": "主要缺点是房间面积太小。"
+  },
+  {
+    "w": "dread",
+    "ph": "dred",
+    "pos": "v./n.",
+    "zh": "惧怕；恐惧",
+    "ex": "She dreads speaking in front of a large audience.",
+    "exzh": "她害怕面对大批观众讲话。"
+  },
+  {
+    "w": "dreadful",
+    "ph": "ˈdredfəl",
+    "pos": "adj.",
+    "zh": "可怕的；糟糕的",
+    "ex": "The weather was dreadful during our mountain trip.",
+    "exzh": "我们登山期间天气糟透了。"
+  },
+  {
+    "w": "drift",
+    "ph": "drɪft",
+    "pos": "v./n.",
+    "zh": "漂流；漂移",
+    "ex": "The small boat drifted slowly toward the beach.",
+    "exzh": "小船慢慢漂向海滩。"
+  },
+  {
+    "w": "drill",
+    "ph": "drɪl",
+    "pos": "n./v.",
+    "zh": "钻；训练",
+    "ex": "The class practiced a fire drill every month.",
+    "exzh": "这个班每月进行一次消防演练。"
+  },
+  {
+    "w": "drip",
+    "ph": "drɪp",
+    "pos": "v.",
+    "zh": "滴下；滴水",
+    "ex": "The tap dripped all night and kept me awake.",
+    "exzh": "水龙头滴了一整夜，让我睡不着。"
+  },
+  {
+    "w": "drizzle",
+    "ph": "ˈdrɪzəl",
+    "pos": "n./v.",
+    "zh": "毛毛雨；下毛毛雨",
+    "ex": "A light drizzle fell on the empty street.",
+    "exzh": "空荡的街上下着毛毛雨。"
+  },
+  {
+    "w": "drought",
+    "ph": "draʊt",
+    "pos": "n.",
+    "zh": "干旱；旱灾",
+    "ex": "The long drought destroyed most of the corn crop.",
+    "exzh": "长期干旱毁掉了大部分玉米作物。"
+  },
+  {
+    "w": "drown",
+    "ph": "draʊn",
+    "pos": "v.",
+    "zh": "淹死；淹没",
+    "ex": "Two small boats were drowned by the huge waves.",
+    "exzh": "两条小船被巨浪吞没。"
+  },
+  {
+    "w": "drowsiness",
+    "ph": "ˈdraʊzinəs",
+    "pos": "n.",
+    "zh": "困倦；昏昏欲睡",
+    "ex": "Drowsiness after lunch makes afternoon classes difficult.",
+    "exzh": "午饭后犯困使下午上课变得困难。"
+  },
+  {
+    "w": "drowsy",
+    "ph": "ˈdraʊzi",
+    "pos": "adj.",
+    "zh": "昏昏欲睡的",
+    "ex": "The warm room made everyone feel drowsy after lunch.",
+    "exzh": "温暖的房间让每个人午饭后都想睡。"
+  },
+  {
+    "w": "drug",
+    "ph": "drʌɡ",
+    "pos": "n.",
+    "zh": "药物；毒品",
+    "ex": "This drug is used to treat high blood pressure.",
+    "exzh": "这种药用于治疗高血压。"
+  },
+  {
+    "w": "drunk",
+    "ph": "drʌŋk",
+    "pos": "adj.",
+    "zh": "醉的；喝醉的",
+    "ex": "He was too drunk to walk home by himself.",
+    "exzh": "他醉得无法自己走回家。"
+  },
+  {
+    "w": "dual",
+    "ph": "ˈduːəl",
+    "pos": "adj.",
+    "zh": "双重的；双的",
+    "ex": "The phone has a dual camera on the back.",
+    "exzh": "这款手机背面有一个双摄像头。"
+  },
+  {
+    "w": "dubious",
+    "ph": "ˈduːbiəs",
+    "pos": "adj.",
+    "zh": "可疑的；怀疑的",
+    "ex": "The figures in the report look rather dubious.",
+    "exzh": "报告中的数字看起来相当可疑。"
+  },
+  {
+    "w": "due",
+    "ph": "duː",
+    "pos": "adj.",
+    "zh": "到期的；应付的",
+    "ex": "The rent is due on the first day of each month.",
+    "exzh": "房租在每月第一天到期。"
+  },
+  {
+    "w": "dull",
+    "ph": "dʌl",
+    "pos": "adj.",
+    "zh": "沉闷的；迟钝的；暗淡的",
+    "ex": "The lecture was so dull that half the class slept.",
+    "exzh": "讲座太沉闷了，一半的学生都睡着了。"
+  },
+  {
+    "w": "dumb",
+    "ph": "dʌm",
+    "pos": "adj.",
+    "zh": "哑的；愚蠢的",
+    "ex": "It was a dumb mistake, but nobody was hurt.",
+    "exzh": "这是个愚蠢的错误，但没人受伤。"
+  },
+  {
+    "w": "dump",
+    "ph": "dʌmp",
+    "pos": "v.",
+    "zh": "倾倒；丢弃",
+    "ex": "Do not dump rubbish beside the country road.",
+    "exzh": "不要把垃圾倾倒在乡间路边。"
+  },
+  {
+    "w": "duplicate",
+    "ph": "ˈduːplɪkət",
+    "pos": "v./n.",
+    "zh": "复制；副本",
+    "ex": "Please duplicate this key for the back door.",
+    "exzh": "请为后门复制一把钥匙。"
+  },
+  {
+    "w": "durable",
+    "ph": "ˈdʊrəbəl",
+    "pos": "adj.",
+    "zh": "耐用的；持久的",
+    "ex": "These boots are durable enough for mountain walking.",
+    "exzh": "这双靴子足够耐穿，适合登山。"
+  },
+  {
+    "w": "duration",
+    "ph": "dʊˈreɪʃən",
+    "pos": "n.",
+    "zh": "持续时间；期间",
+    "ex": "The duration of the flight is about eleven hours.",
+    "exzh": "飞行时间约为十一个小时。"
+  },
+  {
+    "w": "dusk",
+    "ph": "dʌsk",
+    "pos": "n.",
+    "zh": "黄昏；傍晚",
+    "ex": "The market closes quietly at dusk every day.",
+    "exzh": "市场每天傍晚安静地关门。"
+  },
+  {
+    "w": "dust",
+    "ph": "dʌst",
+    "pos": "n.",
+    "zh": "灰尘；尘土",
+    "ex": "A thick layer of dust covered the old books.",
+    "exzh": "一层厚厚的灰尘覆盖着那些旧书。"
+  },
+  {
+    "w": "dusty",
+    "ph": "ˈdʌsti",
+    "pos": "adj.",
+    "zh": "满是灰尘的",
+    "ex": "The road was dusty after weeks without rain.",
+    "exzh": "几周没下雨，路上满是灰尘。"
+  },
+  {
+    "w": "dwarf",
+    "ph": "dwɔːrf",
+    "pos": "n./v.",
+    "zh": "矮人；使显得矮小",
+    "ex": "The tall tower dwarfs every building around it.",
+    "exzh": "这座高塔使周围所有建筑都显得矮小。"
+  },
+  {
+    "w": "dwell",
+    "ph": "dwel",
+    "pos": "v.",
+    "zh": "居住；细想",
+    "ex": "He still dwells on mistakes he made years ago.",
+    "exzh": "他仍在回想多年前犯的错误。"
+  },
+  {
+    "w": "dwelling",
+    "ph": "ˈdwelɪŋ",
+    "pos": "n.",
+    "zh": "住所；住宅",
+    "ex": "The old dwelling has been empty for many years.",
+    "exzh": "这座老住宅已经空了很多年。"
+  },
+  {
+    "w": "dwindle",
+    "ph": "ˈdwɪndəl",
+    "pos": "v.",
+    "zh": "减少；缩小",
+    "ex": "The number of wild birds has dwindled since then.",
+    "exzh": "自那以后野鸟的数量减少了。"
+  },
+  {
+    "w": "dye",
+    "ph": "daɪ",
+    "pos": "v./n.",
+    "zh": "染色；染料",
+    "ex": "She dyed the old curtains a bright blue.",
+    "exzh": "她把旧窗帘染成了鲜蓝色。"
+  },
+  {
+    "w": "dynamic",
+    "ph": "daɪˈnæmɪk",
+    "pos": "adj.",
+    "zh": "动态的；有活力的",
+    "ex": "The city has a dynamic economy and young population.",
+    "exzh": "这座城市有充满活力的经济和年轻的人口。"
+  },
+  {
+    "w": "dynasty",
+    "ph": "ˈdaɪnəsti",
+    "pos": "n.",
+    "zh": "王朝；朝代",
+    "ex": "The palace was built during the Ming dynasty.",
+    "exzh": "这座宫殿建于明朝。"
+  }
+]

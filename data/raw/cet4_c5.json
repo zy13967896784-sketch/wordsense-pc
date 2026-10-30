@@ -1,0 +1,1706 @@
+[
+  {
+    "w": "eager",
+    "ph": "ˈiːɡər",
+    "pos": "adj.",
+    "zh": "渴望的；热切的；急切的",
+    "ex": "The children were eager to open their presents.",
+    "exzh": "孩子们急切地想打开礼物。"
+  },
+  {
+    "w": "eagerly",
+    "ph": "ˈiːɡərli",
+    "pos": "adv.",
+    "zh": "急切地；渴望地",
+    "ex": "She eagerly accepted the invitation to the concert.",
+    "exzh": "她急切地接受了音乐会的邀请。"
+  },
+  {
+    "w": "eagerness",
+    "ph": "ˈiːɡərnəs",
+    "pos": "n.",
+    "zh": "渴望；热心",
+    "ex": "His eagerness to learn impressed every teacher.",
+    "exzh": "他求学的渴望给每位老师留下深刻印象。"
+  },
+  {
+    "w": "eagle",
+    "ph": "ˈiːɡəl",
+    "pos": "n.",
+    "zh": "鹰；鹰状物",
+    "ex": "An eagle circled high above the snowy mountain.",
+    "exzh": "一只鹰在雪山高空盘旋。"
+  },
+  {
+    "w": "earn",
+    "ph": "ɜːrn",
+    "pos": "v.",
+    "zh": "赚得；获得；赢得",
+    "ex": "He earns enough money to support his family.",
+    "exzh": "他挣的钱足够养家。"
+  },
+  {
+    "w": "earnest",
+    "ph": "ˈɜːrnɪst",
+    "pos": "adj.",
+    "zh": "认真的；诚挚的",
+    "ex": "She made an earnest effort to improve her grades.",
+    "exzh": "她认真努力地提高成绩。"
+  },
+  {
+    "w": "earnings",
+    "ph": "ˈɜːrnɪŋz",
+    "pos": "n.",
+    "zh": "收入；收益；利润",
+    "ex": "His monthly earnings barely cover the rent.",
+    "exzh": "他的月收入勉强够付房租。"
+  },
+  {
+    "w": "earthquake",
+    "ph": "ˈɜːrθkweɪk",
+    "pos": "n.",
+    "zh": "地震；大动荡",
+    "ex": "The earthquake destroyed many old houses in the village.",
+    "exzh": "地震摧毁了村里的许多老房子。"
+  },
+  {
+    "w": "ease",
+    "ph": "iːz",
+    "pos": "n./v.",
+    "zh": "容易；舒适；缓解",
+    "ex": "The medicine helped ease his back pain quickly.",
+    "exzh": "这药很快帮助缓解了他的背痛。"
+  },
+  {
+    "w": "eastern",
+    "ph": "ˈiːstərn",
+    "pos": "adj.",
+    "zh": "东方的；东部的",
+    "ex": "The eastern part of the country is much wetter.",
+    "exzh": "该国东部地区要湿润得多。"
+  },
+  {
+    "w": "echo",
+    "ph": "ˈekoʊ",
+    "pos": "n./v.",
+    "zh": "回声；回响；附和",
+    "ex": "Our voices echoed through the empty hall.",
+    "exzh": "我们的声音在空荡的大厅里回响。"
+  },
+  {
+    "w": "ecological",
+    "ph": "ˌiːkəˈlɑːdʒɪkəl",
+    "pos": "adj.",
+    "zh": "生态的；生态学的",
+    "ex": "The project may cause serious ecological damage.",
+    "exzh": "该项目可能造成严重的生态破坏。"
+  },
+  {
+    "w": "ecology",
+    "ph": "iˈkɑːlədʒi",
+    "pos": "n.",
+    "zh": "生态学；生态",
+    "ex": "She studies ecology at a university in Beijing.",
+    "exzh": "她在北京的一所大学学习生态学。"
+  },
+  {
+    "w": "economic",
+    "ph": "ˌiːkəˈnɑːmɪk",
+    "pos": "adj.",
+    "zh": "经济的；经济学的",
+    "ex": "The country enjoyed rapid economic growth last year.",
+    "exzh": "该国去年经济增长迅速。"
+  },
+  {
+    "w": "economical",
+    "ph": "ˌiːkəˈnɑːmɪkəl",
+    "pos": "adj.",
+    "zh": "节约的；经济实惠的",
+    "ex": "This small car is very economical on fuel.",
+    "exzh": "这辆小汽车非常省油。"
+  },
+  {
+    "w": "economically",
+    "ph": "ˌiːkəˈnɑːmɪkli",
+    "pos": "adv.",
+    "zh": "经济上；节约地",
+    "ex": "The factory now runs much more economically.",
+    "exzh": "这家工厂现在运转得经济得多。"
+  },
+  {
+    "w": "economics",
+    "ph": "ˌiːkəˈnɑːmɪks",
+    "pos": "n.",
+    "zh": "经济学；经济状况",
+    "ex": "She decided to study economics at university.",
+    "exzh": "她决定在大学学习经济学。"
+  },
+  {
+    "w": "economist",
+    "ph": "ɪˈkɑːnəmɪst",
+    "pos": "n.",
+    "zh": "经济学家",
+    "ex": "The economist predicted slower growth next year.",
+    "exzh": "这位经济学家预测明年增长放缓。"
+  },
+  {
+    "w": "ecosystem",
+    "ph": "ˈiːkoʊsɪstəm",
+    "pos": "n.",
+    "zh": "生态系统",
+    "ex": "Pollution has damaged the river ecosystem badly.",
+    "exzh": "污染严重破坏了这条河的生态系统。"
+  },
+  {
+    "w": "edge",
+    "ph": "edʒ",
+    "pos": "n.",
+    "zh": "边缘；刀刃；优势",
+    "ex": "He sat on the edge of the wooden bench.",
+    "exzh": "他坐在木凳的边缘上。"
+  },
+  {
+    "w": "edit",
+    "ph": "ˈedɪt",
+    "pos": "v.",
+    "zh": "编辑；剪辑；校订",
+    "ex": "She spent the evening editing her video project.",
+    "exzh": "她花了一晚上剪辑她的视频作品。"
+  },
+  {
+    "w": "edition",
+    "ph": "ɪˈdɪʃən",
+    "pos": "n.",
+    "zh": "版本；版次",
+    "ex": "The first edition of the book sold out quickly.",
+    "exzh": "这本书的第一版很快就卖光了。"
+  },
+  {
+    "w": "editor",
+    "ph": "ˈedɪtər",
+    "pos": "n.",
+    "zh": "编辑；主编",
+    "ex": "The editor asked me to shorten the article.",
+    "exzh": "编辑让我把文章改短一些。"
+  },
+  {
+    "w": "editorial",
+    "ph": "ˌedɪˈtɔːriəl",
+    "pos": "n./adj.",
+    "zh": "社论；编辑的",
+    "ex": "The newspaper published an editorial about air pollution.",
+    "exzh": "这家报纸发表了一篇关于空气污染的社论。"
+  },
+  {
+    "w": "educational",
+    "ph": "ˌedʒuˈkeɪʃənəl",
+    "pos": "adj.",
+    "zh": "教育的；有教育意义的",
+    "ex": "The museum offers many educational programs for children.",
+    "exzh": "博物馆为儿童提供许多教育项目。"
+  },
+  {
+    "w": "educator",
+    "ph": "ˈedʒukeɪtər",
+    "pos": "n.",
+    "zh": "教育工作者；教育家",
+    "ex": "The educator encouraged students to read every day.",
+    "exzh": "这位教育工作者鼓励学生每天阅读。"
+  },
+  {
+    "w": "effective",
+    "ph": "ɪˈfektɪv",
+    "pos": "adj.",
+    "zh": "有效的；生效的",
+    "ex": "This method is effective for improving listening skills.",
+    "exzh": "这种方法对提高听力技巧很有效。"
+  },
+  {
+    "w": "effectively",
+    "ph": "ɪˈfektɪvli",
+    "pos": "adv.",
+    "zh": "有效地；实际上",
+    "ex": "The new rules effectively reduced traffic accidents.",
+    "exzh": "新规定有效地减少了交通事故。"
+  },
+  {
+    "w": "effectiveness",
+    "ph": "ɪˈfektɪvnəs",
+    "pos": "n.",
+    "zh": "有效性；效力",
+    "ex": "Researchers tested the effectiveness of the new drug.",
+    "exzh": "研究人员测试了这种新药的效力。"
+  },
+  {
+    "w": "efficiency",
+    "ph": "ɪˈfɪʃənsi",
+    "pos": "n.",
+    "zh": "效率；效能",
+    "ex": "The new machine greatly increased the efficiency of production.",
+    "exzh": "新机器大大提高了生产效率。"
+  },
+  {
+    "w": "efficiently",
+    "ph": "ɪˈfɪʃəntli",
+    "pos": "adv.",
+    "zh": "高效地；有效率地",
+    "ex": "The team worked efficiently and finished the report early.",
+    "exzh": "团队高效工作，提前完成了报告。"
+  },
+  {
+    "w": "ego",
+    "ph": "ˈiːɡoʊ",
+    "pos": "n.",
+    "zh": "自我；自尊心",
+    "ex": "His ego was hurt by the honest criticism.",
+    "exzh": "他的自尊心被这番坦诚的批评伤了。"
+  },
+  {
+    "w": "elaborate",
+    "ph": "ɪˈlæbərət",
+    "pos": "adj./v.",
+    "zh": "精心制作的；详尽的；详细阐述",
+    "ex": "He gave an elaborate explanation of the whole process.",
+    "exzh": "他对整个过程作了详尽的解释。"
+  },
+  {
+    "w": "elastic",
+    "ph": "ɪˈlæstɪk",
+    "pos": "adj./n.",
+    "zh": "有弹性的；松紧带",
+    "ex": "The waistband is elastic and fits most people.",
+    "exzh": "这根腰带是有弹性的，适合大多数人。"
+  },
+  {
+    "w": "elbow",
+    "ph": "ˈelboʊ",
+    "pos": "n.",
+    "zh": "肘部；用肘推",
+    "ex": "She hurt her elbow while playing basketball yesterday.",
+    "exzh": "她昨天打篮球时伤到了肘部。"
+  },
+  {
+    "w": "elder",
+    "ph": "ˈeldər",
+    "pos": "adj./n.",
+    "zh": "年长的；长辈",
+    "ex": "You should listen to your elders more often.",
+    "exzh": "你应该多听听长辈的意见。"
+  },
+  {
+    "w": "elderly",
+    "ph": "ˈeldərli",
+    "pos": "adj.",
+    "zh": "年老的；上了年纪的",
+    "ex": "An elderly woman asked me for directions.",
+    "exzh": "一位上了年纪的女士向我问路。"
+  },
+  {
+    "w": "elect",
+    "ph": "ɪˈlekt",
+    "pos": "v.",
+    "zh": "选举；推选；选择",
+    "ex": "The students elected her as class monitor.",
+    "exzh": "学生们选她当班长。"
+  },
+  {
+    "w": "election",
+    "ph": "ɪˈlekʃən",
+    "pos": "n.",
+    "zh": "选举；当选",
+    "ex": "The election results will be announced tomorrow morning.",
+    "exzh": "选举结果将于明天上午公布。"
+  },
+  {
+    "w": "electric",
+    "ph": "ɪˈlektrɪk",
+    "pos": "adj.",
+    "zh": "电的；用电的",
+    "ex": "He bought an electric bike for daily commuting.",
+    "exzh": "他买了一辆电动车用于日常通勤。"
+  },
+  {
+    "w": "electrical",
+    "ph": "ɪˈlektrɪkəl",
+    "pos": "adj.",
+    "zh": "电气的；与电有关的",
+    "ex": "The electrical system needs to be checked carefully.",
+    "exzh": "电气系统需要仔细检查。"
+  },
+  {
+    "w": "electricity",
+    "ph": "ɪˌlekˈtrɪsəti",
+    "pos": "n.",
+    "zh": "电；电力",
+    "ex": "Solar energy can produce electricity for the whole village.",
+    "exzh": "太阳能可以为整个村庄发电。"
+  },
+  {
+    "w": "electron",
+    "ph": "ɪˈlektrɑːn",
+    "pos": "n.",
+    "zh": "电子",
+    "ex": "An electron carries a negative electric charge.",
+    "exzh": "电子带负电荷。"
+  },
+  {
+    "w": "electronic",
+    "ph": "ɪˌlekˈtrɑːnɪk",
+    "pos": "adj.",
+    "zh": "电子的；电子设备的",
+    "ex": "Most students now use electronic dictionaries in class.",
+    "exzh": "现在大多数学生在课堂上使用电子词典。"
+  },
+  {
+    "w": "electronics",
+    "ph": "ɪˌlekˈtrɑːnɪks",
+    "pos": "n.",
+    "zh": "电子学；电子产品",
+    "ex": "He works for a company that makes consumer electronics.",
+    "exzh": "他在一家生产消费电子产品的公司工作。"
+  },
+  {
+    "w": "elegant",
+    "ph": "ˈelɪɡənt",
+    "pos": "adj.",
+    "zh": "优雅的；简洁的；讲究的",
+    "ex": "She wore an elegant black dress to the party.",
+    "exzh": "她穿了一条优雅的黑裙子去参加聚会。"
+  },
+  {
+    "w": "element",
+    "ph": "ˈelɪmənt",
+    "pos": "n.",
+    "zh": "元素；要素；成分",
+    "ex": "Trust is a key element of any friendship.",
+    "exzh": "信任是任何友谊的关键要素。"
+  },
+  {
+    "w": "elementary",
+    "ph": "ˌeləˈmentəri",
+    "pos": "adj.",
+    "zh": "基本的；初级的；小学的",
+    "ex": "My son is studying at an elementary school nearby.",
+    "exzh": "我儿子在附近的一所小学读书。"
+  },
+  {
+    "w": "elevation",
+    "ph": "ˌelɪˈveɪʃən",
+    "pos": "n.",
+    "zh": "海拔；高度；提升",
+    "ex": "The village sits at an elevation of two thousand meters.",
+    "exzh": "这个村庄海拔两千米。"
+  },
+  {
+    "w": "elevator",
+    "ph": "ˈelɪveɪtər",
+    "pos": "n.",
+    "zh": "电梯；升降机",
+    "ex": "The elevator is out of order again this morning.",
+    "exzh": "今天早上电梯又坏了。"
+  },
+  {
+    "w": "email",
+    "ph": "ˈiːmeɪl",
+    "pos": "n./v.",
+    "zh": "电子邮件；发电子邮件",
+    "ex": "Please email me the report before Friday noon.",
+    "exzh": "请在周五中午前把报告用电子邮件发给我。"
+  },
+  {
+    "w": "embarrass",
+    "ph": "ɪmˈbærəs",
+    "pos": "v.",
+    "zh": "使尴尬；使窘迫；使为难",
+    "ex": "His loud question embarrassed the whole class.",
+    "exzh": "他的大声提问让全班都很尴尬。"
+  },
+  {
+    "w": "embarrassment",
+    "ph": "ɪmˈbærəsmənt",
+    "pos": "n.",
+    "zh": "尴尬；窘迫；难堪的事",
+    "ex": "She blushed with embarrassment in front of everyone.",
+    "exzh": "她在众人面前尴尬得脸红了。"
+  },
+  {
+    "w": "embassy",
+    "ph": "ˈembəsi",
+    "pos": "n.",
+    "zh": "大使馆；大使馆全体人员",
+    "ex": "She applied for a visa at the embassy.",
+    "exzh": "她在大使馆申请了签证。"
+  },
+  {
+    "w": "embrace",
+    "ph": "ɪmˈbreɪs",
+    "pos": "v./n.",
+    "zh": "拥抱；欣然接受；包含",
+    "ex": "She embraced her mother at the airport gate.",
+    "exzh": "她在机场登机口拥抱了母亲。"
+  },
+  {
+    "w": "emerge",
+    "ph": "ɪˈmɜːrdʒ",
+    "pos": "v.",
+    "zh": "出现；浮现；显露",
+    "ex": "The sun emerged from behind the thick clouds.",
+    "exzh": "太阳从厚厚的云层后露了出来。"
+  },
+  {
+    "w": "emergence",
+    "ph": "ɪˈmɜːrdʒəns",
+    "pos": "n.",
+    "zh": "出现；兴起",
+    "ex": "The emergence of online shops changed daily shopping.",
+    "exzh": "网店的出现改变了日常购物方式。"
+  },
+  {
+    "w": "emergency",
+    "ph": "ɪˈmɜːrdʒənsi",
+    "pos": "n.",
+    "zh": "紧急情况；突发事件",
+    "ex": "Call this number in case of a medical emergency.",
+    "exzh": "遇到医疗紧急情况请拨打这个号码。"
+  },
+  {
+    "w": "emission",
+    "ph": "ɪˈmɪʃən",
+    "pos": "n.",
+    "zh": "排放；排放物；散发",
+    "ex": "The factory must reduce its carbon emission levels.",
+    "exzh": "这家工厂必须降低碳排放水平。"
+  },
+  {
+    "w": "emit",
+    "ph": "ɪˈmɪt",
+    "pos": "v.",
+    "zh": "发出；排放；散发",
+    "ex": "The old factory emits thick black smoke every day.",
+    "exzh": "这家老厂每天排放浓黑烟。"
+  },
+  {
+    "w": "emotion",
+    "ph": "ɪˈmoʊʃən",
+    "pos": "n.",
+    "zh": "情感；情绪；感动",
+    "ex": "He could not hide his emotion during the speech.",
+    "exzh": "演讲时他无法掩饰自己的情绪。"
+  },
+  {
+    "w": "emotional",
+    "ph": "ɪˈmoʊʃənəl",
+    "pos": "adj.",
+    "zh": "情感的；情绪激动的",
+    "ex": "The film was an emotional experience for everyone.",
+    "exzh": "这部电影对每个人都是一次情感体验。"
+  },
+  {
+    "w": "emperor",
+    "ph": "ˈempərər",
+    "pos": "n.",
+    "zh": "皇帝；君主",
+    "ex": "The emperor ordered a new palace to be built.",
+    "exzh": "皇帝下令建造一座新宫殿。"
+  },
+  {
+    "w": "emphasis",
+    "ph": "ˈemfəsɪs",
+    "pos": "n.",
+    "zh": "强调；重点；重视",
+    "ex": "Our teacher puts great emphasis on careful reading.",
+    "exzh": "我们老师非常强调仔细阅读。"
+  },
+  {
+    "w": "empire",
+    "ph": "ˈempaɪər",
+    "pos": "n.",
+    "zh": "帝国；大企业；王国",
+    "ex": "The ancient empire lasted for nearly a thousand years.",
+    "exzh": "这个古代帝国延续了近一千年。"
+  },
+  {
+    "w": "employee",
+    "ph": "ɪmˈplɔɪiː",
+    "pos": "n.",
+    "zh": "雇员；员工",
+    "ex": "Every employee must attend the safety training session.",
+    "exzh": "每位员工都必须参加安全培训。"
+  },
+  {
+    "w": "employer",
+    "ph": "ɪmˈplɔɪər",
+    "pos": "n.",
+    "zh": "雇主；老板",
+    "ex": "Her employer allows her to work from home.",
+    "exzh": "她的雇主允许她在家工作。"
+  },
+  {
+    "w": "employment",
+    "ph": "ɪmˈplɔɪmənt",
+    "pos": "n.",
+    "zh": "就业；雇用；工作",
+    "ex": "The factory provides employment for local young people.",
+    "exzh": "这家工厂为当地年轻人提供就业机会。"
+  },
+  {
+    "w": "enclose",
+    "ph": "ɪnˈkloʊz",
+    "pos": "v.",
+    "zh": "围住；把……封入；附上",
+    "ex": "Please enclose a copy of your passport with the form.",
+    "exzh": "请随表格附上护照复印件。"
+  },
+  {
+    "w": "enclosure",
+    "ph": "ɪnˈkloʊʒər",
+    "pos": "n.",
+    "zh": "围场；圈地；附件",
+    "ex": "The sheep were kept in a small enclosure.",
+    "exzh": "羊被关在一个小围栏里。"
+  },
+  {
+    "w": "encounter",
+    "ph": "ɪnˈkaʊntər",
+    "pos": "v./n.",
+    "zh": "遭遇；偶然遇到；邂逅",
+    "ex": "We encountered several problems during the experiment.",
+    "exzh": "我们在实验中遇到了几个问题。"
+  },
+  {
+    "w": "encouragement",
+    "ph": "ɪnˈkɜːrɪdʒmənt",
+    "pos": "n.",
+    "zh": "鼓励；激励；支持",
+    "ex": "A few words of encouragement helped her a lot.",
+    "exzh": "几句鼓励的话对她帮助很大。"
+  },
+  {
+    "w": "encouraging",
+    "ph": "ɪnˈkɜːrɪdʒɪŋ",
+    "pos": "adj.",
+    "zh": "令人鼓舞的；鼓励的",
+    "ex": "The test results were encouraging for the whole team.",
+    "exzh": "测试结果令整个团队感到鼓舞。"
+  },
+  {
+    "w": "endanger",
+    "ph": "ɪnˈdeɪndʒər",
+    "pos": "v.",
+    "zh": "危及；使遭受危险",
+    "ex": "New roads may endanger the animals living nearby.",
+    "exzh": "新修的道路可能危及附近的动物。"
+  },
+  {
+    "w": "endangered",
+    "ph": "ɪnˈdeɪndʒərd",
+    "pos": "adj.",
+    "zh": "濒危的；有危险的",
+    "ex": "The panda is still an endangered species today.",
+    "exzh": "大熊猫如今仍是濒危物种。"
+  },
+  {
+    "w": "endless",
+    "ph": "ˈendləs",
+    "pos": "adj.",
+    "zh": "无止境的；无穷的；没完没了的",
+    "ex": "The endless noise outside kept me awake.",
+    "exzh": "外面没完没了的噪音让我无法入睡。"
+  },
+  {
+    "w": "endurance",
+    "ph": "ɪnˈdʊrəns",
+    "pos": "n.",
+    "zh": "忍耐力；耐力；持久",
+    "ex": "Long-distance running requires great endurance and strong will.",
+    "exzh": "长跑需要很强的耐力和坚强的意志。"
+  },
+  {
+    "w": "endure",
+    "ph": "ɪnˈdʊr",
+    "pos": "v.",
+    "zh": "忍受；忍耐；持续",
+    "ex": "The small team had to endure weeks of cold weather.",
+    "exzh": "这个小团队不得不忍受数周的寒冷天气。"
+  },
+  {
+    "w": "energetic",
+    "ph": "ˌenərˈdʒetɪk",
+    "pos": "adj.",
+    "zh": "精力充沛的；积极的",
+    "ex": "She is energetic even after a long working day.",
+    "exzh": "即使工作一整天后她仍精力充沛。"
+  },
+  {
+    "w": "enforce",
+    "ph": "ɪnˈfɔːrs",
+    "pos": "v.",
+    "zh": "执行；实施；强制",
+    "ex": "Police will enforce the new traffic rules strictly.",
+    "exzh": "警方将严格执行新的交通规则。"
+  },
+  {
+    "w": "enforcement",
+    "ph": "ɪnˈfɔːrsmənt",
+    "pos": "n.",
+    "zh": "执行；实施；强制执行",
+    "ex": "Stricter enforcement of the law reduced drunk driving.",
+    "exzh": "更严格的法律执行减少了酒后驾驶。"
+  },
+  {
+    "w": "engagement",
+    "ph": "ɪnˈɡeɪdʒmənt",
+    "pos": "n.",
+    "zh": "约会；约定；订婚",
+    "ex": "He cancelled an engagement to attend the meeting.",
+    "exzh": "他取消了一个约会去参加会议。"
+  },
+  {
+    "w": "engine",
+    "ph": "ˈendʒɪn",
+    "pos": "n.",
+    "zh": "发动机；引擎；火车头",
+    "ex": "The engine started after she turned the key twice.",
+    "exzh": "她转动两次钥匙后发动机启动了。"
+  },
+  {
+    "w": "engineering",
+    "ph": "ˌendʒɪˈnɪrɪŋ",
+    "pos": "n.",
+    "zh": "工程学；工程；设计",
+    "ex": "He plans to study civil engineering next year.",
+    "exzh": "他打算明年学习土木工程。"
+  },
+  {
+    "w": "enjoyable",
+    "ph": "ɪnˈdʒɔɪəbəl",
+    "pos": "adj.",
+    "zh": "令人愉快的；有乐趣的",
+    "ex": "The trip was enjoyable for both adults and children.",
+    "exzh": "这次旅行对大人和孩子都很有趣。"
+  },
+  {
+    "w": "enjoyment",
+    "ph": "ɪnˈdʒɔɪmənt",
+    "pos": "n.",
+    "zh": "享受；乐趣；愉快",
+    "ex": "Reading gives her great enjoyment every evening.",
+    "exzh": "每晚阅读给她带来极大的乐趣。"
+  },
+  {
+    "w": "enlarge",
+    "ph": "ɪnˈlɑːrdʒ",
+    "pos": "v.",
+    "zh": "扩大；放大；增大",
+    "ex": "Click here to enlarge the picture on the screen.",
+    "exzh": "点击这里放大屏幕上的图片。"
+  },
+  {
+    "w": "enlargement",
+    "ph": "ɪnˈlɑːrdʒmənt",
+    "pos": "n.",
+    "zh": "扩大；放大；扩建部分",
+    "ex": "The enlargement of the library took six months.",
+    "exzh": "图书馆的扩建花了六个月。"
+  },
+  {
+    "w": "enormous",
+    "ph": "ɪˈnɔːrməs",
+    "pos": "adj.",
+    "zh": "巨大的；庞大的",
+    "ex": "An enormous crowd filled the square before noon.",
+    "exzh": "中午前巨大的人群挤满了广场。"
+  },
+  {
+    "w": "enrich",
+    "ph": "ɪnˈrɪtʃ",
+    "pos": "v.",
+    "zh": "使丰富；使富裕；充实",
+    "ex": "Travel can enrich your understanding of other cultures.",
+    "exzh": "旅行能加深你对其他文化的理解。"
+  },
+  {
+    "w": "enroll",
+    "ph": "ɪnˈroʊl",
+    "pos": "v.",
+    "zh": "注册；报名；招收",
+    "ex": "More than fifty students enrolled in the course.",
+    "exzh": "五十多名学生报名参加了这门课程。"
+  },
+  {
+    "w": "enterprise",
+    "ph": "ˈentərpraɪz",
+    "pos": "n.",
+    "zh": "企业；事业；进取心",
+    "ex": "The small enterprise now sells products online.",
+    "exzh": "这家小企业现在在网上销售产品。"
+  },
+  {
+    "w": "entertain",
+    "ph": "ˌentərˈteɪn",
+    "pos": "v.",
+    "zh": "使娱乐；招待；怀有",
+    "ex": "The children were entertained by the funny clown.",
+    "exzh": "孩子们被滑稽的小丑逗得很开心。"
+  },
+  {
+    "w": "entertaining",
+    "ph": "ˌentərˈteɪnɪŋ",
+    "pos": "adj.",
+    "zh": "有趣的；使人愉快的",
+    "ex": "The show was entertaining from start to finish.",
+    "exzh": "这场演出从头到尾都很有趣。"
+  },
+  {
+    "w": "entertainment",
+    "ph": "ˌentərˈteɪnmənt",
+    "pos": "n.",
+    "zh": "娱乐；消遣；娱乐活动",
+    "ex": "The city offers plenty of entertainment for young people.",
+    "exzh": "这座城市为年轻人提供大量娱乐活动。"
+  },
+  {
+    "w": "enthusiasm",
+    "ph": "ɪnˈθuːziæzəm",
+    "pos": "n.",
+    "zh": "热情；热心；积极性",
+    "ex": "Her enthusiasm for teaching impressed all the students.",
+    "exzh": "她对教学的热情打动了所有学生。"
+  },
+  {
+    "w": "enthusiastic",
+    "ph": "ɪnˌθuːziˈæstɪk",
+    "pos": "adj.",
+    "zh": "热情的；热心的",
+    "ex": "He is very enthusiastic about the school music club.",
+    "exzh": "他对学校音乐社团非常热心。"
+  },
+  {
+    "w": "entire",
+    "ph": "ɪnˈtaɪər",
+    "pos": "adj.",
+    "zh": "全部的；整个的；完整的",
+    "ex": "She spent the entire weekend preparing for the exam.",
+    "exzh": "她整个周末都在准备考试。"
+  },
+  {
+    "w": "entirely",
+    "ph": "ɪnˈtaɪərli",
+    "pos": "adv.",
+    "zh": "完全地；全部地",
+    "ex": "I entirely agree with your opinion on this matter.",
+    "exzh": "在这件事上我完全同意你的看法。"
+  },
+  {
+    "w": "entitle",
+    "ph": "ɪnˈtaɪtəl",
+    "pos": "v.",
+    "zh": "使有权利；给……命名",
+    "ex": "This ticket entitles you to a free drink.",
+    "exzh": "这张票使你有权免费获得一杯饮料。"
+  },
+  {
+    "w": "entrance",
+    "ph": "ˈentrəns",
+    "pos": "n.",
+    "zh": "入口；进入；入学",
+    "ex": "We waited for her at the main entrance.",
+    "exzh": "我们在正门等她。"
+  },
+  {
+    "w": "entry",
+    "ph": "ˈentri",
+    "pos": "n.",
+    "zh": "进入；入口；参赛作品",
+    "ex": "Each entry in the competition must be original.",
+    "exzh": "每件参赛作品都必须是原创的。"
+  },
+  {
+    "w": "envelope",
+    "ph": "ˈenvəloʊp",
+    "pos": "n.",
+    "zh": "信封；封套",
+    "ex": "She sealed the letter in a white envelope.",
+    "exzh": "她把信封在一个白色信封里。"
+  },
+  {
+    "w": "envious",
+    "ph": "ˈenviəs",
+    "pos": "adj.",
+    "zh": "羡慕的；嫉妒的",
+    "ex": "He felt envious of her rapid success.",
+    "exzh": "他对她的迅速成功感到羡慕。"
+  },
+  {
+    "w": "environmental",
+    "ph": "ɪnˌvaɪrənˈmentəl",
+    "pos": "adj.",
+    "zh": "环境的；有关环境的",
+    "ex": "The company faces strong environmental pressure from residents.",
+    "exzh": "这家公司面临居民巨大的环保压力。"
+  },
+  {
+    "w": "envy",
+    "ph": "ˈenvi",
+    "pos": "v./n.",
+    "zh": "羡慕；嫉妒；羡慕的对象",
+    "ex": "I envy her ability to speak three languages.",
+    "exzh": "我羡慕她会说三种语言。"
+  },
+  {
+    "w": "equal",
+    "ph": "ˈiːkwəl",
+    "pos": "adj./v.",
+    "zh": "相等的；平等的；比得上",
+    "ex": "All students should have equal chances to learn.",
+    "exzh": "所有学生都应有平等的学习机会。"
+  },
+  {
+    "w": "equality",
+    "ph": "ɪˈkwɑːləti",
+    "pos": "n.",
+    "zh": "平等；相等",
+    "ex": "The law promises equality for men and women.",
+    "exzh": "法律保障男女平等。"
+  },
+  {
+    "w": "equally",
+    "ph": "ˈiːkwəli",
+    "pos": "adv.",
+    "zh": "同样地；平等地；相等地",
+    "ex": "The two plans are equally expensive but different.",
+    "exzh": "这两个方案同样贵，但各不相同。"
+  },
+  {
+    "w": "equation",
+    "ph": "ɪˈkweɪʒən",
+    "pos": "n.",
+    "zh": "方程式；等式；平衡",
+    "ex": "He solved the equation faster than anyone else.",
+    "exzh": "他解这个方程比谁都快。"
+  },
+  {
+    "w": "equip",
+    "ph": "ɪˈkwɪp",
+    "pos": "v.",
+    "zh": "装备；配备；使有准备",
+    "ex": "The lab is equipped with modern testing instruments.",
+    "exzh": "实验室配备了现代化的检测仪器。"
+  },
+  {
+    "w": "equipment",
+    "ph": "ɪˈkwɪpmənt",
+    "pos": "n.",
+    "zh": "设备；器材；装备",
+    "ex": "The school bought new sports equipment last month.",
+    "exzh": "学校上个月买了新的体育器材。"
+  },
+  {
+    "w": "equivalent",
+    "ph": "ɪˈkwɪvələnt",
+    "pos": "adj./n.",
+    "zh": "相等的；相当的；等同物",
+    "ex": "One mile is roughly equivalent to 1.6 kilometers.",
+    "exzh": "一英里大约相当于1.6公里。"
+  },
+  {
+    "w": "era",
+    "ph": "ˈɪrə",
+    "pos": "n.",
+    "zh": "时代；纪元；年代",
+    "ex": "We are living in the era of information.",
+    "exzh": "我们生活在信息时代。"
+  },
+  {
+    "w": "erase",
+    "ph": "ɪˈreɪs",
+    "pos": "v.",
+    "zh": "擦除；抹去；消除",
+    "ex": "He erased the wrong answer with a clean cloth.",
+    "exzh": "他用一块干净的布擦掉了错误答案。"
+  },
+  {
+    "w": "erect",
+    "ph": "ɪˈrekt",
+    "pos": "v./adj.",
+    "zh": "竖立；建立；直立的",
+    "ex": "Workers erected a tall fence around the site.",
+    "exzh": "工人们在工地周围竖起了一道高栅栏。"
+  },
+  {
+    "w": "errand",
+    "ph": "ˈerənd",
+    "pos": "n.",
+    "zh": "差事；跑腿；任务",
+    "ex": "She ran a quick errand before lunch.",
+    "exzh": "她在午饭前跑了一趟差事。"
+  },
+  {
+    "w": "error",
+    "ph": "ˈerər",
+    "pos": "n.",
+    "zh": "错误；差错；误差",
+    "ex": "Please check the report for any spelling errors.",
+    "exzh": "请检查报告里有没有拼写错误。"
+  },
+  {
+    "w": "erupt",
+    "ph": "ɪˈrʌpt",
+    "pos": "v.",
+    "zh": "爆发；喷发；突然发生",
+    "ex": "The volcano erupted after three quiet centuries.",
+    "exzh": "这座火山在沉寂三个世纪后喷发了。"
+  },
+  {
+    "w": "escape",
+    "ph": "ɪˈskeɪp",
+    "pos": "v./n.",
+    "zh": "逃跑；逃避；避免",
+    "ex": "The cat escaped through the open kitchen window.",
+    "exzh": "猫从敞开的厨房窗户逃走了。"
+  },
+  {
+    "w": "especially",
+    "ph": "ɪˈspeʃəli",
+    "pos": "adv.",
+    "zh": "尤其；特别；格外",
+    "ex": "I love fruit, especially oranges in winter.",
+    "exzh": "我喜欢水果，尤其是冬天的橙子。"
+  },
+  {
+    "w": "essay",
+    "ph": "ˈeseɪ",
+    "pos": "n.",
+    "zh": "文章；论文；散文",
+    "ex": "She wrote a short essay about city life.",
+    "exzh": "她写了一篇关于城市生活的短文。"
+  },
+  {
+    "w": "essence",
+    "ph": "ˈesəns",
+    "pos": "n.",
+    "zh": "本质；精髓；精华",
+    "ex": "The essence of the plan is to save time.",
+    "exzh": "这个计划的本质是节省时间。"
+  },
+  {
+    "w": "essentially",
+    "ph": "ɪˈsenʃəli",
+    "pos": "adv.",
+    "zh": "本质上；基本上；根本上",
+    "ex": "The two designs are essentially the same.",
+    "exzh": "这两个设计本质上是相同的。"
+  },
+  {
+    "w": "establishment",
+    "ph": "ɪˈstæblɪʃmənt",
+    "pos": "n.",
+    "zh": "建立；机构；企业",
+    "ex": "The establishment of the new school took two years.",
+    "exzh": "新学校的建立花了两年时间。"
+  },
+  {
+    "w": "estate",
+    "ph": "ɪˈsteɪt",
+    "pos": "n.",
+    "zh": "房地产；庄园；财产",
+    "ex": "He inherited a small estate from his uncle.",
+    "exzh": "他从叔叔那里继承了一处小庄园。"
+  },
+  {
+    "w": "eternal",
+    "ph": "ɪˈtɜːrnəl",
+    "pos": "adj.",
+    "zh": "永恒的；不朽的；永久的",
+    "ex": "The poem speaks of eternal love and beauty.",
+    "exzh": "这首诗讲述永恒的爱与美。"
+  },
+  {
+    "w": "evaluate",
+    "ph": "ɪˈvæljueɪt",
+    "pos": "v.",
+    "zh": "评价；评估；估价",
+    "ex": "Teachers evaluate students by both tests and projects.",
+    "exzh": "老师通过考试和项目两方面评价学生。"
+  },
+  {
+    "w": "evaluation",
+    "ph": "ɪˌvæljuˈeɪʃən",
+    "pos": "n.",
+    "zh": "评价；评估；估价",
+    "ex": "The final evaluation will include a written report.",
+    "exzh": "最终评估将包括一份书面报告。"
+  },
+  {
+    "w": "evenly",
+    "ph": "ˈiːvənli",
+    "pos": "adv.",
+    "zh": "均匀地；平均地；平等地",
+    "ex": "Spread the paint evenly over the whole wall.",
+    "exzh": "把油漆均匀地涂满整面墙。"
+  },
+  {
+    "w": "eventually",
+    "ph": "ɪˈventʃuəli",
+    "pos": "adv.",
+    "zh": "最终；终于；后来",
+    "ex": "The bus eventually arrived after a long delay.",
+    "exzh": "经过长时间延误，公交车终于来了。"
+  },
+  {
+    "w": "everyday",
+    "ph": "ˈevrideɪ",
+    "pos": "adj.",
+    "zh": "日常的；每天的；平常的",
+    "ex": "Reading is part of her everyday routine.",
+    "exzh": "阅读是她日常习惯的一部分。"
+  },
+  {
+    "w": "everywhere",
+    "ph": "ˈevriwer",
+    "pos": "adv.",
+    "zh": "到处；处处；各个地方",
+    "ex": "Tiny plastic pieces were found everywhere on the beach.",
+    "exzh": "海滩上到处都能发现塑料碎片。"
+  },
+  {
+    "w": "evident",
+    "ph": "ˈevɪdənt",
+    "pos": "adj.",
+    "zh": "明显的；显然的；显而易见的",
+    "ex": "It was evident that she had practiced for months.",
+    "exzh": "很明显她已经练习了好几个月。"
+  },
+  {
+    "w": "evidently",
+    "ph": "ˈevɪdəntli",
+    "pos": "adv.",
+    "zh": "显然；明显地；看来",
+    "ex": "He evidently forgot about our appointment this morning.",
+    "exzh": "他显然忘了我们今天上午的约会。"
+  },
+  {
+    "w": "evil",
+    "ph": "ˈiːvəl",
+    "pos": "adj./n.",
+    "zh": "邪恶的；罪恶；祸害",
+    "ex": "The story describes the struggle between good and evil.",
+    "exzh": "这个故事描写了善与恶的斗争。"
+  },
+  {
+    "w": "evolution",
+    "ph": "ˌevəˈluːʃən",
+    "pos": "n.",
+    "zh": "演变；进化；发展",
+    "ex": "The book explains the evolution of modern language.",
+    "exzh": "这本书解释了现代语言的演变。"
+  },
+  {
+    "w": "evolve",
+    "ph": "ɪˈvɑːlv",
+    "pos": "v.",
+    "zh": "演变；进化；逐步发展",
+    "ex": "Small businesses must evolve to survive competition.",
+    "exzh": "小企业必须不断演变才能在竞争中生存。"
+  },
+  {
+    "w": "exact",
+    "ph": "ɪɡˈzækt",
+    "pos": "adj.",
+    "zh": "精确的；确切的；严谨的",
+    "ex": "Can you tell me the exact time of arrival?",
+    "exzh": "你能告诉我确切的到达时间吗？"
+  },
+  {
+    "w": "exactly",
+    "ph": "ɪɡˈzæktli",
+    "pos": "adv.",
+    "zh": "确切地；恰恰；完全地",
+    "ex": "That is exactly what I wanted to say.",
+    "exzh": "那正是我想说的话。"
+  },
+  {
+    "w": "exaggerate",
+    "ph": "ɪɡˈzædʒəreɪt",
+    "pos": "v.",
+    "zh": "夸大；夸张；言过其实",
+    "ex": "He tends to exaggerate when telling exciting stories.",
+    "exzh": "他讲精彩故事时往往爱夸大。"
+  },
+  {
+    "w": "examination",
+    "ph": "ɪɡˌzæmɪˈneɪʃən",
+    "pos": "n.",
+    "zh": "考试；检查；审查",
+    "ex": "The final examination will last about two hours.",
+    "exzh": "期末考试大约持续两个小时。"
+  },
+  {
+    "w": "examine",
+    "ph": "ɪɡˈzæmɪn",
+    "pos": "v.",
+    "zh": "检查；审查；考察",
+    "ex": "The doctor examined her throat and asked questions.",
+    "exzh": "医生检查了她的喉咙并问了几个问题。"
+  },
+  {
+    "w": "examiner",
+    "ph": "ɪɡˈzæmɪnər",
+    "pos": "n.",
+    "zh": "考官；审查员",
+    "ex": "The examiner asked him three simple questions first.",
+    "exzh": "考官先问了他三个简单的问题。"
+  },
+  {
+    "w": "exceed",
+    "ph": "ɪkˈsiːd",
+    "pos": "v.",
+    "zh": "超过；超越；超出",
+    "ex": "The speed must not exceed sixty kilometers per hour.",
+    "exzh": "车速不得超过每小时六十公里。"
+  },
+  {
+    "w": "excel",
+    "ph": "ɪkˈsel",
+    "pos": "v.",
+    "zh": "擅长；胜过；突出",
+    "ex": "She excels at chemistry and mathematics.",
+    "exzh": "她擅长化学和数学。"
+  },
+  {
+    "w": "excellence",
+    "ph": "ˈeksələns",
+    "pos": "n.",
+    "zh": "优秀；卓越；优点",
+    "ex": "The school is known for academic excellence.",
+    "exzh": "这所学校以学术卓越而闻名。"
+  },
+  {
+    "w": "excellent",
+    "ph": "ˈeksələnt",
+    "pos": "adj.",
+    "zh": "优秀的；出色的；极好的",
+    "ex": "Her spoken English is excellent for a beginner.",
+    "exzh": "作为初学者，她的英语口语非常出色。"
+  },
+  {
+    "w": "exception",
+    "ph": "ɪkˈsepʃən",
+    "pos": "n.",
+    "zh": "例外；除外；异议",
+    "ex": "Everyone came to the meeting without exception.",
+    "exzh": "毫无例外，每个人都来参加了会议。"
+  },
+  {
+    "w": "exceptional",
+    "ph": "ɪkˈsepʃənəl",
+    "pos": "adj.",
+    "zh": "杰出的；异常的；特别的",
+    "ex": "He showed exceptional talent in his early years.",
+    "exzh": "他早年就显露出非凡的才华。"
+  },
+  {
+    "w": "excess",
+    "ph": "ɪkˈses",
+    "pos": "n./adj.",
+    "zh": "过量；过度；超出的",
+    "ex": "Excess sugar in drinks harms children's teeth.",
+    "exzh": "饮料中过量的糖会损害孩子的牙齿。"
+  },
+  {
+    "w": "excessive",
+    "ph": "ɪkˈsesɪv",
+    "pos": "adj.",
+    "zh": "过度的；过多的；过分的",
+    "ex": "Excessive noise can damage your hearing over time.",
+    "exzh": "长期过度噪音会损害你的听力。"
+  },
+  {
+    "w": "exchange",
+    "ph": "ɪksˈtʃeɪndʒ",
+    "pos": "v./n.",
+    "zh": "交换；兑换；交流",
+    "ex": "The two schools exchange students every summer.",
+    "exzh": "这两所学校每年夏天交换学生。"
+  },
+  {
+    "w": "excite",
+    "ph": "ɪkˈsaɪt",
+    "pos": "v.",
+    "zh": "使激动；激发；引起",
+    "ex": "The news excited everyone in the small office.",
+    "exzh": "这个消息让办公室里每个人都很激动。"
+  },
+  {
+    "w": "excitement",
+    "ph": "ɪkˈsaɪtmənt",
+    "pos": "n.",
+    "zh": "兴奋；激动；令人兴奋的事",
+    "ex": "The children jumped with excitement at the news.",
+    "exzh": "孩子们听到这个消息兴奋得跳了起来。"
+  },
+  {
+    "w": "exciting",
+    "ph": "ɪkˈsaɪtɪŋ",
+    "pos": "adj.",
+    "zh": "令人兴奋的；激动人心的",
+    "ex": "It was an exciting match from the first minute.",
+    "exzh": "这场比赛从第一分钟起就令人激动。"
+  },
+  {
+    "w": "exclaim",
+    "ph": "ɪkˈskleɪm",
+    "pos": "v.",
+    "zh": "惊叫；呼喊；大声说",
+    "ex": "She exclaimed in surprise when she saw the gift.",
+    "exzh": "她看到礼物时惊讶地叫了起来。"
+  },
+  {
+    "w": "exclamation",
+    "ph": "ˌekskləˈmeɪʃən",
+    "pos": "n.",
+    "zh": "感叹；惊叹；感叹语",
+    "ex": "He ended the sentence with an exclamation mark.",
+    "exzh": "他用感叹号结束了这个句子。"
+  },
+  {
+    "w": "exclude",
+    "ph": "ɪkˈskluːd",
+    "pos": "v.",
+    "zh": "排除；把……排斥在外；不包括",
+    "ex": "The price excludes breakfast and airport transfers.",
+    "exzh": "这个价格不包括早餐和机场接送。"
+  },
+  {
+    "w": "exclusion",
+    "ph": "ɪkˈskluːʒən",
+    "pos": "n.",
+    "zh": "排除；排斥；除外",
+    "ex": "His exclusion from the team surprised many fans.",
+    "exzh": "他被排除在球队之外让许多球迷吃惊。"
+  },
+  {
+    "w": "exclusive",
+    "ph": "ɪkˈskluːsɪv",
+    "pos": "adj.",
+    "zh": "独有的；排外的；高档的",
+    "ex": "The magazine published an exclusive interview with her.",
+    "exzh": "这本杂志发表了对她的独家采访。"
+  },
+  {
+    "w": "exclusively",
+    "ph": "ɪkˈskluːsɪvli",
+    "pos": "adv.",
+    "zh": "专门地；独占地；仅仅",
+    "ex": "The hall is used exclusively for large meetings.",
+    "exzh": "这个大厅专门用于大型会议。"
+  },
+  {
+    "w": "excursion",
+    "ph": "ɪkˈskɜːrʒən",
+    "pos": "n.",
+    "zh": "远足；短途旅行；游览",
+    "ex": "The class went on a day excursion to the hills.",
+    "exzh": "全班去山里进行了一天的短途旅行。"
+  },
+  {
+    "w": "execute",
+    "ph": "ˈeksɪkjuːt",
+    "pos": "v.",
+    "zh": "执行；实施；处决",
+    "ex": "The team executed the plan smoothly and on time.",
+    "exzh": "团队顺利按时执行了这个计划。"
+  },
+  {
+    "w": "execution",
+    "ph": "ˌeksɪˈkjuːʃən",
+    "pos": "n.",
+    "zh": "执行；实施；处决",
+    "ex": "Careful execution of the plan saved both time and money.",
+    "exzh": "认真执行计划既省时又省钱。"
+  },
+  {
+    "w": "executive",
+    "ph": "ɪɡˈzekjətɪv",
+    "pos": "n./adj.",
+    "zh": "主管；行政的；执行的",
+    "ex": "The executive approved the budget in ten minutes.",
+    "exzh": "这位主管十分钟内就批准了预算。"
+  },
+  {
+    "w": "exert",
+    "ph": "ɪɡˈzɜːrt",
+    "pos": "v.",
+    "zh": "施加；运用；努力",
+    "ex": "Parents exert a strong influence on young children.",
+    "exzh": "父母对年幼的孩子有很强的影响。"
+  },
+  {
+    "w": "exertion",
+    "ph": "ɪɡˈzɜːrʃən",
+    "pos": "n.",
+    "zh": "努力；用力；耗费",
+    "ex": "He felt dizzy after great physical exertion.",
+    "exzh": "剧烈体力消耗后他感到头晕。"
+  },
+  {
+    "w": "exhaust",
+    "ph": "ɪɡˈzɔːst",
+    "pos": "v./n.",
+    "zh": "使疲惫；耗尽；废气",
+    "ex": "The long journey exhausted all the young players.",
+    "exzh": "长途旅行让所有年轻队员都疲惫不堪。"
+  },
+  {
+    "w": "exhausted",
+    "ph": "ɪɡˈzɔːstɪd",
+    "pos": "adj.",
+    "zh": "精疲力竭的；耗尽的",
+    "ex": "She felt exhausted after working twelve hours.",
+    "exzh": "工作十二个小时后她感到精疲力竭。"
+  },
+  {
+    "w": "exhibit",
+    "ph": "ɪɡˈzɪbɪt",
+    "pos": "v./n.",
+    "zh": "展出；显示；展览品",
+    "ex": "The museum will exhibit ancient Chinese paintings.",
+    "exzh": "博物馆将展出中国古代绘画。"
+  },
+  {
+    "w": "exhibition",
+    "ph": "ˌeksɪˈbɪʃən",
+    "pos": "n.",
+    "zh": "展览；展览会；表现",
+    "ex": "The art exhibition opens to the public on Friday.",
+    "exzh": "艺术展周五向公众开放。"
+  },
+  {
+    "w": "exist",
+    "ph": "ɪɡˈzɪst",
+    "pos": "v.",
+    "zh": "存在；生存；活着",
+    "ex": "Many old customs still exist in the countryside.",
+    "exzh": "许多古老习俗在乡村仍然存在。"
+  },
+  {
+    "w": "existence",
+    "ph": "ɪɡˈzɪstəns",
+    "pos": "n.",
+    "zh": "存在；生存；生活方式",
+    "ex": "Scientists doubt the existence of such a creature.",
+    "exzh": "科学家怀疑这种生物的存在。"
+  },
+  {
+    "w": "exit",
+    "ph": "ˈeɡzɪt",
+    "pos": "n./v.",
+    "zh": "出口；退出；离开",
+    "ex": "Please leave the building through the side exit.",
+    "exzh": "请从侧门离开大楼。"
+  },
+  {
+    "w": "expand",
+    "ph": "ɪkˈspænd",
+    "pos": "v.",
+    "zh": "扩大；扩展；膨胀",
+    "ex": "The company plans to expand into overseas markets.",
+    "exzh": "公司计划向海外市场扩展。"
+  },
+  {
+    "w": "expansion",
+    "ph": "ɪkˈspænʃən",
+    "pos": "n.",
+    "zh": "扩张；扩展；膨胀",
+    "ex": "Rapid expansion brought both profits and new problems.",
+    "exzh": "快速扩张既带来了利润也带来了新问题。"
+  },
+  {
+    "w": "expect",
+    "ph": "ɪkˈspekt",
+    "pos": "v.",
+    "zh": "期待；预计；要求",
+    "ex": "We expect the train to arrive around six.",
+    "exzh": "我们预计火车六点左右到达。"
+  },
+  {
+    "w": "expectation",
+    "ph": "ˌekspekˈteɪʃən",
+    "pos": "n.",
+    "zh": "期望；预期；期待",
+    "ex": "The results went far beyond our original expectations.",
+    "exzh": "结果远远超出了我们最初的预期。"
+  },
+  {
+    "w": "expense",
+    "ph": "ɪkˈspens",
+    "pos": "n.",
+    "zh": "费用；开支；代价",
+    "ex": "Living expenses in big cities keep rising every year.",
+    "exzh": "大城市的生活费用逐年上涨。"
+  },
+  {
+    "w": "expensive",
+    "ph": "ɪkˈspensɪv",
+    "pos": "adj.",
+    "zh": "昂贵的；花钱多的",
+    "ex": "That restaurant is too expensive for a student.",
+    "exzh": "那家餐厅对一名学生来说太贵了。"
+  },
+  {
+    "w": "experimental",
+    "ph": "ɪkˌsperɪˈmentəl",
+    "pos": "adj.",
+    "zh": "实验的；试验性的",
+    "ex": "The treatment is still at an experimental stage.",
+    "exzh": "这种疗法仍处于实验阶段。"
+  },
+  {
+    "w": "expertise",
+    "ph": "ˌekspɜːrˈtiːz",
+    "pos": "n.",
+    "zh": "专业知识；专长；专门技能",
+    "ex": "Her expertise in design helped the whole team.",
+    "exzh": "她的设计专长帮助了整个团队。"
+  },
+  {
+    "w": "expiration",
+    "ph": "ˌekspəˈreɪʃən",
+    "pos": "n.",
+    "zh": "到期；期满；截止",
+    "ex": "Check the expiration date before you buy the milk.",
+    "exzh": "买牛奶前请查看保质期。"
+  },
+  {
+    "w": "expire",
+    "ph": "ɪkˈspaɪər",
+    "pos": "v.",
+    "zh": "到期；期满；失效",
+    "ex": "My library card will expire at the end of June.",
+    "exzh": "我的借书证六月底到期。"
+  },
+  {
+    "w": "explanation",
+    "ph": "ˌekspləˈneɪʃən",
+    "pos": "n.",
+    "zh": "解释；说明；解答",
+    "ex": "His explanation of the rule was clear and simple.",
+    "exzh": "他对这条规则的说明清楚而简单。"
+  },
+  {
+    "w": "explicit",
+    "ph": "ɪkˈsplɪsɪt",
+    "pos": "adj.",
+    "zh": "明确的；清楚的；直言的",
+    "ex": "The teacher gave explicit instructions for the task.",
+    "exzh": "老师对这个任务作了明确的指示。"
+  },
+  {
+    "w": "explode",
+    "ph": "ɪkˈsploʊd",
+    "pos": "v.",
+    "zh": "爆炸；爆发；激增",
+    "ex": "A gas pipe exploded near the old factory.",
+    "exzh": "一根燃气管道在老工厂附近爆炸了。"
+  },
+  {
+    "w": "exploit",
+    "ph": "ɪkˈsplɔɪt",
+    "pos": "v./n.",
+    "zh": "利用；开发；剥削",
+    "ex": "We should exploit solar energy more widely.",
+    "exzh": "我们应该更广泛地利用太阳能。"
+  },
+  {
+    "w": "exploration",
+    "ph": "ˌekspləˈreɪʃən",
+    "pos": "n.",
+    "zh": "探索；勘探；探究",
+    "ex": "Space exploration costs a huge amount of money.",
+    "exzh": "太空探索花费巨额资金。"
+  },
+  {
+    "w": "explore",
+    "ph": "ɪkˈsplɔːr",
+    "pos": "v.",
+    "zh": "探索；勘探；探究",
+    "ex": "They spent the holiday exploring the nearby mountains.",
+    "exzh": "他们假期里探索了附近的山。"
+  },
+  {
+    "w": "explosion",
+    "ph": "ɪkˈsploʊʒən",
+    "pos": "n.",
+    "zh": "爆炸；爆发；激增",
+    "ex": "The explosion broke windows across the street.",
+    "exzh": "爆炸震碎了街对面的窗户。"
+  },
+  {
+    "w": "explosive",
+    "ph": "ɪkˈsploʊsɪv",
+    "pos": "adj./n.",
+    "zh": "爆炸的；易爆的；炸药",
+    "ex": "The fire started near a highly explosive material.",
+    "exzh": "大火从一种极易爆炸的材料附近烧起。"
+  },
+  {
+    "w": "export",
+    "ph": "ɪkˈspɔːrt",
+    "pos": "v./n.",
+    "zh": "出口；输出；出口商品",
+    "ex": "The country exports large amounts of tea each year.",
+    "exzh": "该国每年出口大量茶叶。"
+  },
+  {
+    "w": "expose",
+    "ph": "ɪkˈspoʊz",
+    "pos": "v.",
+    "zh": "暴露；揭露；使接触",
+    "ex": "Do not expose your skin to strong sunlight.",
+    "exzh": "不要让皮肤暴露在强烈的阳光下。"
+  },
+  {
+    "w": "exposure",
+    "ph": "ɪkˈspoʊʒər",
+    "pos": "n.",
+    "zh": "暴露；接触；曝光",
+    "ex": "Long exposure to noise can harm your hearing.",
+    "exzh": "长期接触噪音会损害听力。"
+  },
+  {
+    "w": "express",
+    "ph": "ɪkˈspres",
+    "pos": "v./adj.",
+    "zh": "表达；表示；特快的",
+    "ex": "She found it hard to express her feelings clearly.",
+    "exzh": "她发现很难清楚地表达自己的感情。"
+  },
+  {
+    "w": "expression",
+    "ph": "ɪkˈspreʃən",
+    "pos": "n.",
+    "zh": "表达；表情；词语",
+    "ex": "His expression changed when he heard the news.",
+    "exzh": "听到这个消息时他的表情变了。"
+  },
+  {
+    "w": "extend",
+    "ph": "ɪkˈstend",
+    "pos": "v.",
+    "zh": "延长；扩展；伸出",
+    "ex": "They decided to extend the deadline by one week.",
+    "exzh": "他们决定把截止日期延长一周。"
+  },
+  {
+    "w": "extension",
+    "ph": "ɪkˈstenʃən",
+    "pos": "n.",
+    "zh": "延长；扩建；分机",
+    "ex": "The university built a new extension to the library.",
+    "exzh": "大学为图书馆建了一个新的扩建部分。"
+  },
+  {
+    "w": "extensive",
+    "ph": "ɪkˈstensɪv",
+    "pos": "adj.",
+    "zh": "广泛的；大量的；广阔的",
+    "ex": "She has extensive knowledge of European history.",
+    "exzh": "她对欧洲历史有广博的知识。"
+  },
+  {
+    "w": "extent",
+    "ph": "ɪkˈstent",
+    "pos": "n.",
+    "zh": "程度；范围；广度",
+    "ex": "I agree with you to a certain extent.",
+    "exzh": "在某种程度上我同意你的看法。"
+  },
+  {
+    "w": "exterior",
+    "ph": "ɪkˈstɪriər",
+    "pos": "n./adj.",
+    "zh": "外部；外表；外部的",
+    "ex": "The exterior of the house needs fresh paint.",
+    "exzh": "这座房子的外墙需要重新粉刷。"
+  },
+  {
+    "w": "external",
+    "ph": "ɪkˈstɜːrnəl",
+    "pos": "adj.",
+    "zh": "外部的；外来的；对外的",
+    "ex": "The building needs external repairs before winter.",
+    "exzh": "这栋楼在入冬前需要外部维修。"
+  },
+  {
+    "w": "extinct",
+    "ph": "ɪkˈstɪŋkt",
+    "pos": "adj.",
+    "zh": "灭绝的；熄灭的；绝种的",
+    "ex": "Many rare animals are now almost extinct.",
+    "exzh": "许多珍稀动物现在几乎灭绝了。"
+  },
+  {
+    "w": "extinction",
+    "ph": "ɪkˈstɪŋkʃən",
+    "pos": "n.",
+    "zh": "灭绝；消亡；熄灭",
+    "ex": "Hunting drove the bird close to extinction.",
+    "exzh": "狩猎使这种鸟濒临灭绝。"
+  },
+  {
+    "w": "extra",
+    "ph": "ˈekstrə",
+    "pos": "adj./n.",
+    "zh": "额外的；附加的；额外的东西",
+    "ex": "We had to pay extra for the larger room.",
+    "exzh": "我们不得不为更大的房间额外付费。"
+  },
+  {
+    "w": "extract",
+    "ph": "ɪkˈstrækt",
+    "pos": "v./n.",
+    "zh": "提取；拔出；摘录",
+    "ex": "They extract oil from these small seeds.",
+    "exzh": "他们从这些小种子中提取油。"
+  },
+  {
+    "w": "extraordinary",
+    "ph": "ɪkˈstrɔːrdəneri",
+    "pos": "adj.",
+    "zh": "非凡的；特别的；离奇的",
+    "ex": "She showed extraordinary courage during the rescue.",
+    "exzh": "她在救援中表现出非凡的勇气。"
+  },
+  {
+    "w": "extreme",
+    "ph": "ɪkˈstriːm",
+    "pos": "adj./n.",
+    "zh": "极端的；极度的；极端",
+    "ex": "The desert has extreme temperatures in summer.",
+    "exzh": "沙漠夏季气温极端。"
+  },
+  {
+    "w": "extremely",
+    "ph": "ɪkˈstriːmli",
+    "pos": "adv.",
+    "zh": "极其；非常；极端地",
+    "ex": "The exam was extremely difficult for most students.",
+    "exzh": "这场考试对大多数学生来说极其困难。"
+  },
+  {
+    "w": "eyesight",
+    "ph": "ˈaɪsaɪt",
+    "pos": "n.",
+    "zh": "视力；目力",
+    "ex": "Reading in dim light can damage your eyesight.",
+    "exzh": "在昏暗光线下阅读会损害视力。"
+  },
+  {
+    "w": "eyewitness",
+    "ph": "ˈaɪwɪtnəs",
+    "pos": "n.",
+    "zh": "目击者；见证人",
+    "ex": "An eyewitness described the accident to the police.",
+    "exzh": "一名目击者向警方描述了这起事故。"
+  }
+]

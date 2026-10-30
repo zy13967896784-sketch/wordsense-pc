@@ -1,0 +1,1898 @@
+[
+  {
+    "w": "machinery",
+    "ph": "məˈʃiːnəri",
+    "pos": "n.",
+    "zh": "机器；机械装置；机构",
+    "ex": "The factory has installed new machinery to raise output.",
+    "exzh": "工厂安装了新机器以提高产量。"
+  },
+  {
+    "w": "mad",
+    "ph": "mæd",
+    "pos": "adj.",
+    "zh": "疯狂的；恼火的；狂热的",
+    "ex": "He went mad after losing all his money.",
+    "exzh": "他输光所有的钱后就疯了。"
+  },
+  {
+    "w": "madam",
+    "ph": "ˈmædəm",
+    "pos": "n.",
+    "zh": "夫人；女士",
+    "ex": "May I help you with your bags, madam?",
+    "exzh": "女士，需要我帮您拿包吗？"
+  },
+  {
+    "w": "magazine",
+    "ph": "ˈmæɡəziːn",
+    "pos": "n.",
+    "zh": "杂志；期刊",
+    "ex": "She buys a fashion magazine at the station every month.",
+    "exzh": "她每月在车站买一本时尚杂志。"
+  },
+  {
+    "w": "magic",
+    "ph": "ˈmædʒɪk",
+    "pos": "n.",
+    "zh": "魔法；魔力",
+    "ex": "The children believed the old man could work magic.",
+    "exzh": "孩子们相信那位老人会施魔法。"
+  },
+  {
+    "w": "magician",
+    "ph": "məˈdʒɪʃn",
+    "pos": "n.",
+    "zh": "魔术师",
+    "ex": "The magician pulled a white rabbit out of his hat.",
+    "exzh": "魔术师从帽子里变出一只白兔。"
+  },
+  {
+    "w": "magnet",
+    "ph": "ˈmæɡnət",
+    "pos": "n.",
+    "zh": "磁铁；有吸引力的人或物",
+    "ex": "A magnet attracts small pieces of iron and steel.",
+    "exzh": "磁铁能吸住小块的铁和钢。"
+  },
+  {
+    "w": "magnetic",
+    "ph": "mæɡˈnetɪk",
+    "pos": "adj.",
+    "zh": "磁的；有磁性的；有吸引力的",
+    "ex": "The magnetic needle always points to the north.",
+    "exzh": "磁针总是指向北方。"
+  },
+  {
+    "w": "magnificent",
+    "ph": "mæɡˈnɪfɪsənt",
+    "pos": "adj.",
+    "zh": "壮丽的；宏伟的；极好的",
+    "ex": "From the top we enjoyed a magnificent view of the valley.",
+    "exzh": "从山顶我们看到山谷的壮丽景色。"
+  },
+  {
+    "w": "magnitude",
+    "ph": "ˈmæɡnɪtuːd",
+    "pos": "n.",
+    "zh": "巨大；重要性；量级",
+    "ex": "Few people realize the magnitude of the problem.",
+    "exzh": "很少有人意识到这个问题的严重程度。"
+  },
+  {
+    "w": "maid",
+    "ph": "meɪd",
+    "pos": "n.",
+    "zh": "女仆；侍女",
+    "ex": "A maid came in to clean the room every morning.",
+    "exzh": "每天早晨都有一位女佣进来打扫房间。"
+  },
+  {
+    "w": "mail",
+    "ph": "meɪl",
+    "pos": "n.",
+    "zh": "邮件；邮政",
+    "ex": "She checks her mail as soon as she gets home.",
+    "exzh": "她一回到家就查看邮件。"
+  },
+  {
+    "w": "mainland",
+    "ph": "ˈmeɪnlænd",
+    "pos": "n.",
+    "zh": "大陆；本土",
+    "ex": "The island is linked to the mainland by a long bridge.",
+    "exzh": "这座岛通过一座长桥与大陆相连。"
+  },
+  {
+    "w": "mainly",
+    "ph": "ˈmeɪnli",
+    "pos": "adv.",
+    "zh": "主要地；大部分",
+    "ex": "The audience was mainly made up of college students.",
+    "exzh": "观众主要由大学生组成。"
+  },
+  {
+    "w": "maintenance",
+    "ph": "ˈmeɪntənəns",
+    "pos": "n.",
+    "zh": "维持；保养；维修",
+    "ex": "Regular maintenance keeps the machine running smoothly.",
+    "exzh": "定期保养使机器运转顺畅。"
+  },
+  {
+    "w": "majesty",
+    "ph": "ˈmædʒəsti",
+    "pos": "n.",
+    "zh": "雄伟；威严；陛下",
+    "ex": "We stood silent before the majesty of the snowy mountains.",
+    "exzh": "在雪山雄伟的气势前，我们静静地站着。"
+  },
+  {
+    "w": "majority",
+    "ph": "məˈdʒɔːrəti",
+    "pos": "n.",
+    "zh": "大多数；多数票",
+    "ex": "The majority of students agreed with the new rule.",
+    "exzh": "大多数学生同意这项新规定。"
+  },
+  {
+    "w": "maker",
+    "ph": "ˈmeɪkər",
+    "pos": "n.",
+    "zh": "制造者；生产者",
+    "ex": "The maker of the toy guarantees it for two years.",
+    "exzh": "玩具制造商为它提供两年保修。"
+  },
+  {
+    "w": "male",
+    "ph": "meɪl",
+    "pos": "adj.",
+    "zh": "男性的；雄性的",
+    "ex": "Most of the workers in the mine are male.",
+    "exzh": "矿上的工人大多是男性。"
+  },
+  {
+    "w": "mall",
+    "ph": "mɔːl",
+    "pos": "n.",
+    "zh": "购物中心；商场",
+    "ex": "We spent the afternoon shopping at the new mall.",
+    "exzh": "我们下午在新购物中心逛街。"
+  },
+  {
+    "w": "mammal",
+    "ph": "ˈmæml",
+    "pos": "n.",
+    "zh": "哺乳动物",
+    "ex": "The whale is the largest mammal in the world.",
+    "exzh": "鲸是世界上最大的哺乳动物。"
+  },
+  {
+    "w": "manageable",
+    "ph": "ˈmænɪdʒəbl",
+    "pos": "adj.",
+    "zh": "可管理的；易处理的",
+    "ex": "The work is heavy but still manageable with help.",
+    "exzh": "工作繁重，但有人帮忙还是应付得来。"
+  },
+  {
+    "w": "management",
+    "ph": "ˈmænɪdʒmənt",
+    "pos": "n.",
+    "zh": "管理；经营；管理层",
+    "ex": "The management decided to close two of the factories.",
+    "exzh": "管理层决定关闭其中两家工厂。"
+  },
+  {
+    "w": "manager",
+    "ph": "ˈmænɪdʒər",
+    "pos": "n.",
+    "zh": "经理；管理者",
+    "ex": "The manager asked us to finish the report by Friday.",
+    "exzh": "经理要求我们在周五前完成报告。"
+  },
+  {
+    "w": "managerial",
+    "ph": "ˌmænɪˈdʒɪriəl",
+    "pos": "adj.",
+    "zh": "管理的；经理的",
+    "ex": "She was promoted to a managerial position last spring.",
+    "exzh": "去年春天她被提升到管理岗位。"
+  },
+  {
+    "w": "mankind",
+    "ph": "ˌmænˈkaɪnd",
+    "pos": "n.",
+    "zh": "人类；全人类",
+    "ex": "This discovery may change the history of mankind.",
+    "exzh": "这一发现可能改变人类的历史。"
+  },
+  {
+    "w": "manly",
+    "ph": "ˈmænli",
+    "pos": "adj.",
+    "zh": "有男子气概的；勇敢的",
+    "ex": "He thought it manly to hide his pain from others.",
+    "exzh": "他认为在别人面前藏起痛苦才有男子气概。"
+  },
+  {
+    "w": "mansion",
+    "ph": "ˈmænʃn",
+    "pos": "n.",
+    "zh": "大厦；豪宅",
+    "ex": "They bought an old mansion just outside the city.",
+    "exzh": "他们买下了城郊的一座旧宅。"
+  },
+  {
+    "w": "manual",
+    "ph": "ˈmænjuəl",
+    "pos": "n.",
+    "zh": "手册；说明书",
+    "ex": "Read the manual before you use the new camera.",
+    "exzh": "使用新相机前请先读说明书。"
+  },
+  {
+    "w": "manufacturer",
+    "ph": "ˌmænjuˈfæktʃərər",
+    "pos": "n.",
+    "zh": "制造商；生产商",
+    "ex": "The manufacturer offers a two-year guarantee on all products.",
+    "exzh": "制造商对所有产品提供两年保修。"
+  },
+  {
+    "w": "manuscript",
+    "ph": "ˈmænjuskrɪpt",
+    "pos": "n.",
+    "zh": "手稿；原稿",
+    "ex": "The writer sent his manuscript to three publishers.",
+    "exzh": "那位作家把手稿寄给了三家出版社。"
+  },
+  {
+    "w": "maple",
+    "ph": "ˈmeɪpl",
+    "pos": "n.",
+    "zh": "枫树；枫木",
+    "ex": "The maple leaves turn bright red in late October.",
+    "exzh": "十月底枫叶变成鲜红色。"
+  },
+  {
+    "w": "marathon",
+    "ph": "ˈmærəθɑːn",
+    "pos": "n.",
+    "zh": "马拉松赛跑",
+    "ex": "He finished his first marathon in under four hours.",
+    "exzh": "他用不到四小时跑完了第一个马拉松。"
+  },
+  {
+    "w": "marble",
+    "ph": "ˈmɑːrbl",
+    "pos": "n.",
+    "zh": "大理石；弹珠",
+    "ex": "The floor of the hall is made of white marble.",
+    "exzh": "大厅的地面是用白色大理石铺成的。"
+  },
+  {
+    "w": "march",
+    "ph": "mɑːrtʃ",
+    "pos": "v.",
+    "zh": "行进；游行；行军",
+    "ex": "Thousands of people marched through the city center.",
+    "exzh": "数千人穿过市中心游行。"
+  },
+  {
+    "w": "margin",
+    "ph": "ˈmɑːrdʒɪn",
+    "pos": "n.",
+    "zh": "页边空白；边缘；差额",
+    "ex": "She wrote a few notes in the margin of the page.",
+    "exzh": "她在页边空白处写了几条笔记。"
+  },
+  {
+    "w": "marginal",
+    "ph": "ˈmɑːrdʒɪnl",
+    "pos": "adj.",
+    "zh": "边缘的；微小的",
+    "ex": "The change had only a marginal effect on sales.",
+    "exzh": "这一变化对销售只有微小的影响。"
+  },
+  {
+    "w": "marine",
+    "ph": "məˈriːn",
+    "pos": "adj.",
+    "zh": "海的；海生的",
+    "ex": "Marine plants are sensitive to changes in water temperature.",
+    "exzh": "海洋植物对水温变化很敏感。"
+  },
+  {
+    "w": "mark",
+    "ph": "mɑːrk",
+    "pos": "n.",
+    "zh": "记号；痕迹；成绩",
+    "ex": "The teacher marked our papers with a red pen.",
+    "exzh": "老师用红笔批改了我们的试卷。"
+  },
+  {
+    "w": "marked",
+    "ph": "mɑːrkt",
+    "pos": "adj.",
+    "zh": "明显的；显著的",
+    "ex": "There has been a marked improvement in his writing.",
+    "exzh": "他的写作有了明显的进步。"
+  },
+  {
+    "w": "marketing",
+    "ph": "ˈmɑːrkɪtɪŋ",
+    "pos": "n.",
+    "zh": "市场营销；销售",
+    "ex": "She works in marketing for a large food company.",
+    "exzh": "她在一家大型食品公司做市场营销。"
+  },
+  {
+    "w": "marriage",
+    "ph": "ˈmærɪdʒ",
+    "pos": "n.",
+    "zh": "婚姻；结婚",
+    "ex": "Their marriage has lasted for more than forty years.",
+    "exzh": "他们的婚姻已经持续了四十多年。"
+  },
+  {
+    "w": "marry",
+    "ph": "ˈmæri",
+    "pos": "v.",
+    "zh": "结婚；嫁；娶",
+    "ex": "They decided to marry next spring in a small church.",
+    "exzh": "他们决定明年春天在一座小教堂结婚。"
+  },
+  {
+    "w": "marvel",
+    "ph": "ˈmɑːrvl",
+    "pos": "n.",
+    "zh": "奇迹；令人惊叹的事物",
+    "ex": "The bridge is a marvel of modern engineering.",
+    "exzh": "这座桥是现代工程的奇迹。"
+  },
+  {
+    "w": "marvelous",
+    "ph": "ˈmɑːrvələs",
+    "pos": "adj.",
+    "zh": "极好的；令人惊叹的",
+    "ex": "We had a marvelous time at the seaside last summer.",
+    "exzh": "去年夏天我们在海边玩得非常愉快。"
+  },
+  {
+    "w": "masculine",
+    "ph": "ˈmæskjəlɪn",
+    "pos": "adj.",
+    "zh": "男性的；男子气概的",
+    "ex": "The portrait shows a masculine face with a strong jaw.",
+    "exzh": "这幅肖像画着一张下颌坚毅的男性面孔。"
+  },
+  {
+    "w": "mask",
+    "ph": "mæsk",
+    "pos": "n.",
+    "zh": "面具；口罩",
+    "ex": "She wore a mask to protect herself from the dust.",
+    "exzh": "她戴着口罩防止吸入灰尘。"
+  },
+  {
+    "w": "mass",
+    "ph": "mæs",
+    "pos": "n.",
+    "zh": "大量；群众；质量",
+    "ex": "A mass of dark clouds gathered above the hills.",
+    "exzh": "大片乌云聚集在山岗上空。"
+  },
+  {
+    "w": "massage",
+    "ph": "məˈsɑːʒ",
+    "pos": "n.",
+    "zh": "按摩",
+    "ex": "A gentle massage helped relax her aching shoulders.",
+    "exzh": "轻柔的按摩帮助她放松了酸痛的肩膀。"
+  },
+  {
+    "w": "massive",
+    "ph": "ˈmæsɪv",
+    "pos": "adj.",
+    "zh": "巨大的；大量的",
+    "ex": "The earthquake caused massive damage to the old town.",
+    "exzh": "地震给老城区造成了巨大的破坏。"
+  },
+  {
+    "w": "master",
+    "ph": "ˈmæstər",
+    "pos": "v.",
+    "zh": "掌握；精通；控制",
+    "ex": "It takes years to master a foreign language.",
+    "exzh": "掌握一门外语需要数年时间。"
+  },
+  {
+    "w": "masterpiece",
+    "ph": "ˈmæstərpiːs",
+    "pos": "n.",
+    "zh": "杰作；代表作",
+    "ex": "This painting is regarded as his finest masterpiece.",
+    "exzh": "这幅画被认为是他的最佳杰作。"
+  },
+  {
+    "w": "mat",
+    "ph": "mæt",
+    "pos": "n.",
+    "zh": "垫子；席子",
+    "ex": "Wipe your shoes on the mat before you come in.",
+    "exzh": "进来之前先在垫子上蹭蹭鞋。"
+  },
+  {
+    "w": "match",
+    "ph": "mætʃ",
+    "pos": "n.",
+    "zh": "比赛；火柴",
+    "ex": "Our team won the match by two goals.",
+    "exzh": "我们队以两球之差赢得了比赛。"
+  },
+  {
+    "w": "mate",
+    "ph": "meɪt",
+    "pos": "n.",
+    "zh": "伙伴；配偶",
+    "ex": "He shared a flat with two old school mates.",
+    "exzh": "他和两个老同学合住一套公寓。"
+  },
+  {
+    "w": "maternal",
+    "ph": "məˈtɜːrnl",
+    "pos": "adj.",
+    "zh": "母亲的；母系的",
+    "ex": "She felt a strong maternal love for the child.",
+    "exzh": "她对那个孩子产生了强烈的母爱。"
+  },
+  {
+    "w": "mathematics",
+    "ph": "ˌmæθəˈmætɪks",
+    "pos": "n.",
+    "zh": "数学",
+    "ex": "Mathematics is her favorite subject at school.",
+    "exzh": "数学是她上学时最喜欢的科目。"
+  },
+  {
+    "w": "maths",
+    "ph": "mæθs",
+    "pos": "n.",
+    "zh": "数学",
+    "ex": "He is much better at maths than at languages.",
+    "exzh": "他数学比语言好得多。"
+  },
+  {
+    "w": "mattress",
+    "ph": "ˈmætrəs",
+    "pos": "n.",
+    "zh": "床垫",
+    "ex": "The mattress was too soft for my back.",
+    "exzh": "这床垫对我的背来说太软了。"
+  },
+  {
+    "w": "mature",
+    "ph": "məˈtʃʊr",
+    "pos": "adj.",
+    "zh": "成熟的；到期的",
+    "ex": "She is very mature for her age.",
+    "exzh": "就她的年龄而言，她非常成熟。"
+  },
+  {
+    "w": "maturity",
+    "ph": "məˈtʃʊrəti",
+    "pos": "n.",
+    "zh": "成熟；到期",
+    "ex": "His maturity impressed everyone at the meeting.",
+    "exzh": "他的成熟给会上的每个人都留下了深刻印象。"
+  },
+  {
+    "w": "maximize",
+    "ph": "ˈmæksɪmaɪz",
+    "pos": "v.",
+    "zh": "使最大化；充分利用",
+    "ex": "We must maximize the use of existing resources.",
+    "exzh": "我们必须最大限度地利用现有资源。"
+  },
+  {
+    "w": "maximum",
+    "ph": "ˈmæksɪməm",
+    "pos": "adj.",
+    "zh": "最大的；最高的",
+    "ex": "The car can carry a maximum of five people.",
+    "exzh": "这辆车最多能载五个人。"
+  },
+  {
+    "w": "maybe",
+    "ph": "ˈmeɪbi",
+    "pos": "adv.",
+    "zh": "也许；可能",
+    "ex": "Maybe we should take a taxi to the airport.",
+    "exzh": "也许我们应该打车去机场。"
+  },
+  {
+    "w": "mayor",
+    "ph": "ˈmeɪər",
+    "pos": "n.",
+    "zh": "市长",
+    "ex": "The mayor promised to build more parks in the city.",
+    "exzh": "市长承诺在城里建更多公园。"
+  },
+  {
+    "w": "meadow",
+    "ph": "ˈmedoʊ",
+    "pos": "n.",
+    "zh": "草地；牧场",
+    "ex": "Cows were grazing in the meadow beside the river.",
+    "exzh": "牛在河边的草地上吃草。"
+  },
+  {
+    "w": "meager",
+    "ph": "ˈmiːɡər",
+    "pos": "adj.",
+    "zh": "贫乏的；微薄的",
+    "ex": "The family lived on a meager income for years.",
+    "exzh": "这家人靠微薄的收入生活了多年。"
+  },
+  {
+    "w": "mean",
+    "ph": "miːn",
+    "pos": "v.",
+    "zh": "意思是；意味着；打算",
+    "ex": "I did not mean to hurt your feelings.",
+    "exzh": "我不是有意伤害你的感情。"
+  },
+  {
+    "w": "meaning",
+    "ph": "ˈmiːnɪŋ",
+    "pos": "n.",
+    "zh": "意思；含义；意义",
+    "ex": "The meaning of this word depends on the context.",
+    "exzh": "这个词的意思取决于上下文。"
+  },
+  {
+    "w": "meaningful",
+    "ph": "ˈmiːnɪŋfl",
+    "pos": "adj.",
+    "zh": "有意义的；意味深长的",
+    "ex": "They had a meaningful talk about their future plans.",
+    "exzh": "他们就未来的计划进行了一次有意义的谈话。"
+  },
+  {
+    "w": "means",
+    "ph": "miːnz",
+    "pos": "n.",
+    "zh": "方法；手段；财富",
+    "ex": "The bicycle is a cheap means of transport in town.",
+    "exzh": "在城里，自行车是一种便宜的交通工具。"
+  },
+  {
+    "w": "meantime",
+    "ph": "ˈmiːntaɪm",
+    "pos": "n.",
+    "zh": "其间；同时",
+    "ex": "In the meantime, please keep me informed of any changes.",
+    "exzh": "在此期间，请随时告知我任何变化。"
+  },
+  {
+    "w": "meanwhile",
+    "ph": "ˈmiːnwaɪl",
+    "pos": "adv.",
+    "zh": "同时；与此同时",
+    "ex": "Meanwhile, the children were playing quietly in the garden.",
+    "exzh": "与此同时，孩子们正在花园里安静地玩耍。"
+  },
+  {
+    "w": "measurable",
+    "ph": "ˈmeʒərəbl",
+    "pos": "adj.",
+    "zh": "可测量的；明显的",
+    "ex": "The new policy brought a measurable improvement in safety.",
+    "exzh": "新政策带来了安全方面可测量的改善。"
+  },
+  {
+    "w": "measurement",
+    "ph": "ˈmeʒərmənt",
+    "pos": "n.",
+    "zh": "测量；尺寸",
+    "ex": "Take careful measurements before you cut the wood.",
+    "exzh": "锯木头前要仔细量好尺寸。"
+  },
+  {
+    "w": "mechanic",
+    "ph": "məˈkænɪk",
+    "pos": "n.",
+    "zh": "机械师；技工",
+    "ex": "The mechanic fixed the engine in less than an hour.",
+    "exzh": "机械师不到一小时就修好了发动机。"
+  },
+  {
+    "w": "mechanical",
+    "ph": "məˈkænɪkl",
+    "pos": "adj.",
+    "zh": "机械的；呆板的",
+    "ex": "The car broke down because of a mechanical fault.",
+    "exzh": "这辆车因机械故障抛锚了。"
+  },
+  {
+    "w": "mechanism",
+    "ph": "ˈmekənɪzəm",
+    "pos": "n.",
+    "zh": "机制；机械装置",
+    "ex": "The government set up a mechanism to handle complaints.",
+    "exzh": "政府设立了一个处理投诉的机制。"
+  },
+  {
+    "w": "medal",
+    "ph": "ˈmedl",
+    "pos": "n.",
+    "zh": "奖章；勋章",
+    "ex": "She won a gold medal in the swimming race.",
+    "exzh": "她在游泳比赛中获得一枚金牌。"
+  },
+  {
+    "w": "media",
+    "ph": "ˈmiːdiə",
+    "pos": "n.",
+    "zh": "媒体；媒介",
+    "ex": "The media reported the story on every channel.",
+    "exzh": "媒体在每个频道都报道了这件事。"
+  },
+  {
+    "w": "mediate",
+    "ph": "ˈmiːdieɪt",
+    "pos": "v.",
+    "zh": "调解；斡旋",
+    "ex": "A neutral party was asked to mediate the dispute.",
+    "exzh": "一个中立方被请来调解这场争端。"
+  },
+  {
+    "w": "meditation",
+    "ph": "ˌmedɪˈteɪʃn",
+    "pos": "n.",
+    "zh": "冥想；沉思",
+    "ex": "He begins each day with half an hour of meditation.",
+    "exzh": "他每天以半小时的冥想开始。"
+  },
+  {
+    "w": "melody",
+    "ph": "ˈmelədi",
+    "pos": "n.",
+    "zh": "旋律；曲调",
+    "ex": "A simple melody floated from the open window.",
+    "exzh": "一段简单的旋律从敞开的窗户飘出来。"
+  },
+  {
+    "w": "melon",
+    "ph": "ˈmelən",
+    "pos": "n.",
+    "zh": "瓜；甜瓜",
+    "ex": "She cut the melon into thin slices for the guests.",
+    "exzh": "她把甜瓜切成薄片给客人吃。"
+  },
+  {
+    "w": "melt",
+    "ph": "melt",
+    "pos": "v.",
+    "zh": "融化；熔化；消散",
+    "ex": "The snow began to melt as soon as the sun appeared.",
+    "exzh": "太阳一出来，雪就开始融化。"
+  },
+  {
+    "w": "member",
+    "ph": "ˈmembər",
+    "pos": "n.",
+    "zh": "成员；会员",
+    "ex": "Every member of the team received a small gift.",
+    "exzh": "队里每个成员都收到了一份小礼物。"
+  },
+  {
+    "w": "membership",
+    "ph": "ˈmembərʃɪp",
+    "pos": "n.",
+    "zh": "会员资格；成员身份",
+    "ex": "Club membership costs fifty dollars a year.",
+    "exzh": "俱乐部会员费每年五十美元。"
+  },
+  {
+    "w": "memorial",
+    "ph": "məˈmɔːriəl",
+    "pos": "n.",
+    "zh": "纪念碑；纪念物",
+    "ex": "A memorial was built for the soldiers who died there.",
+    "exzh": "为在那里牺牲的士兵建了一座纪念碑。"
+  },
+  {
+    "w": "memorize",
+    "ph": "ˈmeməraɪz",
+    "pos": "v.",
+    "zh": "记住；背诵",
+    "ex": "Students have to memorize many new words every week.",
+    "exzh": "学生每周必须记住许多新单词。"
+  },
+  {
+    "w": "memory",
+    "ph": "ˈmeməri",
+    "pos": "n.",
+    "zh": "记忆；回忆；存储器",
+    "ex": "He has a good memory for names and faces.",
+    "exzh": "他记人名和长相很在行。"
+  },
+  {
+    "w": "menace",
+    "ph": "ˈmenəs",
+    "pos": "n.",
+    "zh": "威胁；危险的人或物",
+    "ex": "The rising river is a menace to the village.",
+    "exzh": "上涨的河水对村庄是个威胁。"
+  },
+  {
+    "w": "mend",
+    "ph": "mend",
+    "pos": "v.",
+    "zh": "修补；修理；痊愈",
+    "ex": "My grandmother can mend old clothes by hand.",
+    "exzh": "我奶奶能手工缝补旧衣服。"
+  },
+  {
+    "w": "mentality",
+    "ph": "menˈtæləti",
+    "pos": "n.",
+    "zh": "心态；思维方式",
+    "ex": "His competitive mentality helped him win the race.",
+    "exzh": "他的竞争心态帮助他赢得了比赛。"
+  },
+  {
+    "w": "menu",
+    "ph": "ˈmenjuː",
+    "pos": "n.",
+    "zh": "菜单；选项单",
+    "ex": "The waiter handed us the menu and some water.",
+    "exzh": "服务员把菜单和水递给我们。"
+  },
+  {
+    "w": "merchandise",
+    "ph": "ˈmɜːrtʃəndaɪz",
+    "pos": "n.",
+    "zh": "商品；货物",
+    "ex": "The store sells sports merchandise at low prices.",
+    "exzh": "这家店以低价出售体育用品。"
+  },
+  {
+    "w": "merchant",
+    "ph": "ˈmɜːrtʃənt",
+    "pos": "n.",
+    "zh": "商人；批发商",
+    "ex": "The merchant sold silk and tea along the river.",
+    "exzh": "那个商人沿河卖丝绸和茶叶。"
+  },
+  {
+    "w": "merciful",
+    "ph": "ˈmɜːrsɪfl",
+    "pos": "adj.",
+    "zh": "仁慈的；宽容的",
+    "ex": "The judge was merciful and gave him a light sentence.",
+    "exzh": "法官很仁慈，对他从轻判刑。"
+  },
+  {
+    "w": "mercy",
+    "ph": "ˈmɜːrsi",
+    "pos": "n.",
+    "zh": "仁慈；宽恕",
+    "ex": "The prisoners begged the judge for mercy.",
+    "exzh": "囚犯们向法官求情。"
+  },
+  {
+    "w": "mere",
+    "ph": "mɪr",
+    "pos": "adj.",
+    "zh": "仅仅的；纯粹的",
+    "ex": "The mere thought of the exam makes me nervous.",
+    "exzh": "一想到考试我就紧张。"
+  },
+  {
+    "w": "merely",
+    "ph": "ˈmɪrli",
+    "pos": "adv.",
+    "zh": "仅仅；只不过",
+    "ex": "I was merely trying to help you with the work.",
+    "exzh": "我只是想在工作上帮帮你。"
+  },
+  {
+    "w": "merge",
+    "ph": "mɜːrdʒ",
+    "pos": "v.",
+    "zh": "合并；融合",
+    "ex": "The two small banks merged into one large company.",
+    "exzh": "两家小银行合并成一家大公司。"
+  },
+  {
+    "w": "merger",
+    "ph": "ˈmɜːrdʒər",
+    "pos": "n.",
+    "zh": "合并；并购",
+    "ex": "The merger created the largest airline in the country.",
+    "exzh": "这次合并造就了全国最大的航空公司。"
+  },
+  {
+    "w": "merit",
+    "ph": "ˈmerɪt",
+    "pos": "n.",
+    "zh": "优点；价值",
+    "ex": "The plan has both merits and serious weaknesses.",
+    "exzh": "这个计划既有优点也有严重缺陷。"
+  },
+  {
+    "w": "merry",
+    "ph": "ˈmeri",
+    "pos": "adj.",
+    "zh": "欢乐的；愉快的",
+    "ex": "The whole village was merry during the harvest festival.",
+    "exzh": "丰收节期间整个村子都喜气洋洋。"
+  },
+  {
+    "w": "mess",
+    "ph": "mes",
+    "pos": "n.",
+    "zh": "混乱；脏乱",
+    "ex": "The kitchen was a mess after the birthday party.",
+    "exzh": "生日聚会后厨房一片狼藉。"
+  },
+  {
+    "w": "messenger",
+    "ph": "ˈmesɪndʒər",
+    "pos": "n.",
+    "zh": "送信人；信使",
+    "ex": "A messenger arrived with a letter from the capital.",
+    "exzh": "一名信使带着一封来自首都的信到了。"
+  },
+  {
+    "w": "messy",
+    "ph": "ˈmesi",
+    "pos": "adj.",
+    "zh": "凌乱的；混乱的",
+    "ex": "His desk is always messy, covered with old papers.",
+    "exzh": "他的书桌总是乱糟糟的，堆满旧文件。"
+  },
+  {
+    "w": "metal",
+    "ph": "ˈmetl",
+    "pos": "n.",
+    "zh": "金属",
+    "ex": "The box is made of thin metal and glass.",
+    "exzh": "这个盒子是用薄金属和玻璃做的。"
+  },
+  {
+    "w": "metallic",
+    "ph": "məˈtælɪk",
+    "pos": "adj.",
+    "zh": "金属的；金属般的",
+    "ex": "The door closed with a loud metallic sound.",
+    "exzh": "门关上时发出响亮的金属碰撞声。"
+  },
+  {
+    "w": "metaphor",
+    "ph": "ˈmetəfɔːr",
+    "pos": "n.",
+    "zh": "隐喻；比喻",
+    "ex": "The poem uses the sea as a metaphor for life.",
+    "exzh": "这首诗用大海比喻人生。"
+  },
+  {
+    "w": "meter",
+    "ph": "ˈmiːtər",
+    "pos": "n.",
+    "zh": "米；仪表",
+    "ex": "The room is about four meters long and three wide.",
+    "exzh": "这房间大约四米长、三米宽。"
+  },
+  {
+    "w": "methodical",
+    "ph": "məˈθɑːdɪkl",
+    "pos": "adj.",
+    "zh": "有条理的；系统的",
+    "ex": "She is methodical in checking every detail of the plan.",
+    "exzh": "她有条不紊地检查计划的每个细节。"
+  },
+  {
+    "w": "metric",
+    "ph": "ˈmetrɪk",
+    "pos": "adj.",
+    "zh": "公制的；米制的",
+    "ex": "Most countries use the metric system for measurement.",
+    "exzh": "大多数国家使用公制进行测量。"
+  },
+  {
+    "w": "metropolitan",
+    "ph": "ˌmetrəˈpɑːlɪtən",
+    "pos": "adj.",
+    "zh": "大都市的；首都的",
+    "ex": "He moved to the metropolitan area for better jobs.",
+    "exzh": "他搬到大都市地区寻找更好的工作。"
+  },
+  {
+    "w": "microphone",
+    "ph": "ˈmaɪkrəfoʊn",
+    "pos": "n.",
+    "zh": "麦克风；话筒",
+    "ex": "Please speak into the microphone so everyone can hear.",
+    "exzh": "请对着话筒讲话，好让大家都能听见。"
+  },
+  {
+    "w": "microscope",
+    "ph": "ˈmaɪkrəskoʊp",
+    "pos": "n.",
+    "zh": "显微镜",
+    "ex": "Under the microscope the leaf looks like a tiny forest.",
+    "exzh": "在显微镜下，叶子看起来像一片小森林。"
+  },
+  {
+    "w": "midday",
+    "ph": "ˈmɪddeɪ",
+    "pos": "n.",
+    "zh": "正午；中午",
+    "ex": "The street is completely empty at midday in summer.",
+    "exzh": "夏天正午时街上空无一人。"
+  },
+  {
+    "w": "middle",
+    "ph": "ˈmɪdl",
+    "pos": "n.",
+    "zh": "中间；中部",
+    "ex": "A tall tree stands in the middle of the garden.",
+    "exzh": "花园中间立着一棵高树。"
+  },
+  {
+    "w": "midnight",
+    "ph": "ˈmɪdnaɪt",
+    "pos": "n.",
+    "zh": "午夜；半夜",
+    "ex": "The train finally arrived at midnight, three hours late.",
+    "exzh": "火车终于在午夜到达，晚点了三个小时。"
+  },
+  {
+    "w": "midst",
+    "ph": "mɪdst",
+    "pos": "n.",
+    "zh": "中间；当中",
+    "ex": "In the midst of the storm, the lights went out.",
+    "exzh": "暴风雨正猛的时候，灯灭了。"
+  },
+  {
+    "w": "migrate",
+    "ph": "ˈmaɪɡreɪt",
+    "pos": "v.",
+    "zh": "迁移；迁徙",
+    "ex": "Many birds migrate south before the winter comes.",
+    "exzh": "许多鸟在冬天来临前南迁。"
+  },
+  {
+    "w": "migration",
+    "ph": "maɪˈɡreɪʃn",
+    "pos": "n.",
+    "zh": "迁移；迁徙",
+    "ex": "The migration of these birds takes place every autumn.",
+    "exzh": "这些鸟每年秋天都会迁徙。"
+  },
+  {
+    "w": "mild",
+    "ph": "maɪld",
+    "pos": "adj.",
+    "zh": "温和的；轻微的",
+    "ex": "The winter here is mild compared with the north.",
+    "exzh": "与北方相比，这里的冬天很温和。"
+  },
+  {
+    "w": "mile",
+    "ph": "maɪl",
+    "pos": "n.",
+    "zh": "英里",
+    "ex": "The village is about two miles from the main road.",
+    "exzh": "村子离大路大约两英里。"
+  },
+  {
+    "w": "mileage",
+    "ph": "ˈmaɪlɪdʒ",
+    "pos": "n.",
+    "zh": "里程；英里数",
+    "ex": "The car's mileage is low for its age.",
+    "exzh": "就车龄而言，这辆车的里程数很低。"
+  },
+  {
+    "w": "milestone",
+    "ph": "ˈmaɪlstoʊn",
+    "pos": "n.",
+    "zh": "里程碑；重大事件",
+    "ex": "The treaty was a milestone in the region's history.",
+    "exzh": "这项条约是该地区历史上的一个里程碑。"
+  },
+  {
+    "w": "militant",
+    "ph": "ˈmɪlɪtənt",
+    "pos": "adj.",
+    "zh": "好战的；激进的",
+    "ex": "The militant group refused to join the peace talks.",
+    "exzh": "该激进组织拒绝参加和平谈判。"
+  },
+  {
+    "w": "mill",
+    "ph": "mɪl",
+    "pos": "n.",
+    "zh": "磨坊；工厂",
+    "ex": "The old mill by the river is now a small museum.",
+    "exzh": "河边那座老磨坊现在是一家小博物馆。"
+  },
+  {
+    "w": "millimeter",
+    "ph": "ˈmɪlɪmiːtər",
+    "pos": "n.",
+    "zh": "毫米",
+    "ex": "The crack in the wall is only a few millimeters wide.",
+    "exzh": "墙上的裂缝只有几毫米宽。"
+  },
+  {
+    "w": "millionaire",
+    "ph": "ˌmɪljəˈner",
+    "pos": "n.",
+    "zh": "百万富翁",
+    "ex": "He became a millionaire by selling cheap furniture online.",
+    "exzh": "他靠在网上卖廉价家具成了百万富翁。"
+  },
+  {
+    "w": "mimic",
+    "ph": "ˈmɪmɪk",
+    "pos": "v.",
+    "zh": "模仿；仿效",
+    "ex": "Children often mimic the way their parents speak.",
+    "exzh": "孩子常常模仿父母说话的方式。"
+  },
+  {
+    "w": "miner",
+    "ph": "ˈmaɪnər",
+    "pos": "n.",
+    "zh": "矿工",
+    "ex": "The miners worked underground for ten hours a day.",
+    "exzh": "矿工们每天在地下工作十个小时。"
+  },
+  {
+    "w": "mineral",
+    "ph": "ˈmɪnərəl",
+    "pos": "n.",
+    "zh": "矿物；矿物质",
+    "ex": "This region is rich in coal and other minerals.",
+    "exzh": "这个地区煤和其他矿产都很丰富。"
+  },
+  {
+    "w": "mingle",
+    "ph": "ˈmɪŋɡl",
+    "pos": "v.",
+    "zh": "混合；交往",
+    "ex": "Guests mingled in the hall before the dinner began.",
+    "exzh": "晚宴开始前，客人们在大厅里交谈。"
+  },
+  {
+    "w": "miniature",
+    "ph": "ˈmɪnətʃər",
+    "pos": "adj.",
+    "zh": "微型的；小型的",
+    "ex": "The park has a miniature train for small children.",
+    "exzh": "公园里有一列供小孩玩的微型火车。"
+  },
+  {
+    "w": "minimal",
+    "ph": "ˈmɪnɪməl",
+    "pos": "adj.",
+    "zh": "最小的；极少的",
+    "ex": "The damage to the car was minimal.",
+    "exzh": "车子的损坏很轻微。"
+  },
+  {
+    "w": "minimize",
+    "ph": "ˈmɪnɪmaɪz",
+    "pos": "v.",
+    "zh": "使最小；减到最少",
+    "ex": "We must minimize the risk of fire in the building.",
+    "exzh": "我们必须把楼内火灾风险降到最低。"
+  },
+  {
+    "w": "minister",
+    "ph": "ˈmɪnɪstər",
+    "pos": "n.",
+    "zh": "部长；大臣",
+    "ex": "The foreign minister will visit three countries next week.",
+    "exzh": "外交部长下周将访问三个国家。"
+  },
+  {
+    "w": "ministry",
+    "ph": "ˈmɪnɪstri",
+    "pos": "n.",
+    "zh": "部；部门",
+    "ex": "The ministry of education announced a new policy yesterday.",
+    "exzh": "教育部昨天宣布了一项新政策。"
+  },
+  {
+    "w": "minority",
+    "ph": "maɪˈnɔːrəti",
+    "pos": "n.",
+    "zh": "少数；少数民族",
+    "ex": "Only a small minority of students voted against the plan.",
+    "exzh": "只有少数学生投票反对该计划。"
+  },
+  {
+    "w": "mint",
+    "ph": "mɪnt",
+    "pos": "n.",
+    "zh": "薄荷；造币厂",
+    "ex": "She added fresh mint to the cold drink.",
+    "exzh": "她在冷饮里加了新鲜薄荷。"
+  },
+  {
+    "w": "minus",
+    "ph": "ˈmaɪnəs",
+    "pos": "prep.",
+    "zh": "减去；零下",
+    "ex": "The temperature dropped to minus ten degrees last night.",
+    "exzh": "昨晚气温降到零下十度。"
+  },
+  {
+    "w": "minute",
+    "ph": "ˈmɪnɪt",
+    "pos": "n.",
+    "zh": "分钟；片刻",
+    "ex": "Please wait a minute while I find the file.",
+    "exzh": "请稍等一下，我找一下文件。"
+  },
+  {
+    "w": "miracle",
+    "ph": "ˈmɪrəkl",
+    "pos": "n.",
+    "zh": "奇迹",
+    "ex": "It was a miracle that nobody was hurt in the crash.",
+    "exzh": "撞车事故中无人受伤，真是个奇迹。"
+  },
+  {
+    "w": "mirror",
+    "ph": "ˈmɪrər",
+    "pos": "n.",
+    "zh": "镜子",
+    "ex": "She looked at herself in the mirror and smiled.",
+    "exzh": "她照了照镜子，笑了。"
+  },
+  {
+    "w": "mischief",
+    "ph": "ˈmɪstʃɪf",
+    "pos": "n.",
+    "zh": "恶作剧；调皮",
+    "ex": "The boys got into mischief while their parents were away.",
+    "exzh": "父母不在时，男孩们搞起了恶作剧。"
+  },
+  {
+    "w": "miserable",
+    "ph": "ˈmɪzrəbl",
+    "pos": "adj.",
+    "zh": "痛苦的；悲惨的",
+    "ex": "He felt miserable after failing the important test.",
+    "exzh": "大考失败后他感到很痛苦。"
+  },
+  {
+    "w": "misery",
+    "ph": "ˈmɪzəri",
+    "pos": "n.",
+    "zh": "痛苦；苦难",
+    "ex": "The war brought years of misery to the village.",
+    "exzh": "战争给这个村庄带来了多年的苦难。"
+  },
+  {
+    "w": "misfortune",
+    "ph": "ˌmɪsˈfɔːrtʃuːn",
+    "pos": "n.",
+    "zh": "不幸；灾祸",
+    "ex": "She never complained about the misfortunes of her life.",
+    "exzh": "她从没抱怨过生活中的不幸。"
+  },
+  {
+    "w": "mishap",
+    "ph": "ˈmɪshæp",
+    "pos": "n.",
+    "zh": "小事故；不幸",
+    "ex": "The trip was pleasant apart from a small mishap.",
+    "exzh": "除了一个小意外，这次旅行很愉快。"
+  },
+  {
+    "w": "mislead",
+    "ph": "ˌmɪsˈliːd",
+    "pos": "v.",
+    "zh": "误导；使误解",
+    "ex": "The advertisement may mislead buyers about the product's quality.",
+    "exzh": "这则广告可能误导买家对产品质量的认识。"
+  },
+  {
+    "w": "misplace",
+    "ph": "ˌmɪsˈpleɪs",
+    "pos": "v.",
+    "zh": "放错地方；错放",
+    "ex": "I often misplace my keys when I am in a hurry.",
+    "exzh": "我匆忙时经常把钥匙放错地方。"
+  },
+  {
+    "w": "miss",
+    "ph": "mɪs",
+    "pos": "v.",
+    "zh": "想念；错过",
+    "ex": "Hurry up or we will miss the last bus.",
+    "exzh": "快点，不然我们会错过末班车。"
+  },
+  {
+    "w": "missile",
+    "ph": "ˈmɪsl",
+    "pos": "n.",
+    "zh": "导弹；投掷物",
+    "ex": "The missile was fired from a ship at sea.",
+    "exzh": "这枚导弹是从海上的一艘军舰发射的。"
+  },
+  {
+    "w": "missing",
+    "ph": "ˈmɪsɪŋ",
+    "pos": "adj.",
+    "zh": "失踪的；缺少的",
+    "ex": "The police are still looking for the missing child.",
+    "exzh": "警方仍在寻找那个失踪的孩子。"
+  },
+  {
+    "w": "mission",
+    "ph": "ˈmɪʃn",
+    "pos": "n.",
+    "zh": "使命；任务；代表团",
+    "ex": "Their mission was to deliver food to the flooded area.",
+    "exzh": "他们的任务是把食物送到洪灾地区。"
+  },
+  {
+    "w": "mist",
+    "ph": "mɪst",
+    "pos": "n.",
+    "zh": "薄雾；雾气",
+    "ex": "Early mist covered the fields along the river.",
+    "exzh": "清晨的薄雾笼罩着河边的田野。"
+  },
+  {
+    "w": "mistake",
+    "ph": "mɪˈsteɪk",
+    "pos": "n.",
+    "zh": "错误；过失",
+    "ex": "I made a serious mistake in the final calculation.",
+    "exzh": "我在最后的计算中犯了一个严重的错误。"
+  },
+  {
+    "w": "mistaken",
+    "ph": "mɪˈsteɪkən",
+    "pos": "adj.",
+    "zh": "错误的；搞错的",
+    "ex": "You are mistaken if you think he will agree.",
+    "exzh": "如果你以为他会同意，那你就错了。"
+  },
+  {
+    "w": "mistrust",
+    "ph": "ˌmɪsˈtrʌst",
+    "pos": "v.",
+    "zh": "不信任；怀疑",
+    "ex": "The two sides still mistrust each other after the talks.",
+    "exzh": "会谈之后双方仍然互不信任。"
+  },
+  {
+    "w": "misty",
+    "ph": "ˈmɪsti",
+    "pos": "adj.",
+    "zh": "有雾的；模糊的",
+    "ex": "The valley was misty in the early morning.",
+    "exzh": "清晨山谷里雾气弥漫。"
+  },
+  {
+    "w": "misunderstand",
+    "ph": "ˌmɪsʌndərˈstænd",
+    "pos": "v.",
+    "zh": "误解；误会",
+    "ex": "Please do not misunderstand what I said yesterday.",
+    "exzh": "请不要误解我昨天说的话。"
+  },
+  {
+    "w": "misuse",
+    "ph": "ˌmɪsˈjuːz",
+    "pos": "v.",
+    "zh": "误用；滥用",
+    "ex": "Some officials misused their power to help relatives.",
+    "exzh": "一些官员滥用职权帮助亲属。"
+  },
+  {
+    "w": "mix",
+    "ph": "mɪks",
+    "pos": "v.",
+    "zh": "混合；交往",
+    "ex": "Mix the flour and sugar in a large bowl.",
+    "exzh": "把面粉和糖放在大碗里混合。"
+  },
+  {
+    "w": "moan",
+    "ph": "moʊn",
+    "pos": "v.",
+    "zh": "呻吟；抱怨",
+    "ex": "He moaned about the noise from the street all night.",
+    "exzh": "他整夜都在抱怨街上的噪音。"
+  },
+  {
+    "w": "mob",
+    "ph": "mɑːb",
+    "pos": "n.",
+    "zh": "暴民；人群",
+    "ex": "An angry mob gathered outside the town hall.",
+    "exzh": "一群愤怒的人聚集在市政厅外。"
+  },
+  {
+    "w": "mobile",
+    "ph": "ˈmoʊbl",
+    "pos": "adj.",
+    "zh": "可移动的；流动的",
+    "ex": "My mobile phone ran out of power during the trip.",
+    "exzh": "旅行途中我的手机没电了。"
+  },
+  {
+    "w": "mobilize",
+    "ph": "ˈmoʊbəlaɪz",
+    "pos": "v.",
+    "zh": "动员；调动",
+    "ex": "The city mobilized thousands of volunteers after the flood.",
+    "exzh": "洪水过后，这座城市动员了数千名志愿者。"
+  },
+  {
+    "w": "mock",
+    "ph": "mɑːk",
+    "pos": "v.",
+    "zh": "嘲笑；模仿",
+    "ex": "The other boys mocked him for his old shoes.",
+    "exzh": "其他男孩嘲笑他穿的旧鞋。"
+  },
+  {
+    "w": "mode",
+    "ph": "moʊd",
+    "pos": "n.",
+    "zh": "方式；模式",
+    "ex": "Walking is a healthy mode of travel for short trips.",
+    "exzh": "短途出行时，步行是一种健康的出行方式。"
+  },
+  {
+    "w": "model",
+    "ph": "ˈmɑːdl",
+    "pos": "n.",
+    "zh": "模型；模范",
+    "ex": "The architect showed us a model of the new library.",
+    "exzh": "建筑师给我们看了新图书馆的模型。"
+  },
+  {
+    "w": "moderate",
+    "ph": "ˈmɑːdərət",
+    "pos": "adj.",
+    "zh": "适度的；温和的",
+    "ex": "Doctors advise moderate exercise three times a week.",
+    "exzh": "医生建议每周适度锻炼三次。"
+  },
+  {
+    "w": "modest",
+    "ph": "ˈmɑːdɪst",
+    "pos": "adj.",
+    "zh": "谦虚的；适度的",
+    "ex": "Despite his success, he remains a modest and quiet man.",
+    "exzh": "尽管很成功，他仍是个谦虚安静的人。"
+  },
+  {
+    "w": "modesty",
+    "ph": "ˈmɑːdəsti",
+    "pos": "n.",
+    "zh": "谦虚；适度",
+    "ex": "Her modesty made her popular with colleagues.",
+    "exzh": "她的谦虚使她受到同事欢迎。"
+  },
+  {
+    "w": "modification",
+    "ph": "ˌmɑːdɪfɪˈkeɪʃn",
+    "pos": "n.",
+    "zh": "修改；改进",
+    "ex": "The design needs some modification before production.",
+    "exzh": "这个设计在生产前需要作些修改。"
+  },
+  {
+    "w": "moist",
+    "ph": "mɔɪst",
+    "pos": "adj.",
+    "zh": "潮湿的；湿润的",
+    "ex": "Keep the soil moist while the seeds are growing.",
+    "exzh": "种子生长期间要保持土壤湿润。"
+  },
+  {
+    "w": "moisture",
+    "ph": "ˈmɔɪstʃər",
+    "pos": "n.",
+    "zh": "水分；湿气",
+    "ex": "The plant gets most of its moisture from the air.",
+    "exzh": "这种植物的大部分水分来自空气。"
+  },
+  {
+    "w": "mold",
+    "ph": "moʊld",
+    "pos": "n.",
+    "zh": "模子；霉",
+    "ex": "The bread was covered with green mold after a week.",
+    "exzh": "一周后面包上长满了绿霉。"
+  },
+  {
+    "w": "molecule",
+    "ph": "ˈmɑːlɪkjuːl",
+    "pos": "n.",
+    "zh": "分子",
+    "ex": "A water molecule contains two hydrogen atoms.",
+    "exzh": "一个水分子含有两个氢原子。"
+  },
+  {
+    "w": "moment",
+    "ph": "ˈmoʊmənt",
+    "pos": "n.",
+    "zh": "时刻；片刻",
+    "ex": "For a moment nobody said a word in the room.",
+    "exzh": "屋子里有一会儿谁也没说话。"
+  },
+  {
+    "w": "momentum",
+    "ph": "moʊˈmentəm",
+    "pos": "n.",
+    "zh": "势头；动量",
+    "ex": "The campaign is gaining momentum across the country.",
+    "exzh": "这场运动正在全国积聚势头。"
+  },
+  {
+    "w": "monarch",
+    "ph": "ˈmɑːnərk",
+    "pos": "n.",
+    "zh": "君主；帝王",
+    "ex": "The monarch ruled the country for forty years.",
+    "exzh": "这位君主统治这个国家四十年。"
+  },
+  {
+    "w": "monetary",
+    "ph": "ˈmɑːnɪteri",
+    "pos": "adj.",
+    "zh": "货币的；金融的",
+    "ex": "The bank studies monetary policy for the government.",
+    "exzh": "该银行为政府研究货币政策。"
+  },
+  {
+    "w": "monk",
+    "ph": "mʌŋk",
+    "pos": "n.",
+    "zh": "僧侣；修士",
+    "ex": "The monk spent his days copying old books.",
+    "exzh": "这位修士整天抄写古书。"
+  },
+  {
+    "w": "monkey",
+    "ph": "ˈmʌŋki",
+    "pos": "n.",
+    "zh": "猴子",
+    "ex": "A monkey grabbed the visitor's hat and ran off.",
+    "exzh": "一只猴子抢走了游客的帽子跑掉了。"
+  },
+  {
+    "w": "monopoly",
+    "ph": "məˈnɑːpəli",
+    "pos": "n.",
+    "zh": "垄断；专营",
+    "ex": "The company had a monopoly on the local phone service.",
+    "exzh": "这家公司垄断了当地的电话业务。"
+  },
+  {
+    "w": "monotonous",
+    "ph": "məˈnɑːtənəs",
+    "pos": "adj.",
+    "zh": "单调的；无变化的",
+    "ex": "The work on the line is monotonous and tiring.",
+    "exzh": "流水线的工作单调又累人。"
+  },
+  {
+    "w": "monthly",
+    "ph": "ˈmʌnθli",
+    "pos": "adj.",
+    "zh": "每月的；每月一次的",
+    "ex": "He receives a monthly report from the sales team.",
+    "exzh": "他每月收到一份销售团队的报告。"
+  },
+  {
+    "w": "monument",
+    "ph": "ˈmɑːnjumənt",
+    "pos": "n.",
+    "zh": "纪念碑；古迹",
+    "ex": "The monument honors the soldiers who died in the war.",
+    "exzh": "这座纪念碑纪念在战争中牺牲的士兵。"
+  },
+  {
+    "w": "mood",
+    "ph": "muːd",
+    "pos": "n.",
+    "zh": "心情；情绪",
+    "ex": "His cheerful mood made everyone in the office relax.",
+    "exzh": "他愉快的心情让办公室里每个人都放松下来。"
+  },
+  {
+    "w": "moon",
+    "ph": "muːn",
+    "pos": "n.",
+    "zh": "月亮；卫星",
+    "ex": "The moon rose slowly above the dark hills.",
+    "exzh": "月亮慢慢升上黑暗的山头。"
+  },
+  {
+    "w": "moor",
+    "ph": "mʊr",
+    "pos": "v.",
+    "zh": "停泊；系泊",
+    "ex": "The boat was moored beside the old stone bridge.",
+    "exzh": "小船停泊在旧石桥旁。"
+  },
+  {
+    "w": "morale",
+    "ph": "məˈræl",
+    "pos": "n.",
+    "zh": "士气；斗志",
+    "ex": "The team's morale rose after the unexpected victory.",
+    "exzh": "意外获胜后，队伍士气高涨。"
+  },
+  {
+    "w": "moreover",
+    "ph": "mɔːrˈoʊvər",
+    "pos": "adv.",
+    "zh": "而且；此外",
+    "ex": "The flat is small; moreover, it is far from the station.",
+    "exzh": "这套公寓很小，而且离车站很远。"
+  },
+  {
+    "w": "mortal",
+    "ph": "ˈmɔːrtl",
+    "pos": "adj.",
+    "zh": "致命的；凡人的",
+    "ex": "The soldier received a mortal wound in the battle.",
+    "exzh": "那名士兵在战斗中受了致命伤。"
+  },
+  {
+    "w": "mortgage",
+    "ph": "ˈmɔːrɡɪdʒ",
+    "pos": "n.",
+    "zh": "抵押贷款；抵押",
+    "ex": "They took out a mortgage to buy the house.",
+    "exzh": "他们办了抵押贷款来买这套房子。"
+  },
+  {
+    "w": "motel",
+    "ph": "moʊˈtel",
+    "pos": "n.",
+    "zh": "汽车旅馆",
+    "ex": "We stayed at a motel beside the highway.",
+    "exzh": "我们住在高速公路旁的一家汽车旅馆。"
+  },
+  {
+    "w": "moth",
+    "ph": "mɔːθ",
+    "pos": "n.",
+    "zh": "蛾；飞蛾",
+    "ex": "A moth flew into the lamp and burned its wings.",
+    "exzh": "一只飞蛾扑进灯里，烧伤了翅膀。"
+  },
+  {
+    "w": "motivation",
+    "ph": "ˌmoʊtɪˈveɪʃn",
+    "pos": "n.",
+    "zh": "动机；积极性",
+    "ex": "Praise gives students the motivation to keep trying.",
+    "exzh": "表扬给了学生继续努力的动力。"
+  },
+  {
+    "w": "motive",
+    "ph": "ˈmoʊtɪv",
+    "pos": "n.",
+    "zh": "动机；目的",
+    "ex": "The police could not find a clear motive for the crime.",
+    "exzh": "警方找不到这起犯罪的明确动机。"
+  },
+  {
+    "w": "motor",
+    "ph": "ˈmoʊtər",
+    "pos": "n.",
+    "zh": "发动机；马达",
+    "ex": "The motor started with a loud noise and some smoke.",
+    "exzh": "发动机伴着一阵巨响和烟雾启动了。"
+  },
+  {
+    "w": "motorist",
+    "ph": "ˈmoʊtərɪst",
+    "pos": "n.",
+    "zh": "驾车者；开车的人",
+    "ex": "The motorist stopped to help the injured cyclist.",
+    "exzh": "那位驾车者停下来帮助受伤的骑车人。"
+  },
+  {
+    "w": "motorway",
+    "ph": "ˈmoʊtərweɪ",
+    "pos": "n.",
+    "zh": "高速公路",
+    "ex": "The motorway was closed because of the heavy snow.",
+    "exzh": "由于大雪，高速公路封闭了。"
+  },
+  {
+    "w": "motto",
+    "ph": "ˈmɑːtoʊ",
+    "pos": "n.",
+    "zh": "座右铭；格言",
+    "ex": "The old shop's motto was honesty first and quality always.",
+    "exzh": "那家老店的格言是诚信第一、质量至上。"
+  },
+  {
+    "w": "mound",
+    "ph": "maʊnd",
+    "pos": "n.",
+    "zh": "土堆；小丘",
+    "ex": "A small mound of earth marks the old grave.",
+    "exzh": "一小堆土标示着那座古墓。"
+  },
+  {
+    "w": "mourn",
+    "ph": "mɔːrn",
+    "pos": "v.",
+    "zh": "哀悼；悲叹",
+    "ex": "The whole country mourned the death of the old poet.",
+    "exzh": "全国都在哀悼那位老诗人的去世。"
+  },
+  {
+    "w": "mouse",
+    "ph": "maʊs",
+    "pos": "n.",
+    "zh": "老鼠；鼠标",
+    "ex": "A mouse ran across the kitchen floor and disappeared.",
+    "exzh": "一只老鼠跑过厨房地板，不见了。"
+  },
+  {
+    "w": "movie",
+    "ph": "ˈmuːvi",
+    "pos": "n.",
+    "zh": "电影",
+    "ex": "We watched a French movie with English subtitles.",
+    "exzh": "我们看了一部带英文字幕的法国电影。"
+  },
+  {
+    "w": "mow",
+    "ph": "moʊ",
+    "pos": "v.",
+    "zh": "割；修剪",
+    "ex": "He mows the lawn every Saturday morning in summer.",
+    "exzh": "夏天他每周六早上都修剪草坪。"
+  },
+  {
+    "w": "mud",
+    "ph": "mʌd",
+    "pos": "n.",
+    "zh": "泥；泥浆",
+    "ex": "The children came home with mud on their shoes.",
+    "exzh": "孩子们回家时鞋上都是泥。"
+  },
+  {
+    "w": "muddle",
+    "ph": "ˈmʌdl",
+    "pos": "v.",
+    "zh": "弄乱；混淆",
+    "ex": "He muddled the names of the two new students.",
+    "exzh": "他把两个新生的名字弄混了。"
+  },
+  {
+    "w": "muddy",
+    "ph": "ˈmʌdi",
+    "pos": "adj.",
+    "zh": "泥泞的；浑浊的",
+    "ex": "After the rain the road became muddy and slippery.",
+    "exzh": "雨后道路变得泥泞湿滑。"
+  },
+  {
+    "w": "muffle",
+    "ph": "ˈmʌfl",
+    "pos": "v.",
+    "zh": "使（声音）减弱；裹住",
+    "ex": "Thick curtains muffled the noise from the street.",
+    "exzh": "厚窗帘减弱了街上的噪音。"
+  },
+  {
+    "w": "mug",
+    "ph": "mʌɡ",
+    "pos": "n.",
+    "zh": "大杯；杯子",
+    "ex": "She poured hot coffee into a large mug.",
+    "exzh": "她把热咖啡倒进一个大杯子里。"
+  },
+  {
+    "w": "mule",
+    "ph": "mjuːl",
+    "pos": "n.",
+    "zh": "骡；倔强的人",
+    "ex": "The mule carried the bags up the steep path.",
+    "exzh": "骡子把行李驮上陡峭的小路。"
+  },
+  {
+    "w": "multiply",
+    "ph": "ˈmʌltɪplaɪ",
+    "pos": "v.",
+    "zh": "乘；增加；繁殖",
+    "ex": "Multiply the length by the width to get the area.",
+    "exzh": "用长乘以宽就得到面积。"
+  },
+  {
+    "w": "mumble",
+    "ph": "ˈmʌmbl",
+    "pos": "v.",
+    "zh": "含糊地说；咕哝",
+    "ex": "He mumbled an apology and hurried out of the room.",
+    "exzh": "他含糊地道了歉，匆匆走出房间。"
+  },
+  {
+    "w": "munch",
+    "ph": "mʌntʃ",
+    "pos": "v.",
+    "zh": "大声咀嚼",
+    "ex": "The boy munched an apple while watching television.",
+    "exzh": "男孩一边看电视一边嚼苹果。"
+  },
+  {
+    "w": "municipal",
+    "ph": "mjuːˈnɪsɪpl",
+    "pos": "adj.",
+    "zh": "市政的；地方政府的",
+    "ex": "The municipal government plans to rebuild the square.",
+    "exzh": "市政府计划重建这个广场。"
+  },
+  {
+    "w": "murder",
+    "ph": "ˈmɜːrdər",
+    "pos": "n.",
+    "zh": "谋杀；凶杀",
+    "ex": "The police arrested a man for the murder of his neighbor.",
+    "exzh": "警方逮捕了一名涉嫌谋杀邻居的男子。"
+  },
+  {
+    "w": "murmur",
+    "ph": "ˈmɜːrmər",
+    "pos": "v.",
+    "zh": "低语；咕哝",
+    "ex": "She murmured a few words and left the room.",
+    "exzh": "她低声说了几句话就离开了房间。"
+  },
+  {
+    "w": "muscle",
+    "ph": "ˈmʌsl",
+    "pos": "n.",
+    "zh": "肌肉；力量",
+    "ex": "Regular exercise helps build strong muscles and bones.",
+    "exzh": "经常锻炼有助于强健肌肉和骨骼。"
+  },
+  {
+    "w": "muscular",
+    "ph": "ˈmʌskjələr",
+    "pos": "adj.",
+    "zh": "肌肉的；强壮的",
+    "ex": "The swimmer has a muscular back and broad shoulders.",
+    "exzh": "那位游泳运动员背部肌肉发达，肩膀宽阔。"
+  },
+  {
+    "w": "museum",
+    "ph": "mjuˈziːəm",
+    "pos": "n.",
+    "zh": "博物馆",
+    "ex": "The museum opens at nine every morning except Monday.",
+    "exzh": "博物馆每天早上九点开门，周一除外。"
+  },
+  {
+    "w": "mushroom",
+    "ph": "ˈmʌʃrʊm",
+    "pos": "n.",
+    "zh": "蘑菇",
+    "ex": "We picked fresh mushrooms in the forest after the rain.",
+    "exzh": "雨后我们在森林里采到新鲜的蘑菇。"
+  },
+  {
+    "w": "music",
+    "ph": "ˈmjuːzɪk",
+    "pos": "n.",
+    "zh": "音乐；乐曲",
+    "ex": "Soft music was playing in the background all evening.",
+    "exzh": "整个晚上背景里都放着轻柔的音乐。"
+  },
+  {
+    "w": "musical",
+    "ph": "ˈmjuːzɪkl",
+    "pos": "adj.",
+    "zh": "音乐的；有音乐才能的",
+    "ex": "She comes from a family with great musical talent.",
+    "exzh": "她来自一个很有音乐天赋的家庭。"
+  },
+  {
+    "w": "musician",
+    "ph": "mjuˈzɪʃn",
+    "pos": "n.",
+    "zh": "音乐家；乐师",
+    "ex": "The young musician played the violin at the concert.",
+    "exzh": "那位年轻音乐家在音乐会上拉小提琴。"
+  },
+  {
+    "w": "mustache",
+    "ph": "ˈmʌstæʃ",
+    "pos": "n.",
+    "zh": "小胡子；髭",
+    "ex": "He grew a thick mustache during the winter holiday.",
+    "exzh": "那个寒假他留了浓密的小胡子。"
+  },
+  {
+    "w": "mustard",
+    "ph": "ˈmʌstərd",
+    "pos": "n.",
+    "zh": "芥末；芥菜",
+    "ex": "He added a little mustard to the sandwich.",
+    "exzh": "他在三明治里加了一点芥末。"
+  },
+  {
+    "w": "mute",
+    "ph": "mjuːt",
+    "pos": "adj.",
+    "zh": "沉默的；哑的",
+    "ex": "He stood mute while the others argued loudly.",
+    "exzh": "别人大声争吵时，他沉默不语。"
+  },
+  {
+    "w": "mutter",
+    "ph": "ˈmʌtər",
+    "pos": "v.",
+    "zh": "嘟囔；低声抱怨",
+    "ex": "She muttered something about the price and walked away.",
+    "exzh": "她嘟囔了几句关于价格的话就走开了。"
+  },
+  {
+    "w": "mutton",
+    "ph": "ˈmʌtn",
+    "pos": "n.",
+    "zh": "羊肉",
+    "ex": "The restaurant serves mutton with rice and vegetables.",
+    "exzh": "这家餐馆供应羊肉配米饭和蔬菜。"
+  },
+  {
+    "w": "mysterious",
+    "ph": "mɪˈstɪriəs",
+    "pos": "adj.",
+    "zh": "神秘的；难以理解的",
+    "ex": "A mysterious light appeared in the sky that night.",
+    "exzh": "那天夜里天空出现了一道神秘的光。"
+  },
+  {
+    "w": "mystery",
+    "ph": "ˈmɪstəri",
+    "pos": "n.",
+    "zh": "神秘；谜",
+    "ex": "The cause of the fire remains a mystery to everyone.",
+    "exzh": "火灾的原因对所有人来说仍是个谜。"
+  },
+  {
+    "w": "mystify",
+    "ph": "ˈmɪstɪfaɪ",
+    "pos": "v.",
+    "zh": "使困惑；使迷惑",
+    "ex": "The sudden change in his behavior mystified his friends.",
+    "exzh": "他行为的突然变化让朋友们很困惑。"
+  },
+  {
+    "w": "myth",
+    "ph": "mɪθ",
+    "pos": "n.",
+    "zh": "神话；虚构的事",
+    "ex": "It is a myth that goldfish have a three-second memory.",
+    "exzh": "金鱼记忆只有三秒是虚构的说法。"
+  }
+]

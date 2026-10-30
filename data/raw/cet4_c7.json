@@ -1,0 +1,2426 @@
+[
+  {
+    "w": "gadget",
+    "ph": "ˈɡædʒɪt",
+    "pos": "n.",
+    "zh": "小装置；小玩意儿",
+    "ex": "This little gadget opens tight jars without much effort.",
+    "exzh": "这个小装置不用费多大力气就能打开拧紧的罐子。"
+  },
+  {
+    "w": "gallery",
+    "ph": "ˈɡæləri",
+    "pos": "n.",
+    "zh": "画廊；美术馆",
+    "ex": "The art gallery shows works by several local painters.",
+    "exzh": "这家美术馆展出几位本地画家的作品。"
+  },
+  {
+    "w": "gallon",
+    "ph": "ˈɡælən",
+    "pos": "n.",
+    "zh": "加仑",
+    "ex": "The old car used only one gallon of fuel.",
+    "exzh": "那辆旧车只消耗了一加仑燃料。"
+  },
+  {
+    "w": "gamble",
+    "ph": "ˈɡæmbəl",
+    "pos": "v.",
+    "zh": "赌博；冒险",
+    "ex": "He gambled all his savings on a risky business.",
+    "exzh": "他把所有积蓄都押在了一桩有风险的生意上。"
+  },
+  {
+    "w": "gang",
+    "ph": "ɡæŋ",
+    "pos": "n.",
+    "zh": "一帮；团伙",
+    "ex": "A gang of thieves broke into the shop last night.",
+    "exzh": "一伙窃贼昨晚闯入了这家商店。"
+  },
+  {
+    "w": "gap",
+    "ph": "ɡæp",
+    "pos": "n.",
+    "zh": "差距；缺口；间隔",
+    "ex": "There is a large gap between the two reports.",
+    "exzh": "这两份报告之间存在很大的差距。"
+  },
+  {
+    "w": "garage",
+    "ph": "ɡəˈrɑːʒ",
+    "pos": "n.",
+    "zh": "车库；修车厂",
+    "ex": "He parked the car in the garage behind the house.",
+    "exzh": "他把车停在房子后面的车库里。"
+  },
+  {
+    "w": "garbage",
+    "ph": "ˈɡɑːrbɪdʒ",
+    "pos": "n.",
+    "zh": "垃圾；废物",
+    "ex": "Please take the garbage out before the truck arrives.",
+    "exzh": "请在垃圾车来之前把垃圾拿出去。"
+  },
+  {
+    "w": "garden",
+    "ph": "ˈɡɑːrdən",
+    "pos": "n.",
+    "zh": "花园；菜园",
+    "ex": "They grow tomatoes and beans in the small garden.",
+    "exzh": "他们在小菜园里种西红柿和豆子。"
+  },
+  {
+    "w": "gardener",
+    "ph": "ˈɡɑːrdənər",
+    "pos": "n.",
+    "zh": "园丁；花匠",
+    "ex": "The gardener waters the flowers early every summer morning.",
+    "exzh": "园丁每年夏天清晨都给花浇水。"
+  },
+  {
+    "w": "gardening",
+    "ph": "ˈɡɑːrdənɪŋ",
+    "pos": "n.",
+    "zh": "园艺；园林工作",
+    "ex": "Gardening is a relaxing hobby for many older people.",
+    "exzh": "园艺是许多老年人放松的爱好。"
+  },
+  {
+    "w": "garlic",
+    "ph": "ˈɡɑːrlɪk",
+    "pos": "n.",
+    "zh": "大蒜",
+    "ex": "She added fresh garlic and onion to the hot soup.",
+    "exzh": "她在热汤里加了新鲜大蒜和洋葱。"
+  },
+  {
+    "w": "garment",
+    "ph": "ˈɡɑːrmənt",
+    "pos": "n.",
+    "zh": "衣服；服装",
+    "ex": "This garment must be washed in cold water only.",
+    "exzh": "这件衣服只能用冷水洗。"
+  },
+  {
+    "w": "gas",
+    "ph": "ɡæs",
+    "pos": "n.",
+    "zh": "气体；煤气；汽油",
+    "ex": "The gas from the factory polluted the whole valley.",
+    "exzh": "工厂排出的气体污染了整个山谷。"
+  },
+  {
+    "w": "gasoline",
+    "ph": "ˈɡæsəliːn",
+    "pos": "n.",
+    "zh": "汽油",
+    "ex": "The price of gasoline has risen sharply this year.",
+    "exzh": "今年汽油价格大幅上涨。"
+  },
+  {
+    "w": "gasp",
+    "ph": "ɡæsp",
+    "pos": "v.",
+    "zh": "喘气；倒吸气",
+    "ex": "She gasped when she saw the size of the bill.",
+    "exzh": "看到账单上的数字，她倒吸了一口气。"
+  },
+  {
+    "w": "gate",
+    "ph": "ɡeɪt",
+    "pos": "n.",
+    "zh": "大门；入口",
+    "ex": "The main gate closes at ten every evening.",
+    "exzh": "正门每天晚上十点关闭。"
+  },
+  {
+    "w": "gauge",
+    "ph": "ɡeɪdʒ",
+    "pos": "v.",
+    "zh": "估计；测量",
+    "ex": "It is hard to gauge how much progress we made.",
+    "exzh": "很难估量我们取得了多少进展。"
+  },
+  {
+    "w": "gaze",
+    "ph": "ɡeɪz",
+    "pos": "v.",
+    "zh": "凝视；注视",
+    "ex": "He gazed at the stars for almost an hour.",
+    "exzh": "他凝视着星星将近一个小时。"
+  },
+  {
+    "w": "gear",
+    "ph": "ɡɪr",
+    "pos": "n.",
+    "zh": "装备；齿轮",
+    "ex": "Remember to bring your camping gear for the trip.",
+    "exzh": "记得带上这次旅行所需的露营装备。"
+  },
+  {
+    "w": "gender",
+    "ph": "ˈdʒendər",
+    "pos": "n.",
+    "zh": "性别",
+    "ex": "The company treats all employees equally regardless of gender.",
+    "exzh": "公司不论性别平等对待所有员工。"
+  },
+  {
+    "w": "gene",
+    "ph": "dʒiːn",
+    "pos": "n.",
+    "zh": "基因",
+    "ex": "Scientists have found a gene linked to this disease.",
+    "exzh": "科学家发现了一个与这种疾病相关的基因。"
+  },
+  {
+    "w": "general",
+    "ph": "ˈdʒenərəl",
+    "pos": "adj.",
+    "zh": "一般的；总的",
+    "ex": "In general, the students did well on the test.",
+    "exzh": "总的来说，学生们这次考试考得不错。"
+  },
+  {
+    "w": "generally",
+    "ph": "ˈdʒenərəli",
+    "pos": "adv.",
+    "zh": "通常；一般地",
+    "ex": "The weather here is generally mild in early spring.",
+    "exzh": "这里早春的天气通常比较温和。"
+  },
+  {
+    "w": "generation",
+    "ph": "ˌdʒenəˈreɪʃən",
+    "pos": "n.",
+    "zh": "一代人；产生",
+    "ex": "The older generation often disagrees with young people today.",
+    "exzh": "年长一代常常与今天的年轻人意见不合。"
+  },
+  {
+    "w": "generator",
+    "ph": "ˈdʒenəreɪtər",
+    "pos": "n.",
+    "zh": "发电机",
+    "ex": "A small generator kept the lights on during the storm.",
+    "exzh": "暴风雨期间一台小发电机让灯一直亮着。"
+  },
+  {
+    "w": "generosity",
+    "ph": "ˌdʒenəˈrɑːsəti",
+    "pos": "n.",
+    "zh": "慷慨；大方",
+    "ex": "Her generosity helped many students finish their studies.",
+    "exzh": "她的慷慨帮助许多学生完成了学业。"
+  },
+  {
+    "w": "generous",
+    "ph": "ˈdʒenərəs",
+    "pos": "adj.",
+    "zh": "慷慨的；大方的",
+    "ex": "He is generous with both his time and money.",
+    "exzh": "他在时间和金钱上都很慷慨。"
+  },
+  {
+    "w": "generously",
+    "ph": "ˈdʒenərəsli",
+    "pos": "adv.",
+    "zh": "慷慨地；大方地",
+    "ex": "The teacher generously gave her time to help students.",
+    "exzh": "老师慷慨地花时间帮助学生。"
+  },
+  {
+    "w": "genetic",
+    "ph": "dʒəˈnetɪk",
+    "pos": "adj.",
+    "zh": "遗传的；基因的",
+    "ex": "Doctors are studying the genetic causes of the illness.",
+    "exzh": "医生正在研究这种疾病的遗传原因。"
+  },
+  {
+    "w": "genetics",
+    "ph": "dʒəˈnetɪks",
+    "pos": "n.",
+    "zh": "遗传学",
+    "ex": "Genetics explains why some families share similar features.",
+    "exzh": "遗传学解释了为什么有些家庭成员相貌相似。"
+  },
+  {
+    "w": "genius",
+    "ph": "ˈdʒiːniəs",
+    "pos": "n.",
+    "zh": "天才；天赋",
+    "ex": "Her brother is a genius at solving math problems.",
+    "exzh": "她弟弟是解数学题的天才。"
+  },
+  {
+    "w": "gentle",
+    "ph": "ˈdʒentəl",
+    "pos": "adj.",
+    "zh": "温柔的；轻柔的",
+    "ex": "A gentle breeze moved the curtains by the window.",
+    "exzh": "一阵微风拂动了窗边的窗帘。"
+  },
+  {
+    "w": "gentleman",
+    "ph": "ˈdʒentəlmən",
+    "pos": "n.",
+    "zh": "绅士；先生",
+    "ex": "The old gentleman offered his seat to the passenger.",
+    "exzh": "那位老先生把座位让给了那位乘客。"
+  },
+  {
+    "w": "gently",
+    "ph": "ˈdʒentli",
+    "pos": "adv.",
+    "zh": "轻轻地；温柔地",
+    "ex": "She gently closed the door so as not to wake anyone.",
+    "exzh": "她轻轻地关上门，以免吵醒任何人。"
+  },
+  {
+    "w": "geographical",
+    "ph": "ˌdʒiːəˈɡræfɪkəl",
+    "pos": "adj.",
+    "zh": "地理的；地理学的",
+    "ex": "The report describes the geographical features of the region.",
+    "exzh": "这份报告描述了该地区的地理特征。"
+  },
+  {
+    "w": "geography",
+    "ph": "dʒiˈɑːɡrəfi",
+    "pos": "n.",
+    "zh": "地理；地理学",
+    "ex": "We studied the geography of South America this term.",
+    "exzh": "这学期我们学习了南美洲的地理。"
+  },
+  {
+    "w": "geology",
+    "ph": "dʒiˈɑːlədʒi",
+    "pos": "n.",
+    "zh": "地质学",
+    "ex": "He majored in geology and often works outdoors.",
+    "exzh": "他主修地质学，经常在户外工作。"
+  },
+  {
+    "w": "geometric",
+    "ph": "ˌdʒiːəˈmetrɪk",
+    "pos": "adj.",
+    "zh": "几何的；几何图形的",
+    "ex": "The wall was decorated with simple geometric patterns.",
+    "exzh": "墙上装饰着简单的几何图案。"
+  },
+  {
+    "w": "geometry",
+    "ph": "dʒiˈɑːmətri",
+    "pos": "n.",
+    "zh": "几何学",
+    "ex": "Students learn basic geometry in the eighth grade.",
+    "exzh": "学生们在八年级学习基础几何。"
+  },
+  {
+    "w": "germ",
+    "ph": "dʒɜːrm",
+    "pos": "n.",
+    "zh": "细菌；病菌",
+    "ex": "Washing hands helps stop the spread of germs.",
+    "exzh": "洗手有助于阻止细菌传播。"
+  },
+  {
+    "w": "gesture",
+    "ph": "ˈdʒestʃər",
+    "pos": "n.",
+    "zh": "手势；姿态",
+    "ex": "He made a small gesture to show he agreed.",
+    "exzh": "他做了个小手势表示他同意。"
+  },
+  {
+    "w": "ghost",
+    "ph": "ɡoʊst",
+    "pos": "n.",
+    "zh": "鬼；幽灵",
+    "ex": "The children believed a ghost lived in the old house.",
+    "exzh": "孩子们相信那座老房子里住着一个鬼。"
+  },
+  {
+    "w": "giant",
+    "ph": "ˈdʒaɪənt",
+    "pos": "adj.",
+    "zh": "巨大的；巨人",
+    "ex": "A giant statue stands at the entrance to the city.",
+    "exzh": "一座巨大的雕像矗立在城市入口处。"
+  },
+  {
+    "w": "gift",
+    "ph": "ɡɪft",
+    "pos": "n.",
+    "zh": "礼物；天赋",
+    "ex": "She gave him a small gift for his birthday.",
+    "exzh": "她送了他一件小礼物作为生日礼物。"
+  },
+  {
+    "w": "gifted",
+    "ph": "ˈɡɪftɪd",
+    "pos": "adj.",
+    "zh": "有天赋的；有才华的",
+    "ex": "She is a gifted singer with a powerful voice.",
+    "exzh": "她是一位嗓音有力的有天赋的歌手。"
+  },
+  {
+    "w": "gigantic",
+    "ph": "dʒaɪˈɡæntɪk",
+    "pos": "adj.",
+    "zh": "巨大的；庞大的",
+    "ex": "The new stadium looks gigantic from the outside.",
+    "exzh": "新体育场从外面看非常庞大。"
+  },
+  {
+    "w": "giggle",
+    "ph": "ˈɡɪɡəl",
+    "pos": "v.",
+    "zh": "咯咯地笑",
+    "ex": "The girls giggled quietly at the back of the room.",
+    "exzh": "女孩们在房间后面轻声咯咯地笑。"
+  },
+  {
+    "w": "glacier",
+    "ph": "ˈɡleɪʃər",
+    "pos": "n.",
+    "zh": "冰川",
+    "ex": "The glacier has shrunk greatly over the past century.",
+    "exzh": "过去一个世纪里，这条冰川大幅缩小了。"
+  },
+  {
+    "w": "glamour",
+    "ph": "ˈɡlæmər",
+    "pos": "n.",
+    "zh": "魅力；诱惑力",
+    "ex": "The magazine shows the glamour of life in big cities.",
+    "exzh": "这本杂志展示了大城市生活的魅力。"
+  },
+  {
+    "w": "glare",
+    "ph": "ɡler",
+    "pos": "n.",
+    "zh": "眩光；怒视",
+    "ex": "The sun's glare made it hard to see the road.",
+    "exzh": "阳光的眩光使人很难看清道路。"
+  },
+  {
+    "w": "glide",
+    "ph": "ɡlaɪd",
+    "pos": "v.",
+    "zh": "滑行；滑翔",
+    "ex": "The boat glided quietly across the calm lake.",
+    "exzh": "小船静静地滑过平静的湖面。"
+  },
+  {
+    "w": "glimpse",
+    "ph": "ɡlɪmps",
+    "pos": "n.",
+    "zh": "一瞥；瞥见",
+    "ex": "I caught a glimpse of her through the crowd.",
+    "exzh": "我从人群中瞥见了她一眼。"
+  },
+  {
+    "w": "glitter",
+    "ph": "ˈɡlɪtər",
+    "pos": "v.",
+    "zh": "闪耀；闪光",
+    "ex": "The lights glitter across the water at night.",
+    "exzh": "夜晚灯光在水面上闪闪发亮。"
+  },
+  {
+    "w": "globalization",
+    "ph": "ˌɡloʊbələˈzeɪʃən",
+    "pos": "n.",
+    "zh": "全球化",
+    "ex": "Globalization has changed trade patterns in many developing countries.",
+    "exzh": "全球化改变了许多发展中国家的贸易格局。"
+  },
+  {
+    "w": "globe",
+    "ph": "ɡloʊb",
+    "pos": "n.",
+    "zh": "地球；地球仪",
+    "ex": "People from every part of the globe attended the meeting.",
+    "exzh": "来自全球各地的人参加了这次会议。"
+  },
+  {
+    "w": "gloom",
+    "ph": "ɡluːm",
+    "pos": "n.",
+    "zh": "忧郁；昏暗",
+    "ex": "A deep gloom settled over the town after the news.",
+    "exzh": "消息传来后，一种深沉的忧郁笼罩了这个小镇。"
+  },
+  {
+    "w": "gloomy",
+    "ph": "ˈɡluːmi",
+    "pos": "adj.",
+    "zh": "阴暗的；忧郁的",
+    "ex": "The gloomy weather made everyone feel a little sad.",
+    "exzh": "阴沉的天气让每个人都有些伤感。"
+  },
+  {
+    "w": "glorious",
+    "ph": "ˈɡlɔːriəs",
+    "pos": "adj.",
+    "zh": "光荣的；壮丽的",
+    "ex": "We enjoyed a glorious sunset over the mountains.",
+    "exzh": "我们欣赏了群山之上壮丽的日落。"
+  },
+  {
+    "w": "glory",
+    "ph": "ˈɡlɔːri",
+    "pos": "n.",
+    "zh": "荣誉；光荣",
+    "ex": "The team brought great glory to their small town.",
+    "exzh": "这支队伍为他们的小镇带来了巨大荣誉。"
+  },
+  {
+    "w": "glove",
+    "ph": "ɡlʌv",
+    "pos": "n.",
+    "zh": "手套",
+    "ex": "He put on his gloves before going outside.",
+    "exzh": "他出门前戴上了手套。"
+  },
+  {
+    "w": "glow",
+    "ph": "ɡloʊ",
+    "pos": "v.",
+    "zh": "发光；发热",
+    "ex": "The lamps glowed softly in the quiet street.",
+    "exzh": "路灯在安静的街道上柔和地发光。"
+  },
+  {
+    "w": "glue",
+    "ph": "ɡluː",
+    "pos": "n.",
+    "zh": "胶水；胶",
+    "ex": "She used glue to fix the broken cup.",
+    "exzh": "她用胶水粘好了破碎的杯子。"
+  },
+  {
+    "w": "goal",
+    "ph": "ɡoʊl",
+    "pos": "n.",
+    "zh": "目标；球门",
+    "ex": "His main goal is to study abroad next year.",
+    "exzh": "他的主要目标是明年出国留学。"
+  },
+  {
+    "w": "goat",
+    "ph": "ɡoʊt",
+    "pos": "n.",
+    "zh": "山羊",
+    "ex": "A few goats were grazing on the steep hill.",
+    "exzh": "几只山羊在陡峭的山坡上吃草。"
+  },
+  {
+    "w": "gold",
+    "ph": "ɡoʊld",
+    "pos": "n.",
+    "zh": "黄金；金色",
+    "ex": "The ring is made of pure gold and silver.",
+    "exzh": "这枚戒指由纯金和白银制成。"
+  },
+  {
+    "w": "golden",
+    "ph": "ˈɡoʊldən",
+    "pos": "adj.",
+    "zh": "金色的；黄金的",
+    "ex": "The fields turned golden as autumn arrived.",
+    "exzh": "秋天到来时，田野变成了金黄色。"
+  },
+  {
+    "w": "golf",
+    "ph": "ɡɑːlf",
+    "pos": "n.",
+    "zh": "高尔夫球",
+    "ex": "My uncle plays golf every weekend with his friends.",
+    "exzh": "我叔叔每周末都和朋友打高尔夫球。"
+  },
+  {
+    "w": "goodness",
+    "ph": "ˈɡʊdnəs",
+    "pos": "n.",
+    "zh": "善良；美德",
+    "ex": "She praised the goodness of the people who helped.",
+    "exzh": "她赞扬了那些帮助她的人的善良。"
+  },
+  {
+    "w": "goods",
+    "ph": "ɡʊdz",
+    "pos": "n.",
+    "zh": "商品；货物",
+    "ex": "The shop sells goods at very low prices.",
+    "exzh": "这家商店以很低的价格出售商品。"
+  },
+  {
+    "w": "goose",
+    "ph": "ɡuːs",
+    "pos": "n.",
+    "zh": "鹅",
+    "ex": "A white goose swam slowly across the pond.",
+    "exzh": "一只白鹅慢慢地游过池塘。"
+  },
+  {
+    "w": "gorgeous",
+    "ph": "ˈɡɔːrdʒəs",
+    "pos": "adj.",
+    "zh": "华丽的；极美的",
+    "ex": "She wore a gorgeous dress to the wedding.",
+    "exzh": "她穿了一条华丽的裙子去参加婚礼。"
+  },
+  {
+    "w": "gossip",
+    "ph": "ˈɡɑːsɪp",
+    "pos": "n.",
+    "zh": "闲话；流言",
+    "ex": "She hates gossip and never talks about other people.",
+    "exzh": "她讨厌闲话，从不议论别人。"
+  },
+  {
+    "w": "government",
+    "ph": "ˈɡʌvərnmənt",
+    "pos": "n.",
+    "zh": "政府；政体",
+    "ex": "The local government promised to repair the roads.",
+    "exzh": "当地政府承诺修好这些道路。"
+  },
+  {
+    "w": "governor",
+    "ph": "ˈɡʌvərnər",
+    "pos": "n.",
+    "zh": "州长；总督",
+    "ex": "The governor visited the flooded villages last week.",
+    "exzh": "州长上周视察了被洪水淹没的村庄。"
+  },
+  {
+    "w": "gown",
+    "ph": "ɡaʊn",
+    "pos": "n.",
+    "zh": "长袍；礼服",
+    "ex": "Graduates wore black gowns during the ceremony.",
+    "exzh": "毕业典礼上毕业生们穿着黑色长袍。"
+  },
+  {
+    "w": "grab",
+    "ph": "ɡræb",
+    "pos": "v.",
+    "zh": "抓住；抢夺",
+    "ex": "He grabbed his coat and ran for the bus.",
+    "exzh": "他抓起外套就跑去赶公交车。"
+  },
+  {
+    "w": "grace",
+    "ph": "ɡreɪs",
+    "pos": "n.",
+    "zh": "优雅；恩惠",
+    "ex": "She moved across the stage with surprising grace.",
+    "exzh": "她以令人惊讶的优雅走过舞台。"
+  },
+  {
+    "w": "graceful",
+    "ph": "ˈɡreɪsfəl",
+    "pos": "adj.",
+    "zh": "优雅的；优美的",
+    "ex": "The dancers made graceful movements across the floor.",
+    "exzh": "舞者们在舞池中做出优美的动作。"
+  },
+  {
+    "w": "gracious",
+    "ph": "ˈɡreɪʃəs",
+    "pos": "adj.",
+    "zh": "亲切的；有礼貌的",
+    "ex": "Our host was gracious and made everyone feel welcome.",
+    "exzh": "我们的主人很亲切，让每个人都感到受欢迎。"
+  },
+  {
+    "w": "grade",
+    "ph": "ɡreɪd",
+    "pos": "n.",
+    "zh": "年级；分数；等级",
+    "ex": "She got the highest grade in the whole class.",
+    "exzh": "她在全班取得了最高的分数。"
+  },
+  {
+    "w": "gradual",
+    "ph": "ˈɡrædʒuəl",
+    "pos": "adj.",
+    "zh": "逐渐的；渐进的",
+    "ex": "There has been a gradual rise in temperature.",
+    "exzh": "气温一直在逐渐上升。"
+  },
+  {
+    "w": "gradually",
+    "ph": "ˈɡrædʒuəli",
+    "pos": "adv.",
+    "zh": "逐渐地；逐步地",
+    "ex": "The pain gradually disappeared after a few days.",
+    "exzh": "几天后疼痛逐渐消失了。"
+  },
+  {
+    "w": "graduate",
+    "ph": "ˈɡrædʒueɪt",
+    "pos": "v.",
+    "zh": "毕业；授予学位",
+    "ex": "She will graduate from university next June.",
+    "exzh": "她将于明年六月大学毕业。"
+  },
+  {
+    "w": "graduation",
+    "ph": "ˌɡrædʒuˈeɪʃən",
+    "pos": "n.",
+    "zh": "毕业；毕业典礼",
+    "ex": "His family came to the graduation ceremony last spring.",
+    "exzh": "去年春天他的家人来参加了毕业典礼。"
+  },
+  {
+    "w": "grain",
+    "ph": "ɡreɪn",
+    "pos": "n.",
+    "zh": "谷物；颗粒",
+    "ex": "Farmers store grain in large dry rooms.",
+    "exzh": "农民把谷物储存在干燥的大房间里。"
+  },
+  {
+    "w": "gram",
+    "ph": "ɡræm",
+    "pos": "n.",
+    "zh": "克",
+    "ex": "The recipe asks for fifty grams of butter.",
+    "exzh": "这个食谱需要五十克黄油。"
+  },
+  {
+    "w": "grammar",
+    "ph": "ˈɡræmər",
+    "pos": "n.",
+    "zh": "语法",
+    "ex": "His grammar improved after months of careful practice.",
+    "exzh": "经过几个月的认真练习，他的语法提高了。"
+  },
+  {
+    "w": "grand",
+    "ph": "ɡrænd",
+    "pos": "adj.",
+    "zh": "宏伟的；盛大的",
+    "ex": "They held a grand party in the hotel hall.",
+    "exzh": "他们在酒店大厅举办了一场盛大的聚会。"
+  },
+  {
+    "w": "grandchild",
+    "ph": "ˈɡræntʃaɪld",
+    "pos": "n.",
+    "zh": "孙子；孙女；外孙",
+    "ex": "Their youngest grandchild starts school next September.",
+    "exzh": "他们最小的孙辈明年九月开始上学。"
+  },
+  {
+    "w": "granddaughter",
+    "ph": "ˈɡrændɔːtər",
+    "pos": "n.",
+    "zh": "孙女；外孙女",
+    "ex": "His granddaughter visits him every Sunday afternoon.",
+    "exzh": "他的孙女每周日下午都来看他。"
+  },
+  {
+    "w": "grandparent",
+    "ph": "ˈɡrænperənt",
+    "pos": "n.",
+    "zh": "祖父；祖母；外祖父母",
+    "ex": "My grandparents live in a village near the river.",
+    "exzh": "我的祖父母住在河边的一个村庄里。"
+  },
+  {
+    "w": "grandson",
+    "ph": "ˈɡrænsʌn",
+    "pos": "n.",
+    "zh": "孙子；外孙",
+    "ex": "Her grandson plays football for the school team.",
+    "exzh": "她的孙子在学校队踢足球。"
+  },
+  {
+    "w": "grape",
+    "ph": "ɡreɪp",
+    "pos": "n.",
+    "zh": "葡萄",
+    "ex": "These grapes are sweet and ready to eat now.",
+    "exzh": "这些葡萄很甜，现在就可以吃了。"
+  },
+  {
+    "w": "graph",
+    "ph": "ɡræf",
+    "pos": "n.",
+    "zh": "图表；曲线图",
+    "ex": "The graph shows sales rising over the last year.",
+    "exzh": "这张图表显示去年销售额在上升。"
+  },
+  {
+    "w": "graphic",
+    "ph": "ˈɡræfɪk",
+    "pos": "adj.",
+    "zh": "图解的；生动的",
+    "ex": "The graphic design on the poster looks modern.",
+    "exzh": "海报上的平面设计看起来很现代。"
+  },
+  {
+    "w": "graphics",
+    "ph": "ˈɡræfɪks",
+    "pos": "n.",
+    "zh": "图形；图像",
+    "ex": "The new computer handles graphics and video very well.",
+    "exzh": "这台新电脑处理图形和视频非常好。"
+  },
+  {
+    "w": "grasp",
+    "ph": "ɡræsp",
+    "pos": "v.",
+    "zh": "抓住；领会",
+    "ex": "He quickly grasped the main idea of the article.",
+    "exzh": "他很快领会了这篇文章的主要意思。"
+  },
+  {
+    "w": "grass",
+    "ph": "ɡræs",
+    "pos": "n.",
+    "zh": "草；草地",
+    "ex": "The children played on the soft green grass.",
+    "exzh": "孩子们在柔软的绿草地上玩耍。"
+  },
+  {
+    "w": "grateful",
+    "ph": "ˈɡreɪtfəl",
+    "pos": "adj.",
+    "zh": "感激的；感谢的",
+    "ex": "I am grateful for all the help you gave me.",
+    "exzh": "我很感激你给予我的所有帮助。"
+  },
+  {
+    "w": "gratitude",
+    "ph": "ˈɡrætɪtuːd",
+    "pos": "n.",
+    "zh": "感激；感谢",
+    "ex": "She expressed her gratitude with a handwritten thank-you note.",
+    "exzh": "她用手写的感谢信表达了自己的感激之情。"
+  },
+  {
+    "w": "grave",
+    "ph": "ɡreɪv",
+    "pos": "n.",
+    "zh": "坟墓；墓穴",
+    "ex": "Flowers were placed on the grave every spring.",
+    "exzh": "每年春天都有人在墓前献花。"
+  },
+  {
+    "w": "gravel",
+    "ph": "ˈɡrævəl",
+    "pos": "n.",
+    "zh": "碎石；砾石",
+    "ex": "They walked along a path covered with small gravel.",
+    "exzh": "他们沿着一条铺满小碎石的小路走着。"
+  },
+  {
+    "w": "gravity",
+    "ph": "ˈɡrævəti",
+    "pos": "n.",
+    "zh": "重力；严重性",
+    "ex": "Gravity makes objects fall toward the ground.",
+    "exzh": "重力使物体向地面落下。"
+  },
+  {
+    "w": "graze",
+    "ph": "ɡreɪz",
+    "pos": "v.",
+    "zh": "放牧；吃草",
+    "ex": "Cattle graze in these fields during the summer months.",
+    "exzh": "夏季几个月里牛群在这些田里吃草。"
+  },
+  {
+    "w": "grease",
+    "ph": "ɡriːs",
+    "pos": "n.",
+    "zh": "油脂；润滑油",
+    "ex": "He cleaned the thick grease from the kitchen stove.",
+    "exzh": "他清除了厨房炉灶上厚厚的油污。"
+  },
+  {
+    "w": "greatly",
+    "ph": "ˈɡreɪtli",
+    "pos": "adv.",
+    "zh": "极大地；非常",
+    "ex": "The situation has greatly improved since last month.",
+    "exzh": "自上个月以来情况已大大改善。"
+  },
+  {
+    "w": "greed",
+    "ph": "ɡriːd",
+    "pos": "n.",
+    "zh": "贪婪；贪心",
+    "ex": "His greed for money ruined a good friendship.",
+    "exzh": "他对金钱的贪婪毁掉了一段美好的友谊。"
+  },
+  {
+    "w": "greedy",
+    "ph": "ˈɡriːdi",
+    "pos": "adj.",
+    "zh": "贪婪的；贪心的",
+    "ex": "He was too greedy and lost everything in the end.",
+    "exzh": "他太贪婪，最终失去了一切。"
+  },
+  {
+    "w": "greenhouse",
+    "ph": "ˈɡriːnhaʊs",
+    "pos": "n.",
+    "zh": "温室；暖房",
+    "ex": "Tomatoes grow well in the warm greenhouse all winter.",
+    "exzh": "整个冬天西红柿在温暖的温室里长得很好。"
+  },
+  {
+    "w": "greet",
+    "ph": "ɡriːt",
+    "pos": "v.",
+    "zh": "问候；迎接",
+    "ex": "She greeted every guest at the front door.",
+    "exzh": "她在大门口迎接每一位客人。"
+  },
+  {
+    "w": "greeting",
+    "ph": "ˈɡriːtɪŋ",
+    "pos": "n.",
+    "zh": "问候；招呼",
+    "ex": "He sent me a warm greeting on my birthday.",
+    "exzh": "他在我生日时送来了温暖的问候。"
+  },
+  {
+    "w": "grief",
+    "ph": "ɡriːf",
+    "pos": "n.",
+    "zh": "悲伤；悲痛",
+    "ex": "Her grief was deep after her father passed away.",
+    "exzh": "父亲去世后她非常悲痛。"
+  },
+  {
+    "w": "grieve",
+    "ph": "ɡriːv",
+    "pos": "v.",
+    "zh": "悲伤；哀悼",
+    "ex": "The whole village grieved for the lost fisherman.",
+    "exzh": "全村人都为失踪的渔民感到悲伤。"
+  },
+  {
+    "w": "grill",
+    "ph": "ɡrɪl",
+    "pos": "v.",
+    "zh": "烧烤；烤制",
+    "ex": "We grilled fish and vegetables in the garden.",
+    "exzh": "我们在花园里烤了鱼和蔬菜。"
+  },
+  {
+    "w": "grim",
+    "ph": "ɡrɪm",
+    "pos": "adj.",
+    "zh": "严峻的；冷酷的",
+    "ex": "The doctor's face looked grim as she entered.",
+    "exzh": "医生进来时脸色显得很严峻。"
+  },
+  {
+    "w": "grin",
+    "ph": "ɡrɪn",
+    "pos": "v.",
+    "zh": "咧嘴笑",
+    "ex": "The boy grinned when he saw his new bike.",
+    "exzh": "男孩看到他的新自行车时咧嘴笑了。"
+  },
+  {
+    "w": "grind",
+    "ph": "ɡraɪnd",
+    "pos": "v.",
+    "zh": "磨碎；碾碎",
+    "ex": "The machine grinds coffee beans in a few seconds.",
+    "exzh": "这台机器几秒钟就能磨好咖啡豆。"
+  },
+  {
+    "w": "grip",
+    "ph": "ɡrɪp",
+    "pos": "v.",
+    "zh": "紧握；夹住",
+    "ex": "She gripped the rail tightly as the bus moved.",
+    "exzh": "公交车开动时她紧紧抓住扶手。"
+  },
+  {
+    "w": "groan",
+    "ph": "ɡroʊn",
+    "pos": "v.",
+    "zh": "呻吟；抱怨",
+    "ex": "He groaned when he saw the long waiting list.",
+    "exzh": "看到长长的等候名单时他呻吟了一声。"
+  },
+  {
+    "w": "grocer",
+    "ph": "ˈɡroʊsər",
+    "pos": "n.",
+    "zh": "食品杂货商",
+    "ex": "The grocer next door sells fresh eggs and milk.",
+    "exzh": "隔壁的杂货商卖新鲜鸡蛋和牛奶。"
+  },
+  {
+    "w": "grocery",
+    "ph": "ˈɡroʊsəri",
+    "pos": "n.",
+    "zh": "食品杂货店；食品杂货",
+    "ex": "I stopped at the grocery store on my way home.",
+    "exzh": "我在回家路上顺便去了杂货店。"
+  },
+  {
+    "w": "groom",
+    "ph": "ɡruːm",
+    "pos": "n.",
+    "zh": "新郎",
+    "ex": "The groom waited nervously at the front of the church.",
+    "exzh": "新郎在教堂前方紧张地等待着。"
+  },
+  {
+    "w": "gross",
+    "ph": "ɡroʊs",
+    "pos": "adj.",
+    "zh": "总的；毛的",
+    "ex": "The company's gross income doubled in three years.",
+    "exzh": "这家公司的总收入在三年内翻了一番。"
+  },
+  {
+    "w": "grove",
+    "ph": "ɡroʊv",
+    "pos": "n.",
+    "zh": "小树林；果园",
+    "ex": "A small grove of trees shaded the old farmhouse.",
+    "exzh": "一小片树林为那座老农舍遮阴。"
+  },
+  {
+    "w": "grow",
+    "ph": "ɡroʊ",
+    "pos": "v.",
+    "zh": "生长；种植；变得",
+    "ex": "These plants grow quickly in warm wet weather.",
+    "exzh": "这些植物在温暖潮湿的天气里长得很快。"
+  },
+  {
+    "w": "growl",
+    "ph": "ɡraʊl",
+    "pos": "v.",
+    "zh": "低吼；咆哮",
+    "ex": "The dog growled softly at the stranger by the door.",
+    "exzh": "那只狗对着门口那个陌生人低声咆哮。"
+  },
+  {
+    "w": "growth",
+    "ph": "ɡroʊθ",
+    "pos": "n.",
+    "zh": "生长；增长",
+    "ex": "Rapid growth has brought both jobs and problems.",
+    "exzh": "快速增长既带来了就业也带来了问题。"
+  },
+  {
+    "w": "grumble",
+    "ph": "ˈɡrʌmbəl",
+    "pos": "v.",
+    "zh": "抱怨；发牢骚",
+    "ex": "Some passengers grumbled about the long delay.",
+    "exzh": "一些乘客抱怨延误时间太长。"
+  },
+  {
+    "w": "guard",
+    "ph": "ɡɑːrd",
+    "pos": "v.",
+    "zh": "守卫；保卫",
+    "ex": "Two officers guard the entrance day and night.",
+    "exzh": "两名警官日夜守卫着入口。"
+  },
+  {
+    "w": "guardian",
+    "ph": "ˈɡɑːrdiən",
+    "pos": "n.",
+    "zh": "监护人；保护者",
+    "ex": "A parent or guardian must sign the form.",
+    "exzh": "父母或监护人必须在表格上签字。"
+  },
+  {
+    "w": "guess",
+    "ph": "ɡes",
+    "pos": "v.",
+    "zh": "猜测；推测",
+    "ex": "Can you guess how many people came to the party?",
+    "exzh": "你能猜到有多少人来参加聚会吗？"
+  },
+  {
+    "w": "guidance",
+    "ph": "ˈɡaɪdəns",
+    "pos": "n.",
+    "zh": "指导；引导",
+    "ex": "Under his guidance, the students finished the project.",
+    "exzh": "在他的指导下，学生们完成了这个项目。"
+  },
+  {
+    "w": "guide",
+    "ph": "ɡaɪd",
+    "pos": "n.",
+    "zh": "向导；指南",
+    "ex": "A local guide showed us the oldest streets.",
+    "exzh": "一位当地向导带我们看了最古老的街道。"
+  },
+  {
+    "w": "guideline",
+    "ph": "ˈɡaɪdlaɪn",
+    "pos": "n.",
+    "zh": "指导方针；准则",
+    "ex": "The school issued new guidelines about phone use.",
+    "exzh": "学校发布了关于使用手机的新准则。"
+  },
+  {
+    "w": "guilt",
+    "ph": "ɡɪlt",
+    "pos": "n.",
+    "zh": "内疚；罪责",
+    "ex": "He felt deep guilt about forgetting her birthday.",
+    "exzh": "他因忘记她的生日而深感内疚。"
+  },
+  {
+    "w": "guilty",
+    "ph": "ˈɡɪlti",
+    "pos": "adj.",
+    "zh": "有罪的；内疚的",
+    "ex": "The jury found him guilty of the theft.",
+    "exzh": "陪审团认定他犯有盗窃罪。"
+  },
+  {
+    "w": "guitar",
+    "ph": "ɡɪˈtɑːr",
+    "pos": "n.",
+    "zh": "吉他",
+    "ex": "He learned to play the guitar in high school.",
+    "exzh": "他在高中时学会了弹吉他。"
+  },
+  {
+    "w": "gulf",
+    "ph": "ɡʌlf",
+    "pos": "n.",
+    "zh": "海湾；鸿沟",
+    "ex": "A wide gulf separates the two sides of the debate.",
+    "exzh": "辩论双方之间存在巨大的分歧。"
+  },
+  {
+    "w": "gulp",
+    "ph": "ɡʌlp",
+    "pos": "v.",
+    "zh": "吞咽；大口喝",
+    "ex": "He gulped down a glass of cold water.",
+    "exzh": "他一口气喝下一杯冷水。"
+  },
+  {
+    "w": "gum",
+    "ph": "ɡʌm",
+    "pos": "n.",
+    "zh": "口香糖；牙龈",
+    "ex": "Chewing gum helps some people stay awake in class.",
+    "exzh": "嚼口香糖能帮助一些人在课堂上保持清醒。"
+  },
+  {
+    "w": "gun",
+    "ph": "ɡʌn",
+    "pos": "n.",
+    "zh": "枪；炮",
+    "ex": "The police found an illegal gun in the car.",
+    "exzh": "警方在车里发现了一把非法枪支。"
+  },
+  {
+    "w": "gust",
+    "ph": "ɡʌst",
+    "pos": "n.",
+    "zh": "一阵狂风",
+    "ex": "A sudden gust blew the papers off the desk.",
+    "exzh": "一阵突然的狂风把文件从桌上吹落。"
+  },
+  {
+    "w": "gutter",
+    "ph": "ˈɡʌtər",
+    "pos": "n.",
+    "zh": "排水沟；檐槽",
+    "ex": "Rainwater ran along the gutter beside the road.",
+    "exzh": "雨水沿着路边的排水沟流淌。"
+  },
+  {
+    "w": "guy",
+    "ph": "ɡaɪ",
+    "pos": "n.",
+    "zh": "家伙；小伙子",
+    "ex": "The guy at the desk helped me find the room.",
+    "exzh": "服务台那个小伙子帮我找到了房间。"
+  },
+  {
+    "w": "gym",
+    "ph": "dʒɪm",
+    "pos": "n.",
+    "zh": "健身房；体育馆",
+    "ex": "I go to the gym three times a week.",
+    "exzh": "我每周去健身房三次。"
+  },
+  {
+    "w": "gymnasium",
+    "ph": "dʒɪmˈneɪziəm",
+    "pos": "n.",
+    "zh": "体育馆；健身房",
+    "ex": "The school gymnasium was full of cheering parents.",
+    "exzh": "学校体育馆里挤满了欢呼的家长。"
+  },
+  {
+    "w": "gymnastics",
+    "ph": "dʒɪmˈnæstɪks",
+    "pos": "n.",
+    "zh": "体操",
+    "ex": "She practices gymnastics for two hours every evening.",
+    "exzh": "她每天晚上练两小时体操。"
+  },
+  {
+    "w": "habitat",
+    "ph": "ˈhæbɪtæt",
+    "pos": "n.",
+    "zh": "栖息地；生活环境",
+    "ex": "Deforestation destroys the natural habitat of many animals.",
+    "exzh": "森林砍伐破坏了许多动物的自然栖息地。"
+  },
+  {
+    "w": "hail",
+    "ph": "heɪl",
+    "pos": "n.",
+    "zh": "冰雹",
+    "ex": "Hail damaged the young plants in the vegetable garden.",
+    "exzh": "冰雹打坏了菜园里的幼苗。"
+  },
+  {
+    "w": "hair",
+    "ph": "her",
+    "pos": "n.",
+    "zh": "头发；毛发",
+    "ex": "She tied her long hair back before the match.",
+    "exzh": "比赛前她把长发扎了起来。"
+  },
+  {
+    "w": "haircut",
+    "ph": "ˈherkʌt",
+    "pos": "n.",
+    "zh": "理发；发型",
+    "ex": "He got a short haircut before the job interview.",
+    "exzh": "面试前他剪了个短发。"
+  },
+  {
+    "w": "hairdresser",
+    "ph": "ˈherdresər",
+    "pos": "n.",
+    "zh": "理发师",
+    "ex": "The hairdresser cut her hair in a new style.",
+    "exzh": "理发师给她剪了一个新发型。"
+  },
+  {
+    "w": "half",
+    "ph": "hæf",
+    "pos": "n.",
+    "zh": "一半；半个",
+    "ex": "Half of the students chose the easier topic.",
+    "exzh": "一半的学生选择了较容易的题目。"
+  },
+  {
+    "w": "hall",
+    "ph": "hɔːl",
+    "pos": "n.",
+    "zh": "大厅；礼堂",
+    "ex": "The meeting will be held in the main hall.",
+    "exzh": "会议将在大礼堂举行。"
+  },
+  {
+    "w": "halt",
+    "ph": "hɔːlt",
+    "pos": "v.",
+    "zh": "停止；中断",
+    "ex": "The train halted suddenly between two small stations.",
+    "exzh": "火车在两个小站之间突然停了下来。"
+  },
+  {
+    "w": "hammer",
+    "ph": "ˈhæmər",
+    "pos": "n.",
+    "zh": "锤子；榔头",
+    "ex": "He used a hammer to fix the wooden shelf.",
+    "exzh": "他用锤子修好了木架。"
+  },
+  {
+    "w": "hand",
+    "ph": "hænd",
+    "pos": "n.",
+    "zh": "手；帮助",
+    "ex": "She raised her hand to answer the question.",
+    "exzh": "她举手回答问题。"
+  },
+  {
+    "w": "handbag",
+    "ph": "ˈhændbæɡ",
+    "pos": "n.",
+    "zh": "手提包",
+    "ex": "She left her handbag on the seat by mistake.",
+    "exzh": "她不小心把手提包落在了座位上。"
+  },
+  {
+    "w": "handbook",
+    "ph": "ˈhændbʊk",
+    "pos": "n.",
+    "zh": "手册；指南",
+    "ex": "The handbook explains every rule of the new course.",
+    "exzh": "这本手册解释了新课程的每一项规则。"
+  },
+  {
+    "w": "handful",
+    "ph": "ˈhændfʊl",
+    "pos": "n.",
+    "zh": "一把；少量",
+    "ex": "She took a handful of nuts from the jar.",
+    "exzh": "她从罐子里抓了一把坚果。"
+  },
+  {
+    "w": "handicap",
+    "ph": "ˈhændikæp",
+    "pos": "n.",
+    "zh": "障碍；不利条件",
+    "ex": "Poor eyesight can be a serious handicap at work.",
+    "exzh": "视力不好可能成为工作中的严重障碍。"
+  },
+  {
+    "w": "handkerchief",
+    "ph": "ˈhæŋkərtʃɪf",
+    "pos": "n.",
+    "zh": "手帕",
+    "ex": "He wiped his face with a clean white handkerchief.",
+    "exzh": "他用一块干净的白色手帕擦了擦脸。"
+  },
+  {
+    "w": "handmade",
+    "ph": "ˌhændˈmeɪd",
+    "pos": "adj.",
+    "zh": "手工制作的",
+    "ex": "These handmade shoes cost more than factory ones.",
+    "exzh": "这些手工鞋比工厂生产的贵。"
+  },
+  {
+    "w": "handwriting",
+    "ph": "ˈhændraɪtɪŋ",
+    "pos": "n.",
+    "zh": "笔迹；书写",
+    "ex": "Her handwriting is neat and easy to read.",
+    "exzh": "她的字迹工整，很容易辨认。"
+  },
+  {
+    "w": "handy",
+    "ph": "ˈhændi",
+    "pos": "adj.",
+    "zh": "方便的；手边的",
+    "ex": "This small tool is handy for opening tight jars.",
+    "exzh": "这个小工具开拧紧的罐子很方便。"
+  },
+  {
+    "w": "hang",
+    "ph": "hæŋ",
+    "pos": "v.",
+    "zh": "悬挂；吊",
+    "ex": "Please hang your coat behind the office door.",
+    "exzh": "请把你的外套挂在办公室门后。"
+  },
+  {
+    "w": "happen",
+    "ph": "ˈhæpən",
+    "pos": "v.",
+    "zh": "发生；碰巧",
+    "ex": "Nobody knows what will happen after the vote.",
+    "exzh": "没人知道投票后会发生什么。"
+  },
+  {
+    "w": "happiness",
+    "ph": "ˈhæpinəs",
+    "pos": "n.",
+    "zh": "幸福；快乐",
+    "ex": "Money alone cannot buy real happiness in life.",
+    "exzh": "仅靠金钱买不到生活中真正的幸福。"
+  },
+  {
+    "w": "happy",
+    "ph": "ˈhæpi",
+    "pos": "adj.",
+    "zh": "快乐的；高兴的",
+    "ex": "The children were happy to see the snow.",
+    "exzh": "孩子们看到雪很高兴。"
+  },
+  {
+    "w": "harbor",
+    "ph": "ˈhɑːrbər",
+    "pos": "n.",
+    "zh": "港口；海港",
+    "ex": "Several fishing boats returned to the harbor at dawn.",
+    "exzh": "几艘渔船在黎明时返回港口。"
+  },
+  {
+    "w": "hard",
+    "ph": "hɑːrd",
+    "pos": "adj.",
+    "zh": "困难的；坚硬的",
+    "ex": "It is hard to finish this work alone.",
+    "exzh": "一个人完成这项工作很难。"
+  },
+  {
+    "w": "harden",
+    "ph": "ˈhɑːrdən",
+    "pos": "v.",
+    "zh": "使变硬；使坚强",
+    "ex": "The mud hardened quickly under the hot sun.",
+    "exzh": "泥土在烈日下很快变硬了。"
+  },
+  {
+    "w": "hardly",
+    "ph": "ˈhɑːrdli",
+    "pos": "adv.",
+    "zh": "几乎不；简直不",
+    "ex": "I could hardly hear him over the loud music.",
+    "exzh": "音乐太响，我几乎听不见他说话。"
+  },
+  {
+    "w": "hardship",
+    "ph": "ˈhɑːrdʃɪp",
+    "pos": "n.",
+    "zh": "艰难；困苦",
+    "ex": "The family suffered great hardship during the war years.",
+    "exzh": "这家人在战争年代遭受了极大的困苦。"
+  },
+  {
+    "w": "hardware",
+    "ph": "ˈhɑːrdwer",
+    "pos": "n.",
+    "zh": "硬件；五金制品",
+    "ex": "The shop sells tools, paint and other hardware.",
+    "exzh": "这家店出售工具、油漆和其他五金制品。"
+  },
+  {
+    "w": "hardworking",
+    "ph": "ˌhɑːrdˈwɜːrkɪŋ",
+    "pos": "adj.",
+    "zh": "勤奋的；努力工作的",
+    "ex": "She is a hardworking student who never misses class.",
+    "exzh": "她是个勤奋的学生，从不缺课。"
+  },
+  {
+    "w": "harmful",
+    "ph": "ˈhɑːrmfəl",
+    "pos": "adj.",
+    "zh": "有害的；造成损害的",
+    "ex": "Too much screen time is harmful to children's eyes.",
+    "exzh": "看屏幕时间过长对孩子的眼睛有害。"
+  },
+  {
+    "w": "harmless",
+    "ph": "ˈhɑːrmləs",
+    "pos": "adj.",
+    "zh": "无害的；无恶意的",
+    "ex": "Most snakes in this area are completely harmless.",
+    "exzh": "这个地区的大多数蛇完全无害。"
+  },
+  {
+    "w": "harmonious",
+    "ph": "hɑːrˈmoʊniəs",
+    "pos": "adj.",
+    "zh": "和谐的；协调的",
+    "ex": "The two families enjoy a harmonious relationship in the village.",
+    "exzh": "这两家人在村里关系和谐。"
+  },
+  {
+    "w": "harmony",
+    "ph": "ˈhɑːrməni",
+    "pos": "n.",
+    "zh": "和谐；融洽",
+    "ex": "The two neighbors live in peace and harmony.",
+    "exzh": "这两家邻居和睦相处。"
+  },
+  {
+    "w": "harness",
+    "ph": "ˈhɑːrnəs",
+    "pos": "v.",
+    "zh": "利用；给……上挽具",
+    "ex": "Farmers harness horses to pull the heavy cart.",
+    "exzh": "农民给马套上挽具来拉重车。"
+  },
+  {
+    "w": "harvest",
+    "ph": "ˈhɑːrvɪst",
+    "pos": "n.",
+    "zh": "收获；收成",
+    "ex": "Farmers expect a good harvest of rice this autumn.",
+    "exzh": "农民们期待今年秋天水稻有好收成。"
+  },
+  {
+    "w": "haste",
+    "ph": "heɪst",
+    "pos": "n.",
+    "zh": "匆忙；急速",
+    "ex": "In her haste she forgot to lock the door.",
+    "exzh": "她匆忙之中忘了锁门。"
+  },
+  {
+    "w": "hasty",
+    "ph": "ˈheɪsti",
+    "pos": "adj.",
+    "zh": "匆忙的；草率的",
+    "ex": "Do not make a hasty decision about the job.",
+    "exzh": "不要对这份工作草率做决定。"
+  },
+  {
+    "w": "hat",
+    "ph": "hæt",
+    "pos": "n.",
+    "zh": "帽子",
+    "ex": "He wore a warm hat against the winter wind.",
+    "exzh": "他戴了一顶暖和的帽子抵挡冬天的风。"
+  },
+  {
+    "w": "hate",
+    "ph": "heɪt",
+    "pos": "v.",
+    "zh": "讨厌；憎恨",
+    "ex": "I hate waiting in long lines at the airport.",
+    "exzh": "我讨厌在机场排长队等候。"
+  },
+  {
+    "w": "hatred",
+    "ph": "ˈheɪtrɪd",
+    "pos": "n.",
+    "zh": "憎恨；仇恨",
+    "ex": "His hatred of unfairness made him a strong lawyer.",
+    "exzh": "他对不公正的憎恨使他成为一名坚强的律师。"
+  },
+  {
+    "w": "haul",
+    "ph": "hɔːl",
+    "pos": "v.",
+    "zh": "拖；拉；运送",
+    "ex": "Trucks haul coal from the mine every morning.",
+    "exzh": "卡车每天早上从矿上运煤。"
+  },
+  {
+    "w": "haunt",
+    "ph": "hɔːnt",
+    "pos": "v.",
+    "zh": "萦绕；常去",
+    "ex": "The old story still haunts the people of this town.",
+    "exzh": "那个老故事仍萦绕在这个小镇的人们心头。"
+  },
+  {
+    "w": "hawk",
+    "ph": "hɔːk",
+    "pos": "n.",
+    "zh": "鹰；隼",
+    "ex": "A hawk circled slowly above the open field.",
+    "exzh": "一只鹰在开阔的田野上方缓缓盘旋。"
+  },
+  {
+    "w": "hazard",
+    "ph": "ˈhæzərd",
+    "pos": "n.",
+    "zh": "危险；隐患",
+    "ex": "Wet floors are a real hazard for elderly visitors.",
+    "exzh": "湿滑的地面对年长的访客是真正的危险。"
+  },
+  {
+    "w": "head",
+    "ph": "hed",
+    "pos": "n.",
+    "zh": "头；头脑；领导",
+    "ex": "He nodded his head and left the room quietly.",
+    "exzh": "他点了点头，悄悄离开了房间。"
+  },
+  {
+    "w": "heading",
+    "ph": "ˈhedɪŋ",
+    "pos": "n.",
+    "zh": "标题；题目",
+    "ex": "The heading of each chapter is printed in bold.",
+    "exzh": "每一章的标题都用粗体印刷。"
+  },
+  {
+    "w": "headline",
+    "ph": "ˈhedlaɪn",
+    "pos": "n.",
+    "zh": "标题；头条新闻",
+    "ex": "The story made the front-page headline the next morning.",
+    "exzh": "这条新闻第二天早上成了头版头条。"
+  },
+  {
+    "w": "headmaster",
+    "ph": "ˌhedˈmæstər",
+    "pos": "n.",
+    "zh": "校长",
+    "ex": "The headmaster spoke to parents at the school gate.",
+    "exzh": "校长在校门口对家长们讲话。"
+  },
+  {
+    "w": "headquarters",
+    "ph": "ˈhedkwɔːrtərz",
+    "pos": "n.",
+    "zh": "总部；司令部",
+    "ex": "The company moved its headquarters to another city.",
+    "exzh": "公司把总部搬到了另一座城市。"
+  },
+  {
+    "w": "heal",
+    "ph": "hiːl",
+    "pos": "v.",
+    "zh": "治愈；愈合",
+    "ex": "The cut healed completely in about ten days.",
+    "exzh": "伤口大约十天就完全愈合了。"
+  },
+  {
+    "w": "health",
+    "ph": "helθ",
+    "pos": "n.",
+    "zh": "健康；卫生",
+    "ex": "Regular exercise is good for your health and mood.",
+    "exzh": "经常锻炼对你的健康和心情都有好处。"
+  },
+  {
+    "w": "heap",
+    "ph": "hiːp",
+    "pos": "n.",
+    "zh": "堆；一堆",
+    "ex": "A heap of old books lay in the corner.",
+    "exzh": "角落里放着一堆旧书。"
+  },
+  {
+    "w": "hear",
+    "ph": "hɪr",
+    "pos": "v.",
+    "zh": "听见；听说",
+    "ex": "I could hear the rain on the roof.",
+    "exzh": "我能听见屋顶上的雨声。"
+  },
+  {
+    "w": "hearing",
+    "ph": "ˈhɪrɪŋ",
+    "pos": "n.",
+    "zh": "听力；听觉",
+    "ex": "His hearing improved after a small operation.",
+    "exzh": "做过一个小手术后他的听力提高了。"
+  },
+  {
+    "w": "heart",
+    "ph": "hɑːrt",
+    "pos": "n.",
+    "zh": "心脏；内心",
+    "ex": "The good news warmed her heart on a cold day.",
+    "exzh": "这个好消息在寒冷的日子里温暖了她的心。"
+  },
+  {
+    "w": "heat",
+    "ph": "hiːt",
+    "pos": "n.",
+    "zh": "热；高温",
+    "ex": "The heat in the room made everyone sleepy.",
+    "exzh": "房间里的热度让每个人都犯困。"
+  },
+  {
+    "w": "heater",
+    "ph": "ˈhiːtər",
+    "pos": "n.",
+    "zh": "加热器；暖气",
+    "ex": "The small heater keeps the office warm in winter.",
+    "exzh": "这个小取暖器冬天让办公室保持温暖。"
+  },
+  {
+    "w": "heaven",
+    "ph": "ˈhevən",
+    "pos": "n.",
+    "zh": "天堂；天空",
+    "ex": "The clear night sky looked like heaven itself.",
+    "exzh": "清朗的夜空看起来就像天堂。"
+  },
+  {
+    "w": "heavily",
+    "ph": "ˈhevɪli",
+    "pos": "adv.",
+    "zh": "沉重地；大量地",
+    "ex": "It rained heavily throughout the whole weekend.",
+    "exzh": "整个周末都下着大雨。"
+  },
+  {
+    "w": "heavy",
+    "ph": "ˈhevi",
+    "pos": "adj.",
+    "zh": "重的；大量的",
+    "ex": "The old table was too heavy to move alone.",
+    "exzh": "这张旧桌子太重了，一个人搬不动。"
+  },
+  {
+    "w": "hedge",
+    "ph": "hedʒ",
+    "pos": "n.",
+    "zh": "树篱；篱笆",
+    "ex": "A tall hedge separates the two gardens.",
+    "exzh": "一道高高的树篱把两个花园隔开。"
+  },
+  {
+    "w": "heel",
+    "ph": "hiːl",
+    "pos": "n.",
+    "zh": "脚后跟；鞋跟",
+    "ex": "My new shoes hurt the back of my heel.",
+    "exzh": "我的新鞋磨得我脚后跟疼。"
+  },
+  {
+    "w": "height",
+    "ph": "haɪt",
+    "pos": "n.",
+    "zh": "高度；身高",
+    "ex": "The tower reaches a height of sixty meters.",
+    "exzh": "这座塔高达六十米。"
+  },
+  {
+    "w": "helicopter",
+    "ph": "ˈhelɪkɑːptər",
+    "pos": "n.",
+    "zh": "直升机",
+    "ex": "A helicopter rescued the climbers from the snowy mountain.",
+    "exzh": "一架直升机把登山者从雪山中救了出来。"
+  },
+  {
+    "w": "hell",
+    "ph": "hel",
+    "pos": "n.",
+    "zh": "地狱；苦难",
+    "ex": "The long journey home was pure hell for everyone.",
+    "exzh": "回家的漫长旅程对每个人来说都是煎熬。"
+  },
+  {
+    "w": "helmet",
+    "ph": "ˈhelmɪt",
+    "pos": "n.",
+    "zh": "头盔；安全帽",
+    "ex": "Always wear a helmet when you ride a bike.",
+    "exzh": "骑自行车时一定要戴头盔。"
+  },
+  {
+    "w": "help",
+    "ph": "help",
+    "pos": "v.",
+    "zh": "帮助；有助于",
+    "ex": "Could you help me carry these boxes upstairs?",
+    "exzh": "你能帮我把这些箱子搬到楼上吗？"
+  },
+  {
+    "w": "helpful",
+    "ph": "ˈhelpfəl",
+    "pos": "adj.",
+    "zh": "有帮助的；有用的",
+    "ex": "The staff were helpful and answered every question.",
+    "exzh": "工作人员很乐于助人，回答了每个问题。"
+  },
+  {
+    "w": "helpless",
+    "ph": "ˈhelpləs",
+    "pos": "adj.",
+    "zh": "无助的；无能为力的",
+    "ex": "The baby birds are helpless without their mother.",
+    "exzh": "没有母亲，这些幼鸟毫无自理能力。"
+  },
+  {
+    "w": "hence",
+    "ph": "hens",
+    "pos": "adv.",
+    "zh": "因此；从此",
+    "ex": "The road is closed; hence we must take another route.",
+    "exzh": "这条路封闭了，因此我们必须走另一条路线。"
+  },
+  {
+    "w": "herb",
+    "ph": "hɜːrb",
+    "pos": "n.",
+    "zh": "草本植物；香草",
+    "ex": "She grows herbs and tomatoes on her small balcony.",
+    "exzh": "她在小阳台上种香草和西红柿。"
+  },
+  {
+    "w": "herd",
+    "ph": "hɜːrd",
+    "pos": "n.",
+    "zh": "兽群；牧群",
+    "ex": "A herd of cattle crossed the narrow country road.",
+    "exzh": "一群牛穿过狭窄的乡间小路。"
+  },
+  {
+    "w": "heritage",
+    "ph": "ˈherɪtɪdʒ",
+    "pos": "n.",
+    "zh": "遗产；传统",
+    "ex": "The old town is part of our national heritage.",
+    "exzh": "这座古镇是我们民族遗产的一部分。"
+  },
+  {
+    "w": "hero",
+    "ph": "ˈhɪroʊ",
+    "pos": "n.",
+    "zh": "英雄；主人公",
+    "ex": "The young doctor became a hero in that town.",
+    "exzh": "那位年轻医生成了那个小镇的英雄。"
+  },
+  {
+    "w": "heroic",
+    "ph": "hɪˈroʊɪk",
+    "pos": "adj.",
+    "zh": "英勇的；英雄的",
+    "ex": "The firefighters made a heroic effort to save everyone.",
+    "exzh": "消防员为救出所有人付出了英勇的努力。"
+  },
+  {
+    "w": "heroine",
+    "ph": "ˈheroʊɪn",
+    "pos": "n.",
+    "zh": "女英雄；女主角",
+    "ex": "The heroine of the novel is a young teacher.",
+    "exzh": "这部小说的女主角是一位年轻教师。"
+  },
+  {
+    "w": "hesitation",
+    "ph": "ˌhezɪˈteɪʃən",
+    "pos": "n.",
+    "zh": "犹豫；迟疑",
+    "ex": "She agreed to join us without a moment's hesitation.",
+    "exzh": "她毫不犹豫地同意加入我们。"
+  },
+  {
+    "w": "hide",
+    "ph": "haɪd",
+    "pos": "v.",
+    "zh": "隐藏；躲藏",
+    "ex": "She tried to hide the letter behind the books.",
+    "exzh": "她试图把信藏在书后面。"
+  },
+  {
+    "w": "high",
+    "ph": "haɪ",
+    "pos": "adj.",
+    "zh": "高的；高度的",
+    "ex": "The high wall blocks the view from our window.",
+    "exzh": "高墙挡住了我们窗外的景色。"
+  },
+  {
+    "w": "highland",
+    "ph": "ˈhaɪlənd",
+    "pos": "n.",
+    "zh": "高地；高原",
+    "ex": "They walked across the highland in cool autumn weather.",
+    "exzh": "他们在凉爽的秋日里走过高地。"
+  },
+  {
+    "w": "highly",
+    "ph": "ˈhaɪli",
+    "pos": "adv.",
+    "zh": "非常；高度地",
+    "ex": "She is highly respected by her students and colleagues.",
+    "exzh": "她深受学生和同事的尊敬。"
+  },
+  {
+    "w": "highway",
+    "ph": "ˈhaɪweɪ",
+    "pos": "n.",
+    "zh": "公路；干道",
+    "ex": "Traffic on the highway slows down after seven o'clock.",
+    "exzh": "七点以后公路上的交通就慢了下来。"
+  },
+  {
+    "w": "hijack",
+    "ph": "ˈhaɪdʒæk",
+    "pos": "v.",
+    "zh": "劫持；抢劫",
+    "ex": "Terrorists tried to hijack the plane at the airport.",
+    "exzh": "恐怖分子试图在机场劫持那架飞机。"
+  },
+  {
+    "w": "hike",
+    "ph": "haɪk",
+    "pos": "v.",
+    "zh": "徒步旅行；远足",
+    "ex": "We plan to hike through the forest next Saturday.",
+    "exzh": "我们计划下周六徒步穿过森林。"
+  },
+  {
+    "w": "hiking",
+    "ph": "ˈhaɪkɪŋ",
+    "pos": "n.",
+    "zh": "徒步旅行；远足",
+    "ex": "Hiking in the hills is popular in autumn.",
+    "exzh": "秋天在山里徒步旅行很受欢迎。"
+  },
+  {
+    "w": "hill",
+    "ph": "hɪl",
+    "pos": "n.",
+    "zh": "小山；山丘",
+    "ex": "A small village sits at the foot of the hill.",
+    "exzh": "一个小村庄坐落在山脚下。"
+  },
+  {
+    "w": "hillside",
+    "ph": "ˈhɪlsaɪd",
+    "pos": "n.",
+    "zh": "山坡；山腰",
+    "ex": "Sheep graze on the quiet hillside above the village.",
+    "exzh": "羊群在村子上方安静的山坡上吃草。"
+  },
+  {
+    "w": "hint",
+    "ph": "hɪnt",
+    "pos": "n.",
+    "zh": "暗示；提示",
+    "ex": "He gave me a useful hint before the test.",
+    "exzh": "考试前他给了我一个有用的提示。"
+  },
+  {
+    "w": "hip",
+    "ph": "hɪp",
+    "pos": "n.",
+    "zh": "臀部；髋部",
+    "ex": "She injured her hip while playing basketball last month.",
+    "exzh": "她上个月打篮球时伤了髋部。"
+  },
+  {
+    "w": "historian",
+    "ph": "hɪˈstɔːriən",
+    "pos": "n.",
+    "zh": "历史学家",
+    "ex": "A local historian wrote about the ancient castle.",
+    "exzh": "一位当地历史学家写了一篇关于这座古堡的文章。"
+  },
+  {
+    "w": "historic",
+    "ph": "hɪˈstɔːrɪk",
+    "pos": "adj.",
+    "zh": "历史性的；有历史意义的",
+    "ex": "The two countries signed a historic peace agreement.",
+    "exzh": "两国签署了一项历史性的和平协议。"
+  },
+  {
+    "w": "historical",
+    "ph": "hɪˈstɔːrɪkəl",
+    "pos": "adj.",
+    "zh": "历史的；有关历史的",
+    "ex": "She enjoys reading historical novels about ancient China.",
+    "exzh": "她喜欢读关于古代中国的历史小说。"
+  },
+  {
+    "w": "historically",
+    "ph": "hɪˈstɔːrɪkli",
+    "pos": "adv.",
+    "zh": "历史上；从历史角度",
+    "ex": "Historically, this city grew around two busy rivers.",
+    "exzh": "从历史上看，这座城市是围绕两条繁忙的河流发展起来的。"
+  },
+  {
+    "w": "history",
+    "ph": "ˈhɪstəri",
+    "pos": "n.",
+    "zh": "历史；历史学",
+    "ex": "History is my favorite subject at school this year.",
+    "exzh": "历史是我今年在学校最喜欢的科目。"
+  },
+  {
+    "w": "hit",
+    "ph": "hɪt",
+    "pos": "v.",
+    "zh": "打；撞；击中",
+    "ex": "The ball hit the window but nothing broke.",
+    "exzh": "球打到了窗户，但没有打破任何东西。"
+  },
+  {
+    "w": "hobby",
+    "ph": "ˈhɑːbi",
+    "pos": "n.",
+    "zh": "业余爱好",
+    "ex": "Photography has been his favorite hobby for years.",
+    "exzh": "摄影多年来一直是他最喜欢的爱好。"
+  },
+  {
+    "w": "hold",
+    "ph": "hoʊld",
+    "pos": "v.",
+    "zh": "拿着；举行；容纳",
+    "ex": "Please hold the door open for the last guest.",
+    "exzh": "请为最后一位客人把门开着。"
+  },
+  {
+    "w": "hole",
+    "ph": "hoʊl",
+    "pos": "n.",
+    "zh": "洞；孔",
+    "ex": "A small hole in the roof let the rain in.",
+    "exzh": "屋顶上的一个小洞让雨水渗了进来。"
+  },
+  {
+    "w": "holiday",
+    "ph": "ˈhɑːlədeɪ",
+    "pos": "n.",
+    "zh": "假日；假期",
+    "ex": "The whole family went to the beach during the holiday.",
+    "exzh": "假期里全家人去了海边。"
+  },
+  {
+    "w": "hollow",
+    "ph": "ˈhɑːloʊ",
+    "pos": "adj.",
+    "zh": "空心的；中空的",
+    "ex": "The tree was hollow inside but still alive.",
+    "exzh": "这棵树里面是空的，但仍然活着。"
+  },
+  {
+    "w": "holy",
+    "ph": "ˈhoʊli",
+    "pos": "adj.",
+    "zh": "神圣的；圣洁的",
+    "ex": "This mountain is a holy place for many people.",
+    "exzh": "这座山对许多人来说是圣地。"
+  },
+  {
+    "w": "home",
+    "ph": "hoʊm",
+    "pos": "n.",
+    "zh": "家；家乡",
+    "ex": "She hurried home to finish her homework before dinner.",
+    "exzh": "她赶回家在晚饭前完成作业。"
+  },
+  {
+    "w": "homeland",
+    "ph": "ˈhoʊmlænd",
+    "pos": "n.",
+    "zh": "祖国；家乡",
+    "ex": "Many visitors return to their homeland during the holidays.",
+    "exzh": "许多游子在假日期间回到祖国。"
+  },
+  {
+    "w": "homeless",
+    "ph": "ˈhoʊmləs",
+    "pos": "adj.",
+    "zh": "无家可归的",
+    "ex": "The charity provides warm meals for homeless people.",
+    "exzh": "这家慈善机构为无家可归的人提供热饭。"
+  },
+  {
+    "w": "homesick",
+    "ph": "ˈhoʊmsɪk",
+    "pos": "adj.",
+    "zh": "想家的；思乡的",
+    "ex": "He felt homesick during his first month abroad.",
+    "exzh": "在国外第一个月他感到很思乡。"
+  },
+  {
+    "w": "honesty",
+    "ph": "ˈɑːnəsti",
+    "pos": "n.",
+    "zh": "诚实；正直",
+    "ex": "Honesty is the most important quality in a friend.",
+    "exzh": "诚实是朋友最重要的品质。"
+  },
+  {
+    "w": "honey",
+    "ph": "ˈhʌni",
+    "pos": "n.",
+    "zh": "蜂蜜",
+    "ex": "She puts a spoon of honey in her tea.",
+    "exzh": "她在茶里放一勺蜂蜜。"
+  },
+  {
+    "w": "honeymoon",
+    "ph": "ˈhʌnimuːn",
+    "pos": "n.",
+    "zh": "蜜月",
+    "ex": "They spent their honeymoon in a quiet mountain village.",
+    "exzh": "他们在一个安静的山村里度过蜜月。"
+  },
+  {
+    "w": "honor",
+    "ph": "ˈɑːnər",
+    "pos": "n.",
+    "zh": "荣誉；敬意",
+    "ex": "It was an honor to meet such a famous writer.",
+    "exzh": "能见到这样一位著名作家是一种荣幸。"
+  },
+  {
+    "w": "honorable",
+    "ph": "ˈɑːnərəbəl",
+    "pos": "adj.",
+    "zh": "光荣的；可敬的",
+    "ex": "He chose the honorable way to solve the dispute.",
+    "exzh": "他选择了光明正大的方式来解决争端。"
+  },
+  {
+    "w": "hook",
+    "ph": "hʊk",
+    "pos": "n.",
+    "zh": "钩子；挂钩",
+    "ex": "She hung her bag on a metal hook.",
+    "exzh": "她把包挂在一个金属挂钩上。"
+  },
+  {
+    "w": "hope",
+    "ph": "hoʊp",
+    "pos": "v.",
+    "zh": "希望；期望",
+    "ex": "I hope the weather stays fine for the picnic.",
+    "exzh": "我希望野餐时天气一直晴好。"
+  },
+  {
+    "w": "hopeful",
+    "ph": "ˈhoʊpfəl",
+    "pos": "adj.",
+    "zh": "有希望的；乐观的",
+    "ex": "We are hopeful that the weather will improve soon.",
+    "exzh": "我们对天气很快好转抱有希望。"
+  },
+  {
+    "w": "hopefully",
+    "ph": "ˈhoʊpfəli",
+    "pos": "adv.",
+    "zh": "有希望地；但愿",
+    "ex": "Hopefully, the train will arrive before noon tomorrow.",
+    "exzh": "但愿火车明天中午前能到。"
+  },
+  {
+    "w": "hopeless",
+    "ph": "ˈhoʊpləs",
+    "pos": "adj.",
+    "zh": "绝望的；无望的",
+    "ex": "The situation looked hopeless, but they kept trying.",
+    "exzh": "情况看起来毫无希望，但他们仍在努力。"
+  },
+  {
+    "w": "horizon",
+    "ph": "həˈraɪzən",
+    "pos": "n.",
+    "zh": "地平线；眼界",
+    "ex": "The sun sank slowly below the distant horizon.",
+    "exzh": "太阳缓缓沉入远处的地平线之下。"
+  },
+  {
+    "w": "horizontal",
+    "ph": "ˌhɔːrɪˈzɑːntəl",
+    "pos": "adj.",
+    "zh": "水平的；横的",
+    "ex": "Draw a horizontal line under the title first.",
+    "exzh": "先在标题下面画一条水平线。"
+  },
+  {
+    "w": "horn",
+    "ph": "hɔːrn",
+    "pos": "n.",
+    "zh": "角；喇叭",
+    "ex": "The driver sounded his horn at the crossing.",
+    "exzh": "司机在十字路口按了喇叭。"
+  },
+  {
+    "w": "horrible",
+    "ph": "ˈhɔːrəbəl",
+    "pos": "adj.",
+    "zh": "可怕的；糟糕的",
+    "ex": "A horrible smell came from the kitchen drain.",
+    "exzh": "厨房下水道里传来一股难闻的气味。"
+  },
+  {
+    "w": "horror",
+    "ph": "ˈhɔːrər",
+    "pos": "n.",
+    "zh": "恐怖；恐惧",
+    "ex": "She watched the accident in silent horror.",
+    "exzh": "她惊恐地默默看着那场事故。"
+  },
+  {
+    "w": "horse",
+    "ph": "hɔːrs",
+    "pos": "n.",
+    "zh": "马",
+    "ex": "The horse trotted quickly along the sandy path.",
+    "exzh": "那匹马沿着沙土小路快步奔跑。"
+  },
+  {
+    "w": "hospital",
+    "ph": "ˈhɑːspɪtəl",
+    "pos": "n.",
+    "zh": "医院",
+    "ex": "He stayed in the hospital for three days.",
+    "exzh": "他在医院住了三天。"
+  },
+  {
+    "w": "host",
+    "ph": "hoʊst",
+    "pos": "v.",
+    "zh": "主办；接待",
+    "ex": "Our school will host the annual sports meeting.",
+    "exzh": "我们学校将主办一年一度的运动会。"
+  },
+  {
+    "w": "hostel",
+    "ph": "ˈhɑːstəl",
+    "pos": "n.",
+    "zh": "旅舍；招待所",
+    "ex": "Students can stay in a cheap hostel near campus.",
+    "exzh": "学生可以住在校园附近的便宜旅舍。"
+  },
+  {
+    "w": "hostess",
+    "ph": "ˈhoʊstəs",
+    "pos": "n.",
+    "zh": "女主人；女主持人",
+    "ex": "The hostess welcomed each guest with a warm smile.",
+    "exzh": "女主人以温暖的笑容欢迎每位客人。"
+  },
+  {
+    "w": "hostile",
+    "ph": "ˈhɑːstəl",
+    "pos": "adj.",
+    "zh": "敌对的；不友好的",
+    "ex": "The audience was hostile to the new proposal.",
+    "exzh": "观众对这个新提议抱有敌意。"
+  },
+  {
+    "w": "hot",
+    "ph": "hɑːt",
+    "pos": "adj.",
+    "zh": "热的；辣的",
+    "ex": "The soup is too hot to drink right now.",
+    "exzh": "汤太烫了，现在还不能喝。"
+  },
+  {
+    "w": "hotel",
+    "ph": "hoʊˈtel",
+    "pos": "n.",
+    "zh": "旅馆；酒店",
+    "ex": "They booked a small hotel near the train station.",
+    "exzh": "他们在火车站附近订了一家小旅馆。"
+  },
+  {
+    "w": "hour",
+    "ph": "ˈaʊər",
+    "pos": "n.",
+    "zh": "小时；时刻",
+    "ex": "The meeting lasted more than an hour and a half.",
+    "exzh": "会议持续了一个半小时以上。"
+  },
+  {
+    "w": "house",
+    "ph": "haʊs",
+    "pos": "n.",
+    "zh": "房子；住宅",
+    "ex": "They bought a small house with a quiet garden.",
+    "exzh": "他们买了一栋带安静花园的小房子。"
+  },
+  {
+    "w": "housekeeper",
+    "ph": "ˈhaʊskiːpər",
+    "pos": "n.",
+    "zh": "管家；保姆",
+    "ex": "The housekeeper keeps every room clean and bright.",
+    "exzh": "管家让每个房间都干净明亮。"
+  },
+  {
+    "w": "housewife",
+    "ph": "ˈhaʊswaɪf",
+    "pos": "n.",
+    "zh": "家庭主妇",
+    "ex": "Her mother was a housewife who loved cooking.",
+    "exzh": "她母亲是一位热爱烹饪的家庭主妇。"
+  },
+  {
+    "w": "housework",
+    "ph": "ˈhaʊswɜːrk",
+    "pos": "n.",
+    "zh": "家务劳动",
+    "ex": "They share the housework equally on weekends.",
+    "exzh": "周末他们平分家务。"
+  },
+  {
+    "w": "housing",
+    "ph": "ˈhaʊzɪŋ",
+    "pos": "n.",
+    "zh": "住房；住宅供给",
+    "ex": "Housing prices in this city keep rising every year.",
+    "exzh": "这座城市的房价每年都在上涨。"
+  },
+  {
+    "w": "hug",
+    "ph": "hʌɡ",
+    "pos": "v.",
+    "zh": "拥抱",
+    "ex": "She gave her little brother a warm hug.",
+    "exzh": "她给了弟弟一个温暖的拥抱。"
+  },
+  {
+    "w": "huge",
+    "ph": "hjuːdʒ",
+    "pos": "adj.",
+    "zh": "巨大的；庞大的",
+    "ex": "A huge crowd gathered outside the concert hall.",
+    "exzh": "一大群人聚集在音乐厅外面。"
+  },
+  {
+    "w": "hum",
+    "ph": "hʌm",
+    "pos": "v.",
+    "zh": "哼唱；发嗡嗡声",
+    "ex": "He hummed a quiet tune while washing the dishes.",
+    "exzh": "他一边洗碗一边轻声哼着曲子。"
+  },
+  {
+    "w": "human",
+    "ph": "ˈhjuːmən",
+    "pos": "n.",
+    "zh": "人；人类",
+    "ex": "Every human needs clean water and fresh air.",
+    "exzh": "每个人都需要干净的水和新鲜的空气。"
+  },
+  {
+    "w": "humanity",
+    "ph": "hjuːˈmænəti",
+    "pos": "n.",
+    "zh": "人类；人性",
+    "ex": "Climate change is a problem for all humanity.",
+    "exzh": "气候变化是全人类共同的问题。"
+  },
+  {
+    "w": "humble",
+    "ph": "ˈhʌmbəl",
+    "pos": "adj.",
+    "zh": "谦逊的；卑微的",
+    "ex": "Despite his success, he remained humble and kind.",
+    "exzh": "尽管取得了成功，他依然谦逊善良。"
+  },
+  {
+    "w": "humid",
+    "ph": "ˈhjuːmɪd",
+    "pos": "adj.",
+    "zh": "潮湿的；湿热的",
+    "ex": "The air is hot and humid before a storm.",
+    "exzh": "暴风雨来临前空气又热又潮。"
+  },
+  {
+    "w": "humidity",
+    "ph": "hjuːˈmɪdəti",
+    "pos": "n.",
+    "zh": "湿度；潮湿",
+    "ex": "High humidity makes the summer days feel worse.",
+    "exzh": "高湿度让夏日感觉更加难受。"
+  },
+  {
+    "w": "humor",
+    "ph": "ˈhjuːmər",
+    "pos": "n.",
+    "zh": "幽默；心情",
+    "ex": "His sense of humor makes every meeting enjoyable.",
+    "exzh": "他的幽默感让每次会议都很愉快。"
+  },
+  {
+    "w": "humorous",
+    "ph": "ˈhjuːmərəs",
+    "pos": "adj.",
+    "zh": "幽默的；诙谐的",
+    "ex": "She told a humorous story about her first job.",
+    "exzh": "她讲了一个关于她第一份工作的幽默故事。"
+  },
+  {
+    "w": "hunger",
+    "ph": "ˈhʌŋɡər",
+    "pos": "n.",
+    "zh": "饥饿；渴望",
+    "ex": "Millions of people still suffer from hunger today.",
+    "exzh": "今天仍有数百万人在忍受饥饿。"
+  },
+  {
+    "w": "hungry",
+    "ph": "ˈhʌŋɡri",
+    "pos": "adj.",
+    "zh": "饥饿的；渴望的",
+    "ex": "The children were hungry after the long walk.",
+    "exzh": "走了很长的路后孩子们饿了。"
+  },
+  {
+    "w": "hunt",
+    "ph": "hʌnt",
+    "pos": "v.",
+    "zh": "打猎；搜寻",
+    "ex": "They hunted for the lost keys in the dark.",
+    "exzh": "他们在黑暗中寻找丢失的钥匙。"
+  },
+  {
+    "w": "hunter",
+    "ph": "ˈhʌntər",
+    "pos": "n.",
+    "zh": "猎人；搜寻者",
+    "ex": "The hunter walked quietly through the thick forest.",
+    "exzh": "猎人悄悄地穿过茂密的森林。"
+  },
+  {
+    "w": "hurricane",
+    "ph": "ˈhɜːrɪkeɪn",
+    "pos": "n.",
+    "zh": "飓风",
+    "ex": "The hurricane destroyed hundreds of homes along the coast.",
+    "exzh": "飓风摧毁了沿海数百座房屋。"
+  },
+  {
+    "w": "hurry",
+    "ph": "ˈhɜːri",
+    "pos": "v.",
+    "zh": "赶快；匆忙",
+    "ex": "We must hurry if we want to catch it.",
+    "exzh": "如果我们想赶上，就必须赶快。"
+  },
+  {
+    "w": "hurt",
+    "ph": "hɜːrt",
+    "pos": "v.",
+    "zh": "伤害；疼痛",
+    "ex": "He hurt his knee while playing football yesterday.",
+    "exzh": "他昨天踢足球时伤了膝盖。"
+  },
+  {
+    "w": "husband",
+    "ph": "ˈhʌzbənd",
+    "pos": "n.",
+    "zh": "丈夫",
+    "ex": "Her husband cooks dinner every Friday evening.",
+    "exzh": "她丈夫每周五晚上做晚饭。"
+  },
+  {
+    "w": "hut",
+    "ph": "hʌt",
+    "pos": "n.",
+    "zh": "小屋；棚屋",
+    "ex": "They stayed in a wooden hut near the lake.",
+    "exzh": "他们住在湖边的一间小木屋里。"
+  },
+  {
+    "w": "hydrogen",
+    "ph": "ˈhaɪdrədʒən",
+    "pos": "n.",
+    "zh": "氢；氢气",
+    "ex": "Hydrogen is the lightest element in the universe.",
+    "exzh": "氢是宇宙中最轻的元素。"
+  },
+  {
+    "w": "hygiene",
+    "ph": "ˈhaɪdʒiːn",
+    "pos": "n.",
+    "zh": "卫生；卫生学",
+    "ex": "Good personal hygiene helps prevent many common illnesses.",
+    "exzh": "良好的个人卫生有助于预防许多常见疾病。"
+  }
+]

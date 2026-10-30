@@ -1,0 +1,3410 @@
+[
+ {
+  "w": "habitual",
+  "ph": "həˈbɪtʃuəl",
+  "pos": "adj.",
+  "zh": "习惯性的；惯常的",
+  "ex": "Reading before bed has become a habitual part of his routine.",
+  "exzh": "睡前阅读已成为他日常习惯的一部分。"
+ },
+ {
+  "w": "haggard",
+  "ph": "ˈhæɡərd",
+  "pos": "adj.",
+  "zh": "憔悴的；形容枯槁的",
+  "ex": "He looked haggard after three nights without sleep.",
+  "exzh": "三个晚上没睡，他看上去十分憔悴。"
+ },
+ {
+  "w": "haggle",
+  "ph": "ˈhæɡl",
+  "pos": "v.",
+  "zh": "讨价还价；争论",
+  "ex": "We haggled with the seller over the price of the rug.",
+  "exzh": "我们为地毯的价格与卖家讨价还价。"
+ },
+ {
+  "w": "hallmark",
+  "ph": "ˈhɔːlmɑːrk",
+  "pos": "n.",
+  "zh": "特征；标志",
+  "ex": "Careful planning is the hallmark of a successful project.",
+  "exzh": "周密的计划是成功项目的标志。"
+ },
+ {
+  "w": "handicraft",
+  "ph": "ˈhændikræft",
+  "pos": "n.",
+  "zh": "手工艺；手工艺品",
+  "ex": "The village is famous for its wood and textile handicrafts.",
+  "exzh": "这个村庄以木器和纺织手工艺品闻名。"
+ },
+ {
+  "w": "handout",
+  "ph": "ˈhændaʊt",
+  "pos": "n.",
+  "zh": "讲义；施舍物",
+  "ex": "The teacher gave us a handout summarizing the whole chapter.",
+  "exzh": "老师发给我们一份概括整章内容的讲义。"
+ },
+ {
+  "w": "hangar",
+  "ph": "ˈhæŋər",
+  "pos": "n.",
+  "zh": "飞机库",
+  "ex": "The damaged plane was towed into the empty hangar.",
+  "exzh": "受损的飞机被拖进了空机库。"
+ },
+ {
+  "w": "haphazard",
+  "ph": "hæpˈhæzərd",
+  "pos": "adj.",
+  "zh": "随意的；杂乱的",
+  "ex": "The books were piled in a haphazard way on the floor.",
+  "exzh": "书杂乱地堆在地板上。"
+ },
+ {
+  "w": "harassment",
+  "ph": "həˈræsmənt",
+  "pos": "n.",
+  "zh": "骚扰；烦扰",
+  "ex": "She reported the harassment to the company's human resources department.",
+  "exzh": "她向公司人力资源部门报告了这起骚扰事件。"
+ },
+ {
+  "w": "hardy",
+  "ph": "ˈhɑːrdi",
+  "pos": "adj.",
+  "zh": "耐寒的；坚强的",
+  "ex": "These hardy plants survive even the coldest mountain winters.",
+  "exzh": "这些耐寒植物甚至能挺过山上最冷的冬天。"
+ },
+ {
+  "w": "harp",
+  "ph": "hɑːrp",
+  "pos": "n.",
+  "zh": "竖琴",
+  "ex": "She learned to play the harp when she was ten.",
+  "exzh": "她十岁时学会了弹竖琴。"
+ },
+ {
+  "w": "hassle",
+  "ph": "ˈhæsl",
+  "pos": "n.",
+  "zh": "麻烦；争执",
+  "ex": "Getting a visa turned out to be a huge hassle.",
+  "exzh": "办签证结果成了一件大麻烦。"
+ },
+ {
+  "w": "hatch",
+  "ph": "hætʃ",
+  "pos": "v.",
+  "zh": "孵化；策划",
+  "ex": "The eggs will hatch in about three weeks.",
+  "exzh": "这些蛋大约三周后孵化。"
+ },
+ {
+  "w": "haughty",
+  "ph": "ˈhɔːti",
+  "pos": "adj.",
+  "zh": "傲慢的；目中无人的",
+  "ex": "His haughty manner offended almost everyone at the meeting.",
+  "exzh": "他傲慢的态度几乎冒犯了会上所有人。"
+ },
+ {
+  "w": "haven",
+  "ph": "ˈheɪvn",
+  "pos": "n.",
+  "zh": "避难所；港口",
+  "ex": "The small library was a quiet haven for tired students.",
+  "exzh": "这座小图书馆是疲惫学生的安静避风港。"
+ },
+ {
+  "w": "havoc",
+  "ph": "ˈhævək",
+  "pos": "n.",
+  "zh": "大破坏；混乱",
+  "ex": "The storm caused havoc across the entire coastal region.",
+  "exzh": "风暴在整个沿海地区造成了严重破坏。"
+ },
+ {
+  "w": "haze",
+  "ph": "heɪz",
+  "pos": "n.",
+  "zh": "薄雾；模糊",
+  "ex": "A thick haze hung over the city all morning.",
+  "exzh": "整个上午城市上空都笼罩着浓雾。"
+ },
+ {
+  "w": "headlong",
+  "ph": "ˈhedlɔːŋ",
+  "pos": "adj.",
+  "zh": "轻率的；头朝前的",
+  "ex": "He rushed headlong into the deal without reading the contract.",
+  "exzh": "他没看合同就轻率地投入了这笔交易。"
+ },
+ {
+  "w": "headway",
+  "ph": "ˈhedweɪ",
+  "pos": "n.",
+  "zh": "进展；前进",
+  "ex": "The team made little headway on the difficult problem.",
+  "exzh": "团队在这个难题上几乎没有进展。"
+ },
+ {
+  "w": "hearth",
+  "ph": "hɑːrθ",
+  "pos": "n.",
+  "zh": "壁炉；炉边",
+  "ex": "An old iron kettle stood beside the stone hearth.",
+  "exzh": "石砌壁炉旁放着一只旧铁壶。"
+ },
+ {
+  "w": "heave",
+  "ph": "hiːv",
+  "pos": "v.",
+  "zh": "举起；用力拉",
+  "ex": "They heaved the heavy box onto the back of the truck.",
+  "exzh": "他们把沉重的箱子抬上了卡车后部。"
+ },
+ {
+  "w": "hectare",
+  "ph": "ˈhekter",
+  "pos": "n.",
+  "zh": "公顷",
+  "ex": "The farm covers about forty hectares of flat land.",
+  "exzh": "这个农场占地约四十公顷平地。"
+ },
+ {
+  "w": "heed",
+  "ph": "hiːd",
+  "pos": "v.",
+  "zh": "注意；留心",
+  "ex": "Drivers should heed the warnings posted along the road.",
+  "exzh": "司机应当注意路边张贴的警告。"
+ },
+ {
+  "w": "hefty",
+  "ph": "ˈhefti",
+  "pos": "adj.",
+  "zh": "沉重的；可观的",
+  "ex": "The company paid a hefty fine for breaking safety rules.",
+  "exzh": "公司因违反安全规定支付了一笔巨额罚款。"
+ },
+ {
+  "w": "heir",
+  "ph": "er",
+  "pos": "n.",
+  "zh": "继承人",
+  "ex": "He is the only heir to his grandfather's small fortune.",
+  "exzh": "他是祖父那笔不多财产的惟一继承人。"
+ },
+ {
+  "w": "hemisphere",
+  "ph": "ˈhemɪsfɪr",
+  "pos": "n.",
+  "zh": "半球",
+  "ex": "Summer in the southern hemisphere begins in December.",
+  "exzh": "南半球的夏天从十二月开始。"
+ },
+ {
+  "w": "henceforth",
+  "ph": "ˌhensˈfɔːrθ",
+  "pos": "adv.",
+  "zh": "从此以后",
+  "ex": "Henceforth all visitors must sign in at the front desk.",
+  "exzh": "从今以后所有访客都必须在前台登记。"
+ },
+ {
+  "w": "herald",
+  "ph": "ˈherəld",
+  "pos": "v.",
+  "zh": "预示；宣布",
+  "ex": "The first flowers herald the arrival of spring.",
+  "exzh": "最早开放的花预示着春天的到来。"
+ },
+ {
+  "w": "herbal",
+  "ph": "ˈhɜːrbl",
+  "pos": "adj.",
+  "zh": "草药的；草本植物的",
+  "ex": "She drinks herbal tea every evening before going to bed.",
+  "exzh": "她每晚睡前都喝草药茶。"
+ },
+ {
+  "w": "hereditary",
+  "ph": "həˈredɪteri",
+  "pos": "adj.",
+  "zh": "遗传的；世袭的",
+  "ex": "The disease is hereditary and affects many family members.",
+  "exzh": "这种病是遗传性的，影响许多家庭成员。"
+ },
+ {
+  "w": "hermit",
+  "ph": "ˈhɜːrmɪt",
+  "pos": "n.",
+  "zh": "隐士",
+  "ex": "The old man lived like a hermit in the mountains.",
+  "exzh": "那位老人像隐士一样住在山里。"
+ },
+ {
+  "w": "heroism",
+  "ph": "ˈheroʊɪzəm",
+  "pos": "n.",
+  "zh": "英勇；英雄主义",
+  "ex": "The firefighter was praised for his courage and heroism.",
+  "exzh": "这名消防员因勇敢和英勇行为受到表彰。"
+ },
+ {
+  "w": "hesitant",
+  "ph": "ˈhezɪtənt",
+  "pos": "adj.",
+  "zh": "犹豫的；迟疑的",
+  "ex": "She was hesitant to accept the offer at first.",
+  "exzh": "她起初犹豫是否接受这个提议。"
+ },
+ {
+  "w": "heterogeneous",
+  "ph": "ˌhetərəˈdʒiːniəs",
+  "pos": "adj.",
+  "zh": "异质的；多样的",
+  "ex": "The city has a heterogeneous population from many countries.",
+  "exzh": "这座城市拥有来自许多国家的多样化人口。"
+ },
+ {
+  "w": "heyday",
+  "ph": "ˈheɪdeɪ",
+  "pos": "n.",
+  "zh": "全盛期；鼎盛时期",
+  "ex": "In its heyday the factory employed over two thousand workers.",
+  "exzh": "在全盛时期，这家工厂雇佣了两千多名工人。"
+ },
+ {
+  "w": "hibernate",
+  "ph": "ˈhaɪbərneɪt",
+  "pos": "v.",
+  "zh": "冬眠",
+  "ex": "Bears hibernate through the long cold winter months.",
+  "exzh": "熊在漫长寒冷的冬季冬眠。"
+ },
+ {
+  "w": "hideous",
+  "ph": "ˈhɪdiəs",
+  "pos": "adj.",
+  "zh": "丑陋的；可怕的",
+  "ex": "The wallpaper had a hideous pattern of orange flowers.",
+  "exzh": "墙纸上有难看的橙色花朵图案。"
+ },
+ {
+  "w": "hilarious",
+  "ph": "hɪˈleriəs",
+  "pos": "adj.",
+  "zh": "非常滑稽的",
+  "ex": "His stories about the trip were absolutely hilarious.",
+  "exzh": "他讲的旅行故事非常滑稽。"
+ },
+ {
+  "w": "hindsight",
+  "ph": "ˈhaɪndsaɪt",
+  "pos": "n.",
+  "zh": "事后认识；后见之明",
+  "ex": "In hindsight, we should have left much earlier.",
+  "exzh": "事后看来，我们本应该早得多出发。"
+ },
+ {
+  "w": "hinge",
+  "ph": "hɪndʒ",
+  "pos": "n.",
+  "zh": "铰链；关键",
+  "ex": "The door hung loosely on a rusty old hinge.",
+  "exzh": "门松松地挂在生锈的旧铰链上。"
+ },
+ {
+  "w": "hitch",
+  "ph": "hɪtʃ",
+  "pos": "v.",
+  "zh": "搭便车；钩住",
+  "ex": "They hitched a ride to the station in a passing truck.",
+  "exzh": "他们搭了一辆路过的卡车去车站。"
+ },
+ {
+  "w": "hitherto",
+  "ph": "ˌhɪðərˈtuː",
+  "pos": "adv.",
+  "zh": "迄今；到目前为止",
+  "ex": "The theory has hitherto escaped serious scientific attention.",
+  "exzh": "这一理论迄今未受到科学界的认真关注。"
+ },
+ {
+  "w": "hoard",
+  "ph": "hɔːrd",
+  "pos": "v.",
+  "zh": "囤积；贮藏",
+  "ex": "Some people hoard food when they fear a shortage.",
+  "exzh": "有些人在担心短缺时会囤积食物。"
+ },
+ {
+  "w": "hoarse",
+  "ph": "hɔːrs",
+  "pos": "adj.",
+  "zh": "沙哑的；嘶哑的",
+  "ex": "His voice was hoarse after shouting at the match.",
+  "exzh": "在比赛上大喊之后他的声音沙哑了。"
+ },
+ {
+  "w": "hoax",
+  "ph": "hoʊks",
+  "pos": "n.",
+  "zh": "骗局；恶作剧",
+  "ex": "The bomb threat turned out to be a cruel hoax.",
+  "exzh": "炸弹威胁结果是一场残酷的骗局。"
+ },
+ {
+  "w": "hoist",
+  "ph": "hɔɪst",
+  "pos": "v.",
+  "zh": "升起；吊起",
+  "ex": "The workers hoisted the flag at sunrise.",
+  "exzh": "工人们在日出时升起了旗帜。"
+ },
+ {
+  "w": "holder",
+  "ph": "ˈhoʊldər",
+  "pos": "n.",
+  "zh": "持有者；支架",
+  "ex": "The ticket holder must show identification at the gate.",
+  "exzh": "持票人必须在入口出示身份证件。"
+ },
+ {
+  "w": "homage",
+  "ph": "ˈhɑːmɪdʒ",
+  "pos": "n.",
+  "zh": "敬意；致敬",
+  "ex": "The film is a homage to classic silent comedies.",
+  "exzh": "这部电影是对经典默片喜剧的致敬。"
+ },
+ {
+  "w": "homestead",
+  "ph": "ˈhoʊmsted",
+  "pos": "n.",
+  "zh": "农庄；宅地",
+  "ex": "They built a small cabin on the old homestead.",
+  "exzh": "他们在旧农庄上建了一座小木屋。"
+ },
+ {
+  "w": "homogeneous",
+  "ph": "ˌhoʊməˈdʒiːniəs",
+  "pos": "adj.",
+  "zh": "同质的；均匀的",
+  "ex": "The mixture should be stirred until it is homogeneous.",
+  "exzh": "混合物应搅拌至均匀一致。"
+ },
+ {
+  "w": "hone",
+  "ph": "hoʊn",
+  "pos": "v.",
+  "zh": "磨炼；磨快",
+  "ex": "She practices daily to hone her writing skills.",
+  "exzh": "她每天练习以磨炼写作技巧。"
+ },
+ {
+  "w": "honorary",
+  "ph": "ˈɑːnəreri",
+  "pos": "adj.",
+  "zh": "荣誉的；名誉的",
+  "ex": "He received an honorary degree from the university.",
+  "exzh": "他获得了这所大学授予的荣誉学位。"
+ },
+ {
+  "w": "hood",
+  "ph": "hʊd",
+  "pos": "n.",
+  "zh": "兜帽；引擎盖",
+  "ex": "She pulled the hood over her head in the rain.",
+  "exzh": "她在雨中把兜帽拉到头上。"
+ },
+ {
+  "w": "hoof",
+  "ph": "huːf",
+  "pos": "n.",
+  "zh": "蹄",
+  "ex": "The horse injured one hoof on the rocky path.",
+  "exzh": "那匹马在岩石小路上伤了一只蹄子。"
+ },
+ {
+  "w": "hormone",
+  "ph": "ˈhɔːrmoʊn",
+  "pos": "n.",
+  "zh": "激素；荷尔蒙",
+  "ex": "Stress can affect the level of hormones in the body.",
+  "exzh": "压力会影响体内激素水平。"
+ },
+ {
+  "w": "horrify",
+  "ph": "ˈhɔːrɪfaɪ",
+  "pos": "v.",
+  "zh": "使恐惧；使震惊",
+  "ex": "The condition of the animal shelter horrified the visitors.",
+  "exzh": "动物收容所的状况让参观者感到震惊。"
+ },
+ {
+  "w": "hose",
+  "ph": "hoʊz",
+  "pos": "n.",
+  "zh": "软管；水龙带",
+  "ex": "He used a garden hose to water the flowers.",
+  "exzh": "他用花园软管给花浇水。"
+ },
+ {
+  "w": "hospitable",
+  "ph": "hɑːˈspɪtəbl",
+  "pos": "adj.",
+  "zh": "好客的；宜人的",
+  "ex": "The villagers were remarkably hospitable to the travelers.",
+  "exzh": "村民们对旅行者格外好客。"
+ },
+ {
+  "w": "hostage",
+  "ph": "ˈhɑːstɪdʒ",
+  "pos": "n.",
+  "zh": "人质",
+  "ex": "The bank robbers released the hostages after six hours.",
+  "exzh": "银行劫匪在六小时后释放了人质。"
+ },
+ {
+  "w": "hostility",
+  "ph": "hɑːˈstɪləti",
+  "pos": "n.",
+  "zh": "敌意；敌对状态",
+  "ex": "There was open hostility between the two departments.",
+  "exzh": "两个部门之间存在公开的敌意。"
+ },
+ {
+  "w": "hound",
+  "ph": "haʊnd",
+  "pos": "n.",
+  "zh": "猎犬",
+  "ex": "A pack of hounds followed the hunters through the woods.",
+  "exzh": "一群猎犬跟随猎人穿过树林。"
+ },
+ {
+  "w": "hover",
+  "ph": "ˈhʌvər",
+  "pos": "v.",
+  "zh": "盘旋；徘徊",
+  "ex": "A helicopter hovered above the crowded stadium.",
+  "exzh": "一架直升机在拥挤的体育场上方盘旋。"
+ },
+ {
+  "w": "howl",
+  "ph": "haʊl",
+  "pos": "v.",
+  "zh": "嚎叫；呼啸",
+  "ex": "The wind howled through the cracks in the old window.",
+  "exzh": "风从旧窗的缝隙中呼啸而过。"
+ },
+ {
+  "w": "hub",
+  "ph": "hʌb",
+  "pos": "n.",
+  "zh": "中心；枢纽",
+  "ex": "The city became a major hub for air travel.",
+  "exzh": "这座城市成为航空旅行的重要枢纽。"
+ },
+ {
+  "w": "huddle",
+  "ph": "ˈhʌdl",
+  "pos": "v.",
+  "zh": "挤在一起；蜷缩",
+  "ex": "The children huddled together under the thin blanket.",
+  "exzh": "孩子们在薄毯下挤在一起。"
+ },
+ {
+  "w": "hue",
+  "ph": "hjuː",
+  "pos": "n.",
+  "zh": "色调；色彩",
+  "ex": "The sky changed to a soft pink hue at dusk.",
+  "exzh": "黄昏时天空变成了柔和的粉色调。"
+ },
+ {
+  "w": "humane",
+  "ph": "hjuːˈmeɪn",
+  "pos": "adj.",
+  "zh": "人道的；仁慈的",
+  "ex": "The charity demands more humane treatment of farm animals.",
+  "exzh": "该慈善机构要求更人道地对待农场动物。"
+ },
+ {
+  "w": "humanitarian",
+  "ph": "hjuːˌmænɪˈteriən",
+  "pos": "adj.",
+  "zh": "人道主义的",
+  "ex": "Aid workers delivered humanitarian supplies to the region.",
+  "exzh": "救援人员向该地区运送了人道主义物资。"
+ },
+ {
+  "w": "humiliate",
+  "ph": "hjuːˈmɪlieɪt",
+  "pos": "v.",
+  "zh": "使羞辱；使丢脸",
+  "ex": "He did not want to humiliate his opponent in public.",
+  "exzh": "他不想当众羞辱对手。"
+ },
+ {
+  "w": "humility",
+  "ph": "hjuːˈmɪləti",
+  "pos": "n.",
+  "zh": "谦逊；谦恭",
+  "ex": "She accepted the prize with genuine humility.",
+  "exzh": "她以真诚的谦逊接受了奖项。"
+ },
+ {
+  "w": "hump",
+  "ph": "hʌmp",
+  "pos": "n.",
+  "zh": "驼峰；隆起",
+  "ex": "The camel has a large hump on its back.",
+  "exzh": "骆驼背上有一个大大的驼峰。"
+ },
+ {
+  "w": "hurdle",
+  "ph": "ˈhɜːrdl",
+  "pos": "n.",
+  "zh": "障碍；跨栏",
+  "ex": "Financing remains the biggest hurdle for the project.",
+  "exzh": "融资仍是该项目最大的障碍。"
+ },
+ {
+  "w": "hurl",
+  "ph": "hɜːrl",
+  "pos": "v.",
+  "zh": "猛投；大声说出",
+  "ex": "Someone hurled a stone through the open window.",
+  "exzh": "有人从敞开的窗户扔进一块石头。"
+ },
+ {
+  "w": "husk",
+  "ph": "hʌsk",
+  "pos": "n.",
+  "zh": "外壳；皮",
+  "ex": "He removed the husk from each ear of corn.",
+  "exzh": "他剥去每一穗玉米的外壳。"
+ },
+ {
+  "w": "husky",
+  "ph": "ˈhʌski",
+  "pos": "adj.",
+  "zh": "沙哑的；魁梧的",
+  "ex": "Her voice sounded husky after the long flight.",
+  "exzh": "长途飞行后她的嗓音听起来很沙哑。"
+ },
+ {
+  "w": "hustle",
+  "ph": "ˈhʌsl",
+  "pos": "v.",
+  "zh": "匆忙；推挤",
+  "ex": "Passengers hustled through the station to catch their trains.",
+  "exzh": "乘客们匆匆穿过车站去赶火车。"
+ },
+ {
+  "w": "hybrid",
+  "ph": "ˈhaɪbrɪd",
+  "pos": "n.",
+  "zh": "混合物；杂交体",
+  "ex": "The car is a hybrid of electric and petrol power.",
+  "exzh": "这辆车是电力和汽油动力的混合体。"
+ },
+ {
+  "w": "hydraulic",
+  "ph": "haɪˈdrɔːlɪk",
+  "pos": "adj.",
+  "zh": "液压的；水力的",
+  "ex": "The crane is powered by a hydraulic system.",
+  "exzh": "这台起重机由液压系统驱动。"
+ },
+ {
+  "w": "hygienic",
+  "ph": "ˌhaɪdʒiˈenɪk",
+  "pos": "adj.",
+  "zh": "卫生的；清洁的",
+  "ex": "Food must be stored in clean and hygienic conditions.",
+  "exzh": "食物必须在清洁卫生的条件下储存。"
+ },
+ {
+  "w": "hymn",
+  "ph": "hɪm",
+  "pos": "n.",
+  "zh": "赞美诗；圣歌",
+  "ex": "The congregation sang a hymn before the sermon.",
+  "exzh": "会众在布道前唱了一首赞美诗。"
+ },
+ {
+  "w": "hypocrisy",
+  "ph": "hɪˈpɑːkrəsi",
+  "pos": "n.",
+  "zh": "虚伪；伪善",
+  "ex": "Critics accused him of hypocrisy over his public statements.",
+  "exzh": "批评者指责他在公开言论上虚伪。"
+ },
+ {
+  "w": "hypocrite",
+  "ph": "ˈhɪpəkrɪt",
+  "pos": "n.",
+  "zh": "伪君子；伪善者",
+  "ex": "He called his rival a hypocrite in front of everyone.",
+  "exzh": "他当众称对手为伪君子。"
+ },
+ {
+  "w": "hypothesis",
+  "ph": "haɪˈpɑːθəsɪs",
+  "pos": "n.",
+  "zh": "假设；假说",
+  "ex": "The data did not support the original hypothesis.",
+  "exzh": "数据并不支持最初的假设。"
+ },
+ {
+  "w": "hysterical",
+  "ph": "hɪˈsterɪkl",
+  "pos": "adj.",
+  "zh": "歇斯底里的；狂热的",
+  "ex": "She became hysterical when she heard the news.",
+  "exzh": "听到这个消息时她变得歇斯底里。"
+ },
+ {
+  "w": "iceberg",
+  "ph": "ˈaɪsbɜːrɡ",
+  "pos": "n.",
+  "zh": "冰山",
+  "ex": "Most of an iceberg lies hidden below the water surface.",
+  "exzh": "冰山的大部分隐藏在水面以下。"
+ },
+ {
+  "w": "iconic",
+  "ph": "aɪˈkɑːnɪk",
+  "pos": "adj.",
+  "zh": "标志性的；偶像的",
+  "ex": "The tower has become an iconic symbol of the city.",
+  "exzh": "这座塔已成为该市标志性的象征。"
+ },
+ {
+  "w": "idealism",
+  "ph": "aɪˈdiːəlɪzəm",
+  "pos": "n.",
+  "zh": "理想主义",
+  "ex": "His youthful idealism faded after years in politics.",
+  "exzh": "经过多年从政，他年轻时的理想主义逐渐消退。"
+ },
+ {
+  "w": "idiom",
+  "ph": "ˈɪdiəm",
+  "pos": "n.",
+  "zh": "习语；方言",
+  "ex": "That idiom is difficult to translate into another language.",
+  "exzh": "那个习语很难翻译成另一种语言。"
+ },
+ {
+  "w": "idiosyncrasy",
+  "ph": "ˌɪdiəˈsɪŋkrəsi",
+  "pos": "n.",
+  "zh": "个人癖性；特质",
+  "ex": "Everyone tolerates his odd little idiosyncrasies at work.",
+  "exzh": "大家都容忍他在工作中那些古怪的小癖好。"
+ },
+ {
+  "w": "idol",
+  "ph": "ˈaɪdl",
+  "pos": "n.",
+  "zh": "偶像；崇拜对象",
+  "ex": "The young singer became an idol for millions of fans.",
+  "exzh": "这位年轻歌手成为数百万粉丝的偶像。"
+ },
+ {
+  "w": "idyllic",
+  "ph": "aɪˈdɪlɪk",
+  "pos": "adj.",
+  "zh": "田园诗般的；宁静的",
+  "ex": "The village looked idyllic in the soft morning sunlight.",
+  "exzh": "在柔和的晨光中，这个村庄宛如田园诗般美丽。"
+ },
+ {
+  "w": "ignition",
+  "ph": "ɪɡˈnɪʃn",
+  "pos": "n.",
+  "zh": "点火；点火装置",
+  "ex": "He turned the key but the ignition refused to start.",
+  "exzh": "他转动钥匙，但点火装置无法启动。"
+ },
+ {
+  "w": "illegible",
+  "ph": "ɪˈledʒəbl",
+  "pos": "adj.",
+  "zh": "难以辨认的",
+  "ex": "His handwriting was nearly illegible in the narrow margin.",
+  "exzh": "他在狭窄页边写的字几乎无法辨认。"
+ },
+ {
+  "w": "illegitimate",
+  "ph": "ˌɪləˈdʒɪtɪmət",
+  "pos": "adj.",
+  "zh": "非法的；不合规的",
+  "ex": "The court rejected the illegitimate claim to the property.",
+  "exzh": "法院驳回了对这份财产的不合法主张。"
+ },
+ {
+  "w": "illicit",
+  "ph": "ɪˈlɪsɪt",
+  "pos": "adj.",
+  "zh": "非法的；违禁的",
+  "ex": "Police discovered an illicit trade in rare wild animals.",
+  "exzh": "警方发现了一起珍稀野生动物的非法交易。"
+ },
+ {
+  "w": "illogical",
+  "ph": "ɪˈlɑːdʒɪkl",
+  "pos": "adj.",
+  "zh": "不合逻辑的",
+  "ex": "His explanation was illogical and full of obvious gaps.",
+  "exzh": "他的解释不合逻辑，充满明显漏洞。"
+ },
+ {
+  "w": "imagery",
+  "ph": "ˈɪmɪdʒəri",
+  "pos": "n.",
+  "zh": "意象；图像",
+  "ex": "The poem is rich in imagery of light and water.",
+  "exzh": "这首诗充满光与水的意象。"
+ },
+ {
+  "w": "immaculate",
+  "ph": "ɪˈmækjələt",
+  "pos": "adj.",
+  "zh": "洁净的；无瑕的",
+  "ex": "The kitchen was immaculate after the spring cleaning.",
+  "exzh": "春季大扫除后厨房一尘不染。"
+ },
+ {
+  "w": "immaterial",
+  "ph": "ˌɪməˈtɪriəl",
+  "pos": "adj.",
+  "zh": "不重要的；非物质的",
+  "ex": "The cost is immaterial compared with the safety risk.",
+  "exzh": "与安全风险相比，成本无关紧要。"
+ },
+ {
+  "w": "immerse",
+  "ph": "ɪˈmɜːrs",
+  "pos": "v.",
+  "zh": "沉浸；浸入",
+  "ex": "She immersed herself completely in the study of law.",
+  "exzh": "她完全沉浸在法律学习中。"
+ },
+ {
+  "w": "immortal",
+  "ph": "ɪˈmɔːrtl",
+  "pos": "adj.",
+  "zh": "不朽的；永生的",
+  "ex": "The poet's finest words made her name immortal.",
+  "exzh": "诗人最优美的诗句使她的名字永垂不朽。"
+ },
+ {
+  "w": "impassive",
+  "ph": "ɪmˈpæsɪv",
+  "pos": "adj.",
+  "zh": "冷漠的；无表情的",
+  "ex": "His face remained impassive throughout the entire interview.",
+  "exzh": "整个采访过程中他的脸一直毫无表情。"
+ },
+ {
+  "w": "impeccable",
+  "ph": "ɪmˈpekəbl",
+  "pos": "adj.",
+  "zh": "无可挑剔的",
+  "ex": "Her English is impeccable after years of study abroad.",
+  "exzh": "在国外学习多年后她的英语无可挑剔。"
+ },
+ {
+  "w": "impede",
+  "ph": "ɪmˈpiːd",
+  "pos": "v.",
+  "zh": "阻碍；妨碍",
+  "ex": "Heavy traffic impeded their progress toward the airport.",
+  "exzh": "交通拥堵阻碍了他们前往机场。"
+ },
+ {
+  "w": "impediment",
+  "ph": "ɪmˈpedɪmənt",
+  "pos": "n.",
+  "zh": "障碍；口吃",
+  "ex": "Lack of funding was a serious impediment to research.",
+  "exzh": "缺乏资金是研究的严重障碍。"
+ },
+ {
+  "w": "impel",
+  "ph": "ɪmˈpel",
+  "pos": "v.",
+  "zh": "驱使；推动",
+  "ex": "Curiosity impelled him to open the locked wooden box.",
+  "exzh": "好奇心驱使他打开了那个锁着的木箱。"
+ },
+ {
+  "w": "impending",
+  "ph": "ɪmˈpendɪŋ",
+  "pos": "adj.",
+  "zh": "即将发生的",
+  "ex": "Dark clouds warned of an impending storm.",
+  "exzh": "乌云预示着暴风雨即将来临。"
+ },
+ {
+  "w": "impenetrable",
+  "ph": "ɪmˈpenɪtrəbl",
+  "pos": "adj.",
+  "zh": "难以进入的；无法理解的",
+  "ex": "The forest was almost impenetrable to sunlight.",
+  "exzh": "那片森林几乎无法透进阳光。"
+ },
+ {
+  "w": "imperceptible",
+  "ph": "ˌɪmpərˈseptəbl",
+  "pos": "adj.",
+  "zh": "难以察觉的",
+  "ex": "The change was so gradual as to be imperceptible.",
+  "exzh": "这种变化如此缓慢，几乎察觉不到。"
+ },
+ {
+  "w": "imperil",
+  "ph": "ɪmˈperəl",
+  "pos": "v.",
+  "zh": "危及；使陷于危险",
+  "ex": "Such careless policies could imperil the whole economy.",
+  "exzh": "这种草率的政策可能危及整个经济。"
+ },
+ {
+  "w": "impersonate",
+  "ph": "ɪmˈpɜːrsəneɪt",
+  "pos": "v.",
+  "zh": "冒充；扮演",
+  "ex": "He tried to impersonate a police officer at the gate.",
+  "exzh": "他试图在门口冒充警察。"
+ },
+ {
+  "w": "impertinent",
+  "ph": "ɪmˈpɜːrtnənt",
+  "pos": "adj.",
+  "zh": "无礼的；不相干的",
+  "ex": "The clerk asked several impertinent questions about my salary.",
+  "exzh": "那名职员问了我几个关于薪水的无礼问题。"
+ },
+ {
+  "w": "impervious",
+  "ph": "ɪmˈpɜːrviəs",
+  "pos": "adj.",
+  "zh": "不受影响的；不渗透的",
+  "ex": "She seemed impervious to all the criticism around her.",
+  "exzh": "她似乎对周围所有批评都无动于衷。"
+ },
+ {
+  "w": "impetuous",
+  "ph": "ɪmˈpetʃuəs",
+  "pos": "adj.",
+  "zh": "冲动的；猛烈的",
+  "ex": "His impetuous decision cost the company millions.",
+  "exzh": "他冲动的决定让公司损失数百万。"
+ },
+ {
+  "w": "impetus",
+  "ph": "ˈɪmpɪtəs",
+  "pos": "n.",
+  "zh": "推动力；促进因素",
+  "ex": "The report gave new impetus to the reform movement.",
+  "exzh": "这份报告为改革运动注入了新动力。"
+ },
+ {
+  "w": "implant",
+  "ph": "ɪmˈplænt",
+  "pos": "v.",
+  "zh": "植入；灌输",
+  "ex": "Surgeons implanted a small device under his skin.",
+  "exzh": "外科医生将一个微型装置植入他皮下。"
+ },
+ {
+  "w": "implausible",
+  "ph": "ɪmˈplɔːzəbl",
+  "pos": "adj.",
+  "zh": "难以置信的；不合理的",
+  "ex": "The excuse sounded implausible to everyone in the room.",
+  "exzh": "这个借口在房间里所有人听来都难以置信。"
+ },
+ {
+  "w": "implore",
+  "ph": "ɪmˈplɔːr",
+  "pos": "v.",
+  "zh": "恳求；哀求",
+  "ex": "She implored him to stay for another night.",
+  "exzh": "她恳求他再留一晚。"
+ },
+ {
+  "w": "imposing",
+  "ph": "ɪmˈpoʊzɪŋ",
+  "pos": "adj.",
+  "zh": "宏伟的；威严的",
+  "ex": "The cathedral is an imposing building of grey stone.",
+  "exzh": "这座大教堂是一座宏伟的灰色石建筑。"
+ },
+ {
+  "w": "imposition",
+  "ph": "ˌɪmpəˈzɪʃn",
+  "pos": "n.",
+  "zh": "强加；征收",
+  "ex": "The new tax was seen as an unfair imposition.",
+  "exzh": "新税被视为不公平的负担。"
+ },
+ {
+  "w": "impotent",
+  "ph": "ˈɪmpətənt",
+  "pos": "adj.",
+  "zh": "无能为力的；虚弱的",
+  "ex": "They felt impotent in the face of such poverty.",
+  "exzh": "面对这样的贫困，他们感到无能为力。"
+ },
+ {
+  "w": "impoverish",
+  "ph": "ɪmˈpɑːvərɪʃ",
+  "pos": "v.",
+  "zh": "使贫穷；使枯竭",
+  "ex": "War and drought had impoverished the entire region.",
+  "exzh": "战争和干旱使整个地区陷入贫困。"
+ },
+ {
+  "w": "impractical",
+  "ph": "ɪmˈpræktɪkl",
+  "pos": "adj.",
+  "zh": "不切实际的",
+  "ex": "The plan was impractical and far too expensive.",
+  "exzh": "这个计划不切实际，而且太昂贵。"
+ },
+ {
+  "w": "impregnable",
+  "ph": "ɪmˈpreɡnəbl",
+  "pos": "adj.",
+  "zh": "坚不可摧的",
+  "ex": "The fortress was considered impregnable for centuries.",
+  "exzh": "数百年来这座要塞被认为坚不可摧。"
+ },
+ {
+  "w": "imprint",
+  "ph": "ɪmˈprɪnt",
+  "pos": "v.",
+  "zh": "印刻；留下印记",
+  "ex": "The experience left a deep imprint on her memory.",
+  "exzh": "这段经历在她记忆中留下了深刻印记。"
+ },
+ {
+  "w": "impromptu",
+  "ph": "ɪmˈprɑːmptuː",
+  "pos": "adj.",
+  "zh": "即兴的；临时的",
+  "ex": "He gave an impromptu speech at the closing dinner.",
+  "exzh": "他在闭幕晚宴上作了一次即兴演讲。"
+ },
+ {
+  "w": "improvise",
+  "ph": "ˈɪmprəvaɪz",
+  "pos": "v.",
+  "zh": "即兴创作；临时应付",
+  "ex": "They had to improvise a shelter from branches and cloth.",
+  "exzh": "他们不得不用树枝和布临时搭个棚子。"
+ },
+ {
+  "w": "imprudent",
+  "ph": "ɪmˈpruːdnt",
+  "pos": "adj.",
+  "zh": "轻率的；不明智的",
+  "ex": "It would be imprudent to ignore these clear warnings.",
+  "exzh": "忽视这些明确的警告是不明智的。"
+ },
+ {
+  "w": "impudent",
+  "ph": "ˈɪmpjədənt",
+  "pos": "adj.",
+  "zh": "无礼的；厚颜的",
+  "ex": "The manager was shocked by the impudent question.",
+  "exzh": "经理被这个无礼的问题惊呆了。"
+ },
+ {
+  "w": "impunity",
+  "ph": "ɪmˈpjuːnəti",
+  "pos": "n.",
+  "zh": "免罚；不受惩罚",
+  "ex": "Wealthy criminals often act with complete impunity.",
+  "exzh": "富有的罪犯常常完全不受惩罚。"
+ },
+ {
+  "w": "inadmissible",
+  "ph": "ˌɪnədˈmɪsəbl",
+  "pos": "adj.",
+  "zh": "不可接受的；不予采纳的",
+  "ex": "The judge ruled the recording inadmissible in court.",
+  "exzh": "法官裁定该录音在法庭上不予采纳。"
+ },
+ {
+  "w": "inadvertent",
+  "ph": "ˌɪnədˈvɜːrtnt",
+  "pos": "adj.",
+  "zh": "无意的；疏忽的",
+  "ex": "The error was inadvertent and easily corrected.",
+  "exzh": "这个错误是无意的，很容易纠正。"
+ },
+ {
+  "w": "inalienable",
+  "ph": "ɪnˈeɪliənəbl",
+  "pos": "adj.",
+  "zh": "不可剥夺的",
+  "ex": "Freedom of speech is an inalienable human right.",
+  "exzh": "言论自由是不可剥夺的人权。"
+ },
+ {
+  "w": "inanimate",
+  "ph": "ɪnˈænɪmət",
+  "pos": "adj.",
+  "zh": "无生命的",
+  "ex": "Children often treat inanimate objects as living friends.",
+  "exzh": "孩子们常把无生命的物体当作活的朋友。"
+ },
+ {
+  "w": "inarticulate",
+  "ph": "ˌɪnɑːrˈtɪkjələt",
+  "pos": "adj.",
+  "zh": "口齿不清的；不善表达的",
+  "ex": "He became inarticulate when asked about his plans.",
+  "exzh": "被问及计划时他变得语无伦次。"
+ },
+ {
+  "w": "inaudible",
+  "ph": "ɪnˈɔːdəbl",
+  "pos": "adj.",
+  "zh": "听不见的",
+  "ex": "Her voice was almost inaudible over the phone.",
+  "exzh": "电话里她的声音几乎听不见。"
+ },
+ {
+  "w": "inaugural",
+  "ph": "ɪˈnɔːɡjərəl",
+  "pos": "adj.",
+  "zh": "就职的；开幕的",
+  "ex": "The president gave an inaugural speech on Monday.",
+  "exzh": "总统在周一发表了就职演说。"
+ },
+ {
+  "w": "inaugurate",
+  "ph": "ɪˈnɔːɡjəreɪt",
+  "pos": "v.",
+  "zh": "为…举行就职典礼；开创",
+  "ex": "The new library will be inaugurated next month.",
+  "exzh": "新图书馆将于下个月落成启用。"
+ },
+ {
+  "w": "inborn",
+  "ph": "ˌɪnˈbɔːrn",
+  "pos": "adj.",
+  "zh": "天生的；先天的",
+  "ex": "She has an inborn talent for music and rhythm.",
+  "exzh": "她天生具有音乐和节奏方面的天赋。"
+ },
+ {
+  "w": "incalculable",
+  "ph": "ɪnˈkælkjələbl",
+  "pos": "adj.",
+  "zh": "无法计算的；极大的",
+  "ex": "The war caused incalculable damage to the region.",
+  "exzh": "战争给该地区造成了无法估量的损失。"
+ },
+ {
+  "w": "incandescent",
+  "ph": "ˌɪnkənˈdesnt",
+  "pos": "adj.",
+  "zh": "白炽的；明亮的",
+  "ex": "The old lamp used an incandescent bulb that grew hot.",
+  "exzh": "那盏旧灯使用会发烫的白炽灯泡。"
+ },
+ {
+  "w": "incarcerate",
+  "ph": "ɪnˈkɑːrsəreɪt",
+  "pos": "v.",
+  "zh": "监禁；关押",
+  "ex": "He was incarcerated for five years for fraud.",
+  "exzh": "他因诈骗被监禁五年。"
+ },
+ {
+  "w": "incense",
+  "ph": "ˈɪnsens",
+  "pos": "n.",
+  "zh": "香；香料",
+  "ex": "A thin trail of incense smoke rose from the altar.",
+  "exzh": "一缕细细的香火烟从祭坛升起。"
+ },
+ {
+  "w": "inception",
+  "ph": "ɪnˈsepʃn",
+  "pos": "n.",
+  "zh": "开端；创始",
+  "ex": "The project has grown steadily since its inception.",
+  "exzh": "该项目自启动以来稳步发展。"
+ },
+ {
+  "w": "incessant",
+  "ph": "ɪnˈsesnt",
+  "pos": "adj.",
+  "zh": "不停的；持续不断的",
+  "ex": "The incessant noise gave her a terrible headache.",
+  "exzh": "持续不断的噪音让她头痛欲裂。"
+ },
+ {
+  "w": "incinerate",
+  "ph": "ɪnˈsɪnəreɪt",
+  "pos": "v.",
+  "zh": "焚化；烧毁",
+  "ex": "The hospital incinerates all its medical waste safely.",
+  "exzh": "医院安全地焚化所有医疗废物。"
+ },
+ {
+  "w": "incipient",
+  "ph": "ɪnˈsɪpiənt",
+  "pos": "adj.",
+  "zh": "初期的；刚开始的",
+  "ex": "He noticed the incipient signs of a serious illness.",
+  "exzh": "他注意到一种严重疾病初期的迹象。"
+ },
+ {
+  "w": "incisive",
+  "ph": "ɪnˈsaɪsɪv",
+  "pos": "adj.",
+  "zh": "尖锐的；深刻的",
+  "ex": "Her incisive questions exposed the weakness of the plan.",
+  "exzh": "她尖锐的问题暴露了计划的弱点。"
+ },
+ {
+  "w": "incite",
+  "ph": "ɪnˈsaɪt",
+  "pos": "v.",
+  "zh": "煽动；激起",
+  "ex": "The speech was accused of inciting violence among fans.",
+  "exzh": "该演讲被指责煽动球迷暴力。"
+ },
+ {
+  "w": "inclement",
+  "ph": "ɪnˈklemənt",
+  "pos": "adj.",
+  "zh": "恶劣的；严酷的",
+  "ex": "Flights were cancelled because of inclement weather.",
+  "exzh": "由于恶劣天气，航班被取消。"
+ },
+ {
+  "w": "incoming",
+  "ph": "ˈɪnkʌmɪŋ",
+  "pos": "adj.",
+  "zh": "进来的；新当选的",
+  "ex": "The incoming class is larger than last year's.",
+  "exzh": "新入学的班级比去年的大。"
+ },
+ {
+  "w": "incomprehensible",
+  "ph": "ɪnˌkɑːmprɪˈhensəbl",
+  "pos": "adj.",
+  "zh": "无法理解的",
+  "ex": "The instructions were incomprehensible to most of the users.",
+  "exzh": "这些说明对大多数用户来说难以理解。"
+ },
+ {
+  "w": "inconceivable",
+  "ph": "ˌɪnkənˈsiːvəbl",
+  "pos": "adj.",
+  "zh": "难以置信的；不可思议的",
+  "ex": "It is inconceivable that he would forget the meeting.",
+  "exzh": "他会忘记会议，这简直难以置信。"
+ },
+ {
+  "w": "inconclusive",
+  "ph": "ˌɪnkənˈkluːsɪv",
+  "pos": "adj.",
+  "zh": "无定论的；非决定性的",
+  "ex": "The tests were inconclusive and need repeating.",
+  "exzh": "这些测试没有定论，需要重做。"
+ },
+ {
+  "w": "incongruous",
+  "ph": "ɪnˈkɑːŋɡruəs",
+  "pos": "adj.",
+  "zh": "不协调的；不相称的",
+  "ex": "The modern tower looks incongruous among the old houses.",
+  "exzh": "那座现代塔楼在旧房屋中显得很不协调。"
+ },
+ {
+  "w": "inconsiderate",
+  "ph": "ˌɪnkənˈsɪdərət",
+  "pos": "adj.",
+  "zh": "不体谅的；考虑不周的",
+  "ex": "It was inconsiderate of him to call so late.",
+  "exzh": "他这么晚打电话来真是不体谅人。"
+ },
+ {
+  "w": "inconsistent",
+  "ph": "ˌɪnkənˈsɪstənt",
+  "pos": "adj.",
+  "zh": "不一致的；反复无常的",
+  "ex": "The results were inconsistent with earlier experiments.",
+  "exzh": "这些结果与早期的实验不一致。"
+ },
+ {
+  "w": "inconsolable",
+  "ph": "ˌɪnkənˈsoʊləbl",
+  "pos": "adj.",
+  "zh": "无法安慰的",
+  "ex": "The child was inconsolable after losing her toy.",
+  "exzh": "那孩子丢了玩具后伤心欲绝。"
+ },
+ {
+  "w": "inconspicuous",
+  "ph": "ˌɪnkənˈspɪkjuəs",
+  "pos": "adj.",
+  "zh": "不显眼的；不引人注目的",
+  "ex": "He chose an inconspicuous seat near the back door.",
+  "exzh": "他在后门附近选了个不起眼的座位。"
+ },
+ {
+  "w": "incorrigible",
+  "ph": "ɪnˈkɔːrɪdʒəbl",
+  "pos": "adj.",
+  "zh": "不可救药的；难以纠正的",
+  "ex": "He was an incorrigible optimist despite every setback.",
+  "exzh": "尽管屡遭挫折，他是个不可救药的乐观主义者。"
+ },
+ {
+  "w": "incorruptible",
+  "ph": "ˌɪnkəˈrʌptəbl",
+  "pos": "adj.",
+  "zh": "廉洁的；不可腐蚀的",
+  "ex": "Voters trusted the incorruptible judge with the inquiry.",
+  "exzh": "选民信任这位廉洁的法官来主持调查。"
+ },
+ {
+  "w": "incredulous",
+  "ph": "ɪnˈkredʒələs",
+  "pos": "adj.",
+  "zh": "表示怀疑的",
+  "ex": "She gave me an incredulous look and shook her head.",
+  "exzh": "她用怀疑的目光看了我一眼，摇了摇头。"
+ },
+ {
+  "w": "increment",
+  "ph": "ˈɪŋkrəmənt",
+  "pos": "n.",
+  "zh": "增量；增加",
+  "ex": "Salaries rise by a small increment each year.",
+  "exzh": "薪水每年小幅递增。"
+ },
+ {
+  "w": "incriminate",
+  "ph": "ɪnˈkrɪmɪneɪt",
+  "pos": "v.",
+  "zh": "使显得有罪；牵连",
+  "ex": "He refused to answer questions that might incriminate him.",
+  "exzh": "他拒绝回答可能使他获罪的问题。"
+ },
+ {
+  "w": "incubate",
+  "ph": "ˈɪŋkjubeɪt",
+  "pos": "v.",
+  "zh": "孵化；培养",
+  "ex": "The eggs incubate for about thirty days in warm sand.",
+  "exzh": "这些蛋在温暖的沙子里孵化约三十天。"
+ },
+ {
+  "w": "inculcate",
+  "ph": "ɪnˈkʌlkeɪt",
+  "pos": "v.",
+  "zh": "反复灌输；谆谆教诲",
+  "ex": "Teachers try to inculcate good habits in young children.",
+  "exzh": "教师努力向幼儿灌输良好习惯。"
+ },
+ {
+  "w": "incumbent",
+  "ph": "ɪnˈkʌmbənt",
+  "pos": "adj.",
+  "zh": "现任的；有责任的",
+  "ex": "The incumbent mayor easily won a second term.",
+  "exzh": "现任市长轻松赢得第二个任期。"
+ },
+ {
+  "w": "incur",
+  "ph": "ɪnˈkɜːr",
+  "pos": "v.",
+  "zh": "招致；遭受",
+  "ex": "You will incur extra charges if you cancel late.",
+  "exzh": "如果取消得晚，你将被收取额外费用。"
+ },
+ {
+  "w": "incurable",
+  "ph": "ɪnˈkjʊrəbl",
+  "pos": "adj.",
+  "zh": "无法治愈的；不可救药的",
+  "ex": "The disease was incurable at that time.",
+  "exzh": "当时这种病无法治愈。"
+ },
+ {
+  "w": "incursion",
+  "ph": "ɪnˈkɜːrʒn",
+  "pos": "n.",
+  "zh": "侵入；袭击",
+  "ex": "Border guards reported a small incursion near the river.",
+  "exzh": "边防人员报告在河边发生了一次小规模入侵。"
+ },
+ {
+  "w": "indebted",
+  "ph": "ɪnˈdetɪd",
+  "pos": "adj.",
+  "zh": "感激的；负债的",
+  "ex": "I am deeply indebted to my teachers for their help.",
+  "exzh": "我非常感激老师们的帮助。"
+ },
+ {
+  "w": "indecent",
+  "ph": "ɪnˈdiːsnt",
+  "pos": "adj.",
+  "zh": "不体面的；下流的",
+  "ex": "He made an indecent joke that embarrassed everyone.",
+  "exzh": "他讲了一个下流的笑话，让大家都很尴尬。"
+ },
+ {
+  "w": "indecisive",
+  "ph": "ˌɪndɪˈsaɪsɪv",
+  "pos": "adj.",
+  "zh": "优柔寡断的；不明确的",
+  "ex": "He is too indecisive to lead the negotiation team.",
+  "exzh": "他太优柔寡断，无法领导谈判小组。"
+ },
+ {
+  "w": "indelible",
+  "ph": "ɪnˈdeləbl",
+  "pos": "adj.",
+  "zh": "难以磨灭的",
+  "ex": "The journey left an indelible mark on his writing.",
+  "exzh": "这次旅行在他的写作中留下了不可磨灭的印记。"
+ },
+ {
+  "w": "indemnify",
+  "ph": "ɪnˈdemnɪfaɪ",
+  "pos": "v.",
+  "zh": "赔偿；保障",
+  "ex": "The insurer agreed to indemnify the family for the loss.",
+  "exzh": "保险公司同意赔偿这家的损失。"
+ },
+ {
+  "w": "indict",
+  "ph": "ɪnˈdaɪt",
+  "pos": "v.",
+  "zh": "起诉；控告",
+  "ex": "The grand jury voted to indict the company's former director.",
+  "exzh": "大陪审团投票决定起诉该公司前董事。"
+ },
+ {
+  "w": "indigent",
+  "ph": "ˈɪndɪdʒənt",
+  "pos": "adj.",
+  "zh": "贫困的；贫穷的",
+  "ex": "The clinic offers free treatment to indigent patients.",
+  "exzh": "这家诊所为贫困患者提供免费治疗。"
+ },
+ {
+  "w": "indigestion",
+  "ph": "ˌɪndɪˈdʒestʃən",
+  "pos": "n.",
+  "zh": "消化不良",
+  "ex": "Eating too quickly often causes indigestion and discomfort.",
+  "exzh": "吃得太快常常引起消化不良和不适。"
+ },
+ {
+  "w": "indignity",
+  "ph": "ɪnˈdɪɡnəti",
+  "pos": "n.",
+  "zh": "侮辱；屈辱",
+  "ex": "He suffered the indignity of being searched at the gate.",
+  "exzh": "他在门口遭到搜身，蒙受了屈辱。"
+ },
+ {
+  "w": "indiscreet",
+  "ph": "ˌɪndɪˈskriːt",
+  "pos": "adj.",
+  "zh": "不慎重的；轻率的",
+  "ex": "It was indiscreet of her to repeat the private remark.",
+  "exzh": "她重复那句私下的话是不慎重的。"
+ },
+ {
+  "w": "indiscriminate",
+  "ph": "ˌɪndɪˈskrɪmɪnət",
+  "pos": "adj.",
+  "zh": "不加区分的；随意的",
+  "ex": "The bombing caused indiscriminate damage to homes and hospitals.",
+  "exzh": "轰炸对民宅和医院造成了无差别的破坏。"
+ },
+ {
+  "w": "indisputable",
+  "ph": "ˌɪndɪˈspjuːtəbl",
+  "pos": "adj.",
+  "zh": "无可争辩的",
+  "ex": "The evidence against him was indisputable and overwhelming.",
+  "exzh": "对他不利的证据无可争辩且确凿充分。"
+ },
+ {
+  "w": "indistinct",
+  "ph": "ˌɪndɪˈstɪŋkt",
+  "pos": "adj.",
+  "zh": "模糊的；不清楚的",
+  "ex": "The figures in the photograph were blurred and indistinct.",
+  "exzh": "照片里的人影模糊不清。"
+ },
+ {
+  "w": "indistinguishable",
+  "ph": "ˌɪndɪˈstɪŋɡwɪʃəbl",
+  "pos": "adj.",
+  "zh": "难以区分的",
+  "ex": "The twins are almost indistinguishable from each other.",
+  "exzh": "这对双胞胎几乎无法区分。"
+ },
+ {
+  "w": "indoctrinate",
+  "ph": "ɪnˈdɑːktrɪneɪt",
+  "pos": "v.",
+  "zh": "灌输；教导",
+  "ex": "The group tried to indoctrinate young members with extreme views.",
+  "exzh": "该团体试图向年轻成员灌输极端观点。"
+ },
+ {
+  "w": "indolent",
+  "ph": "ˈɪndələnt",
+  "pos": "adj.",
+  "zh": "懒惰的；懒散的",
+  "ex": "He led an indolent life and rarely left the house.",
+  "exzh": "他过着懒散的生活，很少出门。"
+ },
+ {
+  "w": "indomitable",
+  "ph": "ɪnˈdɑːmɪtəbl",
+  "pos": "adj.",
+  "zh": "不屈不挠的",
+  "ex": "Her indomitable spirit impressed everyone on the team.",
+  "exzh": "她不屈不挠的精神给队里每个人留下深刻印象。"
+ },
+ {
+  "w": "induct",
+  "ph": "ɪnˈdʌkt",
+  "pos": "v.",
+  "zh": "使正式就职；征召",
+  "ex": "He was inducted into the sports hall of fame last year.",
+  "exzh": "去年他入选了体育名人堂。"
+ },
+ {
+  "w": "inedible",
+  "ph": "ɪnˈedəbl",
+  "pos": "adj.",
+  "zh": "不可食用的",
+  "ex": "The soup was so salty that it was almost inedible.",
+  "exzh": "那汤太咸，几乎不能吃。"
+ },
+ {
+  "w": "ineffable",
+  "ph": "ɪnˈefəbl",
+  "pos": "adj.",
+  "zh": "难以言表的",
+  "ex": "She felt an ineffable sadness at the empty house.",
+  "exzh": "面对空荡荡的房子，她感到一种难以言表的悲伤。"
+ },
+ {
+  "w": "ineffectual",
+  "ph": "ˌɪnɪˈfektʃuəl",
+  "pos": "adj.",
+  "zh": "无效的；不起作用的",
+  "ex": "His ineffectual efforts did little to solve the problem.",
+  "exzh": "他徒劳的努力对解决问题几乎毫无帮助。"
+ },
+ {
+  "w": "ineligible",
+  "ph": "ɪnˈelɪdʒəbl",
+  "pos": "adj.",
+  "zh": "不合格的；无资格的",
+  "ex": "Players under eighteen are ineligible for the competition.",
+  "exzh": "十八岁以下的选手没有参赛资格。"
+ },
+ {
+  "w": "inept",
+  "ph": "ɪˈnept",
+  "pos": "adj.",
+  "zh": "无能的；不合适的",
+  "ex": "The inept handling of the crisis angered the public.",
+  "exzh": "对危机的无能处理激怒了公众。"
+ },
+ {
+  "w": "inert",
+  "ph": "ɪˈnɜːrt",
+  "pos": "adj.",
+  "zh": "惰性的；无生气的",
+  "ex": "The gas is chemically inert and does not react easily.",
+  "exzh": "这种气体化学性质惰性，不易反应。"
+ },
+ {
+  "w": "inexhaustible",
+  "ph": "ˌɪnɪɡˈzɔːstəbl",
+  "pos": "adj.",
+  "zh": "取之不尽的；不知疲倦的",
+  "ex": "She seems to have an inexhaustible supply of energy.",
+  "exzh": "她似乎有取之不尽的精力。"
+ },
+ {
+  "w": "inexorable",
+  "ph": "ɪnˈeksərəbl",
+  "pos": "adj.",
+  "zh": "不可阻挡的；无情的",
+  "ex": "The inexorable rise in prices worried ordinary families.",
+  "exzh": "物价不可阻挡的上涨让普通家庭担忧。"
+ },
+ {
+  "w": "infallible",
+  "ph": "ɪnˈfæləbl",
+  "pos": "adj.",
+  "zh": "不会出错的；可靠的",
+  "ex": "No doctor is infallible when making a diagnosis.",
+  "exzh": "没有医生在诊断时是绝不会出错的。"
+ },
+ {
+  "w": "infamous",
+  "ph": "ˈɪnfəməs",
+  "pos": "adj.",
+  "zh": "臭名昭著的",
+  "ex": "The prison was infamous for its brutal conditions.",
+  "exzh": "这座监狱因条件残酷而臭名昭著。"
+ },
+ {
+  "w": "infantry",
+  "ph": "ˈɪnfəntri",
+  "pos": "n.",
+  "zh": "步兵",
+  "ex": "The infantry advanced slowly under heavy enemy fire.",
+  "exzh": "步兵在敌人猛烈火力下缓慢推进。"
+ },
+ {
+  "w": "infatuated",
+  "ph": "ɪnˈfætʃueɪtɪd",
+  "pos": "adj.",
+  "zh": "迷恋的；着迷的",
+  "ex": "He was infatuated with her from the first meeting.",
+  "exzh": "他从第一次见面就迷恋上了她。"
+ },
+ {
+  "w": "infernal",
+  "ph": "ɪnˈfɜːrnl",
+  "pos": "adj.",
+  "zh": "地狱般的；可恶的",
+  "ex": "The infernal heat made work almost impossible.",
+  "exzh": "那地狱般的炎热使工作几乎无法进行。"
+ },
+ {
+  "w": "infertile",
+  "ph": "ɪnˈfɜːrtl",
+  "pos": "adj.",
+  "zh": "贫瘠的；不育的",
+  "ex": "The infertile soil produced only a thin crop.",
+  "exzh": "贫瘠的土壤只产出了稀薄的庄稼。"
+ },
+ {
+  "w": "infest",
+  "ph": "ɪnˈfest",
+  "pos": "v.",
+  "zh": "大量侵扰；遍布",
+  "ex": "Rats infested the old warehouse near the river.",
+  "exzh": "老鼠侵扰了河边的旧仓库。"
+ },
+ {
+  "w": "infidelity",
+  "ph": "ˌɪnfɪˈdeləti",
+  "pos": "n.",
+  "zh": "不忠；背信",
+  "ex": "The novel describes a marriage destroyed by infidelity.",
+  "exzh": "这部小说描写了一段因不忠而破裂的婚姻。"
+ },
+ {
+  "w": "infiltrate",
+  "ph": "ˈɪnfɪltreɪt",
+  "pos": "v.",
+  "zh": "渗入；潜入",
+  "ex": "The gang tried to infiltrate the local police force.",
+  "exzh": "该团伙试图渗透当地警察队伍。"
+ },
+ {
+  "w": "infinitesimal",
+  "ph": "ˌɪnfɪnɪˈtesɪml",
+  "pos": "adj.",
+  "zh": "极微小的",
+  "ex": "The chances of such an accident are infinitesimal.",
+  "exzh": "发生这种事故的可能性微乎其微。"
+ },
+ {
+  "w": "infirm",
+  "ph": "ɪnˈfɜːrm",
+  "pos": "adj.",
+  "zh": "虚弱的；体弱的",
+  "ex": "Her infirm grandmother needs help with daily tasks.",
+  "exzh": "她体弱的祖母日常事务需要帮助。"
+ },
+ {
+  "w": "inflammable",
+  "ph": "ɪnˈflæməbl",
+  "pos": "adj.",
+  "zh": "易燃的",
+  "ex": "The warehouse stored inflammable materials near the entrance.",
+  "exzh": "仓库在入口附近存放了易燃材料。"
+ },
+ {
+  "w": "inflammation",
+  "ph": "ˌɪnfləˈmeɪʃn",
+  "pos": "n.",
+  "zh": "炎症；发炎",
+  "ex": "The doctor prescribed cream for the skin inflammation.",
+  "exzh": "医生为皮肤炎症开了药膏。"
+ },
+ {
+  "w": "inflexible",
+  "ph": "ɪnˈfleksəbl",
+  "pos": "adj.",
+  "zh": "不灵活的；坚定的",
+  "ex": "The company remains inflexible about working hours.",
+  "exzh": "公司在工作时间上仍然毫不通融。"
+ },
+ {
+  "w": "inflict",
+  "ph": "ɪnˈflɪkt",
+  "pos": "v.",
+  "zh": "造成；施加",
+  "ex": "The storm inflicted severe damage on coastal villages.",
+  "exzh": "风暴给沿海村庄造成了严重破坏。"
+ },
+ {
+  "w": "influenza",
+  "ph": "ˌɪnfluˈenzə",
+  "pos": "n.",
+  "zh": "流感",
+  "ex": "Influenza spreads quickly in crowded schools and offices.",
+  "exzh": "流感在拥挤的学校和办公室迅速传播。"
+ },
+ {
+  "w": "influx",
+  "ph": "ˈɪnflʌks",
+  "pos": "n.",
+  "zh": "涌入；流入",
+  "ex": "The city struggled with an influx of new residents.",
+  "exzh": "这座城市疲于应对新居民的涌入。"
+ },
+ {
+  "w": "informant",
+  "ph": "ɪnˈfɔːrmənt",
+  "pos": "n.",
+  "zh": "线人；提供消息者",
+  "ex": "The police protected the identity of their informant.",
+  "exzh": "警方保护了线人的身份。"
+ },
+ {
+  "w": "informed",
+  "ph": "ɪnˈfɔːrmd",
+  "pos": "adj.",
+  "zh": "见多识广的；知情的",
+  "ex": "She is well informed about current economic policy.",
+  "exzh": "她对当前的经济政策十分了解。"
+ },
+ {
+  "w": "infraction",
+  "ph": "ɪnˈfrækʃn",
+  "pos": "n.",
+  "zh": "违规；违犯",
+  "ex": "Speeding is a minor infraction but still punishable.",
+  "exzh": "超速是轻微违规，但仍会受到处罚。"
+ },
+ {
+  "w": "infrared",
+  "ph": "ˌɪnfrəˈred",
+  "pos": "adj.",
+  "zh": "红外的",
+  "ex": "The camera can detect body heat using infrared light.",
+  "exzh": "这台相机能利用红外光探测人体热量。"
+ },
+ {
+  "w": "infrastructure",
+  "ph": "ˈɪnfrəstrʌktʃər",
+  "pos": "n.",
+  "zh": "基础设施",
+  "ex": "The country invested heavily in roads and other infrastructure.",
+  "exzh": "该国在道路及其他基础设施上投入巨资。"
+ },
+ {
+  "w": "infringe",
+  "ph": "ɪnˈfrɪndʒ",
+  "pos": "v.",
+  "zh": "侵犯；违反",
+  "ex": "The app may infringe the copyright of the original song.",
+  "exzh": "该应用可能侵犯原歌曲的版权。"
+ },
+ {
+  "w": "infuriate",
+  "ph": "ɪnˈfjʊrieɪt",
+  "pos": "v.",
+  "zh": "激怒；使大怒",
+  "ex": "The long delay infuriated passengers waiting at the gate.",
+  "exzh": "漫长的延误激怒了在登机口等候的乘客。"
+ },
+ {
+  "w": "infuse",
+  "ph": "ɪnˈfjuːz",
+  "pos": "v.",
+  "zh": "注入；浸泡",
+  "ex": "He tried to infuse the team with fresh confidence.",
+  "exzh": "他试图给团队注入新的信心。"
+ },
+ {
+  "w": "ingenious",
+  "ph": "ɪnˈdʒiːniəs",
+  "pos": "adj.",
+  "zh": "巧妙的；有独创性的",
+  "ex": "They found an ingenious solution to the space problem.",
+  "exzh": "他们为空间问题找到了巧妙的解决办法。"
+ },
+ {
+  "w": "ingenuity",
+  "ph": "ˌɪndʒəˈnuːəti",
+  "pos": "n.",
+  "zh": "独创性；心灵手巧",
+  "ex": "The bridge shows remarkable ingenuity in its design.",
+  "exzh": "这座桥的设计展现了非凡的独创性。"
+ },
+ {
+  "w": "ingenuous",
+  "ph": "ɪnˈdʒenjuəs",
+  "pos": "adj.",
+  "zh": "天真的；坦率的",
+  "ex": "Her ingenuous smile convinced everyone of her honesty.",
+  "exzh": "她天真的笑容让大家相信她的诚实。"
+ },
+ {
+  "w": "ingrained",
+  "ph": "ˌɪnˈɡreɪnd",
+  "pos": "adj.",
+  "zh": "根深蒂固的",
+  "ex": "Such attitudes are deeply ingrained in local culture.",
+  "exzh": "这种态度深深植根于当地文化。"
+ },
+ {
+  "w": "ingratiate",
+  "ph": "ɪnˈɡreɪʃieɪt",
+  "pos": "v.",
+  "zh": "讨好；逢迎",
+  "ex": "He tried to ingratiate himself with the new manager.",
+  "exzh": "他试图讨好新经理。"
+ },
+ {
+  "w": "ingratitude",
+  "ph": "ɪnˈɡrætɪtuːd",
+  "pos": "n.",
+  "zh": "忘恩负义",
+  "ex": "She was hurt by the ingratitude of her former students.",
+  "exzh": "以前学生的忘恩负义让她很伤心。"
+ },
+ {
+  "w": "inhale",
+  "ph": "ɪnˈheɪl",
+  "pos": "v.",
+  "zh": "吸入",
+  "ex": "Firefighters must not inhale the thick black smoke.",
+  "exzh": "消防员绝不能吸入浓烈的黑烟。"
+ },
+ {
+  "w": "inhospitable",
+  "ph": "ˌɪnhɑːˈspɪtəbl",
+  "pos": "adj.",
+  "zh": "不好客的；荒凉的",
+  "ex": "The region is beautiful but inhospitable in winter.",
+  "exzh": "这个地区很美，但冬天不宜居住。"
+ },
+ {
+  "w": "inhuman",
+  "ph": "ɪnˈhjuːmən",
+  "pos": "adj.",
+  "zh": "残忍的；非人的",
+  "ex": "The guards were punished for their inhuman treatment of prisoners.",
+  "exzh": "狱警因不人道地对待囚犯而受罚。"
+ },
+ {
+  "w": "inhumane",
+  "ph": "ˌɪnhjuːˈmeɪn",
+  "pos": "adj.",
+  "zh": "不人道的；残忍的",
+  "ex": "Keeping animals in such small cages is inhumane.",
+  "exzh": "把动物关在这么小的笼子里是不人道的。"
+ },
+ {
+  "w": "inimical",
+  "ph": "ɪˈnɪmɪkl",
+  "pos": "adj.",
+  "zh": "有害的；敌意的",
+  "ex": "Excessive debt is inimical to long-term growth.",
+  "exzh": "过度负债对长期增长有害。"
+ },
+ {
+  "w": "inimitable",
+  "ph": "ɪˈnɪmɪtəbl",
+  "pos": "adj.",
+  "zh": "无与伦比的；独特的",
+  "ex": "She has an inimitable style of telling stories.",
+  "exzh": "她讲故事的风格独一无二。"
+ },
+ {
+  "w": "iniquity",
+  "ph": "ɪˈnɪkwəti",
+  "pos": "n.",
+  "zh": "邪恶；不公",
+  "ex": "The report exposed the iniquities of the old system.",
+  "exzh": "报告揭露了旧制度的种种不公。"
+ },
+ {
+  "w": "injunction",
+  "ph": "ɪnˈdʒʌŋkʃn",
+  "pos": "n.",
+  "zh": "禁令；命令",
+  "ex": "The court issued an injunction against the construction.",
+  "exzh": "法院发布了禁止施工的禁令。"
+ },
+ {
+  "w": "injurious",
+  "ph": "ɪnˈdʒʊriəs",
+  "pos": "adj.",
+  "zh": "有害的；造成伤害的",
+  "ex": "Smoking is injurious to health as well as costly.",
+  "exzh": "吸烟有害健康，而且花费不小。"
+ },
+ {
+  "w": "inlet",
+  "ph": "ˈɪnlet",
+  "pos": "n.",
+  "zh": "小海湾；入口",
+  "ex": "The boat sheltered in a narrow inlet during the storm.",
+  "exzh": "暴风雨中船停泊在一个狭窄的小海湾里。"
+ },
+ {
+  "w": "inmate",
+  "ph": "ˈɪnmeɪt",
+  "pos": "n.",
+  "zh": "囚犯；同住者",
+  "ex": "The inmate was allowed one phone call each week.",
+  "exzh": "囚犯每周可以打一次电话。"
+ },
+ {
+  "w": "innate",
+  "ph": "ɪˈneɪt",
+  "pos": "adj.",
+  "zh": "天生的；固有的",
+  "ex": "She has an innate sense of rhythm and timing.",
+  "exzh": "她天生具有节奏感和时机感。"
+ },
+ {
+  "w": "innocuous",
+  "ph": "ɪˈnɑːkjuəs",
+  "pos": "adj.",
+  "zh": "无害的；无恶意的",
+  "ex": "The snake looks frightening but is actually innocuous.",
+  "exzh": "这条蛇看起来很吓人，其实无害。"
+ },
+ {
+  "w": "innuendo",
+  "ph": "ˌɪnjuˈendoʊ",
+  "pos": "n.",
+  "zh": "暗示；影射",
+  "ex": "His remarks were full of sly innuendo about her past.",
+  "exzh": "他的话充满了对她过去的狡猾影射。"
+ },
+ {
+  "w": "innumerable",
+  "ph": "ɪˈnuːmərəbl",
+  "pos": "adj.",
+  "zh": "无数的；数不清的",
+  "ex": "Innumerable stars filled the clear desert sky.",
+  "exzh": "无数星星布满清澈的沙漠夜空。"
+ },
+ {
+  "w": "inoculate",
+  "ph": "ɪˈnɑːkjuleɪt",
+  "pos": "v.",
+  "zh": "给…接种；预防注射",
+  "ex": "Doctors inoculated the children against the seasonal virus.",
+  "exzh": "医生为孩子们接种了预防季节性病毒的疫苗。"
+ },
+ {
+  "w": "inoffensive",
+  "ph": "ˌɪnəˈfensɪv",
+  "pos": "adj.",
+  "zh": "无害的；不令人反感的",
+  "ex": "The film is a gentle, inoffensive comedy for families.",
+  "exzh": "这部电影是一部温和、无害的家庭喜剧。"
+ },
+ {
+  "w": "inordinate",
+  "ph": "ɪˈnɔːrdɪnət",
+  "pos": "adj.",
+  "zh": "过度的；过分的",
+  "ex": "He spends an inordinate amount of time online.",
+  "exzh": "他花过多时间上网。"
+ },
+ {
+  "w": "inorganic",
+  "ph": "ˌɪnɔːrˈɡænɪk",
+  "pos": "adj.",
+  "zh": "无机的；非生物的",
+  "ex": "The course covers both organic and inorganic chemistry.",
+  "exzh": "这门课程涵盖有机化学和无机化学。"
+ },
+ {
+  "w": "inquest",
+  "ph": "ˈɪŋkwest",
+  "pos": "n.",
+  "zh": "调查；验尸",
+  "ex": "An inquest will be held into the cause of death.",
+  "exzh": "将就死因举行一次调查。"
+ },
+ {
+  "w": "inquisition",
+  "ph": "ˌɪnkwɪˈzɪʃn",
+  "pos": "n.",
+  "zh": "调查；审讯",
+  "ex": "The committee's inquisition lasted almost four hours.",
+  "exzh": "委员会的调查持续了将近四个小时。"
+ },
+ {
+  "w": "inquisitive",
+  "ph": "ɪnˈkwɪzətɪv",
+  "pos": "adj.",
+  "zh": "好奇的；爱打听的",
+  "ex": "The child was inquisitive about how machines work.",
+  "exzh": "这孩子对机器如何运作充满好奇。"
+ },
+ {
+  "w": "insatiable",
+  "ph": "ɪnˈseɪʃəbl",
+  "pos": "adj.",
+  "zh": "贪得无厌的；无法满足的",
+  "ex": "He has an insatiable appetite for adventure stories.",
+  "exzh": "他对冒险故事有永不满足的胃口。"
+ },
+ {
+  "w": "inscribe",
+  "ph": "ɪnˈskraɪb",
+  "pos": "v.",
+  "zh": "刻写；题写",
+  "ex": "They inscribed their names on the school wall.",
+  "exzh": "他们在学校墙上刻下了自己的名字。"
+ },
+ {
+  "w": "inscription",
+  "ph": "ɪnˈskrɪpʃn",
+  "pos": "n.",
+  "zh": "铭文；题词",
+  "ex": "The inscription on the stone was almost worn away.",
+  "exzh": "石头上的铭文几乎被磨掉了。"
+ },
+ {
+  "w": "inscrutable",
+  "ph": "ɪnˈskruːtəbl",
+  "pos": "adj.",
+  "zh": "难以捉摸的；神秘的",
+  "ex": "His inscrutable expression told us nothing at all.",
+  "exzh": "他难以捉摸的表情什么也没告诉我们。"
+ },
+ {
+  "w": "insecticide",
+  "ph": "ɪnˈsektɪsaɪd",
+  "pos": "n.",
+  "zh": "杀虫剂",
+  "ex": "Farmers spray insecticide to protect the young plants.",
+  "exzh": "农民喷洒杀虫剂保护幼苗。"
+ },
+ {
+  "w": "insensible",
+  "ph": "ɪnˈsensəbl",
+  "pos": "adj.",
+  "zh": "无感觉的；未察觉的",
+  "ex": "He was insensible to the cold after the accident.",
+  "exzh": "事故后他对寒冷毫无知觉。"
+ },
+ {
+  "w": "insidious",
+  "ph": "ɪnˈsɪdiəs",
+  "pos": "adj.",
+  "zh": "隐伏的；阴险的",
+  "ex": "The disease has an insidious onset with few symptoms.",
+  "exzh": "这种病起病隐匿，症状很少。"
+ },
+ {
+  "w": "insignia",
+  "ph": "ɪnˈsɪɡniə",
+  "pos": "n.",
+  "zh": "徽章；标志",
+  "ex": "The pilot wore the insignia of his air force unit.",
+  "exzh": "飞行员佩戴着他所在空军部队的徽章。"
+ },
+ {
+  "w": "insincere",
+  "ph": "ˌɪnsɪnˈsɪr",
+  "pos": "adj.",
+  "zh": "不真诚的；虚伪的",
+  "ex": "Her apology sounded insincere and almost rehearsed.",
+  "exzh": "她的道歉听起来不真诚，几乎是背好的。"
+ },
+ {
+  "w": "insinuate",
+  "ph": "ɪnˈsɪnjueɪt",
+  "pos": "v.",
+  "zh": "暗示；使潜入",
+  "ex": "Are you insinuating that I lied to the committee?",
+  "exzh": "你是在暗示我向委员会撒了谎吗？"
+ },
+ {
+  "w": "insipid",
+  "ph": "ɪnˈsɪpɪd",
+  "pos": "adj.",
+  "zh": "乏味的；淡而无味的",
+  "ex": "The soup was warm but rather insipid.",
+  "exzh": "汤是热的，但相当乏味。"
+ },
+ {
+  "w": "insistence",
+  "ph": "ɪnˈsɪstəns",
+  "pos": "n.",
+  "zh": "坚持；坚决主张",
+  "ex": "At his insistence we stayed for one more day.",
+  "exzh": "在他的坚持下，我们多留了一天。"
+ },
+ {
+  "w": "insolent",
+  "ph": "ˈɪnsələnt",
+  "pos": "adj.",
+  "zh": "傲慢无礼的",
+  "ex": "The insolent waiter ignored our requests for water.",
+  "exzh": "那个傲慢无礼的服务员无视我们要水的请求。"
+ },
+ {
+  "w": "insoluble",
+  "ph": "ɪnˈsɑːljəbl",
+  "pos": "adj.",
+  "zh": "不可溶解的；无法解决的",
+  "ex": "Some plastics are insoluble in water and resist decay.",
+  "exzh": "有些塑料不溶于水且不易降解。"
+ },
+ {
+  "w": "insolvent",
+  "ph": "ɪnˈsɑːlvənt",
+  "pos": "adj.",
+  "zh": "破产的；无力偿还的",
+  "ex": "The company was declared insolvent earlier this year.",
+  "exzh": "该公司今年早些时候被宣布破产。"
+ },
+ {
+  "w": "insomnia",
+  "ph": "ɪnˈsɑːmniə",
+  "pos": "n.",
+  "zh": "失眠；失眠症",
+  "ex": "Worry about the exam gave him chronic insomnia.",
+  "exzh": "对考试的担忧使他长期失眠。"
+ },
+ {
+  "w": "instill",
+  "ph": "ɪnˈstɪl",
+  "pos": "v.",
+  "zh": "逐渐灌输；滴注",
+  "ex": "Good parents instill honesty and patience in their children.",
+  "exzh": "好的父母向孩子灌输诚实和耐心。"
+ },
+ {
+  "w": "instrumental",
+  "ph": "ˌɪnstrəˈmentl",
+  "pos": "adj.",
+  "zh": "起重要作用的；乐器的",
+  "ex": "She was instrumental in setting up the new clinic.",
+  "exzh": "她在建立新诊所中发挥了重要作用。"
+ },
+ {
+  "w": "insubordinate",
+  "ph": "ˌɪnsəˈbɔːrdɪnət",
+  "pos": "adj.",
+  "zh": "不服从的；反抗的",
+  "ex": "The insubordinate soldier refused to follow orders.",
+  "exzh": "那名不服从的士兵拒绝执行命令。"
+ },
+ {
+  "w": "insufferable",
+  "ph": "ɪnˈsʌfərəbl",
+  "pos": "adj.",
+  "zh": "难以忍受的",
+  "ex": "His insufferable arrogance made meetings painful.",
+  "exzh": "他令人难以忍受的傲慢使会议变得痛苦。"
+ },
+ {
+  "w": "insurgent",
+  "ph": "ɪnˈsɜːrdʒənt",
+  "pos": "n.",
+  "zh": "叛乱者；起义者",
+  "ex": "Insurgents attacked a supply convoy near the border.",
+  "exzh": "叛乱分子袭击了边境附近的一支补给车队。"
+ },
+ {
+  "w": "insurmountable",
+  "ph": "ˌɪnsərˈmaʊntəbl",
+  "pos": "adj.",
+  "zh": "无法克服的",
+  "ex": "The budget gap seemed insurmountable at first.",
+  "exzh": "起初这个预算缺口似乎无法弥合。"
+ },
+ {
+  "w": "insurrection",
+  "ph": "ˌɪnsəˈrekʃn",
+  "pos": "n.",
+  "zh": "起义；暴动",
+  "ex": "The government crushed the insurrection within three days.",
+  "exzh": "政府在三天内镇压了这场暴动。"
+ },
+ {
+  "w": "intangible",
+  "ph": "ɪnˈtændʒəbl",
+  "pos": "adj.",
+  "zh": "无形的；难以理解的",
+  "ex": "The job brings intangible rewards like respect and freedom.",
+  "exzh": "这份工作带来尊重和自由等无形回报。"
+ },
+ {
+  "w": "integer",
+  "ph": "ˈɪntɪdʒər",
+  "pos": "n.",
+  "zh": "整数",
+  "ex": "Type a positive integer in the first box.",
+  "exzh": "在第一个框里输入一个正整数。"
+ },
+ {
+  "w": "intelligible",
+  "ph": "ɪnˈtelɪdʒəbl",
+  "pos": "adj.",
+  "zh": "可理解的；明白易懂的",
+  "ex": "His lecture was clear and intelligible to beginners.",
+  "exzh": "他的讲座对初学者来说清楚易懂。"
+ },
+ {
+  "w": "intemperate",
+  "ph": "ɪnˈtempərət",
+  "pos": "adj.",
+  "zh": "放纵的；过度的",
+  "ex": "His intemperate remarks angered many older members.",
+  "exzh": "他放纵的言论激怒了许多年长成员。"
+ },
+ {
+  "w": "intercede",
+  "ph": "ˌɪntərˈsiːd",
+  "pos": "v.",
+  "zh": "调解；求情",
+  "ex": "She interceded with the manager on behalf of her colleague.",
+  "exzh": "她代表同事向经理求情。"
+ },
+ {
+  "w": "intercept",
+  "ph": "ˌɪntərˈsept",
+  "pos": "v.",
+  "zh": "拦截；截取",
+  "ex": "The defender intercepted the ball in the final minute.",
+  "exzh": "后卫在最后一分钟断下了球。"
+ },
+ {
+  "w": "interchangeable",
+  "ph": "ˌɪntərˈtʃeɪndʒəbl",
+  "pos": "adj.",
+  "zh": "可互换的",
+  "ex": "The two parts are interchangeable and easy to replace.",
+  "exzh": "这两个部件可以互换，更换方便。"
+ },
+ {
+  "w": "intercourse",
+  "ph": "ˈɪntərkɔːrs",
+  "pos": "n.",
+  "zh": "交往；交流",
+  "ex": "Trade and cultural intercourse grew between the two nations.",
+  "exzh": "两国之间的贸易和文化交往增长了。"
+ },
+ {
+  "w": "interdependent",
+  "ph": "ˌɪntərdɪˈpendənt",
+  "pos": "adj.",
+  "zh": "相互依存的",
+  "ex": "Modern economies are closely interdependent and easily disrupted.",
+  "exzh": "现代经济体紧密相互依存，容易受到冲击。"
+ },
+ {
+  "w": "interdisciplinary",
+  "ph": "ˌɪntərˈdɪsəpləneri",
+  "pos": "adj.",
+  "zh": "跨学科的",
+  "ex": "The university offers an interdisciplinary course in climate studies.",
+  "exzh": "这所大学开设了一门跨学科的气候研究课程。"
+ },
+ {
+  "w": "interim",
+  "ph": "ˈɪntərɪm",
+  "pos": "adj.",
+  "zh": "临时的；过渡期的",
+  "ex": "An interim manager will run the office until June.",
+  "exzh": "一位临时经理将管理办公室直到六月。"
+ },
+ {
+  "w": "interlock",
+  "ph": "ˌɪntərˈlɑːk",
+  "pos": "v.",
+  "zh": "连锁；互相扣合",
+  "ex": "The pieces interlock to form a strong frame.",
+  "exzh": "这些部件互相扣合，形成一个坚固的框架。"
+ },
+ {
+  "w": "interlude",
+  "ph": "ˈɪntərluːd",
+  "pos": "n.",
+  "zh": "插曲；间歇",
+  "ex": "A short musical interlude separated the two speeches.",
+  "exzh": "一段短小的音乐插曲隔开了两场演讲。"
+ },
+ {
+  "w": "intermediary",
+  "ph": "ˌɪntərˈmiːdieri",
+  "pos": "n.",
+  "zh": "中间人；调解者",
+  "ex": "She acted as an intermediary between the buyers and sellers.",
+  "exzh": "她充当买卖双方之间的中间人。"
+ },
+ {
+  "w": "interminable",
+  "ph": "ɪnˈtɜːrmɪnəbl",
+  "pos": "adj.",
+  "zh": "冗长乏味的；无休止的",
+  "ex": "The meeting felt interminable after the third hour.",
+  "exzh": "会议进行到第三个小时后显得没完没了。"
+ },
+ {
+  "w": "intermission",
+  "ph": "ˌɪntərˈmɪʃn",
+  "pos": "n.",
+  "zh": "幕间休息；暂停",
+  "ex": "We bought ice cream during the fifteen-minute intermission.",
+  "exzh": "我们在十五分钟的幕间休息时买了冰淇淋。"
+ },
+ {
+  "w": "intermittent",
+  "ph": "ˌɪntərˈmɪtənt",
+  "pos": "adj.",
+  "zh": "间歇的；断断续续的",
+  "ex": "The intermittent rain ruined our picnic plans.",
+  "exzh": "时断时续的雨毁了我们的野餐计划。"
+ },
+ {
+  "w": "intern",
+  "ph": "ɪnˈtɜːrn",
+  "pos": "v.",
+  "zh": "拘禁；做实习生",
+  "ex": "The newspaper will intern six students this summer.",
+  "exzh": "这家报纸今年夏天将接收六名实习生。"
+ },
+ {
+  "w": "interplay",
+  "ph": "ˈɪntərpleɪ",
+  "pos": "n.",
+  "zh": "相互作用；相互影响",
+  "ex": "The film explores the interplay of memory and desire.",
+  "exzh": "这部电影探讨了记忆与欲望的相互作用。"
+ },
+ {
+  "w": "interpolate",
+  "ph": "ɪnˈtɜːrpəleɪt",
+  "pos": "v.",
+  "zh": "插入；篡改",
+  "ex": "The editor interpolated a few lines into the original text.",
+  "exzh": "编辑在原文本中插入了几个句子。"
+ },
+ {
+  "w": "interpose",
+  "ph": "ˌɪntərˈpoʊz",
+  "pos": "v.",
+  "zh": "插入；调停",
+  "ex": "He interposed a question before she could finish.",
+  "exzh": "她还没说完，他就插了一个问题。"
+ },
+ {
+  "w": "interrogate",
+  "ph": "ɪnˈterəɡeɪt",
+  "pos": "v.",
+  "zh": "审问；盘问",
+  "ex": "Police interrogated the suspect for several hours.",
+  "exzh": "警察审问了嫌疑人几个小时。"
+ },
+ {
+  "w": "intersperse",
+  "ph": "ˌɪntərˈspɜːrs",
+  "pos": "v.",
+  "zh": "散布；点缀",
+  "ex": "Small cafés are interspersed among the narrow streets.",
+  "exzh": "狭窄的街道间散布着小咖啡馆。"
+ },
+ {
+  "w": "interstate",
+  "ph": "ˌɪntərˈsteɪt",
+  "pos": "adj.",
+  "zh": "州际的",
+  "ex": "They drove across three states on the interstate highway.",
+  "exzh": "他们在州际公路上开车穿过三个州。"
+ },
+ {
+  "w": "intestine",
+  "ph": "ɪnˈtestɪn",
+  "pos": "n.",
+  "zh": "肠",
+  "ex": "The small intestine absorbs most of the nutrients.",
+  "exzh": "小肠吸收大部分营养。"
+ },
+ {
+  "w": "intimidate",
+  "ph": "ɪnˈtɪmɪdeɪt",
+  "pos": "v.",
+  "zh": "恐吓；威胁",
+  "ex": "He tried to intimidate the witness with threats.",
+  "exzh": "他试图用威胁恐吓证人。"
+ },
+ {
+  "w": "intractable",
+  "ph": "ɪnˈtræktəbl",
+  "pos": "adj.",
+  "zh": "棘手的；倔强的",
+  "ex": "Poverty remains an intractable problem in the region.",
+  "exzh": "贫困在该地区仍是一个棘手的问题。"
+ },
+ {
+  "w": "intrepid",
+  "ph": "ɪnˈtrepɪd",
+  "pos": "adj.",
+  "zh": "无畏的；勇敢的",
+  "ex": "The intrepid explorer crossed the desert alone.",
+  "exzh": "那位无畏的探险家独自穿越了沙漠。"
+ },
+ {
+  "w": "intricate",
+  "ph": "ˈɪntrɪkət",
+  "pos": "adj.",
+  "zh": "错综复杂的；精细的",
+  "ex": "The watch contains an intricate system of tiny gears.",
+  "exzh": "这只手表包含一套复杂的微型齿轮系统。"
+ },
+ {
+  "w": "intrigue",
+  "ph": "ɪnˈtriːɡ",
+  "pos": "v.",
+  "zh": "激起兴趣；密谋",
+  "ex": "Her story intrigued everyone at the dinner table.",
+  "exzh": "她的故事引起了餐桌上所有人的兴趣。"
+ },
+ {
+  "w": "intrinsic",
+  "ph": "ɪnˈtrɪnsɪk",
+  "pos": "adj.",
+  "zh": "内在的；固有的",
+  "ex": "Reading has an intrinsic value beyond passing exams.",
+  "exzh": "阅读具有超越考试的内在价值。"
+ },
+ {
+  "w": "introvert",
+  "ph": "ˈɪntrəvɜːrt",
+  "pos": "n.",
+  "zh": "内向的人",
+  "ex": "As an introvert, he prefers small gatherings to big parties.",
+  "exzh": "作为内向的人，他更喜欢小聚会而非大型派对。"
+ },
+ {
+  "w": "intrude",
+  "ph": "ɪnˈtruːd",
+  "pos": "v.",
+  "zh": "侵入；打扰",
+  "ex": "I hope I am not intruding on your conversation.",
+  "exzh": "希望我没有打扰你们的谈话。"
+ },
+ {
+  "w": "intrusion",
+  "ph": "ɪnˈtruːʒn",
+  "pos": "n.",
+  "zh": "侵入；打扰",
+  "ex": "The new road is an intrusion on the quiet valley.",
+  "exzh": "这条新路是对宁静山谷的侵扰。"
+ },
+ {
+  "w": "intrusive",
+  "ph": "ɪnˈtruːsɪv",
+  "pos": "adj.",
+  "zh": "侵扰的；闯入的",
+  "ex": "Reporters asked intrusive questions about her family.",
+  "exzh": "记者们问了一些关于她家庭的侵扰性问题。"
+ },
+ {
+  "w": "intuition",
+  "ph": "ˌɪntuˈɪʃn",
+  "pos": "n.",
+  "zh": "直觉；直觉力",
+  "ex": "Her intuition told her that something was wrong.",
+  "exzh": "她的直觉告诉她出了什么问题。"
+ },
+ {
+  "w": "intuitive",
+  "ph": "ɪnˈtuːɪtɪv",
+  "pos": "adj.",
+  "zh": "直觉的；易懂的",
+  "ex": "The software has an intuitive interface for new users.",
+  "exzh": "这个软件为新手提供了直观的界面。"
+ },
+ {
+  "w": "inundate",
+  "ph": "ˈɪnʌndeɪt",
+  "pos": "v.",
+  "zh": "淹没；使应接不暇",
+  "ex": "Heavy rain inundated the low-lying streets of the town.",
+  "exzh": "大雨淹没了镇上地势低洼的街道。"
+ },
+ {
+  "w": "invalid",
+  "ph": "ɪnˈvælɪd",
+  "pos": "adj.",
+  "zh": "无效的；站不住的",
+  "ex": "Your ticket is invalid without a photo identification.",
+  "exzh": "没有带照片的身份证明，你的票无效。"
+ },
+ {
+  "w": "invariable",
+  "ph": "ɪnˈveriəbl",
+  "pos": "adj.",
+  "zh": "不变的；恒定的",
+  "ex": "In this region, sunrise follows an invariable pattern.",
+  "exzh": "在这个地区，日出遵循一成不变的规律。"
+ },
+ {
+  "w": "invert",
+  "ph": "ɪnˈvɜːrt",
+  "pos": "v.",
+  "zh": "使颠倒；使反转",
+  "ex": "Invert the bowl carefully so the cake slides out.",
+  "exzh": "小心地把碗倒扣，让蛋糕滑出来。"
+ },
+ {
+  "w": "inveterate",
+  "ph": "ɪnˈvetərət",
+  "pos": "adj.",
+  "zh": "根深蒂固的；积习难改的",
+  "ex": "He is an inveterate traveler who never stays home.",
+  "exzh": "他是个积习难改的旅行者，从不在家待着。"
+ },
+ {
+  "w": "invigorate",
+  "ph": "ɪnˈvɪɡəreɪt",
+  "pos": "v.",
+  "zh": "使精力充沛；使振奋",
+  "ex": "A cold shower will invigorate you before the meeting.",
+  "exzh": "会议前洗个冷水澡会让你精神焕发。"
+ },
+ {
+  "w": "invincible",
+  "ph": "ɪnˈvɪnsəbl",
+  "pos": "adj.",
+  "zh": "不可战胜的；无敌的",
+  "ex": "The team seemed invincible after twelve straight wins.",
+  "exzh": "连赢十二场后这支球队似乎不可战胜。"
+ },
+ {
+  "w": "inviolable",
+  "ph": "ɪnˈvaɪələbl",
+  "pos": "adj.",
+  "zh": "不可侵犯的；不可违背的",
+  "ex": "The treaty declares the border inviolable and permanent.",
+  "exzh": "该条约宣布边界不可侵犯且永久有效。"
+ },
+ {
+  "w": "invoice",
+  "ph": "ˈɪnvɔɪs",
+  "pos": "n.",
+  "zh": "发票；账单",
+  "ex": "Please send the invoice to our accounts department.",
+  "exzh": "请把发票寄到我们的财务部门。"
+ },
+ {
+  "w": "invoke",
+  "ph": "ɪnˈvoʊk",
+  "pos": "v.",
+  "zh": "援引；唤起",
+  "ex": "The lawyer invoked an old law to defend his client.",
+  "exzh": "律师援引一条旧法律为当事人辩护。"
+ },
+ {
+  "w": "involuntary",
+  "ph": "ɪnˈvɑːlənteri",
+  "pos": "adj.",
+  "zh": "无意识的；非自愿的",
+  "ex": "Blinking is an involuntary reaction to sudden light.",
+  "exzh": "眨眼是对强光的无意识反应。"
+ },
+ {
+  "w": "invulnerable",
+  "ph": "ɪnˈvʌlnərəbl",
+  "pos": "adj.",
+  "zh": "无懈可击的；不会受伤的",
+  "ex": "The fortress seemed invulnerable to any attack.",
+  "exzh": "这座要塞似乎无法被任何攻击攻破。"
+ },
+ {
+  "w": "iodine",
+  "ph": "ˈaɪədaɪn",
+  "pos": "n.",
+  "zh": "碘",
+  "ex": "The nurse cleaned the wound with iodine solution.",
+  "exzh": "护士用碘溶液清洁了伤口。"
+ },
+ {
+  "w": "ion",
+  "ph": "ˈaɪɑːn",
+  "pos": "n.",
+  "zh": "离子",
+  "ex": "An ion carries a positive or negative electric charge.",
+  "exzh": "离子带有正电荷或负电荷。"
+ },
+ {
+  "w": "irate",
+  "ph": "aɪˈreɪt",
+  "pos": "adj.",
+  "zh": "愤怒的；发怒的",
+  "ex": "The irate customer demanded to see the manager.",
+  "exzh": "愤怒的顾客要求见经理。"
+ },
+ {
+  "w": "iridescent",
+  "ph": "ˌɪrɪˈdesnt",
+  "pos": "adj.",
+  "zh": "彩虹色的；闪光的",
+  "ex": "The bird's feathers were iridescent in the sunlight.",
+  "exzh": "这只鸟的羽毛在阳光下呈彩虹色。"
+ },
+ {
+  "w": "irreconcilable",
+  "ph": "ɪˈrekənsaɪləbl",
+  "pos": "adj.",
+  "zh": "不可调和的",
+  "ex": "The two sides held irreconcilable views on the issue.",
+  "exzh": "双方在这个问题上持不可调和的观点。"
+ },
+ {
+  "w": "irrefutable",
+  "ph": "ˌɪrɪˈfjuːtəbl",
+  "pos": "adj.",
+  "zh": "无可辩驳的",
+  "ex": "The evidence against him was irrefutable and complete.",
+  "exzh": "对他不利的证据无可辩驳且完整。"
+ },
+ {
+  "w": "irreparable",
+  "ph": "ɪˈrepərəbl",
+  "pos": "adj.",
+  "zh": "无法弥补的；不可修复的",
+  "ex": "The flood caused irreparable damage to the manuscripts.",
+  "exzh": "洪水对手稿造成了无法弥补的损坏。"
+ },
+ {
+  "w": "irrepressible",
+  "ph": "ˌɪrɪˈpresəbl",
+  "pos": "adj.",
+  "zh": "无法抑制的",
+  "ex": "She has an irrepressible urge to correct mistakes.",
+  "exzh": "她有一种无法抑制的纠错冲动。"
+ },
+ {
+  "w": "irreproachable",
+  "ph": "ˌɪrɪˈproʊtʃəbl",
+  "pos": "adj.",
+  "zh": "无可指责的",
+  "ex": "His conduct during the crisis was irreproachable.",
+  "exzh": "他在危机期间的行为无可指责。"
+ },
+ {
+  "w": "irrespective",
+  "ph": "ˌɪrɪˈspektɪv",
+  "pos": "adj.",
+  "zh": "不论；不考虑的",
+  "ex": "Everyone can join, irrespective of age or experience.",
+  "exzh": "不论年龄或经验，所有人都可以参加。"
+ },
+ {
+  "w": "irretrievable",
+  "ph": "ˌɪrɪˈtriːvəbl",
+  "pos": "adj.",
+  "zh": "无法挽回的",
+  "ex": "The data loss turned out to be irretrievable.",
+  "exzh": "数据丢失结果无法挽回。"
+ },
+ {
+  "w": "irreverent",
+  "ph": "ɪˈrevərənt",
+  "pos": "adj.",
+  "zh": "不敬的；无礼的",
+  "ex": "His irreverent jokes annoyed the older guests.",
+  "exzh": "他不敬的玩笑惹恼了年长的客人。"
+ },
+ {
+  "w": "irreversible",
+  "ph": "ˌɪrɪˈvɜːrsəbl",
+  "pos": "adj.",
+  "zh": "不可逆转的",
+  "ex": "The damage to the forest may be irreversible.",
+  "exzh": "对森林的破坏可能不可逆转。"
+ },
+ {
+  "w": "irrevocable",
+  "ph": "ɪˈrevəkəbl",
+  "pos": "adj.",
+  "zh": "不可撤销的；最终的",
+  "ex": "The decision to close the factory was irrevocable.",
+  "exzh": "关闭工厂的决定不可撤销。"
+ },
+ {
+  "w": "irritable",
+  "ph": "ˈɪrɪtəbl",
+  "pos": "adj.",
+  "zh": "易怒的；急躁的",
+  "ex": "He becomes irritable when he misses his morning coffee.",
+  "exzh": "他早上没喝咖啡就会变得易怒。"
+ },
+ {
+  "w": "irritation",
+  "ph": "ˌɪrɪˈteɪʃn",
+  "pos": "n.",
+  "zh": "恼怒；刺激",
+  "ex": "She felt a sudden irritation at his careless remark.",
+  "exzh": "他随口的一句话让她突然感到恼火。"
+ },
+ {
+  "w": "isle",
+  "ph": "aɪl",
+  "pos": "n.",
+  "zh": "岛；小岛",
+  "ex": "A small isle lies just off the northern coast.",
+  "exzh": "北部海岸外有一个小岛。"
+ },
+ {
+  "w": "issuance",
+  "ph": "ˈɪʃuəns",
+  "pos": "n.",
+  "zh": "发放；发行",
+  "ex": "The issuance of new passports takes about two weeks.",
+  "exzh": "新护照的签发大约需要两周。"
+ },
+ {
+  "w": "itch",
+  "ph": "ɪtʃ",
+  "pos": "v.",
+  "zh": "发痒；渴望",
+  "ex": "The wool sweater made his neck itch all day.",
+  "exzh": "那件羊毛衫让他的脖子痒了一整天。"
+ },
+ {
+  "w": "itemize",
+  "ph": "ˈaɪtəmaɪz",
+  "pos": "v.",
+  "zh": "逐项列出",
+  "ex": "Please itemize every expense in the final report.",
+  "exzh": "请在最终报告中逐项列出每一笔开支。"
+ },
+ {
+  "w": "iterate",
+  "ph": "ˈɪtəreɪt",
+  "pos": "v.",
+  "zh": "重复；迭代",
+  "ex": "The team will iterate on the design until it works.",
+  "exzh": "团队将不断迭代设计，直到它能正常工作。"
+ },
+ {
+  "w": "itinerant",
+  "ph": "aɪˈtɪnərənt",
+  "pos": "adj.",
+  "zh": "流动的；巡回的",
+  "ex": "An itinerant teacher visited villages without schools.",
+  "exzh": "一位流动教师走访了没有学校的村庄。"
+ },
+ {
+  "w": "itinerary",
+  "ph": "aɪˈtɪnəreri",
+  "pos": "n.",
+  "zh": "行程；旅行计划",
+  "ex": "Our itinerary includes three cities in five days.",
+  "exzh": "我们的行程包括五天内游览三座城市。"
+ },
+ {
+  "w": "jargon",
+  "ph": "ˈdʒɑːrɡən",
+  "pos": "n.",
+  "zh": "行话；术语",
+  "ex": "The manual is full of technical jargon nobody understands.",
+  "exzh": "手册里全是没人看得懂的技术行话。"
+ },
+ {
+  "w": "jeopardy",
+  "ph": "ˈdʒepərdi",
+  "pos": "n.",
+  "zh": "危险；危难",
+  "ex": "His career was in jeopardy after the scandal.",
+  "exzh": "丑闻之后他的职业生涯岌岌可危。"
+ },
+ {
+  "w": "jolt",
+  "ph": "dʒoʊlt",
+  "pos": "v.",
+  "zh": "颠簸；使震惊",
+  "ex": "The bus jolted violently as it hit the pothole.",
+  "exzh": "公交车撞上坑洼时剧烈颠簸。"
+ },
+ {
+  "w": "jostle",
+  "ph": "ˈdʒɑːsl",
+  "pos": "v.",
+  "zh": "推挤；争夺",
+  "ex": "Passengers jostled each other to board the crowded train.",
+  "exzh": "乘客们互相推挤着上了拥挤的火车。"
+ },
+ {
+  "w": "jovial",
+  "ph": "ˈdʒoʊviəl",
+  "pos": "adj.",
+  "zh": "快活的；友好的",
+  "ex": "Our host was jovial and kept everyone laughing.",
+  "exzh": "我们的主人快活开朗，让大家笑声不断。"
+ },
+ {
+  "w": "judicial",
+  "ph": "dʒuˈdɪʃl",
+  "pos": "adj.",
+  "zh": "司法的；法庭的",
+  "ex": "The case is now under judicial review.",
+  "exzh": "该案目前正在接受司法审查。"
+ },
+ {
+  "w": "judiciary",
+  "ph": "dʒuˈdɪʃieri",
+  "pos": "n.",
+  "zh": "司法机构；法院系统",
+  "ex": "An independent judiciary is essential to a fair society.",
+  "exzh": "独立的司法机构对公平社会至关重要。"
+ },
+ {
+  "w": "judicious",
+  "ph": "dʒuˈdɪʃəs",
+  "pos": "adj.",
+  "zh": "明智的；审慎的",
+  "ex": "A judicious use of resources kept the project alive.",
+  "exzh": "明智地使用资源使项目得以维持。"
+ },
+ {
+  "w": "juggle",
+  "ph": "ˈdʒʌɡl",
+  "pos": "v.",
+  "zh": "玩杂耍；努力应付",
+  "ex": "She juggles two jobs and a full course load.",
+  "exzh": "她同时应付两份工作和满负荷的课程。"
+ },
+ {
+  "w": "junction",
+  "ph": "ˈdʒʌŋkʃn",
+  "pos": "n.",
+  "zh": "交叉口；连接处",
+  "ex": "Turn left at the next junction and follow the signs.",
+  "exzh": "在下一个路口左转，然后跟着路标走。"
+ },
+ {
+  "w": "juncture",
+  "ph": "ˈdʒʌŋktʃər",
+  "pos": "n.",
+  "zh": "关头；时刻",
+  "ex": "At this critical juncture, calm leadership is essential.",
+  "exzh": "在这个关键时刻，冷静的领导至关重要。"
+ },
+ {
+  "w": "junk",
+  "ph": "dʒʌŋk",
+  "pos": "n.",
+  "zh": "垃圾；废旧物品",
+  "ex": "The garage was filled with old furniture and junk.",
+  "exzh": "车库里堆满了旧家具和杂物。"
+ },
+ {
+  "w": "jurisdiction",
+  "ph": "ˌdʒʊrɪsˈdɪkʃn",
+  "pos": "n.",
+  "zh": "司法权；管辖范围",
+  "ex": "The case falls outside the jurisdiction of this court.",
+  "exzh": "该案不属于本法院的管辖范围。"
+ },
+ {
+  "w": "kernel",
+  "ph": "ˈkɜːrnl",
+  "pos": "n.",
+  "zh": "核心；果仁",
+  "ex": "There is a kernel of truth in what she says.",
+  "exzh": "她的话里有一点道理。"
+ },
+ {
+  "w": "kin",
+  "ph": "kɪn",
+  "pos": "n.",
+  "zh": "亲属；家族",
+  "ex": "His next of kin was informed of the accident.",
+  "exzh": "他的近亲被告知了这起事故。"
+ },
+ {
+  "w": "kindred",
+  "ph": "ˈkɪndrəd",
+  "pos": "adj.",
+  "zh": "同类的；志趣相投的",
+  "ex": "They discovered a kindred spirit in the quiet stranger.",
+  "exzh": "他们在那个安静的陌生人身上发现了志趣相投的灵魂。"
+ },
+ {
+  "w": "kinship",
+  "ph": "ˈkɪnʃɪp",
+  "pos": "n.",
+  "zh": "亲属关系；亲近感",
+  "ex": "The two families share a strong sense of kinship.",
+  "exzh": "这两个家庭有着强烈的亲情感。"
+ },
+ {
+  "w": "kiosk",
+  "ph": "ˈkiːɑːsk",
+  "pos": "n.",
+  "zh": "小亭；报刊亭",
+  "ex": "We bought cold drinks from a kiosk near the station.",
+  "exzh": "我们在车站附近的小亭子买了冷饮。"
+ },
+ {
+  "w": "knack",
+  "ph": "næk",
+  "pos": "n.",
+  "zh": "诀窍；本领",
+  "ex": "She has a knack for explaining difficult ideas simply.",
+  "exzh": "她有把复杂想法解释得简单的诀窍。"
+ },
+ {
+  "w": "knuckle",
+  "ph": "ˈnʌkl",
+  "pos": "n.",
+  "zh": "指关节",
+  "ex": "He scraped his knuckles while fixing the engine.",
+  "exzh": "他修引擎时擦伤了指关节。"
+ },
+ {
+  "w": "laborious",
+  "ph": "ləˈbɔːriəs",
+  "pos": "adj.",
+  "zh": "费力的；艰苦的",
+  "ex": "Copying the whole manuscript by hand was laborious work.",
+  "exzh": "手工抄写整份手稿是件费力的工作。"
+ },
+ {
+  "w": "laden",
+  "ph": "ˈleɪdn",
+  "pos": "adj.",
+  "zh": "装满的；负载的",
+  "ex": "The trees were laden with ripe apples and pears.",
+  "exzh": "树上挂满了成熟的苹果和梨。"
+ },
+ {
+  "w": "lapse",
+  "ph": "læps",
+  "pos": "n.",
+  "zh": "失误；流逝",
+  "ex": "A brief lapse in attention caused the accident.",
+  "exzh": "一时的注意力疏忽造成了这起事故。"
+ },
+ {
+  "w": "lash",
+  "ph": "læʃ",
+  "pos": "v.",
+  "zh": "鞭打；猛烈冲击",
+  "ex": "Heavy rain lashed the windows throughout the night.",
+  "exzh": "大雨整夜抽打着窗户。"
+ },
+ {
+  "w": "latch",
+  "ph": "lætʃ",
+  "pos": "n.",
+  "zh": "门闩；插销",
+  "ex": "She lifted the latch and pushed the gate open.",
+  "exzh": "她抬起门闩，推开了大门。"
+ },
+ {
+  "w": "lateral",
+  "ph": "ˈlætərəl",
+  "pos": "adj.",
+  "zh": "侧面的；横向的",
+  "ex": "The car moved into the lateral lane too quickly.",
+  "exzh": "汽车过快驶入侧车道。"
+ },
+ {
+  "w": "latitude",
+  "ph": "ˈlætɪtuːd",
+  "pos": "n.",
+  "zh": "纬度；自由度",
+  "ex": "The island lies at a latitude of forty degrees.",
+  "exzh": "该岛位于北纬四十度。"
+ },
+ {
+  "w": "lava",
+  "ph": "ˈlɑːvə",
+  "pos": "n.",
+  "zh": "熔岩；岩浆",
+  "ex": "Hot lava flowed slowly down the side of the volcano.",
+  "exzh": "炽热的熔岩沿火山侧缓缓流下。"
+ },
+ {
+  "w": "lavish",
+  "ph": "ˈlævɪʃ",
+  "pos": "adj.",
+  "zh": "奢华的；慷慨的",
+  "ex": "They held a lavish party in the hotel ballroom.",
+  "exzh": "他们在酒店舞厅举办了一场奢华的派对。"
+ },
+ {
+  "w": "lawful",
+  "ph": "ˈlɔːfl",
+  "pos": "adj.",
+  "zh": "合法的；守法的",
+  "ex": "The police must act in a lawful and transparent way.",
+  "exzh": "警方必须以合法透明的方式行事。"
+ },
+ {
+  "w": "lawsuit",
+  "ph": "ˈlɔːsuːt",
+  "pos": "n.",
+  "zh": "诉讼；官司",
+  "ex": "The company faces a lawsuit over the faulty product.",
+  "exzh": "该公司因产品缺陷面临诉讼。"
+ },
+ {
+  "w": "lax",
+  "ph": "læks",
+  "pos": "adj.",
+  "zh": "松懈的；不严格的",
+  "ex": "Security at the stadium was surprisingly lax.",
+  "exzh": "体育场的安保出奇地松懈。"
+ },
+ {
+  "w": "layman",
+  "ph": "ˈleɪmən",
+  "pos": "n.",
+  "zh": "外行；门外汉",
+  "ex": "The book explains physics in terms any layman understands.",
+  "exzh": "这本书用任何外行都能理解的方式解释物理学。"
+ },
+ {
+  "w": "leaflet",
+  "ph": "ˈliːflət",
+  "pos": "n.",
+  "zh": "传单；小册子",
+  "ex": "Volunteers handed out leaflets about the health campaign.",
+  "exzh": "志愿者分发了有关健康运动的传单。"
+ },
+ {
+  "w": "lease",
+  "ph": "liːs",
+  "pos": "n.",
+  "zh": "租约；租期",
+  "ex": "They signed a two-year lease on the apartment.",
+  "exzh": "他们签了这套公寓的两年租约。"
+ },
+ {
+  "w": "leash",
+  "ph": "liːʃ",
+  "pos": "n.",
+  "zh": "皮带；束缚",
+  "ex": "Keep the dog on a leash in the public park.",
+  "exzh": "在公园里请给狗系上皮带。"
+ },
+ {
+  "w": "ledge",
+  "ph": "ledʒ",
+  "pos": "n.",
+  "zh": "壁架；岩架",
+  "ex": "A bird had built its nest on the narrow ledge.",
+  "exzh": "一只鸟在狭窄的岩架上筑了巢。"
+ },
+ {
+  "w": "ledger",
+  "ph": "ˈledʒər",
+  "pos": "n.",
+  "zh": "账簿；账本",
+  "ex": "The accountant checked every entry in the ledger.",
+  "exzh": "会计核对了账簿上的每一笔记录。"
+ },
+ {
+  "w": "leeway",
+  "ph": "ˈliːweɪ",
+  "pos": "n.",
+  "zh": "余地；自由空间",
+  "ex": "The budget allows some leeway for unexpected costs.",
+  "exzh": "预算为意外开支留有一些余地。"
+ },
+ {
+  "w": "legacy",
+  "ph": "ˈleɡəsi",
+  "pos": "n.",
+  "zh": "遗产；遗留问题",
+  "ex": "The reform left a lasting legacy in education.",
+  "exzh": "这项改革在教育领域留下了持久的遗产。"
+ },
+ {
+  "w": "legible",
+  "ph": "ˈledʒəbl",
+  "pos": "adj.",
+  "zh": "清晰易读的",
+  "ex": "Please write in legible letters on the form.",
+  "exzh": "请在表格上用清晰易读的字书写。"
+ },
+ {
+  "w": "legion",
+  "ph": "ˈliːdʒən",
+  "pos": "n.",
+  "zh": "军团；众多",
+  "ex": "A legion of volunteers helped clean the beach.",
+  "exzh": "大批志愿者帮助清理海滩。"
+ },
+ {
+  "w": "legislation",
+  "ph": "ˌledʒɪsˈleɪʃn",
+  "pos": "n.",
+  "zh": "立法；法规",
+  "ex": "New legislation will limit plastic packaging by 2030.",
+  "exzh": "新立法将在2030年前限制塑料包装。"
+ },
+ {
+  "w": "legislative",
+  "ph": "ˈledʒɪsleɪtɪv",
+  "pos": "adj.",
+  "zh": "立法的",
+  "ex": "The bill must pass both legislative houses.",
+  "exzh": "该法案必须通过两院立法机构。"
+ },
+ {
+  "w": "legislature",
+  "ph": "ˈledʒɪsleɪtʃər",
+  "pos": "n.",
+  "zh": "立法机构；议会",
+  "ex": "The state legislature debated the budget for weeks.",
+  "exzh": "州议会就预算辩论了数周。"
+ },
+ {
+  "w": "lengthy",
+  "ph": "ˈleŋθi",
+  "pos": "adj.",
+  "zh": "冗长的；漫长的",
+  "ex": "After a lengthy discussion the committee reached a decision.",
+  "exzh": "经过冗长的讨论，委员会作出了决定。"
+ },
+ {
+  "w": "lenient",
+  "ph": "ˈliːniənt",
+  "pos": "adj.",
+  "zh": "宽容的；宽大的",
+  "ex": "The judge was lenient with the young offender.",
+  "exzh": "法官对这名年轻罪犯从宽处理。"
+ },
+ {
+  "w": "lethal",
+  "ph": "ˈliːθl",
+  "pos": "adj.",
+  "zh": "致命的；危害极大的",
+  "ex": "Even a small dose of the chemical is lethal.",
+  "exzh": "即使少量这种化学品也是致命的。"
+ },
+ {
+  "w": "lethargy",
+  "ph": "ˈleθərdʒi",
+  "pos": "n.",
+  "zh": "昏睡；倦怠",
+  "ex": "A heavy lunch left him in a state of lethargy.",
+  "exzh": "一顿丰盛的午餐让他昏昏欲睡。"
+ },
+ {
+  "w": "leverage",
+  "ph": "ˈlevərɪdʒ",
+  "pos": "n.",
+  "zh": "影响力；杠杆作用",
+  "ex": "The union used its leverage to win higher pay.",
+  "exzh": "工会利用其影响力争取到了更高的薪酬。"
+ },
+ {
+  "w": "levy",
+  "ph": "ˈlevi",
+  "pos": "v.",
+  "zh": "征收；征税",
+  "ex": "The city will levy a tax on empty buildings.",
+  "exzh": "该市将对空置建筑征税。"
+ },
+ {
+  "w": "liability",
+  "ph": "ˌlaɪəˈbɪləti",
+  "pos": "n.",
+  "zh": "责任；负债",
+  "ex": "The company accepted liability for the pollution.",
+  "exzh": "公司承担了污染的责任。"
+ },
+ {
+  "w": "liaison",
+  "ph": "liˈeɪzɑːn",
+  "pos": "n.",
+  "zh": "联络；联络人",
+  "ex": "She acts as liaison between the school and parents.",
+  "exzh": "她担任学校与家长之间的联络人。"
+ },
+ {
+  "w": "likelihood",
+  "ph": "ˈlaɪklihʊd",
+  "pos": "n.",
+  "zh": "可能性；概率",
+  "ex": "There is little likelihood of rain this weekend.",
+  "exzh": "这个周末下雨的可能性很小。"
+ },
+ {
+  "w": "limp",
+  "ph": "lɪmp",
+  "pos": "v.",
+  "zh": "跛行；蹒跚",
+  "ex": "He limped off the field after the heavy tackle.",
+  "exzh": "在被重重铲倒后他一瘸一拐地下场。"
+ },
+ {
+  "w": "linear",
+  "ph": "ˈlɪniər",
+  "pos": "adj.",
+  "zh": "线性的；直线的",
+  "ex": "Progress was steady but far from linear.",
+  "exzh": "进展稳定，但远非线性。"
+ },
+ {
+  "w": "linguistic",
+  "ph": "lɪŋˈɡwɪstɪk",
+  "pos": "adj.",
+  "zh": "语言的；语言学的",
+  "ex": "The study examines linguistic differences among regions.",
+  "exzh": "这项研究考察各地区之间的语言差异。"
+ },
+ {
+  "w": "liquidate",
+  "ph": "ˈlɪkwɪdeɪt",
+  "pos": "v.",
+  "zh": "清算；清除",
+  "ex": "The firm was forced to liquidate its remaining assets.",
+  "exzh": "该公司被迫清算剩余资产。"
+ },
+ {
+  "w": "literal",
+  "ph": "ˈlɪtərəl",
+  "pos": "adj.",
+  "zh": "字面的；文字的",
+  "ex": "A literal translation often loses the original humor.",
+  "exzh": "直译常常会失去原有的幽默。"
+ },
+ {
+  "w": "literally",
+  "ph": "ˈlɪtərəli",
+  "pos": "adv.",
+  "zh": "字面上；确实地",
+  "ex": "The town was literally cut off by the flood.",
+  "exzh": "这个镇确实被洪水隔绝了。"
+ },
+ {
+  "w": "literate",
+  "ph": "ˈlɪtərət",
+  "pos": "adj.",
+  "zh": "识字的；有文化的",
+  "ex": "Nearly all adults in the country are literate.",
+  "exzh": "该国几乎所有成年人都识字。"
+ },
+ {
+  "w": "litigation",
+  "ph": "ˌlɪtɪˈɡeɪʃn",
+  "pos": "n.",
+  "zh": "诉讼；打官司",
+  "ex": "The dispute ended in costly litigation lasting years.",
+  "exzh": "这场纠纷以持续多年的昂贵诉讼告终。"
+ },
+ {
+  "w": "livestock",
+  "ph": "ˈlaɪvstɑːk",
+  "pos": "n.",
+  "zh": "牲畜；家畜",
+  "ex": "The farm raises livestock and grows wheat.",
+  "exzh": "这个农场饲养牲畜并种植小麦。"
+ },
+ {
+  "w": "loathe",
+  "ph": "loʊð",
+  "pos": "v.",
+  "zh": "厌恶；憎恨",
+  "ex": "She loathes crowded parties and loud music.",
+  "exzh": "她厌恶拥挤的聚会和吵闹的音乐。"
+ },
+ {
+  "w": "locality",
+  "ph": "loʊˈkæləti",
+  "pos": "n.",
+  "zh": "地区；地点",
+  "ex": "The plant grows only in this damp locality.",
+  "exzh": "这种植物只生长在这个潮湿的地区。"
+ },
+ {
+  "w": "logistics",
+  "ph": "ləˈdʒɪstɪks",
+  "pos": "n.",
+  "zh": "物流；后勤",
+  "ex": "Poor logistics delayed the delivery by two weeks.",
+  "exzh": "物流不畅使交货延迟了两周。"
+ },
+ {
+  "w": "longevity",
+  "ph": "lɔːnˈdʒevəti",
+  "pos": "n.",
+  "zh": "长寿；寿命",
+  "ex": "Diet and exercise strongly influence human longevity.",
+  "exzh": "饮食和运动对人类长寿有很大影响。"
+ },
+ {
+  "w": "loom",
+  "ph": "luːm",
+  "pos": "v.",
+  "zh": "隐现；逼近",
+  "ex": "Deadlines loomed as the semester drew to a close.",
+  "exzh": "学期将尽，截止日期迫在眉睫。"
+ },
+ {
+  "w": "loophole",
+  "ph": "ˈluːphoʊl",
+  "pos": "n.",
+  "zh": "漏洞；空子",
+  "ex": "Wealthy firms exploit every loophole in the tax law.",
+  "exzh": "富裕公司利用税法中的每一个漏洞。"
+ },
+ {
+  "w": "loot",
+  "ph": "luːt",
+  "pos": "v.",
+  "zh": "洗劫；抢劫",
+  "ex": "Crowds looted shops during the long power outage.",
+  "exzh": "长时间停电期间人群洗劫了商店。"
+ },
+ {
+  "w": "lottery",
+  "ph": "ˈlɑːtəri",
+  "pos": "n.",
+  "zh": "彩票；抽签",
+  "ex": "He won a small fortune in the national lottery.",
+  "exzh": "他在全国彩票中赢得了一笔小财富。"
+ },
+ {
+  "w": "lubricant",
+  "ph": "ˈluːbrɪkənt",
+  "pos": "n.",
+  "zh": "润滑剂",
+  "ex": "Apply a little lubricant to the moving metal parts.",
+  "exzh": "在活动的金属部件上涂一点润滑剂。"
+ },
+ {
+  "w": "lubricate",
+  "ph": "ˈluːbrɪkeɪt",
+  "pos": "v.",
+  "zh": "润滑；使顺畅",
+  "ex": "Oil is used to lubricate the moving parts.",
+  "exzh": "油用来润滑运动部件。"
+ },
+ {
+  "w": "lucid",
+  "ph": "ˈluːsɪd",
+  "pos": "adj.",
+  "zh": "清晰的；神志清醒的",
+  "ex": "Her explanation was lucid and easy to follow.",
+  "exzh": "她的解释清晰易懂。"
+ },
+ {
+  "w": "ludicrous",
+  "ph": "ˈluːdɪkrəs",
+  "pos": "adj.",
+  "zh": "荒唐的；可笑的",
+  "ex": "The idea of banning umbrellas indoors seems ludicrous.",
+  "exzh": "室内禁伞的想法似乎很荒唐。"
+ },
+ {
+  "w": "lukewarm",
+  "ph": "ˌluːkˈwɔːrm",
+  "pos": "adj.",
+  "zh": "微温的；不热心的",
+  "ex": "The soup was lukewarm by the time we ate.",
+  "exzh": "我们吃的时候汤已经微温了。"
+ },
+ {
+  "w": "lull",
+  "ph": "lʌl",
+  "pos": "v.",
+  "zh": "使平静；哄睡",
+  "ex": "The soft music lulled the baby to sleep.",
+  "exzh": "轻柔的音乐把婴儿哄睡了。"
+ },
+ {
+  "w": "lurch",
+  "ph": "lɜːrtʃ",
+  "pos": "v.",
+  "zh": "突然倾斜；蹒跚",
+  "ex": "The ship lurched violently as the wave struck.",
+  "exzh": "浪打来时船剧烈摇晃。"
+ },
+ {
+  "w": "lurk",
+  "ph": "lɜːrk",
+  "pos": "v.",
+  "zh": "潜伏；埋伏",
+  "ex": "A cat lurked behind the bushes near the gate.",
+  "exzh": "一只猫潜伏在门附近的灌木丛后。"
+ },
+ {
+  "w": "lush",
+  "ph": "lʌʃ",
+  "pos": "adj.",
+  "zh": "茂盛的；豪华的",
+  "ex": "The valley was green and lush after the rains.",
+  "exzh": "雨后山谷一片葱绿茂盛。"
+ },
+ {
+  "w": "lust",
+  "ph": "lʌst",
+  "pos": "n.",
+  "zh": "强烈的欲望；贪欲",
+  "ex": "His lust for power destroyed his political career.",
+  "exzh": "他对权力的贪欲毁掉了他的政治生涯。"
+ },
+ {
+  "w": "luxurious",
+  "ph": "lʌɡˈʒʊriəs",
+  "pos": "adj.",
+  "zh": "奢华的；舒适的",
+  "ex": "They spent a week in a luxurious seaside hotel.",
+  "exzh": "他们在一家豪华的海滨酒店住了一周。"
+ }
+]

@@ -1,0 +1,18 @@
+﻿词感 · 句子跟读刷词（Windows 原生窗口版 1.3.0）
+============================================
+
+1. 双击「词感.exe」启动，会打开一个独立的原生窗口，不再启动 Chrome/Edge。
+2. 不需要管理员权限，直接双击即可；不要勾选「以管理员身份运行」。
+3. 需要 Windows 10/11 自带的 Microsoft Edge WebView2 Runtime。
+   如果提示缺少 WebView2，请安装：
+   https://developer.microsoft.com/microsoft-edge/webview2/
+4. 学习记录保存在 %LOCALAPPDATA%\WordSenseNative 中，不上传网络。
+   首次运行会自动迁移旧版 %LOCALAPPDATA%\WordSense\profile 里的学习记录。
+5. 首次点麦克风跟读时，Windows 会询问麦克风权限，请选择允许。
+6. 朗读使用 Windows/Edge 自带语音；自动评分使用 Windows 语音识别。
+7. 每日提醒到点会由系统通知（需允许通知，且窗口保持打开）；手机端是系统通知。
+8. 换电脑前，请用「设置 → 数据管理 → 导出备份」备份学习记录。
+9. 删除 %LOCALAPPDATA%\WordSenseNative 即可彻底清除本机数据。
+
+如果 Windows SmartScreen 提示未知发布者，选择「更多信息 → 仍要运行」。
+本程序不收集任何数据，词库为自建数据，仅供个人学习使用。

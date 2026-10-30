@@ -1,0 +1,2706 @@
+[
+  {
+    "w": "magnetism",
+    "ph": "ˈmæɡnəˌtɪzəm",
+    "pos": "n.",
+    "zh": "磁性；吸引力；磁学",
+    "ex": "A strange magnetism drew the audience to her quiet performance.",
+    "exzh": "一种奇特的吸引力把观众吸引到她安静的表演上。"
+  },
+  {
+    "w": "magnification",
+    "ph": "ˌmæɡnəfɪˈkeɪʃən",
+    "pos": "n.",
+    "zh": "放大；放大倍数",
+    "ex": "This microscope offers twenty times magnification for tiny specimens.",
+    "exzh": "这台显微镜对微小标本提供二十倍放大。"
+  },
+  {
+    "w": "makeshift",
+    "ph": "ˈmeɪkˌʃɪft",
+    "pos": "adj./n.",
+    "zh": "临时的；临时替代物",
+    "ex": "They built a makeshift shelter from branches and old boards.",
+    "exzh": "他们用树枝和旧木板搭了一个临时住所。"
+  },
+  {
+    "w": "malice",
+    "ph": "ˈmælɪs",
+    "pos": "n.",
+    "zh": "恶意；怨恨",
+    "ex": "She spoke of her rival without the slightest malice.",
+    "exzh": "她谈起对手时没有丝毫恶意。"
+  },
+  {
+    "w": "malignant",
+    "ph": "məˈlɪɡnənt",
+    "pos": "adj.",
+    "zh": "恶性的；恶意的",
+    "ex": "The surgeon removed a malignant tumor from his left lung.",
+    "exzh": "外科医生从他的左肺切除了一个恶性肿瘤。"
+  },
+  {
+    "w": "malleable",
+    "ph": "ˈmæliəbəl",
+    "pos": "adj.",
+    "zh": "可塑的；易受影响的",
+    "ex": "Young minds are malleable and quickly absorb new ideas.",
+    "exzh": "年轻人的思想可塑性强，能迅速吸收新观念。"
+  },
+  {
+    "w": "mammoth",
+    "ph": "ˈmæməθ",
+    "pos": "adj./n.",
+    "zh": "巨大的；猛犸象",
+    "ex": "Cleaning the whole stadium was a mammoth task for the crew.",
+    "exzh": "清理整个体育场对工作人员来说是一项巨大的任务。"
+  },
+  {
+    "w": "mania",
+    "ph": "ˈmeɪniə",
+    "pos": "n.",
+    "zh": "狂热；癖好",
+    "ex": "The fitness mania has swept through offices across the country.",
+    "exzh": "健身狂热已席卷全国各地的办公室。"
+  },
+  {
+    "w": "manifesto",
+    "ph": "ˌmænɪˈfestoʊ",
+    "pos": "n.",
+    "zh": "宣言；声明",
+    "ex": "The party published a manifesto promising lower taxes and cleaner air.",
+    "exzh": "该党发表宣言，承诺降低税收和净化空气。"
+  },
+  {
+    "w": "manifold",
+    "ph": "ˈmænɪfoʊld",
+    "pos": "adj.",
+    "zh": "多种的；多方面的",
+    "ex": "The new railway brought manifold benefits to the remote town.",
+    "exzh": "新铁路给这个偏远小镇带来了多方面的好处。"
+  },
+  {
+    "w": "mantle",
+    "ph": "ˈmæntəl",
+    "pos": "n.",
+    "zh": "披风；覆盖层；地幔",
+    "ex": "A thick mantle of snow covered the sleeping village.",
+    "exzh": "一层厚厚的白雪覆盖着沉睡的村庄。"
+  },
+  {
+    "w": "mariner",
+    "ph": "ˈmærɪnər",
+    "pos": "n.",
+    "zh": "水手；海员",
+    "ex": "The old mariner told us stories about storms at sea.",
+    "exzh": "这位老水手给我们讲海上风暴的故事。"
+  },
+  {
+    "w": "maritime",
+    "ph": "ˈmærɪtaɪm",
+    "pos": "adj.",
+    "zh": "海上的；海运的；沿海的",
+    "ex": "The city has a long maritime tradition and busy docks.",
+    "exzh": "这座城市有悠久的海运传统和繁忙的码头。"
+  },
+  {
+    "w": "marrow",
+    "ph": "ˈmæroʊ",
+    "pos": "n.",
+    "zh": "骨髓；精华",
+    "ex": "Doctors transplanted bone marrow to treat her blood disease.",
+    "exzh": "医生移植骨髓来治疗她的血液病。"
+  },
+  {
+    "w": "marshal",
+    "ph": "ˈmɑːrʃəl",
+    "pos": "v./n.",
+    "zh": "整理；元帅",
+    "ex": "He tried to marshal his thoughts before the interview.",
+    "exzh": "面试前他努力整理自己的思路。"
+  },
+  {
+    "w": "martyr",
+    "ph": "ˈmɑːrtər",
+    "pos": "n./v.",
+    "zh": "烈士；殉道者",
+    "ex": "The fallen soldiers were honored as martyrs of the nation.",
+    "exzh": "阵亡士兵被尊为国家的烈士。"
+  },
+  {
+    "w": "masquerade",
+    "ph": "ˌmæskəˈreɪd",
+    "pos": "n./v.",
+    "zh": "化装舞会；伪装",
+    "ex": "The spy attended the ball in a clever masquerade.",
+    "exzh": "那名间谍以巧妙的伪装参加了舞会。"
+  },
+  {
+    "w": "massacre",
+    "ph": "ˈmæsəkər",
+    "pos": "n./v.",
+    "zh": "屠杀；大量杀害",
+    "ex": "The museum records the massacre of innocent villagers in 1937.",
+    "exzh": "博物馆记录了1937年对无辜村民的屠杀。"
+  },
+  {
+    "w": "masterful",
+    "ph": "ˈmæstərfəl",
+    "pos": "adj.",
+    "zh": "熟练的；精湛的",
+    "ex": "Her masterful handling of the crisis impressed every colleague.",
+    "exzh": "她对危机的精湛处理让每位同事都很佩服。"
+  },
+  {
+    "w": "mastery",
+    "ph": "ˈmæstəri",
+    "pos": "n.",
+    "zh": "精通；掌握；统治",
+    "ex": "Years of practice gave him mastery of the violin.",
+    "exzh": "多年的练习使他对小提琴驾轻就熟。"
+  },
+  {
+    "w": "materialism",
+    "ph": "məˈtɪriəˌlɪzəm",
+    "pos": "n.",
+    "zh": "物质主义；唯物主义",
+    "ex": "His book criticizes the crude materialism of modern city life.",
+    "exzh": "他的书批判现代城市生活中粗俗的物质主义。"
+  },
+  {
+    "w": "maternity",
+    "ph": "məˈtɜːrnəti",
+    "pos": "n./adj.",
+    "zh": "母性；产科",
+    "ex": "She took maternity leave after her daughter was born.",
+    "exzh": "女儿出生后她休了产假。"
+  },
+  {
+    "w": "matrimony",
+    "ph": "ˈmætrəˌmoʊni",
+    "pos": "n.",
+    "zh": "婚姻；婚姻生活",
+    "ex": "They entered matrimony after ten years of close friendship.",
+    "exzh": "他们在十年亲密友谊之后步入了婚姻。"
+  },
+  {
+    "w": "matrix",
+    "ph": "ˈmeɪtrɪks",
+    "pos": "n.",
+    "zh": "矩阵；基体；母体",
+    "ex": "The data were arranged in a simple matrix of rows and columns.",
+    "exzh": "数据被排列成一个简单的行列矩阵。"
+  },
+  {
+    "w": "meagre",
+    "ph": "ˈmiːɡər",
+    "pos": "adj.",
+    "zh": "贫乏的；瘦的",
+    "ex": "The family survived on a meagre income for many years.",
+    "exzh": "这家人多年来靠微薄的收入生活。"
+  },
+  {
+    "w": "meander",
+    "ph": "miˈændər",
+    "pos": "v.",
+    "zh": "蜿蜒；漫步",
+    "ex": "The river meanders through green fields for many miles.",
+    "exzh": "这条河蜿蜒流过绿色田野，长达数英里。"
+  },
+  {
+    "w": "measles",
+    "ph": "ˈmiːzəlz",
+    "pos": "n.",
+    "zh": "麻疹",
+    "ex": "Most children are vaccinated against measles before school age.",
+    "exzh": "大多数儿童在入学前就接种了麻疹疫苗。"
+  },
+  {
+    "w": "meddle",
+    "ph": "ˈmedəl",
+    "pos": "v.",
+    "zh": "干涉；插手",
+    "ex": "She warned him not to meddle in her private affairs.",
+    "exzh": "她警告他不要干涉她的私事。"
+  },
+  {
+    "w": "mediation",
+    "ph": "ˌmiːdiˈeɪʃən",
+    "pos": "n.",
+    "zh": "调解；仲裁",
+    "ex": "A neutral lawyer handled the mediation between the two firms.",
+    "exzh": "一位中立的律师主持了两家公司之间的调解。"
+  },
+  {
+    "w": "mediator",
+    "ph": "ˈmiːdiˌeɪtər",
+    "pos": "n.",
+    "zh": "调解人；中介",
+    "ex": "The union accepted the mediator's proposal after long talks.",
+    "exzh": "经过长时间谈判，工会接受了调解人的提议。"
+  },
+  {
+    "w": "melancholy",
+    "ph": "ˈmelənˌkɑːli",
+    "pos": "n./adj.",
+    "zh": "忧郁；悲伤的",
+    "ex": "A gentle melancholy filled the empty house at dusk.",
+    "exzh": "黄昏时空荡的房子里弥漫着淡淡的忧伤。"
+  },
+  {
+    "w": "mellow",
+    "ph": "ˈmeloʊ",
+    "pos": "adj./v.",
+    "zh": "柔和的；醇厚的；成熟",
+    "ex": "The mellow light of the lamp made the small room cozy.",
+    "exzh": "柔和的灯光使这个小房间显得温馨。"
+  },
+  {
+    "w": "melodrama",
+    "ph": "ˈmeləˌdrɑːmə",
+    "pos": "n.",
+    "zh": "情节剧；夸张的言行",
+    "ex": "The film turns a simple story into cheap melodrama.",
+    "exzh": "这部电影把简单的故事变成了廉价的情节剧。"
+  },
+  {
+    "w": "membrane",
+    "ph": "ˈmembreɪn",
+    "pos": "n.",
+    "zh": "薄膜；隔膜",
+    "ex": "The virus passes through the cell membrane quite easily.",
+    "exzh": "病毒很容易穿过细胞膜。"
+  },
+  {
+    "w": "memento",
+    "ph": "məˈmentoʊ",
+    "pos": "n.",
+    "zh": "纪念品；遗物",
+    "ex": "She kept his letters as a memento of their youth.",
+    "exzh": "她保留了他的信，作为他们青春的纪念。"
+  },
+  {
+    "w": "memoir",
+    "ph": "ˈmemwɑːr",
+    "pos": "n.",
+    "zh": "回忆录；传记",
+    "ex": "In her memoir she describes life during the long war.",
+    "exzh": "她在回忆录中描述了漫长战争期间的生活。"
+  },
+  {
+    "w": "memorandum",
+    "ph": "ˌmeməˈrændəm",
+    "pos": "n.",
+    "zh": "备忘录；便笺",
+    "ex": "The manager sent a short memorandum about the new rules.",
+    "exzh": "经理发了一份关于新规定的简短备忘录。"
+  },
+  {
+    "w": "menial",
+    "ph": "ˈmiːniəl",
+    "pos": "adj.",
+    "zh": "卑贱的；琐碎的",
+    "ex": "He refused to do menial work despite his university degree.",
+    "exzh": "尽管有大学学位，他仍拒绝做卑微的工作。"
+  },
+  {
+    "w": "mercenary",
+    "ph": "ˈmɜːrsəˌneri",
+    "pos": "adj./n.",
+    "zh": "唯利是图的；雇佣兵",
+    "ex": "The mercenary soldiers fought for whoever paid them most.",
+    "exzh": "这些雇佣兵为出价最高的人作战。"
+  },
+  {
+    "w": "merciless",
+    "ph": "ˈmɜːrsɪləs",
+    "pos": "adj.",
+    "zh": "无情的；残忍的",
+    "ex": "The critics were merciless about his first novel.",
+    "exzh": "评论家对他的第一部小说毫不留情。"
+  },
+  {
+    "w": "mercury",
+    "ph": "ˈmɜːrkjəri",
+    "pos": "n.",
+    "zh": "水银；水星",
+    "ex": "Old thermometers contain a small amount of mercury.",
+    "exzh": "旧温度计含有少量水银。"
+  },
+  {
+    "w": "mermaid",
+    "ph": "ˈmɜːrmeɪd",
+    "pos": "n.",
+    "zh": "美人鱼",
+    "ex": "The children believed a mermaid lived in the quiet lake.",
+    "exzh": "孩子们相信平静的湖里住着一位美人鱼。"
+  },
+  {
+    "w": "mesh",
+    "ph": "meʃ",
+    "pos": "n./v.",
+    "zh": "网眼；网状物；啮合",
+    "ex": "The fish escaped through a hole in the fine mesh.",
+    "exzh": "鱼从细网的一个破洞逃走了。"
+  },
+  {
+    "w": "mesmerize",
+    "ph": "ˈmezməˌraɪz",
+    "pos": "v.",
+    "zh": "迷住；使入迷",
+    "ex": "The dancers seemed to mesmerize the entire audience.",
+    "exzh": "舞者们似乎使全场观众都着了迷。"
+  },
+  {
+    "w": "metabolism",
+    "ph": "məˈtæbəˌlɪzəm",
+    "pos": "n.",
+    "zh": "新陈代谢",
+    "ex": "Regular exercise can speed up your metabolism.",
+    "exzh": "经常锻炼可以加快你的新陈代谢。"
+  },
+  {
+    "w": "metaphysical",
+    "ph": "ˌmetəˈfɪzɪkəl",
+    "pos": "adj.",
+    "zh": "形而上学的；抽象的",
+    "ex": "Their debate drifted into metaphysical questions about time.",
+    "exzh": "他们的辩论转入了关于时间的抽象问题。"
+  },
+  {
+    "w": "meteor",
+    "ph": "ˈmiːtiər",
+    "pos": "n.",
+    "zh": "流星；陨石",
+    "ex": "A bright meteor flashed across the night sky.",
+    "exzh": "一颗明亮的流星划过夜空。"
+  },
+  {
+    "w": "meteorology",
+    "ph": "ˌmiːtiəˈrɑːlədʒi",
+    "pos": "n.",
+    "zh": "气象学",
+    "ex": "She studied meteorology and now forecasts winter storms.",
+    "exzh": "她学过气象学，现在负责预报冬季风暴。"
+  },
+  {
+    "w": "methodology",
+    "ph": "ˌmeθəˈdɑːlədʒi",
+    "pos": "n.",
+    "zh": "方法论；方法",
+    "ex": "The paper explains its methodology in the second chapter.",
+    "exzh": "这篇论文在第二章说明了其方法论。"
+  },
+  {
+    "w": "metropolis",
+    "ph": "məˈtrɑːpəlɪs",
+    "pos": "n.",
+    "zh": "大都市；首府",
+    "ex": "Shanghai has grown into a busy metropolis of millions.",
+    "exzh": "上海已发展成拥有数百万人口的繁忙大都市。"
+  },
+  {
+    "w": "microbe",
+    "ph": "ˈmaɪkroʊb",
+    "pos": "n.",
+    "zh": "微生物；细菌",
+    "ex": "Some microbes in the soil help plants absorb nutrients.",
+    "exzh": "土壤中的一些微生物帮助植物吸收养分。"
+  },
+  {
+    "w": "microchip",
+    "ph": "ˈmaɪkroʊˌtʃɪp",
+    "pos": "n.",
+    "zh": "微芯片；芯片",
+    "ex": "Every phone contains a powerful microchip smaller than a coin.",
+    "exzh": "每部手机都含有一块比硬币还小的强大芯片。"
+  },
+  {
+    "w": "midwife",
+    "ph": "ˈmɪdwaɪf",
+    "pos": "n.",
+    "zh": "助产士；接生婆",
+    "ex": "A trained midwife stayed with her through the long night.",
+    "exzh": "一位受过训练的助产士陪她度过了漫长的一夜。"
+  },
+  {
+    "w": "migratory",
+    "ph": "ˈmaɪɡrəˌtɔːri",
+    "pos": "adj.",
+    "zh": "迁徙的；移居的",
+    "ex": "Migratory birds rest on these wetlands every autumn.",
+    "exzh": "候鸟每年秋天都在这些湿地上休息。"
+  },
+  {
+    "w": "mildew",
+    "ph": "ˈmɪlduː",
+    "pos": "n.",
+    "zh": "霉；霉病",
+    "ex": "Damp walls in the basement were covered with mildew.",
+    "exzh": "地下室潮湿的墙壁上长满了霉。"
+  },
+  {
+    "w": "militia",
+    "ph": "məˈlɪʃə",
+    "pos": "n.",
+    "zh": "民兵；民兵组织",
+    "ex": "Local militia guarded the bridge during the emergency.",
+    "exzh": "紧急情况下，当地民兵守卫着那座桥。"
+  },
+  {
+    "w": "millennium",
+    "ph": "məˈleniəm",
+    "pos": "n.",
+    "zh": "一千年；千禧年",
+    "ex": "The city celebrated the new millennium with fireworks.",
+    "exzh": "这座城市用烟花庆祝新千年。"
+  },
+  {
+    "w": "mime",
+    "ph": "maɪm",
+    "pos": "n./v.",
+    "zh": "哑剧；模仿",
+    "ex": "The street artist performed a silent mime for the crowd.",
+    "exzh": "这位街头艺人为人群表演了一段无声哑剧。"
+  },
+  {
+    "w": "mince",
+    "ph": "mɪns",
+    "pos": "v./n.",
+    "zh": "切碎；绞碎的肉",
+    "ex": "Please mince the garlic finely before adding it.",
+    "exzh": "加入之前请把大蒜切得很碎。"
+  },
+  {
+    "w": "mindset",
+    "ph": "ˈmaɪndˌset",
+    "pos": "n.",
+    "zh": "心态；思维模式",
+    "ex": "A growth mindset helps students recover from failure.",
+    "exzh": "成长型心态帮助学生从失败中恢复。"
+  },
+  {
+    "w": "miraculous",
+    "ph": "məˈrækjələs",
+    "pos": "adj.",
+    "zh": "奇迹般的；不可思议的",
+    "ex": "The patient made a miraculous recovery within three weeks.",
+    "exzh": "病人在三周内奇迹般地康复了。"
+  },
+  {
+    "w": "mirage",
+    "ph": "məˈrɑːʒ",
+    "pos": "n.",
+    "zh": "海市蜃楼；幻想",
+    "ex": "The promise of easy money proved to be a mirage.",
+    "exzh": "轻松赚钱的承诺最终被证明是幻影。"
+  },
+  {
+    "w": "mirth",
+    "ph": "mɜːrθ",
+    "pos": "n.",
+    "zh": "欢笑；快乐",
+    "ex": "The old friends exchanged stories full of mirth.",
+    "exzh": "老朋友们互相讲述充满欢笑的故事。"
+  },
+  {
+    "w": "misbehave",
+    "ph": "ˌmɪsbɪˈheɪv",
+    "pos": "v.",
+    "zh": "行为不端；举止失礼",
+    "ex": "Pupils who misbehave in class must stay after school.",
+    "exzh": "在课堂上表现不好的学生必须留校。"
+  },
+  {
+    "w": "misconception",
+    "ph": "ˌmɪskənˈsepʃən",
+    "pos": "n.",
+    "zh": "误解；错误观念",
+    "ex": "A common misconception is that fat makes people fat.",
+    "exzh": "一个常见的误解是脂肪使人发胖。"
+  },
+  {
+    "w": "misconduct",
+    "ph": "ˌmɪsˈkɑːndʌkt",
+    "pos": "n.",
+    "zh": "不端行为；渎职",
+    "ex": "The officer was dismissed for serious misconduct.",
+    "exzh": "那名官员因严重渎职被解职。"
+  },
+  {
+    "w": "misdemeanor",
+    "ph": "ˌmɪsdɪˈmiːnər",
+    "pos": "n.",
+    "zh": "轻罪；失礼行为",
+    "ex": "Speeding is usually treated as a minor misdemeanor.",
+    "exzh": "超速通常被视为轻微的违法行为。"
+  },
+  {
+    "w": "miser",
+    "ph": "ˈmaɪzər",
+    "pos": "n.",
+    "zh": "守财奴；吝啬鬼",
+    "ex": "The old miser refused to repair his leaking roof.",
+    "exzh": "这个老守财奴拒绝修理漏雨的屋顶。"
+  },
+  {
+    "w": "misgiving",
+    "ph": "mɪsˈɡɪvɪŋ",
+    "pos": "n.",
+    "zh": "疑虑；担忧",
+    "ex": "She agreed to the plan despite her private misgivings.",
+    "exzh": "尽管私下有疑虑，她还是同意了这个计划。"
+  },
+  {
+    "w": "misinterpret",
+    "ph": "ˌmɪsɪnˈtɜːrprɪt",
+    "pos": "v.",
+    "zh": "误解；曲解",
+    "ex": "Readers may misinterpret the author's ironic tone.",
+    "exzh": "读者可能会误解作者讽刺的语气。"
+  },
+  {
+    "w": "misjudge",
+    "ph": "ˌmɪsˈdʒʌdʒ",
+    "pos": "v.",
+    "zh": "判断错误；低估",
+    "ex": "I misjudged the distance and arrived ten minutes late.",
+    "exzh": "我误判了距离，迟到了十分钟。"
+  },
+  {
+    "w": "misrepresent",
+    "ph": "ˌmɪsˌreprɪˈzent",
+    "pos": "v.",
+    "zh": "误传；歪曲",
+    "ex": "The advertisement misrepresents the actual size of the room.",
+    "exzh": "这则广告歪曲了房间的实际大小。"
+  },
+  {
+    "w": "missionary",
+    "ph": "ˈmɪʃəˌneri",
+    "pos": "n./adj.",
+    "zh": "传教士；传教的",
+    "ex": "The missionary spent thirty years teaching in the mountains.",
+    "exzh": "这位传教士在山里教了三十年书。"
+  },
+  {
+    "w": "mitigate",
+    "ph": "ˈmɪtəˌɡeɪt",
+    "pos": "v.",
+    "zh": "减轻；缓和",
+    "ex": "Planting trees can mitigate the effects of flooding.",
+    "exzh": "植树可以减轻洪水的影响。"
+  },
+  {
+    "w": "moat",
+    "ph": "moʊt",
+    "pos": "n.",
+    "zh": "护城河；壕沟",
+    "ex": "The old castle is surrounded by a wide deep moat.",
+    "exzh": "这座古堡被一条又宽又深的护城河环绕。"
+  },
+  {
+    "w": "mockery",
+    "ph": "ˈmɑːkəri",
+    "pos": "n.",
+    "zh": "嘲笑；笑柄",
+    "ex": "His careful plan became a mockery after the first failure.",
+    "exzh": "第一次失败后，他周密的计划成了笑柄。"
+  },
+  {
+    "w": "modulate",
+    "ph": "ˈmɑːdʒəleɪt",
+    "pos": "v.",
+    "zh": "调节；调制",
+    "ex": "He modulated his voice to sound calm and confident.",
+    "exzh": "他调节声音，听起来平静而自信。"
+  },
+  {
+    "w": "module",
+    "ph": "ˈmɑːdʒuːl",
+    "pos": "n.",
+    "zh": "模块；组件；单元",
+    "ex": "Each training module lasts about two weeks.",
+    "exzh": "每个培训模块约持续两周。"
+  },
+  {
+    "w": "molten",
+    "ph": "ˈmoʊltən",
+    "pos": "adj.",
+    "zh": "熔化的；炽热的",
+    "ex": "Workers poured molten metal into the waiting molds.",
+    "exzh": "工人们把熔化的金属倒进模具中。"
+  },
+  {
+    "w": "momentous",
+    "ph": "moʊˈmentəs",
+    "pos": "adj.",
+    "zh": "重大的；重要的",
+    "ex": "The signing of the treaty was a momentous occasion.",
+    "exzh": "条约的签署是一个重大时刻。"
+  },
+  {
+    "w": "monarchy",
+    "ph": "ˈmɑːnərki",
+    "pos": "n.",
+    "zh": "君主制；君主国",
+    "ex": "The country replaced its monarchy with a republic.",
+    "exzh": "这个国家用共和制取代了君主制。"
+  },
+  {
+    "w": "monastery",
+    "ph": "ˈmɑːnəˌsteri",
+    "pos": "n.",
+    "zh": "修道院；寺院",
+    "ex": "Monks in the mountain monastery rise before dawn.",
+    "exzh": "山寺里的僧侣们在黎明前起床。"
+  },
+  {
+    "w": "monolith",
+    "ph": "ˈmɑːnəˌlɪθ",
+    "pos": "n.",
+    "zh": "独石柱；庞然大物",
+    "ex": "A huge stone monolith stands at the center of the plain.",
+    "exzh": "一根巨大的石柱矗立在平原中央。"
+  },
+  {
+    "w": "monologue",
+    "ph": "ˈmɑːnəˌlɔːɡ",
+    "pos": "n.",
+    "zh": "独白；长篇独语",
+    "ex": "The actor delivered a long monologue about lost love.",
+    "exzh": "演员发表了一段关于逝去爱情的长独白。"
+  },
+  {
+    "w": "monopolize",
+    "ph": "məˈnɑːpəˌlaɪz",
+    "pos": "v.",
+    "zh": "垄断；独占",
+    "ex": "Two large firms monopolize the supply of medical equipment.",
+    "exzh": "两家大公司垄断了医疗设备的供应。"
+  },
+  {
+    "w": "monotony",
+    "ph": "məˈnɑːtəni",
+    "pos": "n.",
+    "zh": "单调；千篇一律",
+    "ex": "The monotony of factory work made him restless.",
+    "exzh": "工厂工作的单调使他烦躁不安。"
+  },
+  {
+    "w": "monsoon",
+    "ph": "mɑːnˈsuːn",
+    "pos": "n.",
+    "zh": "季风；雨季",
+    "ex": "The monsoon brings heavy rain to the southern coast each June.",
+    "exzh": "季风每年六月给南部海岸带来大雨。"
+  },
+  {
+    "w": "monstrous",
+    "ph": "ˈmɑːnstrəs",
+    "pos": "adj.",
+    "zh": "巨大的；骇人听闻的",
+    "ex": "The project was a monstrous waste of public money.",
+    "exzh": "这个项目是对公共资金的巨大浪费。"
+  },
+  {
+    "w": "moody",
+    "ph": "ˈmuːdi",
+    "pos": "adj.",
+    "zh": "喜怒无常的；忧郁的",
+    "ex": "He becomes moody whenever the weather turns cold.",
+    "exzh": "每当天气变冷，他就变得喜怒无常。"
+  },
+  {
+    "w": "morality",
+    "ph": "məˈræləti",
+    "pos": "n.",
+    "zh": "道德；道德观",
+    "ex": "The novel questions the morality of revenge.",
+    "exzh": "这部小说质疑复仇的道德性。"
+  },
+  {
+    "w": "morbid",
+    "ph": "ˈmɔːrbɪd",
+    "pos": "adj.",
+    "zh": "病态的；疾病的",
+    "ex": "He has a morbid interest in other people's accidents.",
+    "exzh": "他对别人的事故有一种病态的兴趣。"
+  },
+  {
+    "w": "morose",
+    "ph": "məˈroʊs",
+    "pos": "adj.",
+    "zh": "郁闷的；孤僻的",
+    "ex": "He sat morose and silent through the whole dinner.",
+    "exzh": "整个晚餐期间他都郁闷地坐着，一言不发。"
+  },
+  {
+    "w": "mortar",
+    "ph": "ˈmɔːrtər",
+    "pos": "n.",
+    "zh": "砂浆；迫击炮",
+    "ex": "The workers mixed mortar and began laying bricks.",
+    "exzh": "工人们搅拌砂浆，开始砌砖。"
+  },
+  {
+    "w": "mortify",
+    "ph": "ˈmɔːrtəˌfaɪ",
+    "pos": "v.",
+    "zh": "使羞辱；使难堪",
+    "ex": "Her careless remark would mortify any sensitive person.",
+    "exzh": "她随口的一句话会让任何敏感的人难堪。"
+  },
+  {
+    "w": "mosaic",
+    "ph": "moʊˈzeɪɪk",
+    "pos": "n.",
+    "zh": "马赛克；镶嵌画",
+    "ex": "The floor was decorated with a colorful mosaic of glass.",
+    "exzh": "地板用彩色玻璃马赛克装饰。"
+  },
+  {
+    "w": "mosque",
+    "ph": "mɑːsk",
+    "pos": "n.",
+    "zh": "清真寺",
+    "ex": "The old mosque is famous for its blue dome.",
+    "exzh": "这座古老的清真寺以蓝色圆顶闻名。"
+  },
+  {
+    "w": "motif",
+    "ph": "moʊˈtiːf",
+    "pos": "n.",
+    "zh": "主题；图案",
+    "ex": "The rose motif appears repeatedly in her paintings.",
+    "exzh": "玫瑰图案在她的画中反复出现。"
+  },
+  {
+    "w": "mournful",
+    "ph": "ˈmɔːrnfəl",
+    "pos": "adj.",
+    "zh": "悲哀的；令人伤心的",
+    "ex": "A mournful song drifted out of the empty church.",
+    "exzh": "一首悲哀的歌从空荡的教堂里飘出。"
+  },
+  {
+    "w": "mouthpiece",
+    "ph": "ˈmaʊθpiːs",
+    "pos": "n.",
+    "zh": "代言人；话筒；烟嘴",
+    "ex": "The newspaper became a mouthpiece for the ruling party.",
+    "exzh": "这家报纸成了执政党的喉舌。"
+  },
+  {
+    "w": "multilateral",
+    "ph": "ˌmʌltiˈlætərəl",
+    "pos": "adj.",
+    "zh": "多边的；多国的",
+    "ex": "They signed a multilateral agreement on climate protection.",
+    "exzh": "他们签署了一项关于气候保护的多边协议。"
+  },
+  {
+    "w": "multitude",
+    "ph": "ˈmʌltəˌtuːd",
+    "pos": "n.",
+    "zh": "大量；众多",
+    "ex": "A multitude of small errors ruined the whole report.",
+    "exzh": "大量小错误毁了整份报告。"
+  },
+  {
+    "w": "mundane",
+    "ph": "mʌnˈdeɪn",
+    "pos": "adj.",
+    "zh": "平凡的；世俗的",
+    "ex": "Much of the job involves mundane paperwork and typing.",
+    "exzh": "这份工作大部分是平凡的文书和打字。"
+  },
+  {
+    "w": "mural",
+    "ph": "ˈmjʊrəl",
+    "pos": "n.",
+    "zh": "壁画",
+    "ex": "A huge mural covers the wall of the library.",
+    "exzh": "图书馆的墙上有一幅巨大的壁画。"
+  },
+  {
+    "w": "murky",
+    "ph": "ˈmɜːrki",
+    "pos": "adj.",
+    "zh": "浑浊的；阴暗的",
+    "ex": "The details of the deal remain murky and unexplained.",
+    "exzh": "交易的细节仍然模糊不清。"
+  },
+  {
+    "w": "muse",
+    "ph": "mjuːz",
+    "pos": "v./n.",
+    "zh": "沉思；缪斯",
+    "ex": "She would muse for hours beside the quiet river.",
+    "exzh": "她常常在安静的河边沉思数小时。"
+  },
+  {
+    "w": "muster",
+    "ph": "ˈmʌstər",
+    "pos": "v.",
+    "zh": "召集；鼓起",
+    "ex": "He mustered the courage to speak against the plan.",
+    "exzh": "他鼓起勇气反对这个计划。"
+  },
+  {
+    "w": "mutable",
+    "ph": "ˈmjuːtəbəl",
+    "pos": "adj.",
+    "zh": "易变的；可变的",
+    "ex": "Fashion is mutable and returns to old styles quickly.",
+    "exzh": "时尚是易变的，很快又回到旧款式。"
+  },
+  {
+    "w": "mutilate",
+    "ph": "ˈmjuːtəˌleɪt",
+    "pos": "v.",
+    "zh": "使残废；毁坏",
+    "ex": "Graffiti had mutilated the beautiful old statues.",
+    "exzh": "涂鸦毁坏了那些美丽的古老雕像。"
+  },
+  {
+    "w": "mutiny",
+    "ph": "ˈmjuːtəni",
+    "pos": "n./v.",
+    "zh": "叛变；哗变",
+    "ex": "The sailors were punished for mutiny against the captain.",
+    "exzh": "水手们因反叛船长而受罚。"
+  },
+  {
+    "w": "muzzle",
+    "ph": "ˈmʌzəl",
+    "pos": "n./v.",
+    "zh": "口套；枪口；使缄默",
+    "ex": "The dog wore a muzzle during the visit to the vet.",
+    "exzh": "去看兽医时狗戴着口套。"
+  },
+  {
+    "w": "myopia",
+    "ph": "maɪˈoʊpiə",
+    "pos": "n.",
+    "zh": "近视；短视",
+    "ex": "Economic myopia led the firm to ignore long-term risks.",
+    "exzh": "经济上的短视使公司忽视长期风险。"
+  },
+  {
+    "w": "mythology",
+    "ph": "mɪˈθɑːlədʒi",
+    "pos": "n.",
+    "zh": "神话；神话学",
+    "ex": "Greek mythology still shapes many modern stories.",
+    "exzh": "希腊神话仍然影响许多现代故事。"
+  },
+  {
+    "w": "nasal",
+    "ph": "ˈneɪzəl",
+    "pos": "adj.",
+    "zh": "鼻的；鼻音的",
+    "ex": "His heavy cold gave him a nasal voice.",
+    "exzh": "重感冒使他的声音带着浓重的鼻音。"
+  },
+  {
+    "w": "nascent",
+    "ph": "ˈnæsənt",
+    "pos": "adj.",
+    "zh": "初生的；新生的",
+    "ex": "The nascent industry needs protection and patient investment.",
+    "exzh": "这个新兴产业需要保护和耐心投资。"
+  },
+  {
+    "w": "natal",
+    "ph": "ˈneɪtəl",
+    "pos": "adj.",
+    "zh": "出生的；分娩的",
+    "ex": "The hospital keeps careful records of natal care.",
+    "exzh": "这家医院仔细保存着围产期护理记录。"
+  },
+  {
+    "w": "nativity",
+    "ph": "nəˈtɪvəti",
+    "pos": "n.",
+    "zh": "出生；诞生",
+    "ex": "The church displays a nativity scene every December.",
+    "exzh": "这座教堂每年十二月都布置诞生场景。"
+  },
+  {
+    "w": "nausea",
+    "ph": "ˈnɔːziə",
+    "pos": "n.",
+    "zh": "恶心；晕船",
+    "ex": "The smell of the fuel gave several passengers nausea.",
+    "exzh": "燃料的气味让几名乘客感到恶心。"
+  },
+  {
+    "w": "nautical",
+    "ph": "ˈnɔːtɪkəl",
+    "pos": "adj.",
+    "zh": "航海的；海员的",
+    "ex": "He collects nautical charts from the nineteenth century.",
+    "exzh": "他收集十九世纪的航海图。"
+  },
+  {
+    "w": "navigable",
+    "ph": "ˈnævɪɡəbəl",
+    "pos": "adj.",
+    "zh": "可航行的；可通航的",
+    "ex": "The river is navigable for small boats in summer.",
+    "exzh": "这条河在夏天可供小船通航。"
+  },
+  {
+    "w": "nebulous",
+    "ph": "ˈnebjələs",
+    "pos": "adj.",
+    "zh": "模糊的；星云的",
+    "ex": "His plans for the future remain vague and nebulous.",
+    "exzh": "他对未来的计划仍然模糊不清。"
+  },
+  {
+    "w": "negate",
+    "ph": "nɪˈɡeɪt",
+    "pos": "v.",
+    "zh": "否定；取消",
+    "ex": "A single careless mistake can negate years of hard work.",
+    "exzh": "一个粗心的错误就能否定多年的努力。"
+  },
+  {
+    "w": "negation",
+    "ph": "nɪˈɡeɪʃən",
+    "pos": "n.",
+    "zh": "否定；反面",
+    "ex": "Silence is not always a negation of agreement.",
+    "exzh": "沉默并不总是对同意的否定。"
+  },
+  {
+    "w": "negligence",
+    "ph": "ˈneɡlɪdʒəns",
+    "pos": "n.",
+    "zh": "疏忽；过失",
+    "ex": "The accident was caused by the driver's negligence.",
+    "exzh": "这起事故是由司机的疏忽造成的。"
+  },
+  {
+    "w": "negligent",
+    "ph": "ˈneɡlɪdʒənt",
+    "pos": "adj.",
+    "zh": "疏忽的；粗心的",
+    "ex": "The company was fined for negligent safety practices.",
+    "exzh": "该公司因疏忽的安全措施被罚款。"
+  },
+  {
+    "w": "negotiable",
+    "ph": "nɪˈɡoʊʃiəbəl",
+    "pos": "adj.",
+    "zh": "可协商的；可流通的",
+    "ex": "The price is negotiable if you pay in cash.",
+    "exzh": "如果你付现金，价格可以商量。"
+  },
+  {
+    "w": "nemesis",
+    "ph": "ˈneməsɪs",
+    "pos": "n.",
+    "zh": "报应；宿敌",
+    "ex": "The young champion finally met his nemesis in the final.",
+    "exzh": "这位年轻冠军终于在决赛中遇到了克星。"
+  },
+  {
+    "w": "nepotism",
+    "ph": "ˈnepəˌtɪzəm",
+    "pos": "n.",
+    "zh": "任人唯亲；裙带关系",
+    "ex": "The director was accused of nepotism in hiring staff.",
+    "exzh": "主任被指责在招聘员工时任人唯亲。"
+  },
+  {
+    "w": "nestle",
+    "ph": "ˈnesəl",
+    "pos": "v.",
+    "zh": "依偎；舒适地安顿",
+    "ex": "The kitten nestled against her warm shoulder.",
+    "exzh": "小猫依偎在她温暖的肩膀上。"
+  },
+  {
+    "w": "nettle",
+    "ph": "ˈnetəl",
+    "pos": "n./v.",
+    "zh": "荨麻；激怒",
+    "ex": "He touched a nettle and his hand began to sting.",
+    "exzh": "他碰到了荨麻，手开始刺痛。"
+  },
+  {
+    "w": "neurosis",
+    "ph": "nʊˈroʊsɪs",
+    "pos": "n.",
+    "zh": "神经症；神经质",
+    "ex": "Constant pressure at work developed into a mild neurosis.",
+    "exzh": "持续的工作压力发展成了轻微的神经症。"
+  },
+  {
+    "w": "neurotic",
+    "ph": "nʊˈrɑːtɪk",
+    "pos": "adj./n.",
+    "zh": "神经质的；神经症患者",
+    "ex": "She became neurotic about locking the door three times.",
+    "exzh": "她对锁三次门这件事变得神经质。"
+  },
+  {
+    "w": "neutralize",
+    "ph": "ˈnuːtrəˌlaɪz",
+    "pos": "v.",
+    "zh": "中和；抵消",
+    "ex": "Adding lime can neutralize the acid in the soil.",
+    "exzh": "加入石灰可以中和土壤中的酸性。"
+  },
+  {
+    "w": "newborn",
+    "ph": "ˈnuːˌbɔːrn",
+    "pos": "adj./n.",
+    "zh": "新生的；新生儿",
+    "ex": "The newborn baby slept peacefully in her arms.",
+    "exzh": "新生儿在她怀里安静地睡着。"
+  },
+  {
+    "w": "newscast",
+    "ph": "ˈnuːzˌkæst",
+    "pos": "n.",
+    "zh": "新闻广播",
+    "ex": "The evening newscast reported heavy snow across the north.",
+    "exzh": "晚间新闻广播报道了北方的大雪。"
+  },
+  {
+    "w": "newsletter",
+    "ph": "ˈnuːzˌletər",
+    "pos": "n.",
+    "zh": "通讯；简报",
+    "ex": "The school sends a monthly newsletter to all parents.",
+    "exzh": "学校每月给所有家长寄一份简报。"
+  },
+  {
+    "w": "nibble",
+    "ph": "ˈnɪbəl",
+    "pos": "v.",
+    "zh": "小口咬；啃",
+    "ex": "The mouse nibbled a corner of the bread quietly.",
+    "exzh": "老鼠悄悄地啃着面包的一角。"
+  },
+  {
+    "w": "niche",
+    "ph": "nɪtʃ",
+    "pos": "n.",
+    "zh": "壁龛；合适的位置",
+    "ex": "The small firm found a profitable niche in the market.",
+    "exzh": "这家小公司在市场上找到了一个有利可图的商机。"
+  },
+  {
+    "w": "nickel",
+    "ph": "ˈnɪkəl",
+    "pos": "n.",
+    "zh": "镍；五分镍币",
+    "ex": "The battery contains nickel and several other rare metals.",
+    "exzh": "这块电池含有镍和其他几种稀有金属。"
+  },
+  {
+    "w": "nightfall",
+    "ph": "ˈnaɪtˌfɔːl",
+    "pos": "n.",
+    "zh": "黄昏；傍晚",
+    "ex": "They reached the village just before nightfall.",
+    "exzh": "他们在黄昏前刚好到达村庄。"
+  },
+  {
+    "w": "nimble",
+    "ph": "ˈnɪmbəl",
+    "pos": "adj.",
+    "zh": "敏捷的；灵巧的",
+    "ex": "Her nimble fingers moved quickly over the piano keys.",
+    "exzh": "她灵巧的手指在琴键上快速移动。"
+  },
+  {
+    "w": "nocturnal",
+    "ph": "nɑːkˈtɜːrnəl",
+    "pos": "adj.",
+    "zh": "夜间的；夜行的",
+    "ex": "Owls are nocturnal hunters with excellent hearing.",
+    "exzh": "猫头鹰是听觉极佳的夜间猎手。"
+  },
+  {
+    "w": "nomad",
+    "ph": "ˈnoʊmæd",
+    "pos": "n.",
+    "zh": "游牧者；流浪者",
+    "ex": "The nomad moved his tent whenever the grass ran out.",
+    "exzh": "草吃光时，这个游牧者就搬走他的帐篷。"
+  },
+  {
+    "w": "nomadic",
+    "ph": "noʊˈmædɪk",
+    "pos": "adj.",
+    "zh": "游牧的；流浪的",
+    "ex": "They lived a nomadic life across the northern plains.",
+    "exzh": "他们在北方平原上过着游牧生活。"
+  },
+  {
+    "w": "nomenclature",
+    "ph": "ˈnoʊmənˌkleɪtʃər",
+    "pos": "n.",
+    "zh": "命名法；术语系统",
+    "ex": "The new nomenclature confused even experienced chemists.",
+    "exzh": "新的命名法连有经验的化学家都感到困惑。"
+  },
+  {
+    "w": "nonsensical",
+    "ph": "nɑːnˈsensɪkəl",
+    "pos": "adj.",
+    "zh": "荒谬的；无意义的",
+    "ex": "His argument was nonsensical and convinced nobody.",
+    "exzh": "他的论点荒谬，说服不了任何人。"
+  },
+  {
+    "w": "nonstop",
+    "ph": "ˌnɑːnˈstɑːp",
+    "pos": "adj./adv.",
+    "zh": "不停的；直达的",
+    "ex": "We took a nonstop flight from Beijing to Seattle.",
+    "exzh": "我们乘坐了从北京到西雅图的直飞航班。"
+  },
+  {
+    "w": "noose",
+    "ph": "nuːs",
+    "pos": "n.",
+    "zh": "套索；绞索",
+    "ex": "The rope tightened into a noose around the post.",
+    "exzh": "绳子在柱子上收紧成一个套索。"
+  },
+  {
+    "w": "nostalgia",
+    "ph": "nɔːˈstældʒə",
+    "pos": "n.",
+    "zh": "怀旧；乡愁",
+    "ex": "Old photographs filled her with nostalgia for childhood.",
+    "exzh": "旧照片使她充满对童年的怀念。"
+  },
+  {
+    "w": "nostril",
+    "ph": "ˈnɑːstrəl",
+    "pos": "n.",
+    "zh": "鼻孔",
+    "ex": "A thin stream of smoke came from his left nostril.",
+    "exzh": "一缕细细的烟从他的左鼻孔冒出。"
+  },
+  {
+    "w": "notable",
+    "ph": "ˈnoʊtəbəl",
+    "pos": "adj.",
+    "zh": "显著的；值得注意的",
+    "ex": "The report made notable progress on air quality.",
+    "exzh": "该报告在空气质量方面取得了显著进展。"
+  },
+  {
+    "w": "notation",
+    "ph": "noʊˈteɪʃən",
+    "pos": "n.",
+    "zh": "符号；记谱法",
+    "ex": "Musical notation allows composers to record their ideas.",
+    "exzh": "乐谱符号使作曲家能够记录他们的想法。"
+  },
+  {
+    "w": "notch",
+    "ph": "nɑːtʃ",
+    "pos": "n./v.",
+    "zh": "凹口；等级；刻痕",
+    "ex": "He cut a notch in the stick for each passing day.",
+    "exzh": "每过一天他就在木棍上刻一个凹口。"
+  },
+  {
+    "w": "notoriety",
+    "ph": "ˌnoʊtəˈraɪəti",
+    "pos": "n.",
+    "zh": "恶名；声名狼藉",
+    "ex": "The scandal brought him notoriety he never wanted.",
+    "exzh": "这桩丑闻给他带来了他从不想要的恶名。"
+  },
+  {
+    "w": "novice",
+    "ph": "ˈnɑːvɪs",
+    "pos": "n.",
+    "zh": "新手；初学者",
+    "ex": "As a novice, she asked many questions about the process.",
+    "exzh": "作为新手，她问了许多关于流程的问题。"
+  },
+  {
+    "w": "noxious",
+    "ph": "ˈnɑːkʃəs",
+    "pos": "adj.",
+    "zh": "有害的；有毒的",
+    "ex": "The factory released noxious fumes into the air.",
+    "exzh": "这家工厂向空气中排放有毒气体。"
+  },
+  {
+    "w": "nude",
+    "ph": "nuːd",
+    "pos": "adj./n.",
+    "zh": "裸体的；裸体画",
+    "ex": "The gallery displays several nude paintings by the master.",
+    "exzh": "画廊展出了这位大师的几幅裸体画。"
+  },
+  {
+    "w": "nudge",
+    "ph": "nʌdʒ",
+    "pos": "v./n.",
+    "zh": "轻推；轻触",
+    "ex": "She gave him a gentle nudge to wake him up.",
+    "exzh": "她轻轻推了他一下，把他叫醒。"
+  },
+  {
+    "w": "nullify",
+    "ph": "ˈnʌləˌfaɪ",
+    "pos": "v.",
+    "zh": "使无效；废除",
+    "ex": "The court may nullify the contract if signed under pressure.",
+    "exzh": "如果合同是在压力下签署的，法院可能会使其无效。"
+  },
+  {
+    "w": "numb",
+    "ph": "nʌm",
+    "pos": "adj./v.",
+    "zh": "麻木的；使麻木",
+    "ex": "My fingers went numb in the freezing wind.",
+    "exzh": "我的手指在刺骨的寒风中变得麻木。"
+  },
+  {
+    "w": "numeral",
+    "ph": "ˈnuːmərəl",
+    "pos": "n.",
+    "zh": "数字；数词",
+    "ex": "The clock face uses Roman numerals instead of digits.",
+    "exzh": "钟面使用罗马数字而不是阿拉伯数字。"
+  },
+  {
+    "w": "numerical",
+    "ph": "nuːˈmerɪkəl",
+    "pos": "adj.",
+    "zh": "数字的；数值的",
+    "ex": "Please arrange the files in numerical order.",
+    "exzh": "请按数字顺序排列这些文件。"
+  },
+  {
+    "w": "nutmeg",
+    "ph": "ˈnʌtmeɡ",
+    "pos": "n.",
+    "zh": "肉豆蔻",
+    "ex": "A little nutmeg improves the flavor of the sauce.",
+    "exzh": "一点肉豆蔻能改善酱汁的味道。"
+  },
+  {
+    "w": "nutshell",
+    "ph": "ˈnʌtˌʃel",
+    "pos": "n.",
+    "zh": "坚果壳；极简的表述",
+    "ex": "He explained the whole theory in a nutshell.",
+    "exzh": "他用几句话概括了整个理论。"
+  },
+  {
+    "w": "nuzzle",
+    "ph": "ˈnʌzəl",
+    "pos": "v.",
+    "zh": "用鼻子蹭；依偎",
+    "ex": "The puppy nuzzled against my hand and fell asleep.",
+    "exzh": "小狗用鼻子蹭着我的手睡着了。"
+  },
+  {
+    "w": "nymph",
+    "ph": "nɪmf",
+    "pos": "n.",
+    "zh": "仙女；幼虫",
+    "ex": "The poem describes a nymph living by the stream.",
+    "exzh": "这首诗描写了一位住在溪边的仙女。"
+  },
+  {
+    "w": "oasis",
+    "ph": "oʊˈeɪsɪs",
+    "pos": "n.",
+    "zh": "绿洲；避难所",
+    "ex": "The travelers found an oasis with fresh water and shade.",
+    "exzh": "旅行者们找到了一处有淡水和阴凉的绿洲。"
+  },
+  {
+    "w": "oath",
+    "ph": "oʊθ",
+    "pos": "n.",
+    "zh": "誓言；咒骂",
+    "ex": "The witness took an oath to tell the whole truth.",
+    "exzh": "证人宣誓要说出全部真相。"
+  },
+  {
+    "w": "obedience",
+    "ph": "əˈbiːdiəns",
+    "pos": "n.",
+    "zh": "服从；顺从",
+    "ex": "The dog was trained for obedience and quiet patience.",
+    "exzh": "这只狗接受了服从和安静耐心的训练。"
+  },
+  {
+    "w": "obedient",
+    "ph": "əˈbiːdiənt",
+    "pos": "adj.",
+    "zh": "服从的；顺从的",
+    "ex": "The obedient child waited quietly by the door.",
+    "exzh": "这个听话的孩子安静地在门边等着。"
+  },
+  {
+    "w": "obese",
+    "ph": "oʊˈbiːs",
+    "pos": "adj.",
+    "zh": "肥胖的",
+    "ex": "Too many sugary drinks make children obese.",
+    "exzh": "太多含糖饮料使儿童肥胖。"
+  },
+  {
+    "w": "obesity",
+    "ph": "oʊˈbiːsəti",
+    "pos": "n.",
+    "zh": "肥胖；肥胖症",
+    "ex": "Doctors link obesity to heart disease and diabetes.",
+    "exzh": "医生把肥胖与心脏病和糖尿病联系起来。"
+  },
+  {
+    "w": "obituary",
+    "ph": "oʊˈbɪtʃuˌeri",
+    "pos": "n.",
+    "zh": "讣告",
+    "ex": "A short obituary appeared in the local paper.",
+    "exzh": "当地报纸上刊登了一则简短的讣告。"
+  },
+  {
+    "w": "obligatory",
+    "ph": "əˈblɪɡəˌtɔːri",
+    "pos": "adj.",
+    "zh": "义务的；强制的",
+    "ex": "Attendance at the safety training is obligatory for everyone.",
+    "exzh": "所有人都必须参加安全培训。"
+  },
+  {
+    "w": "obliging",
+    "ph": "əˈblaɪdʒɪŋ",
+    "pos": "adj.",
+    "zh": "乐于助人的；殷勤的",
+    "ex": "The obliging clerk found us a better room.",
+    "exzh": "那位乐于助人的职员给我们找了一间更好的房间。"
+  },
+  {
+    "w": "oblique",
+    "ph": "əˈbliːk",
+    "pos": "adj.",
+    "zh": "斜的；间接的",
+    "ex": "His oblique answer avoided the real question.",
+    "exzh": "他间接的回答避开了真正的问题。"
+  },
+  {
+    "w": "oblivion",
+    "ph": "əˈblɪviən",
+    "pos": "n.",
+    "zh": "遗忘；忘却",
+    "ex": "The old singer faded into oblivion after the war.",
+    "exzh": "战后这位老歌手逐渐被人遗忘。"
+  },
+  {
+    "w": "oblivious",
+    "ph": "əˈblɪviəs",
+    "pos": "adj.",
+    "zh": "未察觉的；不注意的",
+    "ex": "He was oblivious to the noise around him.",
+    "exzh": "他对周围的噪音毫无察觉。"
+  },
+  {
+    "w": "oblong",
+    "ph": "ˈɑːblɔːŋ",
+    "pos": "adj./n.",
+    "zh": "长方形的；长方形",
+    "ex": "She bought an oblong mirror for the narrow hall.",
+    "exzh": "她为狭窄的门厅买了一面长方形镜子。"
+  },
+  {
+    "w": "obnoxious",
+    "ph": "əbˈnɑːkʃəs",
+    "pos": "adj.",
+    "zh": "讨厌的；令人不快的",
+    "ex": "His obnoxious behavior drove the guests away.",
+    "exzh": "他令人讨厌的行为把客人都赶走了。"
+  },
+  {
+    "w": "obscene",
+    "ph": "əbˈsiːn",
+    "pos": "adj.",
+    "zh": "淫秽的；令人反感的",
+    "ex": "The court fined the magazine for obscene pictures.",
+    "exzh": "法院因淫秽图片对该杂志处以罚款。"
+  },
+  {
+    "w": "obscurity",
+    "ph": "əbˈskjʊrəti",
+    "pos": "n.",
+    "zh": "默默无闻；晦涩",
+    "ex": "The poet died in obscurity and poverty.",
+    "exzh": "这位诗人默默无闻地死于贫困。"
+  },
+  {
+    "w": "observance",
+    "ph": "əbˈzɜːrvəns",
+    "pos": "n.",
+    "zh": "遵守；仪式",
+    "ex": "Strict observance of the rules keeps the lab safe.",
+    "exzh": "严格遵守规定使实验室保持安全。"
+  },
+  {
+    "w": "observant",
+    "ph": "əbˈzɜːrvənt",
+    "pos": "adj.",
+    "zh": "善于观察的；遵守的",
+    "ex": "An observant guard noticed the broken window.",
+    "exzh": "一名善于观察的警卫注意到窗户破了。"
+  },
+  {
+    "w": "obsess",
+    "ph": "əbˈses",
+    "pos": "v.",
+    "zh": "使着迷；困扰",
+    "ex": "He tends to obsess over tiny mistakes at work.",
+    "exzh": "他往往对工作中的小错误耿耿于怀。"
+  },
+  {
+    "w": "obsession",
+    "ph": "əbˈseʃən",
+    "pos": "n.",
+    "zh": "痴迷；困扰",
+    "ex": "Her obsession with cleanliness exhausted the whole family.",
+    "exzh": "她对清洁的痴迷让全家人疲惫不堪。"
+  },
+  {
+    "w": "obsolescent",
+    "ph": "ˌɑːbsəˈlesənt",
+    "pos": "adj.",
+    "zh": "过时的；即将淘汰的",
+    "ex": "Fax machines are obsolescent in most modern offices.",
+    "exzh": "传真机在大多数现代办公室里已经过时。"
+  },
+  {
+    "w": "obstinate",
+    "ph": "ˈɑːbstənət",
+    "pos": "adj.",
+    "zh": "固执的；顽固的",
+    "ex": "The obstinate old man refused to see a doctor.",
+    "exzh": "这个固执的老人拒绝看医生。"
+  },
+  {
+    "w": "obstruct",
+    "ph": "əbˈstrʌkt",
+    "pos": "v.",
+    "zh": "阻塞；妨碍",
+    "ex": "Fallen trees obstruct the road after the storm.",
+    "exzh": "暴风雨后倒下的树木阻塞了道路。"
+  },
+  {
+    "w": "obstruction",
+    "ph": "əbˈstrʌkʃən",
+    "pos": "n.",
+    "zh": "障碍物；阻碍",
+    "ex": "Police removed the obstruction from the busy highway.",
+    "exzh": "警察清除了繁忙公路上的障碍物。"
+  },
+  {
+    "w": "obtuse",
+    "ph": "əbˈtuːs",
+    "pos": "adj.",
+    "zh": "迟钝的；钝角的",
+    "ex": "He can be obtuse about other people's feelings.",
+    "exzh": "他对别人的感受可能很迟钝。"
+  },
+  {
+    "w": "obviate",
+    "ph": "ˈɑːbviˌeɪt",
+    "pos": "v.",
+    "zh": "消除；排除",
+    "ex": "Careful planning can obviate most of these problems.",
+    "exzh": "周密的计划可以消除大部分这类问题。"
+  },
+  {
+    "w": "occult",
+    "ph": "əˈkʌlt",
+    "pos": "adj./n.",
+    "zh": "神秘的；玄术",
+    "ex": "The film explores occult beliefs in a small village.",
+    "exzh": "这部电影探讨了一个小村庄里的神秘信仰。"
+  },
+  {
+    "w": "octopus",
+    "ph": "ˈɑːktəpəs",
+    "pos": "n.",
+    "zh": "章鱼",
+    "ex": "An octopus can change color to hide from danger.",
+    "exzh": "章鱼会变色以躲避危险。"
+  },
+  {
+    "w": "oddity",
+    "ph": "ˈɑːdəti",
+    "pos": "n.",
+    "zh": "古怪；怪人",
+    "ex": "The oddity of his dress attracted curious looks.",
+    "exzh": "他衣着古怪，引来好奇的目光。"
+  },
+  {
+    "w": "odor",
+    "ph": "ˈoʊdər",
+    "pos": "n.",
+    "zh": "气味；臭味",
+    "ex": "An unpleasant odor came from the kitchen drain.",
+    "exzh": "一股难闻的气味从厨房下水道传来。"
+  },
+  {
+    "w": "offhand",
+    "ph": "ˌɔːfˈhænd",
+    "pos": "adj./adv.",
+    "zh": "即席的；随便地",
+    "ex": "I cannot give you an offhand answer to that question.",
+    "exzh": "我无法就那个问题给你一个即席的答复。"
+  },
+  {
+    "w": "officious",
+    "ph": "əˈfɪʃəs",
+    "pos": "adj.",
+    "zh": "爱管闲事的；爱发号施令的",
+    "ex": "An officious clerk kept asking about our documents.",
+    "exzh": "一个爱管闲事的职员不停地询问我们的文件。"
+  },
+  {
+    "w": "ointment",
+    "ph": "ˈɔɪntmənt",
+    "pos": "n.",
+    "zh": "药膏；软膏",
+    "ex": "Apply the ointment twice a day to the rash.",
+    "exzh": "每天在皮疹上涂两次药膏。"
+  },
+  {
+    "w": "olfactory",
+    "ph": "ɑːlˈfæktəri",
+    "pos": "adj.",
+    "zh": "嗅觉的",
+    "ex": "The olfactory nerves carry signals directly to the brain.",
+    "exzh": "嗅觉神经把信号直接传到大脑。"
+  },
+  {
+    "w": "ominous",
+    "ph": "ˈɑːmɪnəs",
+    "pos": "adj.",
+    "zh": "不祥的；预兆的",
+    "ex": "Dark clouds gathered in an ominous silence.",
+    "exzh": "乌云在一种不祥的寂静中聚集。"
+  },
+  {
+    "w": "omnipotent",
+    "ph": "ɑːmˈnɪpətənt",
+    "pos": "adj.",
+    "zh": "全能的；无所不能的",
+    "ex": "The king behaved as if he were omnipotent.",
+    "exzh": "国王表现得好像自己无所不能。"
+  },
+  {
+    "w": "omnipresent",
+    "ph": "ˌɑːmnɪˈprezənt",
+    "pos": "adj.",
+    "zh": "无处不在的",
+    "ex": "Advertising is omnipresent in modern city life.",
+    "exzh": "广告在现代城市生活中无处不在。"
+  },
+  {
+    "w": "omniscient",
+    "ph": "ɑːmˈnɪʃənt",
+    "pos": "adj.",
+    "zh": "无所不知的",
+    "ex": "The narrator sounds omniscient about every character.",
+    "exzh": "叙述者对每个人物似乎都无所不知。"
+  },
+  {
+    "w": "onerous",
+    "ph": "ˈoʊnərəs",
+    "pos": "adj.",
+    "zh": "繁重的；沉重的",
+    "ex": "The new rules put an onerous burden on small shops.",
+    "exzh": "新规定给小商铺带来了沉重的负担。"
+  },
+  {
+    "w": "onset",
+    "ph": "ˈɑːnset",
+    "pos": "n.",
+    "zh": "开始；发作",
+    "ex": "The onset of winter brought heavy snow and ice.",
+    "exzh": "冬天的来临带来了大雪和冰。"
+  },
+  {
+    "w": "onslaught",
+    "ph": "ˈɑːnslɔːt",
+    "pos": "n.",
+    "zh": "猛攻；冲击",
+    "ex": "The town survived the onslaught of the storm.",
+    "exzh": "这个小镇经受住了暴风雨的猛攻。"
+  },
+  {
+    "w": "opaque",
+    "ph": "oʊˈpeɪk",
+    "pos": "adj.",
+    "zh": "不透明的；难懂的",
+    "ex": "The bathroom window is opaque for privacy.",
+    "exzh": "浴室的窗户为保护隐私而不透明。"
+  },
+  {
+    "w": "operative",
+    "ph": "ˈɑːpərətɪv",
+    "pos": "adj.",
+    "zh": "起作用的；有效的",
+    "ex": "The key operative rule is to keep records accurate.",
+    "exzh": "关键的生效规则是保持记录准确。"
+  },
+  {
+    "w": "opportune",
+    "ph": "ˌɑːpərˈtuːn",
+    "pos": "adj.",
+    "zh": "及时的；恰好的",
+    "ex": "The rain came at an opportune moment for the crops.",
+    "exzh": "这场雨对庄稼来说来得正是时候。"
+  },
+  {
+    "w": "oppression",
+    "ph": "əˈpreʃən",
+    "pos": "n.",
+    "zh": "压迫；压制",
+    "ex": "The novel portrays years of poverty and oppression.",
+    "exzh": "这部小说描写了多年的贫困与压迫。"
+  },
+  {
+    "w": "oppressive",
+    "ph": "əˈpresɪv",
+    "pos": "adj.",
+    "zh": "压迫的；闷热的",
+    "ex": "The oppressive heat made everyone slow and tired.",
+    "exzh": "闷热的天气使每个人都行动迟缓、疲惫不堪。"
+  },
+  {
+    "w": "optician",
+    "ph": "ɑːpˈtɪʃən",
+    "pos": "n.",
+    "zh": "验光师；眼镜商",
+    "ex": "The optician adjusted my glasses in ten minutes.",
+    "exzh": "验光师十分钟就调好了我的眼镜。"
+  },
+  {
+    "w": "optimum",
+    "ph": "ˈɑːptɪməm",
+    "pos": "adj./n.",
+    "zh": "最佳的；最适条件",
+    "ex": "The optimum temperature for this plant is twenty degrees.",
+    "exzh": "这种植物的最适温度是二十度。"
+  },
+  {
+    "w": "opulent",
+    "ph": "ˈɑːpjələnt",
+    "pos": "adj.",
+    "zh": "富裕的；奢华的",
+    "ex": "They dined in an opulent hall with gold mirrors.",
+    "exzh": "他们在一个有金色镜子的豪华大厅里用餐。"
+  },
+  {
+    "w": "oracle",
+    "ph": "ˈɔːrəkəl",
+    "pos": "n.",
+    "zh": "神谕；权威",
+    "ex": "Villagers once traveled far to consult the oracle.",
+    "exzh": "村民们曾远行去求问神谕。"
+  },
+  {
+    "w": "oration",
+    "ph": "ɔːˈreɪʃən",
+    "pos": "n.",
+    "zh": "演说；致辞",
+    "ex": "He delivered a moving oration at the memorial service.",
+    "exzh": "他在追悼会上发表了感人的致辞。"
+  },
+  {
+    "w": "orator",
+    "ph": "ˈɔːrətər",
+    "pos": "n.",
+    "zh": "演说家",
+    "ex": "The young orator held the crowd silent for an hour.",
+    "exzh": "这位年轻的演说家让全场安静了一个小时。"
+  },
+  {
+    "w": "ordeal",
+    "ph": "ɔːrˈdiːl",
+    "pos": "n.",
+    "zh": "磨难；煎熬",
+    "ex": "The long trial was an ordeal for the whole family.",
+    "exzh": "漫长的审判对全家来说是一场磨难。"
+  },
+  {
+    "w": "ordinance",
+    "ph": "ˈɔːrdɪnəns",
+    "pos": "n.",
+    "zh": "法令；条例",
+    "ex": "A local ordinance bans smoking in public parks.",
+    "exzh": "当地一条法令禁止在公园吸烟。"
+  },
+  {
+    "w": "orifice",
+    "ph": "ˈɔːrəfɪs",
+    "pos": "n.",
+    "zh": "孔；开口",
+    "ex": "The gas escaped through a small orifice in the pipe.",
+    "exzh": "气体从管道上的一个小孔逸出。"
+  },
+  {
+    "w": "ornate",
+    "ph": "ɔːrˈneɪt",
+    "pos": "adj.",
+    "zh": "装饰华丽的",
+    "ex": "The ornate ceiling of the theater amazed the visitors.",
+    "exzh": "剧院装饰华丽的天花板让参观者惊叹。"
+  },
+  {
+    "w": "orthodox",
+    "ph": "ˈɔːrθəˌdɑːks",
+    "pos": "adj.",
+    "zh": "正统的；传统的",
+    "ex": "He challenged orthodox views about economic growth.",
+    "exzh": "他挑战了关于经济增长的正统观点。"
+  },
+  {
+    "w": "oscillate",
+    "ph": "ˈɑːsəˌleɪt",
+    "pos": "v.",
+    "zh": "摆动；摇摆",
+    "ex": "The needle oscillated between red and green.",
+    "exzh": "指针在红色和绿色之间摆动。"
+  },
+  {
+    "w": "osmosis",
+    "ph": "ɑːzˈmoʊsɪs",
+    "pos": "n.",
+    "zh": "渗透；潜移默化",
+    "ex": "Children learn politeness by a kind of osmosis.",
+    "exzh": "孩子们通过一种潜移默化的方式学会礼貌。"
+  },
+  {
+    "w": "ostrich",
+    "ph": "ˈɑːstrɪtʃ",
+    "pos": "n.",
+    "zh": "鸵鸟",
+    "ex": "The ostrich can run faster than most horses.",
+    "exzh": "鸵鸟跑得比大多数马都快。"
+  },
+  {
+    "w": "oust",
+    "ph": "aʊst",
+    "pos": "v.",
+    "zh": "驱逐；赶走",
+    "ex": "The board voted to oust the chief executive.",
+    "exzh": "董事会投票决定罢免首席执行官。"
+  },
+  {
+    "w": "outcast",
+    "ph": "ˈaʊtˌkæst",
+    "pos": "n./adj.",
+    "zh": "被遗弃者；被逐出的",
+    "ex": "He felt like an outcast among his old friends.",
+    "exzh": "在老朋友中间他觉得自己像个被排斥的人。"
+  },
+  {
+    "w": "outcry",
+    "ph": "ˈaʊtˌkraɪ",
+    "pos": "n.",
+    "zh": "强烈抗议；喧哗",
+    "ex": "The plan caused a public outcry across the city.",
+    "exzh": "该计划在全市引发了公众的强烈抗议。"
+  },
+  {
+    "w": "outdated",
+    "ph": "ˌaʊtˈdeɪtɪd",
+    "pos": "adj.",
+    "zh": "过时的；陈旧的",
+    "ex": "The factory still uses outdated and unsafe machines.",
+    "exzh": "这家工厂仍在使用过时且不安全的机器。"
+  },
+  {
+    "w": "outdo",
+    "ph": "ˌaʊtˈduː",
+    "pos": "v.",
+    "zh": "超过；胜过",
+    "ex": "She always tries to outdo her sister in cooking.",
+    "exzh": "她总是想在烹饪上超过她姐姐。"
+  },
+  {
+    "w": "outgrow",
+    "ph": "ˌaʊtˈɡroʊ",
+    "pos": "v.",
+    "zh": "长大而不再适合；发展超过",
+    "ex": "Children outgrow their shoes within a few months.",
+    "exzh": "孩子们几个月就穿不下他们的鞋了。"
+  },
+  {
+    "w": "outlast",
+    "ph": "ˌaʊtˈlæst",
+    "pos": "v.",
+    "zh": "比……持久",
+    "ex": "Well-built stone walls outlast wooden fences easily.",
+    "exzh": "建造良好的石墙很容易比木栅栏更耐久。"
+  },
+  {
+    "w": "outlaw",
+    "ph": "ˈaʊtˌlɔː",
+    "pos": "v./n.",
+    "zh": "宣布违法；亡命之徒",
+    "ex": "The new law will outlaw smoking in cars.",
+    "exzh": "新法律将宣布在车内吸烟违法。"
+  },
+  {
+    "w": "outlay",
+    "ph": "ˈaʊtˌleɪ",
+    "pos": "n.",
+    "zh": "支出；费用",
+    "ex": "The initial outlay for equipment was surprisingly small.",
+    "exzh": "设备的初始支出小得令人惊讶。"
+  },
+  {
+    "w": "outlive",
+    "ph": "ˌaʊtˈlɪv",
+    "pos": "v.",
+    "zh": "活得比……长",
+    "ex": "She outlived her husband by nearly twenty years.",
+    "exzh": "她比丈夫多活了将近二十年。"
+  },
+  {
+    "w": "outpace",
+    "ph": "ˌaʊtˈpeɪs",
+    "pos": "v.",
+    "zh": "超过；发展快于",
+    "ex": "Demand for housing continues to outpace supply.",
+    "exzh": "住房需求继续超过供给。"
+  },
+  {
+    "w": "outright",
+    "ph": "ˈaʊtˈraɪt",
+    "pos": "adj./adv.",
+    "zh": "完全的；直率地",
+    "ex": "The proposal was rejected outright by the committee.",
+    "exzh": "该提案被委员会断然否决。"
+  },
+  {
+    "w": "outrun",
+    "ph": "ˌaʊtˈrʌn",
+    "pos": "v.",
+    "zh": "跑得比……快；超过",
+    "ex": "No horse can outrun a speeding car.",
+    "exzh": "没有马能跑得过疾驰的汽车。"
+  },
+  {
+    "w": "outshine",
+    "ph": "ˌaʊtˈʃaɪn",
+    "pos": "v.",
+    "zh": "比……更出色；使黯然失色",
+    "ex": "The young violinist managed to outshine every rival.",
+    "exzh": "这位年轻的小提琴手胜过了所有对手。"
+  },
+  {
+    "w": "outsmart",
+    "ph": "ˌaʊtˈsmɑːrt",
+    "pos": "v.",
+    "zh": "智胜；比……聪明",
+    "ex": "The fox tried to outsmart the farmer again.",
+    "exzh": "狐狸又试图智胜农夫。"
+  },
+  {
+    "w": "outspoken",
+    "ph": "ˌaʊtˈspoʊkən",
+    "pos": "adj.",
+    "zh": "直言的；坦率的",
+    "ex": "She is outspoken about unfair labor practices.",
+    "exzh": "她对不公平的劳动做法直言不讳。"
+  },
+  {
+    "w": "outstrip",
+    "ph": "ˌaʊtˈstrɪp",
+    "pos": "v.",
+    "zh": "超过；胜过",
+    "ex": "Sales in Asia outstrip those in Europe.",
+    "exzh": "亚洲的销售额超过了欧洲。"
+  },
+  {
+    "w": "outwit",
+    "ph": "ˌaʊtˈwɪt",
+    "pos": "v.",
+    "zh": "智胜；以计取胜",
+    "ex": "The detective managed to outwit the clever thief.",
+    "exzh": "侦探设法智胜了那个狡猾的小偷。"
+  },
+  {
+    "w": "ovation",
+    "ph": "oʊˈveɪʃən",
+    "pos": "n.",
+    "zh": "热烈鼓掌；欢呼",
+    "ex": "The pianist received a standing ovation.",
+    "exzh": "钢琴家获得了全场起立鼓掌。"
+  },
+  {
+    "w": "overbearing",
+    "ph": "ˌoʊvərˈberɪŋ",
+    "pos": "adj.",
+    "zh": "专横的；盛气凌人的",
+    "ex": "His overbearing manner annoyed the whole team.",
+    "exzh": "他专横的态度让整个团队都很恼火。"
+  },
+  {
+    "w": "overcast",
+    "ph": "ˌoʊvərˈkæst",
+    "pos": "adj.",
+    "zh": "阴天的；多云的",
+    "ex": "The sky was overcast when we reached the beach.",
+    "exzh": "我们到达海滩时天空阴云密布。"
+  },
+  {
+    "w": "overcharge",
+    "ph": "ˌoʊvərˈtʃɑːrdʒ",
+    "pos": "v.",
+    "zh": "多收费",
+    "ex": "Some taxi drivers overcharge tourists late at night.",
+    "exzh": "一些出租车司机深夜向游客多收费。"
+  },
+  {
+    "w": "overdo",
+    "ph": "ˌoʊvərˈduː",
+    "pos": "v.",
+    "zh": "做得过分；过度",
+    "ex": "Do not overdo the exercise in your first week.",
+    "exzh": "第一周不要过度运动。"
+  },
+  {
+    "w": "overdose",
+    "ph": "ˈoʊvərˌdoʊs",
+    "pos": "n.",
+    "zh": "过量用药",
+    "ex": "He was rushed to hospital after a drug overdose.",
+    "exzh": "他因吸毒过量被紧急送往医院。"
+  },
+  {
+    "w": "overhaul",
+    "ph": "ˌoʊvərˈhɔːl",
+    "pos": "v./n.",
+    "zh": "彻底检修；全面改革",
+    "ex": "The engine needs a complete overhaul this spring.",
+    "exzh": "这台发动机今年春天需要彻底检修。"
+  },
+  {
+    "w": "override",
+    "ph": "ˌoʊvərˈraɪd",
+    "pos": "v.",
+    "zh": "推翻；优先于",
+    "ex": "The manager may override the committee's decision.",
+    "exzh": "经理可以推翻委员会的决定。"
+  },
+  {
+    "w": "overrule",
+    "ph": "ˌoʊvərˈruːl",
+    "pos": "v.",
+    "zh": "否决；驳回",
+    "ex": "The judge decided to overrule the objection.",
+    "exzh": "法官决定驳回该异议。"
+  },
+  {
+    "w": "oversee",
+    "ph": "ˌoʊvərˈsiː",
+    "pos": "v.",
+    "zh": "监督；管理",
+    "ex": "She was hired to oversee the new factory.",
+    "exzh": "她被雇来监督新工厂。"
+  },
+  {
+    "w": "oversight",
+    "ph": "ˈoʊvərˌsaɪt",
+    "pos": "n.",
+    "zh": "疏忽；监督",
+    "ex": "A simple oversight left the door unlocked all night.",
+    "exzh": "一个简单的疏忽使门整夜没锁。"
+  },
+  {
+    "w": "overstate",
+    "ph": "ˌoʊvərˈsteɪt",
+    "pos": "v.",
+    "zh": "夸大；言过其实",
+    "ex": "It is hard to overstate the value of clean water.",
+    "exzh": "清洁水的价值怎么强调都不为过。"
+  },
+  {
+    "w": "overt",
+    "ph": "oʊˈvɜːrt",
+    "pos": "adj.",
+    "zh": "公开的；明显的",
+    "ex": "There was no overt hostility between the two groups.",
+    "exzh": "两个群体之间没有公开的敌意。"
+  },
+  {
+    "w": "overturn",
+    "ph": "ˌoʊvərˈtɜːrn",
+    "pos": "v.",
+    "zh": "推翻；翻倒",
+    "ex": "The court may overturn the earlier ruling.",
+    "exzh": "法院可能推翻先前的裁决。"
+  },
+  {
+    "w": "overuse",
+    "ph": "ˌoʊvərˈjuːz",
+    "pos": "v./n.",
+    "zh": "过度使用",
+    "ex": "Farmers who overuse fertilizer damage the soil.",
+    "exzh": "过度使用化肥的农民会破坏土壤。"
+  },
+  {
+    "w": "oxide",
+    "ph": "ˈɑːksaɪd",
+    "pos": "n.",
+    "zh": "氧化物",
+    "ex": "Iron oxide gives the desert sand its red color.",
+    "exzh": "氧化铁使沙漠的沙子呈现红色。"
+  },
+  {
+    "w": "oxidize",
+    "ph": "ˈɑːksəˌdaɪz",
+    "pos": "v.",
+    "zh": "氧化",
+    "ex": "Cut apples oxidize and turn brown quickly.",
+    "exzh": "切开的苹果会很快氧化变褐。"
+  },
+  {
+    "w": "ozone",
+    "ph": "ˈoʊzoʊn",
+    "pos": "n.",
+    "zh": "臭氧",
+    "ex": "The ozone layer protects us from harmful rays.",
+    "exzh": "臭氧层保护我们免受有害射线的伤害。"
+  },
+  {
+    "w": "pamphlet",
+    "ph": "ˈpæmflət",
+    "pos": "n.",
+    "zh": "小册子；宣传册",
+    "ex": "The clinic hands out a free pamphlet about healthy eating.",
+    "exzh": "诊所免费发放一本关于健康饮食的小册子。"
+  },
+  {
+    "w": "panorama",
+    "ph": "ˌpænəˈræmə",
+    "pos": "n.",
+    "zh": "全景；概览",
+    "ex": "From the tower we enjoyed a panorama of the whole valley.",
+    "exzh": "从塔上我们欣赏到了整个山谷的全景。"
+  },
+  {
+    "w": "parachute",
+    "ph": "ˈpærəˌʃuːt",
+    "pos": "n./v.",
+    "zh": "降落伞；跳伞",
+    "ex": "The pilot escaped by parachute before the plane crashed.",
+    "exzh": "飞行员在飞机坠毁前跳伞逃生。"
+  },
+  {
+    "w": "paradigm",
+    "ph": "ˈpærəˌdaɪm",
+    "pos": "n.",
+    "zh": "范式；典范",
+    "ex": "The discovery created a new paradigm in medical research.",
+    "exzh": "这一发现开创了医学研究的新范式。"
+  },
+  {
+    "w": "paralysis",
+    "ph": "pəˈræləsɪs",
+    "pos": "n.",
+    "zh": "瘫痪；麻痹",
+    "ex": "The accident left him with partial paralysis in one leg.",
+    "exzh": "这次事故使他一条腿部分瘫痪。"
+  },
+  {
+    "w": "paramount",
+    "ph": "ˈpærəˌmaʊnt",
+    "pos": "adj.",
+    "zh": "最重要的；至高无上的",
+    "ex": "Safety is paramount when working with heavy machinery.",
+    "exzh": "操作重型机械时安全是最重要的。"
+  },
+  {
+    "w": "paraphrase",
+    "ph": "ˈpærəˌfreɪz",
+    "pos": "v./n.",
+    "zh": "释义；改述",
+    "ex": "Please paraphrase the paragraph in your own words.",
+    "exzh": "请用你自己的话改述这一段。"
+  },
+  {
+    "w": "parasite",
+    "ph": "ˈpærəˌsaɪt",
+    "pos": "n.",
+    "zh": "寄生虫；寄生者",
+    "ex": "The parasite lives in the host's stomach for years.",
+    "exzh": "这种寄生虫在宿主的胃里存活多年。"
+  },
+  {
+    "w": "parody",
+    "ph": "ˈpærədi",
+    "pos": "n./v.",
+    "zh": "滑稽模仿；拙劣的模仿",
+    "ex": "The show is a clever parody of television news.",
+    "exzh": "这个节目是对电视新闻的巧妙模仿。"
+  },
+  {
+    "w": "parole",
+    "ph": "pəˈroʊl",
+    "pos": "n./v.",
+    "zh": "假释",
+    "ex": "He was released on parole after serving five years.",
+    "exzh": "他服刑五年后获假释出狱。"
+  },
+  {
+    "w": "partition",
+    "ph": "pɑːrˈtɪʃən",
+    "pos": "n./v.",
+    "zh": "隔板；分割",
+    "ex": "A thin partition divides the office into two rooms.",
+    "exzh": "一道薄隔板把办公室分成两个房间。"
+  },
+  {
+    "w": "pastry",
+    "ph": "ˈpeɪstri",
+    "pos": "n.",
+    "zh": "糕点；油酥面团",
+    "ex": "She bought warm pastry from the bakery on Sunday morning.",
+    "exzh": "她星期天早上从面包店买了热糕点。"
+  },
+  {
+    "w": "patronize",
+    "ph": "ˈpeɪtrəˌnaɪz",
+    "pos": "v.",
+    "zh": "光顾；以恩人自居",
+    "ex": "Local families patronize this small shop every week.",
+    "exzh": "当地家庭每周都光顾这家小店。"
+  },
+  {
+    "w": "paucity",
+    "ph": "ˈpɔːsəti",
+    "pos": "n.",
+    "zh": "缺乏；不足",
+    "ex": "The report criticizes the paucity of reliable data.",
+    "exzh": "该报告批评可靠数据的缺乏。"
+  },
+  {
+    "w": "pauper",
+    "ph": "ˈpɔːpər",
+    "pos": "n.",
+    "zh": "穷人；贫民",
+    "ex": "The novel follows a pauper who becomes a millionaire.",
+    "exzh": "这部小说讲述一个穷人变成百万富翁的故事。"
+  },
+  {
+    "w": "peek",
+    "ph": "piːk",
+    "pos": "v./n.",
+    "zh": "偷看；一瞥",
+    "ex": "She peeked through the curtain at the arriving guests.",
+    "exzh": "她透过窗帘偷看正在到来的客人。"
+  },
+  {
+    "w": "penalize",
+    "ph": "ˈpiːnəˌlaɪz",
+    "pos": "v.",
+    "zh": "处罚；使不利",
+    "ex": "The new rules penalize companies that pollute rivers.",
+    "exzh": "新规定处罚污染河流的公司。"
+  },
+  {
+    "w": "pending",
+    "ph": "ˈpendɪŋ",
+    "pos": "adj./prep.",
+    "zh": "待定的；在……期间",
+    "ex": "The application is still pending a final decision.",
+    "exzh": "该申请仍在等待最终决定。"
+  },
+  {
+    "w": "pendulum",
+    "ph": "ˈpendjələm",
+    "pos": "n.",
+    "zh": "钟摆；摇摆不定的事物",
+    "ex": "The pendulum swung slowly back and forth above the clock.",
+    "exzh": "钟摆在上方缓慢地来回摆动。"
+  },
+  {
+    "w": "peninsula",
+    "ph": "pəˈnɪnsələ",
+    "pos": "n.",
+    "zh": "半岛",
+    "ex": "A narrow peninsula stretches into the cold northern sea.",
+    "exzh": "一个狭窄的半岛伸入寒冷的北方海域。"
+  },
+  {
+    "w": "pensive",
+    "ph": "ˈpensɪv",
+    "pos": "adj.",
+    "zh": "沉思的；忧伤的",
+    "ex": "She sat pensive by the window for a long time.",
+    "exzh": "她在窗边沉思地坐了很久。"
+  },
+  {
+    "w": "perch",
+    "ph": "pɜːrtʃ",
+    "pos": "v./n.",
+    "zh": "栖息；高处",
+    "ex": "A small bird perched on the garden fence and sang.",
+    "exzh": "一只小鸟栖息在花园栅栏上唱歌。"
+  },
+  {
+    "w": "perennial",
+    "ph": "pəˈreniəl",
+    "pos": "adj.",
+    "zh": "长期的；多年生的",
+    "ex": "Traffic jams are a perennial problem in this city.",
+    "exzh": "交通堵塞是这座城市长期存在的问题。"
+  },
+  {
+    "w": "perimeter",
+    "ph": "pəˈrɪmɪtər",
+    "pos": "n.",
+    "zh": "周长；外围",
+    "ex": "Guards patrol the perimeter of the airport every hour.",
+    "exzh": "警卫每小时沿机场外围巡逻。"
+  },
+  {
+    "w": "peripheral",
+    "ph": "pəˈrɪfərəl",
+    "pos": "adj.",
+    "zh": "外围的；次要的",
+    "ex": "These peripheral issues should not delay the main decision.",
+    "exzh": "这些次要问题不应拖延主要决定。"
+  },
+  {
+    "w": "perjury",
+    "ph": "ˈpɜːrdʒəri",
+    "pos": "n.",
+    "zh": "伪证；伪证罪",
+    "ex": "He was charged with perjury after changing his story.",
+    "exzh": "他改变说法后被控作伪证。"
+  },
+  {
+    "w": "permeate",
+    "ph": "ˈpɜːrmiˌeɪt",
+    "pos": "v.",
+    "zh": "渗透；弥漫",
+    "ex": "The smell of coffee permeated the entire apartment.",
+    "exzh": "咖啡的气味弥漫了整个公寓。"
+  },
+  {
+    "w": "permissible",
+    "ph": "pərˈmɪsəbəl",
+    "pos": "adj.",
+    "zh": "可允许的；许可的",
+    "ex": "Smoking is not permissible anywhere inside the building.",
+    "exzh": "大楼内任何地方都不允许吸烟。"
+  },
+  {
+    "w": "pernicious",
+    "ph": "pərˈnɪʃəs",
+    "pos": "adj.",
+    "zh": "有害的；恶性的",
+    "ex": "Rumors can have a pernicious effect on small communities.",
+    "exzh": "谣言会对小社区产生有害影响。"
+  },
+  {
+    "w": "perpetrate",
+    "ph": "ˈpɜːrpəˌtreɪt",
+    "pos": "v.",
+    "zh": "犯下；实施",
+    "ex": "The gang perpetrated a series of robberies last winter.",
+    "exzh": "这个团伙去年冬天实施了一系列抢劫。"
+  },
+  {
+    "w": "perplex",
+    "ph": "pərˈpleks",
+    "pos": "v.",
+    "zh": "使困惑；使为难",
+    "ex": "His sudden silence continued to perplex his friends.",
+    "exzh": "他突然的沉默继续让朋友们困惑。"
+  },
+  {
+    "w": "persecute",
+    "ph": "ˈpɜːrsəˌkjuːt",
+    "pos": "v.",
+    "zh": "迫害；骚扰",
+    "ex": "The regime persecuted writers and journalists for years.",
+    "exzh": "该政权多年来迫害作家和记者。"
+  },
+  {
+    "w": "perseverance",
+    "ph": "ˌpɜːrsəˈvɪrəns",
+    "pos": "n.",
+    "zh": "坚持不懈；毅力",
+    "ex": "Her perseverance finally earned her a place at university.",
+    "exzh": "她的坚持最终使她在大学获得一席之地。"
+  },
+  {
+    "w": "peruse",
+    "ph": "pəˈruːz",
+    "pos": "v.",
+    "zh": "细读；浏览",
+    "ex": "He perused the contract carefully before signing it.",
+    "exzh": "他在签字前仔细阅读了合同。"
+  },
+  {
+    "w": "pervade",
+    "ph": "pərˈveɪd",
+    "pos": "v.",
+    "zh": "遍及；弥漫",
+    "ex": "A feeling of quiet confidence pervaded the whole team.",
+    "exzh": "一种平静的自信弥漫整个团队。"
+  },
+  {
+    "w": "perverse",
+    "ph": "pərˈvɜːrs",
+    "pos": "adj.",
+    "zh": "执拗的；反常的",
+    "ex": "He took a perverse pleasure in contradicting everyone.",
+    "exzh": "他从反驳每个人中得到一种反常的乐趣。"
+  },
+  {
+    "w": "pessimism",
+    "ph": "ˈpesəˌmɪzəm",
+    "pos": "n.",
+    "zh": "悲观；悲观主义",
+    "ex": "Economic pessimism spread quickly through the financial markets.",
+    "exzh": "经济悲观情绪迅速在金融市场蔓延。"
+  },
+  {
+    "w": "pessimist",
+    "ph": "ˈpesəmɪst",
+    "pos": "n.",
+    "zh": "悲观主义者",
+    "ex": "A pessimist sees danger in every new opportunity.",
+    "exzh": "悲观主义者从每个新机会中看到危险。"
+  },
+  {
+    "w": "petty",
+    "ph": "ˈpeti",
+    "pos": "adj.",
+    "zh": "琐碎的；小气的",
+    "ex": "They argued about petty details for the entire afternoon.",
+    "exzh": "他们为琐碎的细节争论了一整个下午。"
+  },
+  {
+    "w": "phantom",
+    "ph": "ˈfæntəm",
+    "pos": "n./adj.",
+    "zh": "幽灵；幻影的",
+    "ex": "The village children believed a phantom haunted the old mill.",
+    "exzh": "村里的孩子相信有幽灵出没于老磨坊。"
+  },
+  {
+    "w": "pharmacy",
+    "ph": "ˈfɑːrməsi",
+    "pos": "n.",
+    "zh": "药房；药剂学",
+    "ex": "The pharmacy on the corner stays open until midnight.",
+    "exzh": "街角的药房营业到午夜。"
+  },
+  {
+    "w": "philanthropy",
+    "ph": "fɪˈlænθrəpi",
+    "pos": "n.",
+    "zh": "慈善；慈善事业",
+    "ex": "Her philanthropy funded schools and hospitals across the region.",
+    "exzh": "她的慈善事业资助了该地区的学校和医院。"
+  },
+  {
+    "w": "phobia",
+    "ph": "ˈfoʊbiə",
+    "pos": "n.",
+    "zh": "恐惧症；恐惧",
+    "ex": "He has a strong phobia about flying in small planes.",
+    "exzh": "他非常害怕乘坐小型飞机。"
+  },
+  {
+    "w": "phonetic",
+    "ph": "fəˈnetɪk",
+    "pos": "adj.",
+    "zh": "语音的；音标的",
+    "ex": "The dictionary gives phonetic symbols for every entry.",
+    "exzh": "这本词典为每个词条提供音标。"
+  },
+  {
+    "w": "physique",
+    "ph": "fɪˈziːk",
+    "pos": "n.",
+    "zh": "体格；体型",
+    "ex": "Years of swimming gave him a strong, lean physique.",
+    "exzh": "多年的游泳使他体格强壮而精瘦。"
+  },
+  {
+    "w": "pictorial",
+    "ph": "pɪkˈtɔːriəl",
+    "pos": "adj.",
+    "zh": "图画的；用图片的",
+    "ex": "The guidebook offers a pictorial history of the town.",
+    "exzh": "这本指南以图片形式介绍了小镇的历史。"
+  },
+  {
+    "w": "piety",
+    "ph": "ˈpaɪəti",
+    "pos": "n.",
+    "zh": "虔诚；孝顺",
+    "ex": "Her piety impressed everyone at the small village church.",
+    "exzh": "她的虔诚让乡村小教堂里的每个人都很敬佩。"
+  },
+  {
+    "w": "pigment",
+    "ph": "ˈpɪɡmənt",
+    "pos": "n.",
+    "zh": "色素；颜料",
+    "ex": "The artist mixed natural pigment with egg and water.",
+    "exzh": "这位艺术家把天然颜料与蛋液和水混合。"
+  },
+  {
+    "w": "pillar",
+    "ph": "ˈpɪlər",
+    "pos": "n.",
+    "zh": "柱子；支柱",
+    "ex": "Honesty is a pillar of any lasting business relationship.",
+    "exzh": "诚实是任何持久商业关系的支柱。"
+  },
+  {
+    "w": "pinnacle",
+    "ph": "ˈpɪnəkəl",
+    "pos": "n.",
+    "zh": "顶峰；顶点",
+    "ex": "Winning the prize was the pinnacle of her career.",
+    "exzh": "获得该奖项是她事业的顶峰。"
+  },
+  {
+    "w": "pinpoint",
+    "ph": "ˈpɪnˌpɔɪnt",
+    "pos": "v./adj.",
+    "zh": "准确指出；精确的",
+    "ex": "Doctors could not pinpoint the cause of the pain.",
+    "exzh": "医生无法准确指出疼痛的原因。"
+  },
+  {
+    "w": "pious",
+    "ph": "ˈpaɪəs",
+    "pos": "adj.",
+    "zh": "虔诚的；伪善的",
+    "ex": "The pious old woman prayed at dawn every day.",
+    "exzh": "这位虔诚的老妇人每天黎明祈祷。"
+  },
+  {
+    "w": "pitfall",
+    "ph": "ˈpɪtˌfɔːl",
+    "pos": "n.",
+    "zh": "隐患；陷阱",
+    "ex": "The guide warns beginners about common pitfalls in investing.",
+    "exzh": "该指南提醒初学者注意投资中常见的陷阱。"
+  },
+  {
+    "w": "pivot",
+    "ph": "ˈpɪvət",
+    "pos": "n./v.",
+    "zh": "支点；以……为中心",
+    "ex": "The whole argument pivots on one questionable assumption.",
+    "exzh": "整个论证以一个可疑的假设为中心。"
+  },
+  {
+    "w": "placebo",
+    "ph": "pləˈsiːboʊ",
+    "pos": "n.",
+    "zh": "安慰剂",
+    "ex": "Half the patients received a placebo instead of the drug.",
+    "exzh": "一半患者接受了安慰剂而不是药物。"
+  },
+  {
+    "w": "plagiarism",
+    "ph": "ˈpleɪdʒəˌrɪzəm",
+    "pos": "n.",
+    "zh": "剽窃；抄袭",
+    "ex": "The professor accused him of plagiarism in the final essay.",
+    "exzh": "教授指控他在期末论文中抄袭。"
+  },
+  {
+    "w": "plaque",
+    "ph": "plæk",
+    "pos": "n.",
+    "zh": "牌匾；牙菌斑",
+    "ex": "A bronze plaque marks the writer's birthplace.",
+    "exzh": "一块铜牌标示着这位作家的出生地。"
+  },
+  {
+    "w": "playwright",
+    "ph": "ˈpleɪˌraɪt",
+    "pos": "n.",
+    "zh": "剧作家",
+    "ex": "The young playwright won an award for her first drama.",
+    "exzh": "这位年轻剧作家凭她的第一部戏剧获奖。"
+  },
+  {
+    "w": "plethora",
+    "ph": "ˈpleθərə",
+    "pos": "n.",
+    "zh": "过多；过剩",
+    "ex": "The market offers a plethora of similar cheap products.",
+    "exzh": "市场上充斥着大量类似的廉价产品。"
+  },
+  {
+    "w": "plight",
+    "ph": "plaɪt",
+    "pos": "n.",
+    "zh": "困境；苦境",
+    "ex": "The documentary shows the plight of homeless families.",
+    "exzh": "这部纪录片展示了无家可归家庭的困境。"
+  },
+  {
+    "w": "pluck",
+    "ph": "plʌk",
+    "pos": "v./n.",
+    "zh": "采摘；勇气",
+    "ex": "She plucked a few ripe apples from the low branch.",
+    "exzh": "她从低矮的树枝上摘了几个熟苹果。"
+  },
+  {
+    "w": "plumage",
+    "ph": "ˈpluːmɪdʒ",
+    "pos": "n.",
+    "zh": "羽毛；羽衣",
+    "ex": "The male bird displays bright plumage during spring.",
+    "exzh": "这种雄鸟在春天展示鲜艳的羽毛。"
+  },
+  {
+    "w": "plunder",
+    "ph": "ˈplʌndər",
+    "pos": "v./n.",
+    "zh": "掠夺；抢劫",
+    "ex": "Soldiers plundered the town and burned its library.",
+    "exzh": "士兵们掠夺了这座城镇并烧毁了图书馆。"
+  },
+  {
+    "w": "poetic",
+    "ph": "poʊˈetɪk",
+    "pos": "adj.",
+    "zh": "诗意的；诗歌的",
+    "ex": "The old bridge has a quiet poetic beauty at dusk.",
+    "exzh": "这座古桥在黄昏时有一种宁静的诗意之美。"
+  },
+  {
+    "w": "poignant",
+    "ph": "ˈpɔɪnjənt",
+    "pos": "adj.",
+    "zh": "辛酸的；令人感伤的",
+    "ex": "The photograph captures a poignant moment of farewell.",
+    "exzh": "这张照片捕捉到一个令人感伤的告别时刻。"
+  },
+  {
+    "w": "poise",
+    "ph": "pɔɪz",
+    "pos": "n./v.",
+    "zh": "镇静；平衡",
+    "ex": "She answered the hostile questions with perfect poise.",
+    "exzh": "她十分镇定地回答了那些敌意的问题。"
+  },
+  {
+    "w": "pollen",
+    "ph": "ˈpɑːlən",
+    "pos": "n.",
+    "zh": "花粉",
+    "ex": "Bees carry pollen from one flower to another.",
+    "exzh": "蜜蜂把花粉从一朵花带到另一朵花。"
+  },
+  {
+    "w": "pompous",
+    "ph": "ˈpɑːmpəs",
+    "pos": "adj.",
+    "zh": "自大的；浮夸的",
+    "ex": "His pompous speech bored everyone at the ceremony.",
+    "exzh": "他浮夸的演讲让典礼上的每个人都感到无聊。"
+  },
+  {
+    "w": "pore",
+    "ph": "pɔːr",
+    "pos": "n./v.",
+    "zh": "毛孔；细孔",
+    "ex": "Sweat came through every pore of his skin.",
+    "exzh": "汗水从他皮肤的每个毛孔渗出。"
+  },
+  {
+    "w": "porous",
+    "ph": "ˈpɔːrəs",
+    "pos": "adj.",
+    "zh": "多孔的；能渗透的",
+    "ex": "The porous rock holds water like a giant sponge.",
+    "exzh": "这种多孔的岩石像巨大的海绵一样蓄水。"
+  },
+  {
+    "w": "portfolio",
+    "ph": "pɔːrtˈfoʊlioʊ",
+    "pos": "n.",
+    "zh": "作品集；投资组合",
+    "ex": "She brought a portfolio of designs to the interview.",
+    "exzh": "她带了一本设计作品集去面试。"
+  },
+  {
+    "w": "posterity",
+    "ph": "pɑːˈsterəti",
+    "pos": "n.",
+    "zh": "后代；子孙",
+    "ex": "These paintings were preserved for posterity by the city.",
+    "exzh": "这些画作被该市为后代保存下来。"
+  },
+  {
+    "w": "postulate",
+    "ph": "ˈpɑːstʃəˌleɪt",
+    "pos": "v.",
+    "zh": "假定；假设",
+    "ex": "The theory postulates that all matter contains energy.",
+    "exzh": "该理论假定所有物质都含有能量。"
+  },
+  {
+    "w": "potent",
+    "ph": "ˈpoʊtənt",
+    "pos": "adj.",
+    "zh": "强有力的；有效的",
+    "ex": "The speech was a potent reminder of past mistakes.",
+    "exzh": "这篇演讲有力地提醒了过去的错误。"
+  },
+  {
+    "w": "pottery",
+    "ph": "ˈpɑːtəri",
+    "pos": "n.",
+    "zh": "陶器；陶艺",
+    "ex": "The museum displays pottery from the Han dynasty.",
+    "exzh": "博物馆展出汉代的陶器。"
+  },
+  {
+    "w": "practicable",
+    "ph": "ˈpræktɪkəbəl",
+    "pos": "adj.",
+    "zh": "可行的；行得通的",
+    "ex": "The plan is attractive but hardly practicable this year.",
+    "exzh": "这个计划很有吸引力，但今年几乎不可行。"
+  },
+  {
+    "w": "practitioner",
+    "ph": "prækˈtɪʃənər",
+    "pos": "n.",
+    "zh": "从业者；开业医师",
+    "ex": "The clinic employs one nurse and two general practitioners.",
+    "exzh": "这家诊所聘用一名护士和两名全科医生。"
+  }
+]

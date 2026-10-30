@@ -1,0 +1,1698 @@
+[
+  {
+    "w": "fable",
+    "ph": "ˈfeɪbəl",
+    "pos": "n.",
+    "zh": "寓言；传说",
+    "ex": "The teacher read a short fable about a clever fox.",
+    "exzh": "老师读了一个关于聪明狐狸的短寓言。"
+  },
+  {
+    "w": "fabric",
+    "ph": "ˈfæbrɪk",
+    "pos": "n.",
+    "zh": "织物；布料；结构",
+    "ex": "Cotton fabric feels soft and cool in summer.",
+    "exzh": "棉织物在夏天感觉柔软凉爽。"
+  },
+  {
+    "w": "fabricate",
+    "ph": "ˈfæbrɪkeɪt",
+    "pos": "v.",
+    "zh": "编造；制造；伪造",
+    "ex": "He fabricated the whole story to avoid punishment.",
+    "exzh": "他编造了整个故事以逃避惩罚。"
+  },
+  {
+    "w": "fabulous",
+    "ph": "ˈfæbjələs",
+    "pos": "adj.",
+    "zh": "极好的；惊人的；传说中的",
+    "ex": "We had a fabulous dinner at the new restaurant.",
+    "exzh": "我们在那家新餐厅吃了一顿极好的晚餐。"
+  },
+  {
+    "w": "facet",
+    "ph": "ˈfæsɪt",
+    "pos": "n.",
+    "zh": "方面；刻面",
+    "ex": "The report examines every facet of city life.",
+    "exzh": "报告考察了城市生活的每个方面。"
+  },
+  {
+    "w": "facial",
+    "ph": "ˈfeɪʃəl",
+    "pos": "adj.",
+    "zh": "面部的；脸的",
+    "ex": "She uses a simple cream for facial care.",
+    "exzh": "她使用一种简单的面霜做面部护理。"
+  },
+  {
+    "w": "facilitate",
+    "ph": "fəˈsɪlɪteɪt",
+    "pos": "v.",
+    "zh": "促进；使便利",
+    "ex": "The new bridge will facilitate trade between the villages.",
+    "exzh": "新桥将促进两个村庄之间的贸易。"
+  },
+  {
+    "w": "facility",
+    "ph": "fəˈsɪləti",
+    "pos": "n.",
+    "zh": "设施；设备；才能",
+    "ex": "The school has excellent sports facilities for students.",
+    "exzh": "这所学校有很好的学生体育设施。"
+  },
+  {
+    "w": "faction",
+    "ph": "ˈfækʃən",
+    "pos": "n.",
+    "zh": "派系；小集团",
+    "ex": "A small faction opposed the new club rules.",
+    "exzh": "一个小派系反对俱乐部的新规定。"
+  },
+  {
+    "w": "factual",
+    "ph": "ˈfæktʃuəl",
+    "pos": "adj.",
+    "zh": "事实的；真实的",
+    "ex": "Please give a factual account of what happened.",
+    "exzh": "请对发生的事情作事实性的叙述。"
+  },
+  {
+    "w": "faculty",
+    "ph": "ˈfækəlti",
+    "pos": "n.",
+    "zh": "全体教员；才能；系",
+    "ex": "The faculty agreed to change the exam schedule.",
+    "exzh": "全体教员同意更改考试日程。"
+  },
+  {
+    "w": "fade",
+    "ph": "feɪd",
+    "pos": "v.",
+    "zh": "褪色；逐渐消失",
+    "ex": "The bright curtains faded after years of strong sunlight.",
+    "exzh": "这些鲜艳的窗帘在多年强烈阳光照射后褪色了。"
+  },
+  {
+    "w": "failure",
+    "ph": "ˈfeɪljər",
+    "pos": "n.",
+    "zh": "失败；故障；未做到",
+    "ex": "His first attempt ended in failure, but he tried again.",
+    "exzh": "他的第一次尝试以失败告终，但他又试了一次。"
+  },
+  {
+    "w": "faint",
+    "ph": "feɪnt",
+    "pos": "adj./v.",
+    "zh": "微弱的；模糊的；晕倒",
+    "ex": "We heard a faint sound of music from downstairs.",
+    "exzh": "我们听到楼下传来微弱的音乐声。"
+  },
+  {
+    "w": "fair",
+    "ph": "fer",
+    "pos": "adj./n.",
+    "zh": "公平的；晴朗的；集市",
+    "ex": "The judge made a fair decision for both sides.",
+    "exzh": "法官为双方做出了公平的裁决。"
+  },
+  {
+    "w": "fairly",
+    "ph": "ˈferli",
+    "pos": "adv.",
+    "zh": "相当；公平地",
+    "ex": "The test was fairly easy for most of the class.",
+    "exzh": "这次测验对班上大多数人来说相当容易。"
+  },
+  {
+    "w": "fairness",
+    "ph": "ˈfernəs",
+    "pos": "n.",
+    "zh": "公平；公正",
+    "ex": "Students expect fairness in the way grades are given.",
+    "exzh": "学生期望评分方式公正。"
+  },
+  {
+    "w": "fairy",
+    "ph": "ˈferi",
+    "pos": "n.",
+    "zh": "仙女；小精灵",
+    "ex": "The child believes a fairy lives in the garden.",
+    "exzh": "那个孩子相信花园里住着一位仙女。"
+  },
+  {
+    "w": "faith",
+    "ph": "feɪθ",
+    "pos": "n.",
+    "zh": "信念；信任；信仰",
+    "ex": "She has great faith in her students' ability.",
+    "exzh": "她对学生的能力很有信心。"
+  },
+  {
+    "w": "faithful",
+    "ph": "ˈfeɪθfəl",
+    "pos": "adj.",
+    "zh": "忠实的；忠诚的；可靠的",
+    "ex": "The old dog stayed faithful to its owner for years.",
+    "exzh": "这只老狗多年来对主人始终忠诚。"
+  },
+  {
+    "w": "fake",
+    "ph": "feɪk",
+    "pos": "adj./n.",
+    "zh": "假的；伪造的；赝品",
+    "ex": "The police found fake passports in his bag.",
+    "exzh": "警方在他的包里发现了假护照。"
+  },
+  {
+    "w": "false",
+    "ph": "fɔːls",
+    "pos": "adj.",
+    "zh": "错误的；虚假的；人造的",
+    "ex": "The report was based on false information.",
+    "exzh": "这份报告基于虚假信息。"
+  },
+  {
+    "w": "fame",
+    "ph": "feɪm",
+    "pos": "n.",
+    "zh": "名声；声誉",
+    "ex": "The young singer rose to fame almost overnight.",
+    "exzh": "这位年轻歌手几乎一夜成名。"
+  },
+  {
+    "w": "famine",
+    "ph": "ˈfæmɪn",
+    "pos": "n.",
+    "zh": "饥荒；严重缺乏",
+    "ex": "The long drought caused a serious famine in the region.",
+    "exzh": "长期干旱在该地区造成了严重饥荒。"
+  },
+  {
+    "w": "fancy",
+    "ph": "ˈfænsi",
+    "pos": "adj./v.",
+    "zh": "花哨的；高档的；想象",
+    "ex": "They stayed in a fancy hotel near the sea.",
+    "exzh": "他们住在海边一家高档酒店。"
+  },
+  {
+    "w": "fantastic",
+    "ph": "fænˈtæstɪk",
+    "pos": "adj.",
+    "zh": "极好的；奇异的；巨大的",
+    "ex": "We had a fantastic time at the beach last weekend.",
+    "exzh": "上周末我们在海滩玩得非常开心。"
+  },
+  {
+    "w": "fantasy",
+    "ph": "ˈfæntəsi",
+    "pos": "n.",
+    "zh": "幻想；想象；幻想作品",
+    "ex": "Her novel mixes real history with pure fantasy.",
+    "exzh": "她的小说把真实历史与纯粹的幻想结合起来。"
+  },
+  {
+    "w": "fare",
+    "ph": "fer",
+    "pos": "n.",
+    "zh": "车费；票价；食物",
+    "ex": "The bus fare has increased by fifty cents.",
+    "exzh": "公交车费上涨了五十美分。"
+  },
+  {
+    "w": "farewell",
+    "ph": "ˌferˈwel",
+    "pos": "n.",
+    "zh": "告别；再见",
+    "ex": "They held a farewell party for the retiring teacher.",
+    "exzh": "他们为退休的老师举办了一场告别聚会。"
+  },
+  {
+    "w": "farther",
+    "ph": "ˈfɑːrðər",
+    "pos": "adv.",
+    "zh": "更远地；进一步",
+    "ex": "We walked farther than we had planned that day.",
+    "exzh": "那天我们走得比计划的更远。"
+  },
+  {
+    "w": "farthest",
+    "ph": "ˈfɑːrðɪst",
+    "pos": "adj.",
+    "zh": "最远的",
+    "ex": "The farthest village has no bus service at all.",
+    "exzh": "最远的那个村庄根本没有公交服务。"
+  },
+  {
+    "w": "fascinate",
+    "ph": "ˈfæsɪneɪt",
+    "pos": "v.",
+    "zh": "使着迷；深深吸引",
+    "ex": "Ancient Egyptian art has fascinated people for centuries.",
+    "exzh": "古埃及艺术几个世纪以来一直使人们着迷。"
+  },
+  {
+    "w": "fashionable",
+    "ph": "ˈfæʃənəbəl",
+    "pos": "adj.",
+    "zh": "时髦的；流行的",
+    "ex": "She always wears fashionable clothes to work.",
+    "exzh": "她上班总是穿时髦的衣服。"
+  },
+  {
+    "w": "fasten",
+    "ph": "ˈfæsən",
+    "pos": "v.",
+    "zh": "系紧；扣住；固定",
+    "ex": "Please fasten your seat belt before the plane takes off.",
+    "exzh": "请在飞机起飞前系好安全带。"
+  },
+  {
+    "w": "fatal",
+    "ph": "ˈfeɪtəl",
+    "pos": "adj.",
+    "zh": "致命的；毁灭性的",
+    "ex": "One small mistake can be fatal in this experiment.",
+    "exzh": "在这个实验中，一个小错误就可能是致命的。"
+  },
+  {
+    "w": "fate",
+    "ph": "feɪt",
+    "pos": "n.",
+    "zh": "命运；结局",
+    "ex": "Nobody knows the fate of the missing sailors.",
+    "exzh": "没有人知道失踪水手的命运。"
+  },
+  {
+    "w": "fatigue",
+    "ph": "fəˈtiːɡ",
+    "pos": "n.",
+    "zh": "疲劳；劳累",
+    "ex": "After the long march, fatigue spread through the whole team.",
+    "exzh": "长途行军之后，疲劳蔓延到整个队伍。"
+  },
+  {
+    "w": "fault",
+    "ph": "fɔːlt",
+    "pos": "n.",
+    "zh": "过错；缺点；故障",
+    "ex": "The accident was entirely the driver's fault.",
+    "exzh": "这起事故完全是司机的过错。"
+  },
+  {
+    "w": "faulty",
+    "ph": "ˈfɔːlti",
+    "pos": "adj.",
+    "zh": "有故障的；有缺陷的",
+    "ex": "The faulty heater was replaced the next morning.",
+    "exzh": "有故障的加热器第二天上午被更换了。"
+  },
+  {
+    "w": "favorable",
+    "ph": "ˈfeɪvərəbəl",
+    "pos": "adj.",
+    "zh": "有利的；赞同的；良好的",
+    "ex": "The weather was favorable for our mountain climb.",
+    "exzh": "天气对我们的登山活动很有利。"
+  },
+  {
+    "w": "fax",
+    "ph": "fæks",
+    "pos": "n./v.",
+    "zh": "传真；传真发送",
+    "ex": "Please send the signed contract by fax today.",
+    "exzh": "请今天把签好的合同传真过来。"
+  },
+  {
+    "w": "fearful",
+    "ph": "ˈfɪrfəl",
+    "pos": "adj.",
+    "zh": "害怕的；担心的；可怕的",
+    "ex": "The villagers were fearful of another heavy storm.",
+    "exzh": "村民们害怕再来一场大风暴。"
+  },
+  {
+    "w": "fearless",
+    "ph": "ˈfɪrləs",
+    "pos": "adj.",
+    "zh": "无畏的；大胆的",
+    "ex": "The fearless young man jumped into the icy river.",
+    "exzh": "那个无畏的年轻人跳进了冰冷的河水。"
+  },
+  {
+    "w": "feasible",
+    "ph": "ˈfiːzəbəl",
+    "pos": "adj.",
+    "zh": "可行的；行得通的",
+    "ex": "It is not feasible to finish the report today.",
+    "exzh": "今天完成这份报告是不可行的。"
+  },
+  {
+    "w": "feast",
+    "ph": "fiːst",
+    "pos": "n./v.",
+    "zh": "盛宴；节日；尽情享用",
+    "ex": "The whole village prepared a feast for the harvest.",
+    "exzh": "全村人为丰收准备了一场盛宴。"
+  },
+  {
+    "w": "feat",
+    "ph": "fiːt",
+    "pos": "n.",
+    "zh": "功绩；技艺",
+    "ex": "Climbing that cliff was an amazing feat of courage.",
+    "exzh": "攀登那处悬崖是勇气的一项惊人壮举。"
+  },
+  {
+    "w": "feather",
+    "ph": "ˈfeðər",
+    "pos": "n.",
+    "zh": "羽毛",
+    "ex": "A white feather floated slowly down to the ground.",
+    "exzh": "一根白色羽毛缓缓飘落到地面。"
+  },
+  {
+    "w": "federal",
+    "ph": "ˈfedərəl",
+    "pos": "adj.",
+    "zh": "联邦的；联邦制的",
+    "ex": "The federal government announced new funding for schools.",
+    "exzh": "联邦政府宣布为学校提供新资金。"
+  },
+  {
+    "w": "federation",
+    "ph": "ˌfedəˈreɪʃən",
+    "pos": "n.",
+    "zh": "联邦；联合会",
+    "ex": "The sports federation sets rules for all member clubs.",
+    "exzh": "该体育联合会为所有成员俱乐部制定规则。"
+  },
+  {
+    "w": "fee",
+    "ph": "fiː",
+    "pos": "n.",
+    "zh": "费用；酬金",
+    "ex": "The entrance fee includes a free guide book.",
+    "exzh": "入场费包含一本免费指南。"
+  },
+  {
+    "w": "feeble",
+    "ph": "ˈfiːbəl",
+    "pos": "adj.",
+    "zh": "虚弱的；无力的",
+    "ex": "The patient's voice was feeble after the operation.",
+    "exzh": "手术后病人的声音很虚弱。"
+  },
+  {
+    "w": "feedback",
+    "ph": "ˈfiːdbæk",
+    "pos": "n.",
+    "zh": "反馈；反应",
+    "ex": "Students gave useful feedback on the new course.",
+    "exzh": "学生们对新课程给出了有用的反馈。"
+  },
+  {
+    "w": "feeling",
+    "ph": "ˈfiːlɪŋ",
+    "pos": "n.",
+    "zh": "感觉；情感；看法",
+    "ex": "I have a feeling that something is wrong.",
+    "exzh": "我有一种感觉，好像出了什么问题。"
+  },
+  {
+    "w": "fellow",
+    "ph": "ˈfeloʊ",
+    "pos": "n./adj.",
+    "zh": "同伴；家伙；同伴的",
+    "ex": "He is a friendly fellow who helps everyone.",
+    "exzh": "他是个乐于助人的友好同伴。"
+  },
+  {
+    "w": "fellowship",
+    "ph": "ˈfeloʊʃɪp",
+    "pos": "n.",
+    "zh": "奖学金；友谊；团体",
+    "ex": "She won a research fellowship at the university.",
+    "exzh": "她获得了该大学的研究奖学金。"
+  },
+  {
+    "w": "female",
+    "ph": "ˈfiːmeɪl",
+    "pos": "adj./n.",
+    "zh": "女性的；雌性的；女性",
+    "ex": "The company hired more female engineers this year.",
+    "exzh": "公司今年雇用了更多女性工程师。"
+  },
+  {
+    "w": "feminine",
+    "ph": "ˈfemənɪn",
+    "pos": "adj.",
+    "zh": "女性的；柔美的",
+    "ex": "The room was decorated in soft feminine colors.",
+    "exzh": "房间用柔美的女性色调装饰。"
+  },
+  {
+    "w": "fence",
+    "ph": "fens",
+    "pos": "n.",
+    "zh": "篱笆；围栏",
+    "ex": "A wooden fence runs along the edge of the garden.",
+    "exzh": "一道木栅栏沿着花园的边缘延伸。"
+  },
+  {
+    "w": "ferocious",
+    "ph": "fəˈroʊʃəs",
+    "pos": "adj.",
+    "zh": "凶猛的；残暴的",
+    "ex": "A ferocious dog guarded the entrance of the yard.",
+    "exzh": "一只凶猛的狗守着院子的入口。"
+  },
+  {
+    "w": "ferry",
+    "ph": "ˈferi",
+    "pos": "n./v.",
+    "zh": "渡船；渡口；摆渡",
+    "ex": "We took the ferry across the wide river at dawn.",
+    "exzh": "我们黎明时乘渡船穿过宽阔的河流。"
+  },
+  {
+    "w": "fertile",
+    "ph": "ˈfɜːrtəl",
+    "pos": "adj.",
+    "zh": "肥沃的；多产的；能生育的",
+    "ex": "The fertile land produces two crops every year.",
+    "exzh": "这片肥沃的土地每年产两季作物。"
+  },
+  {
+    "w": "fertilizer",
+    "ph": "ˈfɜːrtəlaɪzər",
+    "pos": "n.",
+    "zh": "肥料",
+    "ex": "Farmers use less fertilizer to protect the local river.",
+    "exzh": "农民使用更少的肥料来保护当地河流。"
+  },
+  {
+    "w": "festival",
+    "ph": "ˈfestɪvəl",
+    "pos": "n.",
+    "zh": "节日；节庆",
+    "ex": "The music festival attracts thousands of young visitors.",
+    "exzh": "这个音乐节吸引了数千名年轻游客。"
+  },
+  {
+    "w": "festive",
+    "ph": "ˈfestɪv",
+    "pos": "adj.",
+    "zh": "节日的；喜庆的",
+    "ex": "The streets had a festive look during the holiday.",
+    "exzh": "节日期间街道呈现出喜庆的景象。"
+  },
+  {
+    "w": "fetch",
+    "ph": "fetʃ",
+    "pos": "v.",
+    "zh": "去取来；拿来",
+    "ex": "Could you fetch some water from the kitchen?",
+    "exzh": "你能从厨房取些水来吗？"
+  },
+  {
+    "w": "fever",
+    "ph": "ˈfiːvər",
+    "pos": "n.",
+    "zh": "发烧；狂热",
+    "ex": "The child had a high fever all night.",
+    "exzh": "孩子整夜高烧。"
+  },
+  {
+    "w": "feverish",
+    "ph": "ˈfiːvərɪʃ",
+    "pos": "adj.",
+    "zh": "发烧的；狂热的",
+    "ex": "The feverish child was sent home early.",
+    "exzh": "那个发烧的孩子被提前送回家了。"
+  },
+  {
+    "w": "fiber",
+    "ph": "ˈfaɪbər",
+    "pos": "n.",
+    "zh": "纤维；纤维制品",
+    "ex": "Vegetables are rich in fiber and important vitamins.",
+    "exzh": "蔬菜富含纤维和重要的维生素。"
+  },
+  {
+    "w": "fiction",
+    "ph": "ˈfɪkʃən",
+    "pos": "n.",
+    "zh": "小说；虚构",
+    "ex": "She prefers science fiction to historical novels.",
+    "exzh": "比起历史小说，她更喜欢科幻小说。"
+  },
+  {
+    "w": "fierce",
+    "ph": "fɪrs",
+    "pos": "adj.",
+    "zh": "凶猛的；激烈的；强烈的",
+    "ex": "Competition for the scholarship was fierce this year.",
+    "exzh": "今年奖学金的竞争非常激烈。"
+  },
+  {
+    "w": "fighter",
+    "ph": "ˈfaɪtər",
+    "pos": "n.",
+    "zh": "战士；斗士；战斗机",
+    "ex": "He is a brave fighter for equal rights.",
+    "exzh": "他是一位为平等权利而战的勇敢斗士。"
+  },
+  {
+    "w": "file",
+    "ph": "faɪl",
+    "pos": "n./v.",
+    "zh": "文件；档案；归档",
+    "ex": "Please save the file before closing the program.",
+    "exzh": "请在关闭程序前保存文件。"
+  },
+  {
+    "w": "filter",
+    "ph": "ˈfɪltər",
+    "pos": "n./v.",
+    "zh": "过滤器；过滤",
+    "ex": "The water filter must be changed every month.",
+    "exzh": "水过滤器必须每月更换。"
+  },
+  {
+    "w": "financial",
+    "ph": "faɪˈnænʃəl",
+    "pos": "adj.",
+    "zh": "财政的；金融的",
+    "ex": "The family faced serious financial problems after the flood.",
+    "exzh": "洪水过后这家人面临严重的财务问题。"
+  },
+  {
+    "w": "finding",
+    "ph": "ˈfaɪndɪŋ",
+    "pos": "n.",
+    "zh": "发现；调查结果",
+    "ex": "The findings of the survey surprised many teachers.",
+    "exzh": "调查结果让许多教师感到惊讶。"
+  },
+  {
+    "w": "finite",
+    "ph": "ˈfaɪnaɪt",
+    "pos": "adj.",
+    "zh": "有限的；有穷的",
+    "ex": "Fresh water is a finite resource on this planet.",
+    "exzh": "淡水是地球上一种有限的资源。"
+  },
+  {
+    "w": "fireman",
+    "ph": "ˈfaɪrmən",
+    "pos": "n.",
+    "zh": "消防员",
+    "ex": "A brave fireman carried the child out of danger.",
+    "exzh": "一名勇敢的消防员把孩子抱到了安全处。"
+  },
+  {
+    "w": "fireplace",
+    "ph": "ˈfaɪərpleɪs",
+    "pos": "n.",
+    "zh": "壁炉",
+    "ex": "We sat by the fireplace and talked for hours.",
+    "exzh": "我们坐在壁炉旁聊了几个小时。"
+  },
+  {
+    "w": "firework",
+    "ph": "ˈfaɪrwɜːrk",
+    "pos": "n.",
+    "zh": "烟花；烟火",
+    "ex": "The fireworks lit up the whole night sky.",
+    "exzh": "烟花照亮了整个夜空。"
+  },
+  {
+    "w": "firm",
+    "ph": "fɜːrm",
+    "pos": "adj./n.",
+    "zh": "坚定的；结实的；公司",
+    "ex": "The company has built a firm reputation for quality.",
+    "exzh": "这家公司树立了可靠的质量声誉。"
+  },
+  {
+    "w": "firmly",
+    "ph": "ˈfɜːrmli",
+    "pos": "adv.",
+    "zh": "坚定地；牢固地",
+    "ex": "He firmly refused to change his mind.",
+    "exzh": "他坚决拒绝改变主意。"
+  },
+  {
+    "w": "fisherman",
+    "ph": "ˈfɪʃərmən",
+    "pos": "n.",
+    "zh": "渔民；钓鱼者",
+    "ex": "The old fisherman goes out before sunrise every day.",
+    "exzh": "那位老渔民每天日出前出海。"
+  },
+  {
+    "w": "fist",
+    "ph": "fɪst",
+    "pos": "n.",
+    "zh": "拳头",
+    "ex": "He hit the table with his fist in anger.",
+    "exzh": "他生气地用拳头捶桌子。"
+  },
+  {
+    "w": "fitness",
+    "ph": "ˈfɪtnəs",
+    "pos": "n.",
+    "zh": "健康；适合",
+    "ex": "Regular swimming improves fitness and reduces stress.",
+    "exzh": "经常游泳能增强体质、减轻压力。"
+  },
+  {
+    "w": "fitting",
+    "ph": "ˈfɪtɪŋ",
+    "pos": "adj.",
+    "zh": "合适的；恰当的",
+    "ex": "It was a fitting end to a wonderful evening.",
+    "exzh": "那是一个美好夜晚的恰当结尾。"
+  },
+  {
+    "w": "fixture",
+    "ph": "ˈfɪkstʃər",
+    "pos": "n.",
+    "zh": "固定装置；赛事",
+    "ex": "The old lamp is a permanent fixture in the hall.",
+    "exzh": "那盏旧灯是大厅里固定的装置。"
+  },
+  {
+    "w": "flag",
+    "ph": "flæɡ",
+    "pos": "n.",
+    "zh": "旗；旗帜",
+    "ex": "The national flag rose slowly in the morning wind.",
+    "exzh": "国旗在晨风中缓缓升起。"
+  },
+  {
+    "w": "flame",
+    "ph": "fleɪm",
+    "pos": "n.",
+    "zh": "火焰；热情",
+    "ex": "A small flame quickly grew into a large fire.",
+    "exzh": "一小簇火焰很快变成了一场大火。"
+  },
+  {
+    "w": "flap",
+    "ph": "flæp",
+    "pos": "v.",
+    "zh": "拍打；摆动",
+    "ex": "The bird flapped its wings and flew away.",
+    "exzh": "鸟拍动翅膀飞走了。"
+  },
+  {
+    "w": "flare",
+    "ph": "fler",
+    "pos": "v.",
+    "zh": "闪耀；突然发怒",
+    "ex": "A red light flared in the dark night sky.",
+    "exzh": "一道红光在漆黑的夜空中闪过。"
+  },
+  {
+    "w": "flash",
+    "ph": "flæʃ",
+    "pos": "v./n.",
+    "zh": "闪光；闪现",
+    "ex": "Lightning flashed across the sky just before midnight.",
+    "exzh": "午夜前闪电划过天空。"
+  },
+  {
+    "w": "flask",
+    "ph": "flæsk",
+    "pos": "n.",
+    "zh": "烧瓶；保温瓶",
+    "ex": "She poured the liquid into a clean glass flask.",
+    "exzh": "她把液体倒入干净的玻璃烧瓶。"
+  },
+  {
+    "w": "flat",
+    "ph": "flæt",
+    "pos": "adj./n.",
+    "zh": "平的；单调的；公寓",
+    "ex": "We rented a small flat near the train station.",
+    "exzh": "我们在火车站附近租了一间小公寓。"
+  },
+  {
+    "w": "flatten",
+    "ph": "ˈflætən",
+    "pos": "v.",
+    "zh": "压平；使变平",
+    "ex": "The heavy truck flattened the soft muddy road.",
+    "exzh": "重型卡车把松软的泥路压平了。"
+  },
+  {
+    "w": "flavor",
+    "ph": "ˈfleɪvər",
+    "pos": "n.",
+    "zh": "味道；风味；特色",
+    "ex": "This soup has a rich flavor of fresh tomatoes.",
+    "exzh": "这汤有浓郁的鲜番茄味。"
+  },
+  {
+    "w": "flaw",
+    "ph": "flɔː",
+    "pos": "n.",
+    "zh": "缺点；瑕疵",
+    "ex": "The engineer found a serious flaw in the design.",
+    "exzh": "工程师发现设计中有一个严重缺陷。"
+  },
+  {
+    "w": "flee",
+    "ph": "fliː",
+    "pos": "v.",
+    "zh": "逃跑；逃离",
+    "ex": "Thousands of people fled the city during the war.",
+    "exzh": "战争期间数千人逃离了这座城市。"
+  },
+  {
+    "w": "fleet",
+    "ph": "fliːt",
+    "pos": "n.",
+    "zh": "舰队；车队",
+    "ex": "The fishing fleet returned to the harbor at sunset.",
+    "exzh": "渔船队在日落时返回港口。"
+  },
+  {
+    "w": "flesh",
+    "ph": "fleʃ",
+    "pos": "n.",
+    "zh": "肉；果肉；肉体",
+    "ex": "The knife cut deep into the flesh of the fruit.",
+    "exzh": "刀切进水果的果肉深处。"
+  },
+  {
+    "w": "flexibility",
+    "ph": "ˌfleksəˈbɪləti",
+    "pos": "n.",
+    "zh": "灵活性；弹性",
+    "ex": "The job offers flexibility in working hours.",
+    "exzh": "这份工作在工作时间上提供了灵活性。"
+  },
+  {
+    "w": "flick",
+    "ph": "flɪk",
+    "pos": "v.",
+    "zh": "轻弹；轻拂",
+    "ex": "She flicked the dust off the old book.",
+    "exzh": "她轻弹掉旧书上的灰尘。"
+  },
+  {
+    "w": "flight",
+    "ph": "flaɪt",
+    "pos": "n.",
+    "zh": "航班；飞行；逃跑",
+    "ex": "Our flight was delayed by two hours this morning.",
+    "exzh": "我们的航班今天上午延误了两个小时。"
+  },
+  {
+    "w": "fling",
+    "ph": "flɪŋ",
+    "pos": "v.",
+    "zh": "扔；抛；猛推",
+    "ex": "She flung the wet towel into the basket.",
+    "exzh": "她把湿毛巾扔进篮子里。"
+  },
+  {
+    "w": "flip",
+    "ph": "flɪp",
+    "pos": "v.",
+    "zh": "翻转；轻弹",
+    "ex": "He flipped the coin and caught it easily.",
+    "exzh": "他把硬币弹起，轻松地接住了。"
+  },
+  {
+    "w": "float",
+    "ph": "floʊt",
+    "pos": "v.",
+    "zh": "漂浮；飘动",
+    "ex": "Dry leaves floated gently down the quiet river.",
+    "exzh": "干枯的叶子顺着平静的河面轻轻飘流。"
+  },
+  {
+    "w": "flock",
+    "ph": "flɑːk",
+    "pos": "n./v.",
+    "zh": "羊群；一群；群集",
+    "ex": "A flock of sheep crossed the narrow road slowly.",
+    "exzh": "一群羊缓慢地穿过狭窄的道路。"
+  },
+  {
+    "w": "flood",
+    "ph": "flʌd",
+    "pos": "n./v.",
+    "zh": "洪水；淹没",
+    "ex": "The flood destroyed roads and bridges across the valley.",
+    "exzh": "洪水摧毁了山谷中的道路和桥梁。"
+  },
+  {
+    "w": "flour",
+    "ph": "flaʊər",
+    "pos": "n.",
+    "zh": "面粉",
+    "ex": "Mix the flour with water and a little salt.",
+    "exzh": "把面粉与水以及少量盐混合。"
+  },
+  {
+    "w": "flourish",
+    "ph": "ˈflɜːrɪʃ",
+    "pos": "v.",
+    "zh": "繁荣；茂盛；茁壮成长",
+    "ex": "Small businesses began to flourish after the new law.",
+    "exzh": "新法律出台后小企业开始繁荣。"
+  },
+  {
+    "w": "flow",
+    "ph": "floʊ",
+    "pos": "v./n.",
+    "zh": "流动；流量",
+    "ex": "Cold water flows down from the mountain every spring.",
+    "exzh": "每年春天冷水从山上流下来。"
+  },
+  {
+    "w": "flu",
+    "ph": "fluː",
+    "pos": "n.",
+    "zh": "流感",
+    "ex": "Half the class stayed home with the flu.",
+    "exzh": "班上一半的人因流感留在家中。"
+  },
+  {
+    "w": "fluctuate",
+    "ph": "ˈflʌktʃueɪt",
+    "pos": "v.",
+    "zh": "波动；起伏",
+    "ex": "Vegetable prices fluctuate with the seasons.",
+    "exzh": "蔬菜价格随季节波动。"
+  },
+  {
+    "w": "fluency",
+    "ph": "ˈfluːənsi",
+    "pos": "n.",
+    "zh": "流利；流畅",
+    "ex": "Daily practice improved her fluency in spoken English.",
+    "exzh": "每日练习提高了她英语口语的流利度。"
+  },
+  {
+    "w": "fluent",
+    "ph": "ˈfluːənt",
+    "pos": "adj.",
+    "zh": "流利的；流畅的",
+    "ex": "After two years abroad, she became fluent in Spanish.",
+    "exzh": "在国外两年后，她的西班牙语变得流利。"
+  },
+  {
+    "w": "fluid",
+    "ph": "ˈfluːɪd",
+    "pos": "n./adj.",
+    "zh": "液体；流体；流动的",
+    "ex": "Drink plenty of fluid when you have a fever.",
+    "exzh": "发烧时要多喝液体。"
+  },
+  {
+    "w": "flush",
+    "ph": "flʌʃ",
+    "pos": "v.",
+    "zh": "冲洗；脸红",
+    "ex": "Please flush the pipe with clean water first.",
+    "exzh": "请先用清水冲洗管道。"
+  },
+  {
+    "w": "flute",
+    "ph": "fluːt",
+    "pos": "n.",
+    "zh": "长笛",
+    "ex": "She played a soft tune on the bamboo flute.",
+    "exzh": "她用竹笛吹了一支柔和的曲子。"
+  },
+  {
+    "w": "foam",
+    "ph": "foʊm",
+    "pos": "n./v.",
+    "zh": "泡沫；起泡沫",
+    "ex": "White foam covered the surface of the rough sea.",
+    "exzh": "白色泡沫覆盖着波涛汹涌的海面。"
+  },
+  {
+    "w": "fog",
+    "ph": "fɑːɡ",
+    "pos": "n.",
+    "zh": "雾；烟雾",
+    "ex": "Thick fog covered the airport for most of the morning.",
+    "exzh": "浓雾在上午大部分时间笼罩着机场。"
+  },
+  {
+    "w": "foggy",
+    "ph": "ˈfɑːɡi",
+    "pos": "adj.",
+    "zh": "有雾的；模糊的",
+    "ex": "It was too foggy to see the bridge clearly.",
+    "exzh": "雾太大了，看不清那座桥。"
+  },
+  {
+    "w": "fold",
+    "ph": "foʊld",
+    "pos": "v./n.",
+    "zh": "折叠；褶",
+    "ex": "She folded the letter carefully and put it away.",
+    "exzh": "她小心地折好信并收了起来。"
+  },
+  {
+    "w": "foliage",
+    "ph": "ˈfoʊliɪdʒ",
+    "pos": "n.",
+    "zh": "树叶；枝叶",
+    "ex": "The thick foliage kept the path cool in summer.",
+    "exzh": "浓密的枝叶使这条小路在夏天很凉爽。"
+  },
+  {
+    "w": "folk",
+    "ph": "foʊk",
+    "pos": "n./adj.",
+    "zh": "人们；民间的",
+    "ex": "This old folk song is still popular in the countryside.",
+    "exzh": "这首古老的民歌在乡下仍然流行。"
+  },
+  {
+    "w": "fond",
+    "ph": "fɑːnd",
+    "pos": "adj.",
+    "zh": "喜爱的；深情的",
+    "ex": "She is very fond of classical music and poetry.",
+    "exzh": "她非常喜爱古典音乐和诗歌。"
+  },
+  {
+    "w": "fool",
+    "ph": "fuːl",
+    "pos": "n./v.",
+    "zh": "傻瓜；愚弄",
+    "ex": "Do not treat me like a fool.",
+    "exzh": "别把我当傻瓜。"
+  },
+  {
+    "w": "foolish",
+    "ph": "ˈfuːlɪʃ",
+    "pos": "adj.",
+    "zh": "愚蠢的；傻的",
+    "ex": "It was foolish to leave the door unlocked.",
+    "exzh": "把门没锁就离开是愚蠢的。"
+  },
+  {
+    "w": "footprint",
+    "ph": "ˈfʊtprɪnt",
+    "pos": "n.",
+    "zh": "脚印；足迹",
+    "ex": "We found fresh footprints near the river bank.",
+    "exzh": "我们在河岸边发现了新的脚印。"
+  },
+  {
+    "w": "footstep",
+    "ph": "ˈfʊtstep",
+    "pos": "n.",
+    "zh": "脚步；脚步声",
+    "ex": "I heard soft footsteps in the hallway last night.",
+    "exzh": "昨晚我听到走廊里有轻轻的脚步声。"
+  },
+  {
+    "w": "forbid",
+    "ph": "fərˈbɪd",
+    "pos": "v.",
+    "zh": "禁止；不许",
+    "ex": "The school forbids students to use phones in class.",
+    "exzh": "学校禁止学生在课堂上使用手机。"
+  },
+  {
+    "w": "forecast",
+    "ph": "ˈfɔːrkæst",
+    "pos": "n./v.",
+    "zh": "预报；预测",
+    "ex": "The weather forecast warns of strong wind tomorrow.",
+    "exzh": "天气预报警告明天有大风。"
+  },
+  {
+    "w": "forehead",
+    "ph": "ˈfɔːrhed",
+    "pos": "n.",
+    "zh": "前额",
+    "ex": "He wiped the sweat from his forehead with a towel.",
+    "exzh": "他用毛巾擦去前额的汗水。"
+  },
+  {
+    "w": "foreign",
+    "ph": "ˈfɔːrən",
+    "pos": "adj.",
+    "zh": "外国的；外来的",
+    "ex": "She enjoys learning foreign languages in her free time.",
+    "exzh": "她喜欢在空闲时间学习外语。"
+  },
+  {
+    "w": "foreigner",
+    "ph": "ˈfɔːrənər",
+    "pos": "n.",
+    "zh": "外国人",
+    "ex": "Many foreigners come to this town for the festival.",
+    "exzh": "许多外国人来这个小镇参加节日活动。"
+  },
+  {
+    "w": "foremost",
+    "ph": "ˈfɔːrmoʊst",
+    "pos": "adj.",
+    "zh": "最重要的；最前的",
+    "ex": "Safety is the foremost concern at the construction site.",
+    "exzh": "安全是施工现场最重要的关注点。"
+  },
+  {
+    "w": "foresee",
+    "ph": "fɔːrˈsiː",
+    "pos": "v.",
+    "zh": "预见；预料",
+    "ex": "Nobody could foresee the sudden change in the market.",
+    "exzh": "没有人能预见市场的突然变化。"
+  },
+  {
+    "w": "foresight",
+    "ph": "ˈfɔːrsaɪt",
+    "pos": "n.",
+    "zh": "远见；先见之明",
+    "ex": "Good planning requires patience and real foresight.",
+    "exzh": "良好的规划需要耐心和真正的远见。"
+  },
+  {
+    "w": "forge",
+    "ph": "fɔːrdʒ",
+    "pos": "v.",
+    "zh": "伪造；锻造；努力前进",
+    "ex": "He was punished for forging his manager's signature.",
+    "exzh": "他因伪造经理签名而受到惩罚。"
+  },
+  {
+    "w": "forgery",
+    "ph": "ˈfɔːrdʒəri",
+    "pos": "n.",
+    "zh": "伪造；赝品",
+    "ex": "The painting turned out to be a clever forgery.",
+    "exzh": "那幅画结果是一件巧妙的赝品。"
+  },
+  {
+    "w": "forgetful",
+    "ph": "fərˈɡetfəl",
+    "pos": "adj.",
+    "zh": "健忘的",
+    "ex": "My grandfather is forgetful about small daily things.",
+    "exzh": "我祖父对日常小事很健忘。"
+  },
+  {
+    "w": "forgive",
+    "ph": "fərˈɡɪv",
+    "pos": "v.",
+    "zh": "原谅；宽恕",
+    "ex": "It took her years to forgive her old friend.",
+    "exzh": "她花了好几年才原谅了老朋友。"
+  },
+  {
+    "w": "formal",
+    "ph": "ˈfɔːrməl",
+    "pos": "adj.",
+    "zh": "正式的；正规的",
+    "ex": "Please write a formal letter to the manager.",
+    "exzh": "请给经理写一封正式的信。"
+  },
+  {
+    "w": "format",
+    "ph": "ˈfɔːrmæt",
+    "pos": "n./v.",
+    "zh": "格式；版式；格式化",
+    "ex": "The report must follow the required format exactly.",
+    "exzh": "报告必须严格遵循要求的格式。"
+  },
+  {
+    "w": "formation",
+    "ph": "fɔːrˈmeɪʃən",
+    "pos": "n.",
+    "zh": "形成；构成；编队",
+    "ex": "The formation of ice takes several hours in winter.",
+    "exzh": "冬天结冰需要几个小时。"
+  },
+  {
+    "w": "former",
+    "ph": "ˈfɔːrmər",
+    "pos": "adj.",
+    "zh": "以前的；前者的",
+    "ex": "The former president visited the school last week.",
+    "exzh": "前校长上周访问了这所学校。"
+  },
+  {
+    "w": "formidable",
+    "ph": "ˈfɔːrmɪdəbəl",
+    "pos": "adj.",
+    "zh": "强大的；可怕的；艰巨的",
+    "ex": "They face a formidable opponent in the final match.",
+    "exzh": "他们在决赛中面对一个强大的对手。"
+  },
+  {
+    "w": "formula",
+    "ph": "ˈfɔːrmjələ",
+    "pos": "n.",
+    "zh": "公式；配方；方案",
+    "ex": "Students must memorize this formula before the exam.",
+    "exzh": "学生必须在考试前记住这个公式。"
+  },
+  {
+    "w": "forth",
+    "ph": "fɔːrθ",
+    "pos": "adv.",
+    "zh": "向前；向外",
+    "ex": "From that day forth, they never spoke again.",
+    "exzh": "从那天起，他们再也没说过话。"
+  },
+  {
+    "w": "forthcoming",
+    "ph": "ˌfɔːrθˈkʌmɪŋ",
+    "pos": "adj.",
+    "zh": "即将到来的；乐于提供的",
+    "ex": "Details of the forthcoming event will appear online.",
+    "exzh": "即将举行的活动的细节将在网上公布。"
+  },
+  {
+    "w": "fortnight",
+    "ph": "ˈfɔːrtnaɪt",
+    "pos": "n.",
+    "zh": "两周",
+    "ex": "They spent a quiet fortnight by the lake.",
+    "exzh": "他们在湖边度过了安静的两周。"
+  },
+  {
+    "w": "fortress",
+    "ph": "ˈfɔːrtrəs",
+    "pos": "n.",
+    "zh": "堡垒；要塞",
+    "ex": "The old fortress stands on top of the hill.",
+    "exzh": "那座古堡矗立在山顶上。"
+  },
+  {
+    "w": "fortunate",
+    "ph": "ˈfɔːrtʃənət",
+    "pos": "adj.",
+    "zh": "幸运的",
+    "ex": "We were fortunate to find seats near the stage.",
+    "exzh": "我们很幸运在舞台附近找到了座位。"
+  },
+  {
+    "w": "fortune",
+    "ph": "ˈfɔːrtʃən",
+    "pos": "n.",
+    "zh": "财富；运气；命运",
+    "ex": "He made a fortune in the computer business.",
+    "exzh": "他在电脑生意中发了财。"
+  },
+  {
+    "w": "forum",
+    "ph": "ˈfɔːrəm",
+    "pos": "n.",
+    "zh": "论坛；讨论会",
+    "ex": "The online forum helps students share study tips.",
+    "exzh": "这个在线论坛帮助学生分享学习技巧。"
+  },
+  {
+    "w": "fossil",
+    "ph": "ˈfɑːsəl",
+    "pos": "n.",
+    "zh": "化石",
+    "ex": "Scientists found a dinosaur fossil in the desert.",
+    "exzh": "科学家在沙漠中发现了一具恐龙化石。"
+  },
+  {
+    "w": "foster",
+    "ph": "ˈfɑːstər",
+    "pos": "v.",
+    "zh": "培养；促进；收养",
+    "ex": "Group work can foster cooperation among young learners.",
+    "exzh": "小组活动能培养年轻学习者的合作精神。"
+  },
+  {
+    "w": "foul",
+    "ph": "faʊl",
+    "pos": "adj.",
+    "zh": "肮脏的；恶劣的",
+    "ex": "The foul smell came from the blocked drain.",
+    "exzh": "难闻的气味来自堵塞的下水道。"
+  },
+  {
+    "w": "foundation",
+    "ph": "faʊnˈdeɪʃən",
+    "pos": "n.",
+    "zh": "基础；地基；基金会",
+    "ex": "A good education lays the foundation for future success.",
+    "exzh": "良好的教育为未来的成功奠定基础。"
+  },
+  {
+    "w": "founder",
+    "ph": "ˈfaʊndər",
+    "pos": "n.",
+    "zh": "创始人；建立者",
+    "ex": "The founder of the company still visits the factory.",
+    "exzh": "公司的创始人仍然会来工厂看看。"
+  },
+  {
+    "w": "fountain",
+    "ph": "ˈfaʊntən",
+    "pos": "n.",
+    "zh": "喷泉；源泉",
+    "ex": "Children played around the fountain in the square.",
+    "exzh": "孩子们在广场的喷泉周围玩耍。"
+  },
+  {
+    "w": "fraction",
+    "ph": "ˈfrækʃən",
+    "pos": "n.",
+    "zh": "分数；小部分",
+    "ex": "Only a small fraction of the students failed.",
+    "exzh": "只有一小部分学生不及格。"
+  },
+  {
+    "w": "fracture",
+    "ph": "ˈfræktʃər",
+    "pos": "n./v.",
+    "zh": "骨折；断裂",
+    "ex": "He suffered a small fracture in his left wrist.",
+    "exzh": "他左手腕有轻微骨折。"
+  },
+  {
+    "w": "fragile",
+    "ph": "ˈfrædʒəl",
+    "pos": "adj.",
+    "zh": "易碎的；脆弱的",
+    "ex": "The glass vase is fragile, so handle it carefully.",
+    "exzh": "这个玻璃花瓶易碎，所以要小心轻放。"
+  },
+  {
+    "w": "fragment",
+    "ph": "ˈfræɡmənt",
+    "pos": "n.",
+    "zh": "碎片；片段",
+    "ex": "A fragment of the old wall still stands there.",
+    "exzh": "一段旧墙的残片仍立在那里。"
+  },
+  {
+    "w": "fragrance",
+    "ph": "ˈfreɪɡrəns",
+    "pos": "n.",
+    "zh": "香味；香气",
+    "ex": "The garden was full of the fragrance of roses.",
+    "exzh": "花园里满是玫瑰的香味。"
+  },
+  {
+    "w": "fragrant",
+    "ph": "ˈfreɪɡrənt",
+    "pos": "adj.",
+    "zh": "芳香的",
+    "ex": "The kitchen smelled of fresh fragrant bread.",
+    "exzh": "厨房里飘着新鲜面包的香味。"
+  },
+  {
+    "w": "frame",
+    "ph": "freɪm",
+    "pos": "n./v.",
+    "zh": "框架；给……装框",
+    "ex": "The old photo looks better in a wooden frame.",
+    "exzh": "这张老照片装在木相框里更好看。"
+  },
+  {
+    "w": "framework",
+    "ph": "ˈfreɪmwɜːrk",
+    "pos": "n.",
+    "zh": "框架；结构；体系",
+    "ex": "The new law provides a framework for online trade.",
+    "exzh": "新法律为网络交易提供了一个框架。"
+  },
+  {
+    "w": "frank",
+    "ph": "fræŋk",
+    "pos": "adj.",
+    "zh": "坦率的；直言不讳的",
+    "ex": "To be frank, I disagree with the whole plan.",
+    "exzh": "坦率地说，我不同意整个计划。"
+  },
+  {
+    "w": "frankly",
+    "ph": "ˈfræŋkli",
+    "pos": "adv.",
+    "zh": "坦率地；直言地",
+    "ex": "Frankly, I think the plan needs more work.",
+    "exzh": "坦率地说，我认为这个计划还需完善。"
+  },
+  {
+    "w": "frantic",
+    "ph": "ˈfræntɪk",
+    "pos": "adj.",
+    "zh": "狂乱的；急切的",
+    "ex": "There was a frantic search for the missing child.",
+    "exzh": "人们疯狂地搜寻失踪的孩子。"
+  },
+  {
+    "w": "fraud",
+    "ph": "frɔːd",
+    "pos": "n.",
+    "zh": "欺诈；骗子",
+    "ex": "He was arrested for credit card fraud last month.",
+    "exzh": "他上个月因信用卡诈骗被捕。"
+  },
+  {
+    "w": "freedom",
+    "ph": "ˈfriːdəm",
+    "pos": "n.",
+    "zh": "自由；自主",
+    "ex": "Students have the freedom to choose their own topics.",
+    "exzh": "学生有自由选择自己的题目。"
+  },
+  {
+    "w": "freeze",
+    "ph": "friːz",
+    "pos": "v.",
+    "zh": "结冰；冻结；僵住",
+    "ex": "The lake will freeze if the weather stays cold.",
+    "exzh": "如果天气持续寒冷，湖面就会结冰。"
+  },
+  {
+    "w": "freight",
+    "ph": "freɪt",
+    "pos": "n.",
+    "zh": "货运；货物",
+    "ex": "The railway carries freight between the two cities.",
+    "exzh": "铁路在两个城市之间运送货物。"
+  },
+  {
+    "w": "frequency",
+    "ph": "ˈfriːkwənsi",
+    "pos": "n.",
+    "zh": "频率；频繁",
+    "ex": "The frequency of storms has risen in recent years.",
+    "exzh": "近年来风暴的频率上升了。"
+  },
+  {
+    "w": "frequently",
+    "ph": "ˈfriːkwəntli",
+    "pos": "adv.",
+    "zh": "频繁地；经常",
+    "ex": "He frequently visits his grandparents on weekends.",
+    "exzh": "他周末经常去看望祖父母。"
+  },
+  {
+    "w": "freshman",
+    "ph": "ˈfreʃmən",
+    "pos": "n.",
+    "zh": "大一新生",
+    "ex": "Every freshman must attend the welcome meeting.",
+    "exzh": "每位大一新生都必须参加欢迎会。"
+  },
+  {
+    "w": "friction",
+    "ph": "ˈfrɪkʃən",
+    "pos": "n.",
+    "zh": "摩擦；冲突",
+    "ex": "Oiling the wheels reduces friction and saves energy.",
+    "exzh": "给轮子上油能减少摩擦并节省能源。"
+  },
+  {
+    "w": "friendship",
+    "ph": "ˈfrendʃɪp",
+    "pos": "n.",
+    "zh": "友谊；友情",
+    "ex": "Their friendship began during a long train journey.",
+    "exzh": "他们的友谊始于一次长途火车旅行。"
+  },
+  {
+    "w": "fright",
+    "ph": "fraɪt",
+    "pos": "n.",
+    "zh": "惊恐；惊吓",
+    "ex": "The sudden noise gave her a terrible fright.",
+    "exzh": "突然的响声把她吓得不轻。"
+  },
+  {
+    "w": "frighten",
+    "ph": "ˈfraɪtən",
+    "pos": "v.",
+    "zh": "使害怕；吓唬",
+    "ex": "The sudden noise frightened the sleeping baby.",
+    "exzh": "突然的响声吓到了睡着的婴儿。"
+  },
+  {
+    "w": "fringe",
+    "ph": "frɪndʒ",
+    "pos": "n.",
+    "zh": "边缘；刘海",
+    "ex": "They live on the fringe of the busy city.",
+    "exzh": "他们住在繁华城市的边缘。"
+  },
+  {
+    "w": "frog",
+    "ph": "frɑːɡ",
+    "pos": "n.",
+    "zh": "青蛙",
+    "ex": "A green frog jumped into the small pond.",
+    "exzh": "一只绿青蛙跳进了小池塘。"
+  },
+  {
+    "w": "frontier",
+    "ph": "frʌnˈtɪr",
+    "pos": "n.",
+    "zh": "边境；前沿",
+    "ex": "Soldiers guarded the frontier throughout the winter.",
+    "exzh": "士兵们整个冬天守卫着边境。"
+  },
+  {
+    "w": "frost",
+    "ph": "frɔːst",
+    "pos": "n./v.",
+    "zh": "霜；结霜",
+    "ex": "A thin frost covered the grass this morning.",
+    "exzh": "今天早上草地上覆盖着一层薄霜。"
+  },
+  {
+    "w": "frosty",
+    "ph": "ˈfrɔːsti",
+    "pos": "adj.",
+    "zh": "霜冻的；冷淡的",
+    "ex": "The frosty morning made the roads slippery.",
+    "exzh": "结霜的早晨使道路很滑。"
+  },
+  {
+    "w": "frown",
+    "ph": "fraʊn",
+    "pos": "v.",
+    "zh": "皱眉；不赞成",
+    "ex": "She frowned when she saw the broken window.",
+    "exzh": "看到破了的窗户，她皱起了眉头。"
+  },
+  {
+    "w": "frozen",
+    "ph": "ˈfroʊzən",
+    "pos": "adj.",
+    "zh": "冰冻的；冻僵的",
+    "ex": "The frozen lake was safe enough to walk on.",
+    "exzh": "结冰的湖面足够安全，可以在上面走。"
+  },
+  {
+    "w": "frugal",
+    "ph": "ˈfruːɡəl",
+    "pos": "adj.",
+    "zh": "节俭的；朴素的",
+    "ex": "My grandmother is frugal with money and food.",
+    "exzh": "我祖母在钱和食物上都很节俭。"
+  },
+  {
+    "w": "fruitful",
+    "ph": "ˈfruːtfəl",
+    "pos": "adj.",
+    "zh": "富有成果的；多产的",
+    "ex": "The meeting was short but very fruitful for both sides.",
+    "exzh": "这次会议时间短，但对双方都很有成果。"
+  },
+  {
+    "w": "frustrate",
+    "ph": "ˈfrʌstreɪt",
+    "pos": "v.",
+    "zh": "使沮丧；使受挫",
+    "ex": "Repeated delays frustrated the waiting passengers at the airport.",
+    "exzh": "一再的延误让机场等候的乘客感到沮丧。"
+  },
+  {
+    "w": "frustration",
+    "ph": "frʌˈstreɪʃən",
+    "pos": "n.",
+    "zh": "挫折；沮丧",
+    "ex": "He could not hide his frustration at the delay.",
+    "exzh": "他无法掩饰对延误的沮丧。"
+  },
+  {
+    "w": "fry",
+    "ph": "fraɪ",
+    "pos": "v.",
+    "zh": "油炸；煎",
+    "ex": "She fried two eggs for breakfast this morning.",
+    "exzh": "今天早上她煎了两个鸡蛋当早餐。"
+  },
+  {
+    "w": "fuel",
+    "ph": "ˈfjuːəl",
+    "pos": "n./v.",
+    "zh": "燃料；加燃料",
+    "ex": "The car uses less fuel on the highway.",
+    "exzh": "这辆车在高速公路上耗油较少。"
+  },
+  {
+    "w": "fulfill",
+    "ph": "fʊlˈfɪl",
+    "pos": "v.",
+    "zh": "履行；实现；满足",
+    "ex": "She worked hard to fulfill her promise to her parents.",
+    "exzh": "她努力履行对父母的承诺。"
+  },
+  {
+    "w": "fully",
+    "ph": "ˈfʊli",
+    "pos": "adv.",
+    "zh": "完全地；充分地",
+    "ex": "The patient is expected to recover fully in weeks.",
+    "exzh": "病人预计在几周内完全康复。"
+  },
+  {
+    "w": "functional",
+    "ph": "ˈfʌŋkʃənəl",
+    "pos": "adj.",
+    "zh": "功能的；实用的",
+    "ex": "The kitchen is small but very functional.",
+    "exzh": "这间厨房虽小但非常实用。"
+  },
+  {
+    "w": "fund",
+    "ph": "fʌnd",
+    "pos": "n./v.",
+    "zh": "基金；资金；资助",
+    "ex": "The school raised funds for a new library.",
+    "exzh": "学校为新图书馆筹集了资金。"
+  },
+  {
+    "w": "funeral",
+    "ph": "ˈfjuːnərəl",
+    "pos": "n.",
+    "zh": "葬礼",
+    "ex": "Many people attended the funeral of the old teacher.",
+    "exzh": "许多人参加了这位老教师的葬礼。"
+  },
+  {
+    "w": "funnel",
+    "ph": "ˈfʌnəl",
+    "pos": "n./v.",
+    "zh": "漏斗；输送",
+    "ex": "Pour the oil slowly through the small funnel.",
+    "exzh": "用这个小漏斗慢慢倒入油。"
+  },
+  {
+    "w": "fur",
+    "ph": "fɜːr",
+    "pos": "n.",
+    "zh": "毛皮；软毛",
+    "ex": "The cat has soft fur and bright green eyes.",
+    "exzh": "这只猫有柔软的毛和明亮的绿眼睛。"
+  },
+  {
+    "w": "furious",
+    "ph": "ˈfjʊriəs",
+    "pos": "adj.",
+    "zh": "愤怒的；猛烈的",
+    "ex": "She was furious about the rude remark.",
+    "exzh": "她对那句粗鲁的话非常愤怒。"
+  },
+  {
+    "w": "furnace",
+    "ph": "ˈfɜːrnəs",
+    "pos": "n.",
+    "zh": "炉子；熔炉",
+    "ex": "The old furnace keeps the whole house warm.",
+    "exzh": "那个旧炉子让整座房子保持温暖。"
+  },
+  {
+    "w": "furnish",
+    "ph": "ˈfɜːrnɪʃ",
+    "pos": "v.",
+    "zh": "布置家具；提供",
+    "ex": "They furnished the flat with simple wooden tables.",
+    "exzh": "他们用简单的木桌布置了公寓。"
+  },
+  {
+    "w": "furniture",
+    "ph": "ˈfɜːrnɪtʃər",
+    "pos": "n.",
+    "zh": "家具",
+    "ex": "The new office furniture arrived on Monday morning.",
+    "exzh": "新办公家具周一上午送到了。"
+  },
+  {
+    "w": "furthermore",
+    "ph": "ˈfɜːrðərmɔːr",
+    "pos": "adv.",
+    "zh": "此外；而且",
+    "ex": "The plan is expensive; furthermore, it may not work.",
+    "exzh": "这个计划很贵，而且可能行不通。"
+  },
+  {
+    "w": "fury",
+    "ph": "ˈfjʊri",
+    "pos": "n.",
+    "zh": "愤怒；狂怒",
+    "ex": "He slammed the door in fury and left.",
+    "exzh": "他愤怒地摔门而去。"
+  },
+  {
+    "w": "fuse",
+    "ph": "fjuːz",
+    "pos": "n./v.",
+    "zh": "保险丝；熔断",
+    "ex": "A blown fuse left the whole flat in darkness.",
+    "exzh": "保险丝烧断让整间公寓陷入黑暗。"
+  },
+  {
+    "w": "fusion",
+    "ph": "ˈfjuːʒən",
+    "pos": "n.",
+    "zh": "融合；聚变",
+    "ex": "The band plays a fusion of jazz and folk music.",
+    "exzh": "这支乐队演奏爵士与民乐的融合音乐。"
+  },
+  {
+    "w": "fuss",
+    "ph": "fʌs",
+    "pos": "n.",
+    "zh": "大惊小怪；忙乱",
+    "ex": "Do not make a fuss about such a small problem.",
+    "exzh": "不要为这么小的问题大惊小怪。"
+  },
+  {
+    "w": "futile",
+    "ph": "ˈfjuːtəl",
+    "pos": "adj.",
+    "zh": "徒劳的；无效的",
+    "ex": "It is futile to argue with such a stubborn person.",
+    "exzh": "和这么固执的人争论是徒劳的。"
+  },
+  {
+    "w": "fuzzy",
+    "ph": "ˈfʌzi",
+    "pos": "adj.",
+    "zh": "模糊的；毛茸茸的",
+    "ex": "The picture on the old television was fuzzy.",
+    "exzh": "那台旧电视的画面很模糊。"
+  }
+]

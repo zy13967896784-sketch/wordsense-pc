@@ -1,0 +1,2098 @@
+[
+  {
+    "w": "tablet",
+    "ph": "ˈtæblət",
+    "pos": "n.",
+    "zh": "药片；碑；平板电脑",
+    "ex": "She takes two tablets with water every morning.",
+    "exzh": "她每天早上用水服两片药。"
+  },
+  {
+    "w": "taboo",
+    "ph": "təˈbuː",
+    "pos": "n./adj.",
+    "zh": "禁忌；忌讳的",
+    "ex": "In many cultures, it is a taboo to ask about salary.",
+    "exzh": "在许多文化中，询问薪水是一种禁忌。"
+  },
+  {
+    "w": "tact",
+    "ph": "tækt",
+    "pos": "n.",
+    "zh": "圆通；得体；机智",
+    "ex": "He handled the sensitive question with great tact.",
+    "exzh": "他非常得体地处理了那个敏感问题。"
+  },
+  {
+    "w": "tactful",
+    "ph": "ˈtæktfl",
+    "pos": "adj.",
+    "zh": "圆通的；得体的",
+    "ex": "Her tactful reply avoided a serious argument.",
+    "exzh": "她得体的回答避免了一场严重的争论。"
+  },
+  {
+    "w": "tactic",
+    "ph": "ˈtæktɪk",
+    "pos": "n.",
+    "zh": "策略；战术；手段",
+    "ex": "The coach changed his tactics in the second half.",
+    "exzh": "教练在下半场改变了战术。"
+  },
+  {
+    "w": "tactical",
+    "ph": "ˈtæktɪkl",
+    "pos": "adj.",
+    "zh": "战术的；策略上的",
+    "ex": "They made a tactical retreat to avoid heavy losses.",
+    "exzh": "他们为了避免重大损失而做了战术性撤退。"
+  },
+  {
+    "w": "tag",
+    "ph": "tæɡ",
+    "pos": "n./v.",
+    "zh": "标签；贴标签",
+    "ex": "Please check the price tag before you pay.",
+    "exzh": "付款前请看一下价格标签。"
+  },
+  {
+    "w": "tail",
+    "ph": "teɪl",
+    "pos": "n.",
+    "zh": "尾巴；尾部",
+    "ex": "The dog wagged its tail when it saw me.",
+    "exzh": "那只狗看到我就摇尾巴。"
+  },
+  {
+    "w": "tailor",
+    "ph": "ˈteɪlər",
+    "pos": "n./v.",
+    "zh": "裁缝；专门制作",
+    "ex": "The suit was tailored to fit him perfectly.",
+    "exzh": "这套西服是为他量身定做的。"
+  },
+  {
+    "w": "tale",
+    "ph": "teɪl",
+    "pos": "n.",
+    "zh": "故事；传说",
+    "ex": "My grandmother told us a tale about the moon.",
+    "exzh": "奶奶给我们讲了一个关于月亮的故事。"
+  },
+  {
+    "w": "talent",
+    "ph": "ˈtælənt",
+    "pos": "n.",
+    "zh": "天赋；才能；人才",
+    "ex": "She has a real talent for playing the piano.",
+    "exzh": "她弹钢琴真的很有天赋。"
+  },
+  {
+    "w": "talented",
+    "ph": "ˈtæləntɪd",
+    "pos": "adj.",
+    "zh": "有才能的；有天资的",
+    "ex": "The company hired several talented young engineers.",
+    "exzh": "公司雇了几位有才华的年轻工程师。"
+  },
+  {
+    "w": "talkative",
+    "ph": "ˈtɔːkətɪv",
+    "pos": "adj.",
+    "zh": "健谈的；多嘴的",
+    "ex": "My cousin is cheerful and very talkative.",
+    "exzh": "我表弟性格开朗，非常健谈。"
+  },
+  {
+    "w": "tally",
+    "ph": "ˈtæli",
+    "pos": "v./n.",
+    "zh": "计算；符合；记录",
+    "ex": "The numbers do not tally with the report.",
+    "exzh": "这些数字与报告不符。"
+  },
+  {
+    "w": "tame",
+    "ph": "teɪm",
+    "pos": "adj./v.",
+    "zh": "驯服的；驯化",
+    "ex": "It took years to tame the wild horse.",
+    "exzh": "驯服这匹野马花了好几年。"
+  },
+  {
+    "w": "tangible",
+    "ph": "ˈtændʒəbl",
+    "pos": "adj.",
+    "zh": "有形的；可触摸的；明确的",
+    "ex": "The project brought tangible benefits to local farmers.",
+    "exzh": "该项目给当地农民带来了实实在在的好处。"
+  },
+  {
+    "w": "tangle",
+    "ph": "ˈtæŋɡl",
+    "pos": "v./n.",
+    "zh": "缠结；混乱",
+    "ex": "The wires behind the desk are badly tangled.",
+    "exzh": "桌子后面的电线乱成一团。"
+  },
+  {
+    "w": "tank",
+    "ph": "tæŋk",
+    "pos": "n.",
+    "zh": "坦克；水箱",
+    "ex": "The car's fuel tank was almost empty.",
+    "exzh": "汽车的油箱几乎空了。"
+  },
+  {
+    "w": "tanker",
+    "ph": "ˈtæŋkər",
+    "pos": "n.",
+    "zh": "油轮；罐车",
+    "ex": "A huge oil tanker entered the harbor at dawn.",
+    "exzh": "一艘巨大的油轮在黎明时驶入港口。"
+  },
+  {
+    "w": "tap",
+    "ph": "tæp",
+    "pos": "v./n.",
+    "zh": "轻敲；水龙头",
+    "ex": "Someone tapped gently on the office door.",
+    "exzh": "有人轻轻敲了敲办公室的门。"
+  },
+  {
+    "w": "tape",
+    "ph": "teɪp",
+    "pos": "n.",
+    "zh": "磁带；胶带",
+    "ex": "He fixed the box with a piece of tape.",
+    "exzh": "他用一段胶带把盒子粘好了。"
+  },
+  {
+    "w": "tariff",
+    "ph": "ˈtærɪf",
+    "pos": "n.",
+    "zh": "关税；价目表",
+    "ex": "The government raised tariffs on imported cars.",
+    "exzh": "政府对进口汽车提高了关税。"
+  },
+  {
+    "w": "task",
+    "ph": "tæsk",
+    "pos": "n.",
+    "zh": "任务；工作",
+    "ex": "Finishing the report is a difficult task.",
+    "exzh": "完成这份报告是一项艰巨的任务。"
+  },
+  {
+    "w": "tasteless",
+    "ph": "ˈteɪstləs",
+    "pos": "adj.",
+    "zh": "无味的；不得体的",
+    "ex": "The soup was warm but quite tasteless.",
+    "exzh": "这汤是热的，但完全没有味道。"
+  },
+  {
+    "w": "tasty",
+    "ph": "ˈteɪsti",
+    "pos": "adj.",
+    "zh": "美味的；可口的",
+    "ex": "The soup smells tasty and looks colorful.",
+    "exzh": "这汤闻起来很香，看起来色彩丰富。"
+  },
+  {
+    "w": "taxi",
+    "ph": "ˈtæksi",
+    "pos": "n.",
+    "zh": "出租车",
+    "ex": "We took a taxi to the airport this morning.",
+    "exzh": "今天早上我们打车去了机场。"
+  },
+  {
+    "w": "teammate",
+    "ph": "ˈtiːmmeɪt",
+    "pos": "n.",
+    "zh": "队友",
+    "ex": "He praised his teammate for the winning goal.",
+    "exzh": "他称赞队友打进了制胜球。"
+  },
+  {
+    "w": "teamwork",
+    "ph": "ˈtiːmwɜːrk",
+    "pos": "n.",
+    "zh": "团队合作",
+    "ex": "Good teamwork is the key to success.",
+    "exzh": "良好的团队合作是成功的关键。"
+  },
+  {
+    "w": "tear",
+    "ph": "tɪr",
+    "pos": "n.",
+    "zh": "眼泪；泪珠",
+    "ex": "A tear rolled down her cheek.",
+    "exzh": "一滴眼泪从她脸颊上滑落。"
+  },
+  {
+    "w": "tease",
+    "ph": "tiːz",
+    "pos": "v.",
+    "zh": "取笑；戏弄",
+    "ex": "Don't tease your little brother about his hair.",
+    "exzh": "别拿你弟弟的头发取笑他。"
+  },
+  {
+    "w": "teaspoon",
+    "ph": "ˈtiːspuːn",
+    "pos": "n.",
+    "zh": "茶匙",
+    "ex": "Add a teaspoon of sugar to the tea.",
+    "exzh": "往茶里加一茶匙糖。"
+  },
+  {
+    "w": "technical",
+    "ph": "ˈteknɪkl",
+    "pos": "adj.",
+    "zh": "技术的；专业的",
+    "ex": "The machine broke down due to a technical problem.",
+    "exzh": "这台机器因技术问题出了故障。"
+  },
+  {
+    "w": "technician",
+    "ph": "tekˈnɪʃn",
+    "pos": "n.",
+    "zh": "技术员；技师",
+    "ex": "A technician came to repair our air conditioner.",
+    "exzh": "一位技师来修我们的空调。"
+  },
+  {
+    "w": "tedious",
+    "ph": "ˈtiːdiəs",
+    "pos": "adj.",
+    "zh": "冗长乏味的；令人厌烦的",
+    "ex": "Copying data by hand is tedious and slow.",
+    "exzh": "手工抄录数据既乏味又缓慢。"
+  },
+  {
+    "w": "teenage",
+    "ph": "ˈtiːneɪdʒ",
+    "pos": "adj.",
+    "zh": "青少年的",
+    "ex": "Teenage students need more sleep than adults.",
+    "exzh": "青少年学生比成年人需要更多睡眠。"
+  },
+  {
+    "w": "teenager",
+    "ph": "ˈtiːneɪdʒər",
+    "pos": "n.",
+    "zh": "青少年",
+    "ex": "Many teenagers spend hours on their phones daily.",
+    "exzh": "许多青少年每天花数小时玩手机。"
+  },
+  {
+    "w": "telegram",
+    "ph": "ˈtelɪɡræm",
+    "pos": "n.",
+    "zh": "电报",
+    "ex": "He sent a telegram to announce the birth.",
+    "exzh": "他发了一封电报宣布孩子出生。"
+  },
+  {
+    "w": "telegraph",
+    "ph": "ˈtelɪɡræf",
+    "pos": "n./v.",
+    "zh": "电报；打电报",
+    "ex": "Long ago, people sent messages by telegraph.",
+    "exzh": "很久以前，人们用电报传递消息。"
+  },
+  {
+    "w": "telescope",
+    "ph": "ˈtelɪskoʊp",
+    "pos": "n.",
+    "zh": "望远镜",
+    "ex": "Through the telescope we could see the moon clearly.",
+    "exzh": "通过望远镜我们能清楚地看到月亮。"
+  },
+  {
+    "w": "televise",
+    "ph": "ˈtelɪvaɪz",
+    "pos": "v.",
+    "zh": "电视播送；电视转播",
+    "ex": "The match will be televised live on Saturday.",
+    "exzh": "这场比赛将在周六现场直播。"
+  },
+  {
+    "w": "television",
+    "ph": "ˈtelɪvɪʒn",
+    "pos": "n.",
+    "zh": "电视；电视机",
+    "ex": "We watch the news on television every evening.",
+    "exzh": "我们每天晚上看电视新闻。"
+  },
+  {
+    "w": "temper",
+    "ph": "ˈtempər",
+    "pos": "n.",
+    "zh": "脾气；情绪",
+    "ex": "He lost his temper and shouted at the driver.",
+    "exzh": "他发脾气，冲司机大喊。"
+  },
+  {
+    "w": "temperament",
+    "ph": "ˈtemprəmənt",
+    "pos": "n.",
+    "zh": "性情；气质",
+    "ex": "Her calm temperament makes her a good teacher.",
+    "exzh": "她平和的性情使她成为一位好老师。"
+  },
+  {
+    "w": "template",
+    "ph": "ˈtempleɪt",
+    "pos": "n.",
+    "zh": "模板；样板",
+    "ex": "Use this template to write your monthly report.",
+    "exzh": "用这个模板来写你的月度报告。"
+  },
+  {
+    "w": "temple",
+    "ph": "ˈtempl",
+    "pos": "n.",
+    "zh": "庙宇；太阳穴",
+    "ex": "Tourists visited the ancient temple on the hill.",
+    "exzh": "游客们参观了山上的古庙。"
+  },
+  {
+    "w": "temporarily",
+    "ph": "ˌtempəˈrerəli",
+    "pos": "adv.",
+    "zh": "暂时地；临时地",
+    "ex": "The road is temporarily closed for repairs.",
+    "exzh": "这条路因维修暂时封闭。"
+  },
+  {
+    "w": "tempt",
+    "ph": "tempt",
+    "pos": "v.",
+    "zh": "引诱；吸引",
+    "ex": "The low price tempted me to buy two pairs.",
+    "exzh": "低廉的价格吸引我买了两双。"
+  },
+  {
+    "w": "temptation",
+    "ph": "tempˈteɪʃn",
+    "pos": "n.",
+    "zh": "诱惑；引诱",
+    "ex": "She resisted the temptation to eat more cake.",
+    "exzh": "她抵制住了再吃一块蛋糕的诱惑。"
+  },
+  {
+    "w": "tenant",
+    "ph": "ˈtenənt",
+    "pos": "n.",
+    "zh": "房客；租户",
+    "ex": "The new tenant moved in last Saturday morning.",
+    "exzh": "新房客上周六早上搬了进来。"
+  },
+  {
+    "w": "tendency",
+    "ph": "ˈtendənsi",
+    "pos": "n.",
+    "zh": "倾向；趋势",
+    "ex": "He has a tendency to arrive late for meetings.",
+    "exzh": "他开会时有种迟到的倾向。"
+  },
+  {
+    "w": "tender",
+    "ph": "ˈtendər",
+    "pos": "adj.",
+    "zh": "温柔的；嫩的；脆弱的",
+    "ex": "The beef was tender and full of flavor.",
+    "exzh": "这牛肉很嫩，味道十足。"
+  },
+  {
+    "w": "tennis",
+    "ph": "ˈtenɪs",
+    "pos": "n.",
+    "zh": "网球",
+    "ex": "They play tennis together every Sunday afternoon.",
+    "exzh": "他们每周日下午一起打网球。"
+  },
+  {
+    "w": "tense",
+    "ph": "tens",
+    "pos": "adj./n.",
+    "zh": "紧张的；时态",
+    "ex": "The atmosphere in the room grew tense and silent.",
+    "exzh": "房间里的气氛变得紧张而沉默。"
+  },
+  {
+    "w": "tent",
+    "ph": "tent",
+    "pos": "n.",
+    "zh": "帐篷",
+    "ex": "We put up our tent beside the river.",
+    "exzh": "我们在河边搭起了帐篷。"
+  },
+  {
+    "w": "tentative",
+    "ph": "ˈtentətɪv",
+    "pos": "adj.",
+    "zh": "试探性的；暂定的",
+    "ex": "We made a tentative plan for next month.",
+    "exzh": "我们为下个月定了一个暂定计划。"
+  },
+  {
+    "w": "term",
+    "ph": "tɜːrm",
+    "pos": "n.",
+    "zh": "学期；术语；期限",
+    "ex": "Our spring term begins in the middle of February.",
+    "exzh": "我们的春季学期在二月中旬开始。"
+  },
+  {
+    "w": "terminal",
+    "ph": "ˈtɜːrmɪnl",
+    "pos": "n./adj.",
+    "zh": "终点站；终端的",
+    "ex": "The bus terminal was crowded with waiting passengers.",
+    "exzh": "公交终点站挤满了候车的乘客。"
+  },
+  {
+    "w": "terminate",
+    "ph": "ˈtɜːrmɪneɪt",
+    "pos": "v.",
+    "zh": "终止；结束",
+    "ex": "The company decided to terminate the contract early.",
+    "exzh": "公司决定提前终止合同。"
+  },
+  {
+    "w": "terrace",
+    "ph": "ˈterəs",
+    "pos": "n.",
+    "zh": "平台；露台；梯田",
+    "ex": "We had breakfast on the sunny terrace.",
+    "exzh": "我们在阳光明媚的露台上吃早餐。"
+  },
+  {
+    "w": "terrain",
+    "ph": "təˈreɪn",
+    "pos": "n.",
+    "zh": "地形；地势",
+    "ex": "The mountain terrain made the journey very difficult.",
+    "exzh": "山地地形使这段旅程非常艰难。"
+  },
+  {
+    "w": "terribly",
+    "ph": "ˈterəbli",
+    "pos": "adv.",
+    "zh": "非常；很糟地",
+    "ex": "I am terribly sorry for being so late.",
+    "exzh": "非常抱歉我迟到了这么久。"
+  },
+  {
+    "w": "terrific",
+    "ph": "təˈrɪfɪk",
+    "pos": "adj.",
+    "zh": "极好的；很大的",
+    "ex": "You did a terrific job on the presentation.",
+    "exzh": "你的演示做得非常出色。"
+  },
+  {
+    "w": "terrify",
+    "ph": "ˈterɪfaɪ",
+    "pos": "v.",
+    "zh": "使恐惧；吓唬",
+    "ex": "The loud thunder terrified the little girl.",
+    "exzh": "震耳的雷声吓坏了那个小女孩。"
+  },
+  {
+    "w": "territory",
+    "ph": "ˈterətɔːri",
+    "pos": "n.",
+    "zh": "领土；领域；地盘",
+    "ex": "The wolf marks the boundaries of its territory.",
+    "exzh": "狼会标记其领地的边界。"
+  },
+  {
+    "w": "terror",
+    "ph": "ˈterər",
+    "pos": "n.",
+    "zh": "恐怖；恐惧",
+    "ex": "She screamed in terror when the lights went out.",
+    "exzh": "灯熄灭时她惊恐地尖叫起来。"
+  },
+  {
+    "w": "terrorist",
+    "ph": "ˈterərɪst",
+    "pos": "n.",
+    "zh": "恐怖分子",
+    "ex": "The police arrested a suspected terrorist at the border.",
+    "exzh": "警方在边境逮捕了一名恐怖嫌疑人。"
+  },
+  {
+    "w": "testify",
+    "ph": "ˈtestɪfaɪ",
+    "pos": "v.",
+    "zh": "作证；证明",
+    "ex": "Two witnesses agreed to testify in court.",
+    "exzh": "两名证人同意出庭作证。"
+  },
+  {
+    "w": "testimony",
+    "ph": "ˈtestɪmoʊni",
+    "pos": "n.",
+    "zh": "证词；证明",
+    "ex": "Her testimony helped the jury reach a verdict.",
+    "exzh": "她的证词帮助陪审团做出了裁决。"
+  },
+  {
+    "w": "textbook",
+    "ph": "ˈtekstbʊk",
+    "pos": "n.",
+    "zh": "教科书",
+    "ex": "Students must bring their textbook to every class.",
+    "exzh": "学生每节课都必须带教科书。"
+  },
+  {
+    "w": "textile",
+    "ph": "ˈtekstaɪl",
+    "pos": "n.",
+    "zh": "纺织品；纺织的",
+    "ex": "The city is famous for its textile industry.",
+    "exzh": "这座城市以纺织业闻名。"
+  },
+  {
+    "w": "texture",
+    "ph": "ˈtekstʃər",
+    "pos": "n.",
+    "zh": "质地；纹理",
+    "ex": "This cloth has a soft and smooth texture.",
+    "exzh": "这块布料质地柔软光滑。"
+  },
+  {
+    "w": "thankful",
+    "ph": "ˈθæŋkfl",
+    "pos": "adj.",
+    "zh": "感激的；欣慰的",
+    "ex": "We are thankful for all your hard work.",
+    "exzh": "我们感谢你所有的辛勤工作。"
+  },
+  {
+    "w": "thaw",
+    "ph": "θɔː",
+    "pos": "v./n.",
+    "zh": "融化；解冻",
+    "ex": "The frozen lake begins to thaw in March.",
+    "exzh": "冰封的湖在三月开始解冻。"
+  },
+  {
+    "w": "theater",
+    "ph": "ˈθiːətər",
+    "pos": "n.",
+    "zh": "剧院；戏剧",
+    "ex": "We saw a wonderful play at the theater.",
+    "exzh": "我们在剧院看了一场精彩的戏。"
+  },
+  {
+    "w": "theft",
+    "ph": "θeft",
+    "pos": "n.",
+    "zh": "偷窃；盗窃",
+    "ex": "The store reported a theft last night.",
+    "exzh": "商店报告昨晚发生了一起盗窃案。"
+  },
+  {
+    "w": "theme",
+    "ph": "θiːm",
+    "pos": "n.",
+    "zh": "主题；话题",
+    "ex": "Friendship is the main theme of the novel.",
+    "exzh": "友谊是这部小说的主题。"
+  },
+  {
+    "w": "theorem",
+    "ph": "ˈθiːərəm",
+    "pos": "n.",
+    "zh": "定理；原理",
+    "ex": "The professor explained a famous geometry theorem.",
+    "exzh": "教授讲解了一个著名的几何定理。"
+  },
+  {
+    "w": "theoretical",
+    "ph": "ˌθiːəˈretɪkl",
+    "pos": "adj.",
+    "zh": "理论的；理论上的",
+    "ex": "The course combines theoretical study with practical training.",
+    "exzh": "这门课程把理论学习与实践训练结合起来。"
+  },
+  {
+    "w": "therapy",
+    "ph": "ˈθerəpi",
+    "pos": "n.",
+    "zh": "治疗；疗法",
+    "ex": "She started physical therapy after the accident.",
+    "exzh": "事故后她开始接受物理治疗。"
+  },
+  {
+    "w": "thereafter",
+    "ph": "ˌðerˈæftər",
+    "pos": "adv.",
+    "zh": "此后；之后",
+    "ex": "He moved abroad and lived there thereafter.",
+    "exzh": "他搬到国外，此后一直住在那儿。"
+  },
+  {
+    "w": "thereby",
+    "ph": "ˌðerˈbaɪ",
+    "pos": "adv.",
+    "zh": "因此；从而",
+    "ex": "He saved money, thereby reducing his monthly expenses.",
+    "exzh": "他省下钱，从而减少了每月开支。"
+  },
+  {
+    "w": "thermal",
+    "ph": "ˈθɜːrml",
+    "pos": "adj.",
+    "zh": "热的；保暖的",
+    "ex": "This jacket has good thermal insulation.",
+    "exzh": "这件夹克保暖性能很好。"
+  },
+  {
+    "w": "thesis",
+    "ph": "ˈθiːsɪs",
+    "pos": "n.",
+    "zh": "论文；论点",
+    "ex": "She is writing her thesis on modern poetry.",
+    "exzh": "她正在写关于现代诗歌的论文。"
+  },
+  {
+    "w": "thick",
+    "ph": "θɪk",
+    "pos": "adj.",
+    "zh": "厚的；浓的；密的",
+    "ex": "The ice on the lake is thick enough.",
+    "exzh": "湖上的冰足够厚。"
+  },
+  {
+    "w": "thicken",
+    "ph": "ˈθɪkən",
+    "pos": "v.",
+    "zh": "变厚；变浓",
+    "ex": "Stir the sauce until it begins to thicken.",
+    "exzh": "搅拌酱汁直到它开始变稠。"
+  },
+  {
+    "w": "thickness",
+    "ph": "ˈθɪknəs",
+    "pos": "n.",
+    "zh": "厚度；浓度",
+    "ex": "The workers measured the thickness of the wall.",
+    "exzh": "工人们测量了墙的厚度。"
+  },
+  {
+    "w": "thief",
+    "ph": "θiːf",
+    "pos": "n.",
+    "zh": "小偷；窃贼",
+    "ex": "The thief ran away before the police arrived.",
+    "exzh": "小偷在警察赶到前逃走了。"
+  },
+  {
+    "w": "thinker",
+    "ph": "ˈθɪŋkər",
+    "pos": "n.",
+    "zh": "思想家；思考者",
+    "ex": "He was a great thinker of his time.",
+    "exzh": "他是他那个时代的伟大思想家。"
+  },
+  {
+    "w": "thirst",
+    "ph": "θɜːrst",
+    "pos": "n.",
+    "zh": "渴；渴望",
+    "ex": "After the long walk, they felt great thirst.",
+    "exzh": "长途步行后他们感到非常口渴。"
+  },
+  {
+    "w": "thirsty",
+    "ph": "ˈθɜːrsti",
+    "pos": "adj.",
+    "zh": "口渴的；渴望的",
+    "ex": "The children were thirsty after playing outside.",
+    "exzh": "孩子们在外面玩后口渴了。"
+  },
+  {
+    "w": "thorn",
+    "ph": "θɔːrn",
+    "pos": "n.",
+    "zh": "刺；荆棘",
+    "ex": "A sharp thorn stuck in his finger.",
+    "exzh": "一根尖刺扎进了他的手指。"
+  },
+  {
+    "w": "thorough",
+    "ph": "ˈθɜːroʊ",
+    "pos": "adj.",
+    "zh": "彻底的；仔细的",
+    "ex": "The doctor gave him a thorough examination.",
+    "exzh": "医生给他做了全面检查。"
+  },
+  {
+    "w": "thoughtful",
+    "ph": "ˈθɔːtfl",
+    "pos": "adj.",
+    "zh": "体贴的；沉思的",
+    "ex": "It was thoughtful of you to bring flowers.",
+    "exzh": "你带花来真是体贴。"
+  },
+  {
+    "w": "thread",
+    "ph": "θred",
+    "pos": "n./v.",
+    "zh": "线；穿过",
+    "ex": "She used a needle and thread to fix the shirt.",
+    "exzh": "她用针线补好了衬衫。"
+  },
+  {
+    "w": "threat",
+    "ph": "θret",
+    "pos": "n.",
+    "zh": "威胁；恐吓",
+    "ex": "Pollution is a serious threat to public health.",
+    "exzh": "污染是对公众健康的严重威胁。"
+  },
+  {
+    "w": "threshold",
+    "ph": "ˈθreʃhoʊld",
+    "pos": "n.",
+    "zh": "门槛；临界点",
+    "ex": "We are standing on the threshold of a new era.",
+    "exzh": "我们正站在新时代的门槛上。"
+  },
+  {
+    "w": "thrifty",
+    "ph": "ˈθrɪfti",
+    "pos": "adj.",
+    "zh": "节俭的；节约的",
+    "ex": "His thrifty habits helped him save money.",
+    "exzh": "他节俭的习惯帮他攒下了钱。"
+  },
+  {
+    "w": "thrill",
+    "ph": "θrɪl",
+    "pos": "n./v.",
+    "zh": "激动；使兴奋",
+    "ex": "Riding the roller coaster gave me a thrill.",
+    "exzh": "坐过山车让我感到兴奋刺激。"
+  },
+  {
+    "w": "thriller",
+    "ph": "ˈθrɪlər",
+    "pos": "n.",
+    "zh": "惊悚片；惊险小说",
+    "ex": "We watched a thriller about a missing child.",
+    "exzh": "我们看了一部关于失踪儿童的惊悚片。"
+  },
+  {
+    "w": "thrive",
+    "ph": "θraɪv",
+    "pos": "v.",
+    "zh": "兴旺；繁荣；茁壮成长",
+    "ex": "Small businesses thrive in this friendly city.",
+    "exzh": "小企业在这座友好的城市里蓬勃发展。"
+  },
+  {
+    "w": "throat",
+    "ph": "θroʊt",
+    "pos": "n.",
+    "zh": "喉咙；嗓子",
+    "ex": "My throat hurts whenever I catch a cold.",
+    "exzh": "我一感冒喉咙就疼。"
+  },
+  {
+    "w": "throne",
+    "ph": "θroʊn",
+    "pos": "n.",
+    "zh": "王位；宝座",
+    "ex": "The young prince came to the throne in 1900.",
+    "exzh": "这位年轻的王子于1900年登上王位。"
+  },
+  {
+    "w": "throughout",
+    "ph": "θruːˈaʊt",
+    "pos": "prep.",
+    "zh": "遍及；贯穿",
+    "ex": "The song became popular throughout the whole country.",
+    "exzh": "这首歌在全国各地流行起来。"
+  },
+  {
+    "w": "thrust",
+    "ph": "θrʌst",
+    "pos": "v./n.",
+    "zh": "猛推；推力",
+    "ex": "He thrust the letter into my hand and left.",
+    "exzh": "他把信塞到我手里就走了。"
+  },
+  {
+    "w": "thumb",
+    "ph": "θʌm",
+    "pos": "n.",
+    "zh": "拇指",
+    "ex": "She hurt her thumb while cutting vegetables.",
+    "exzh": "她切菜时弄伤了拇指。"
+  },
+  {
+    "w": "thunder",
+    "ph": "ˈθʌndər",
+    "pos": "n.",
+    "zh": "雷；雷声",
+    "ex": "Loud thunder woke us up at midnight.",
+    "exzh": "响亮的雷声在半夜把我们吵醒了。"
+  },
+  {
+    "w": "thunderstorm",
+    "ph": "ˈθʌndərstɔːrm",
+    "pos": "n.",
+    "zh": "雷暴；雷雨",
+    "ex": "A violent thunderstorm knocked out the power.",
+    "exzh": "一场猛烈的雷暴导致了停电。"
+  },
+  {
+    "w": "thus",
+    "ph": "ðʌs",
+    "pos": "adv.",
+    "zh": "因此；如此",
+    "ex": "He forgot his keys and thus waited outside.",
+    "exzh": "他忘带钥匙，因此在外面等着。"
+  },
+  {
+    "w": "tick",
+    "ph": "tɪk",
+    "pos": "n./v.",
+    "zh": "滴答声；打勾",
+    "ex": "Please tick the box next to your name.",
+    "exzh": "请在你名字旁边的方框里打勾。"
+  },
+  {
+    "w": "tickle",
+    "ph": "ˈtɪkl",
+    "pos": "v.",
+    "zh": "使发笑；轻触",
+    "ex": "The baby laughed when I tickled her feet.",
+    "exzh": "我挠她的脚时婴儿笑了。"
+  },
+  {
+    "w": "tidal",
+    "ph": "ˈtaɪdl",
+    "pos": "adj.",
+    "zh": "潮汐的；潮水的",
+    "ex": "This bay is famous for its huge tidal range.",
+    "exzh": "这个海湾以其巨大的潮差而闻名。"
+  },
+  {
+    "w": "tide",
+    "ph": "taɪd",
+    "pos": "n.",
+    "zh": "潮水；潮流；趋势",
+    "ex": "The tide comes in twice every day.",
+    "exzh": "潮水每天涨两次。"
+  },
+  {
+    "w": "tidy",
+    "ph": "ˈtaɪdi",
+    "pos": "adj./v.",
+    "zh": "整洁的；整理",
+    "ex": "Her desk is always neat and tidy.",
+    "exzh": "她的书桌总是整整齐齐。"
+  },
+  {
+    "w": "tight",
+    "ph": "taɪt",
+    "pos": "adj./adv.",
+    "zh": "紧的；紧密地",
+    "ex": "These shoes are too tight for my feet.",
+    "exzh": "这双鞋对我的脚来说太紧了。"
+  },
+  {
+    "w": "tighten",
+    "ph": "ˈtaɪtn",
+    "pos": "v.",
+    "zh": "收紧；加强",
+    "ex": "Please tighten the screw with a screwdriver.",
+    "exzh": "请用螺丝刀把螺丝拧紧。"
+  },
+  {
+    "w": "tile",
+    "ph": "taɪl",
+    "pos": "n.",
+    "zh": "瓷砖；瓦片",
+    "ex": "The bathroom floor is covered with white tiles.",
+    "exzh": "浴室地板铺着白色瓷砖。"
+  },
+  {
+    "w": "till",
+    "ph": "tɪl",
+    "pos": "prep./n.",
+    "zh": "直到；收银台",
+    "ex": "We waited till midnight for the train.",
+    "exzh": "我们等火车等到半夜。"
+  },
+  {
+    "w": "tilt",
+    "ph": "tɪlt",
+    "pos": "v./n.",
+    "zh": "倾斜；倾侧",
+    "ex": "He tilted his head to read the small print.",
+    "exzh": "他歪着头看那行小字。"
+  },
+  {
+    "w": "timber",
+    "ph": "ˈtɪmbər",
+    "pos": "n.",
+    "zh": "木材；木料",
+    "ex": "The house was built with local timber.",
+    "exzh": "这栋房子是用当地木材建造的。"
+  },
+  {
+    "w": "timely",
+    "ph": "ˈtaɪmli",
+    "pos": "adj.",
+    "zh": "及时的；适时的",
+    "ex": "Your timely help saved us a lot of trouble.",
+    "exzh": "你及时的帮助为我们省了很多麻烦。"
+  },
+  {
+    "w": "timer",
+    "ph": "ˈtaɪmər",
+    "pos": "n.",
+    "zh": "计时器；定时器",
+    "ex": "Set the timer for twenty minutes, please.",
+    "exzh": "请把定时器设为二十分钟。"
+  },
+  {
+    "w": "timetable",
+    "ph": "ˈtaɪmteɪbl",
+    "pos": "n.",
+    "zh": "时间表；时刻表",
+    "ex": "Check the bus timetable before leaving home.",
+    "exzh": "出门前查一下公交时刻表。"
+  },
+  {
+    "w": "timid",
+    "ph": "ˈtɪmɪd",
+    "pos": "adj.",
+    "zh": "胆小的；羞怯的",
+    "ex": "The timid child hid behind his mother.",
+    "exzh": "那个胆小的孩子躲在母亲身后。"
+  },
+  {
+    "w": "tin",
+    "ph": "tɪn",
+    "pos": "n.",
+    "zh": "锡；罐头",
+    "ex": "He opened a tin of soup for lunch.",
+    "exzh": "他午饭打开了一罐汤。"
+  },
+  {
+    "w": "tint",
+    "ph": "tɪnt",
+    "pos": "n./v.",
+    "zh": "色调；给…染色",
+    "ex": "The sky had a pink tint at sunset.",
+    "exzh": "日落时天空带有粉色调。"
+  },
+  {
+    "w": "tiny",
+    "ph": "ˈtaɪni",
+    "pos": "adj.",
+    "zh": "极小的；微小的",
+    "ex": "They live in a tiny apartment near the station.",
+    "exzh": "他们住在车站附近一间很小的公寓里。"
+  },
+  {
+    "w": "tip",
+    "ph": "tɪp",
+    "pos": "n./v.",
+    "zh": "小费；尖端；提示",
+    "ex": "He left a generous tip on the table.",
+    "exzh": "他在桌上留下了一笔慷慨的小费。"
+  },
+  {
+    "w": "tiptoe",
+    "ph": "ˈtɪptoʊ",
+    "pos": "v.",
+    "zh": "蹑手蹑脚地走",
+    "ex": "She tiptoed past the sleeping baby.",
+    "exzh": "她蹑手蹑脚地走过熟睡的婴儿。"
+  },
+  {
+    "w": "tire",
+    "ph": "ˈtaɪər",
+    "pos": "v./n.",
+    "zh": "疲倦；轮胎",
+    "ex": "A flat tire delayed us for an hour.",
+    "exzh": "一个瘪了的轮胎耽误了我们一小时。"
+  },
+  {
+    "w": "tiresome",
+    "ph": "ˈtaɪərsəm",
+    "pos": "adj.",
+    "zh": "令人厌烦的；累人的",
+    "ex": "His constant complaints became tiresome to everyone.",
+    "exzh": "他不断的抱怨让所有人都厌烦。"
+  },
+  {
+    "w": "tissue",
+    "ph": "ˈtɪʃuː",
+    "pos": "n.",
+    "zh": "组织；纸巾",
+    "ex": "She wiped her tears with a tissue.",
+    "exzh": "她用纸巾擦去眼泪。"
+  },
+  {
+    "w": "title",
+    "ph": "ˈtaɪtl",
+    "pos": "n.",
+    "zh": "标题；头衔",
+    "ex": "I forgot the title of that movie.",
+    "exzh": "我忘了那部电影的名字。"
+  },
+  {
+    "w": "toast",
+    "ph": "toʊst",
+    "pos": "n./v.",
+    "zh": "烤面包；干杯",
+    "ex": "We raised our glasses to toast the bride.",
+    "exzh": "我们举杯为新娘祝酒。"
+  },
+  {
+    "w": "tobacco",
+    "ph": "təˈbækoʊ",
+    "pos": "n.",
+    "zh": "烟草；烟叶",
+    "ex": "Tobacco is harmful to almost every organ.",
+    "exzh": "烟草几乎对每个器官都有害。"
+  },
+  {
+    "w": "toe",
+    "ph": "toʊ",
+    "pos": "n.",
+    "zh": "脚趾",
+    "ex": "I hurt my little toe on the door.",
+    "exzh": "我在门上碰伤了小脚趾。"
+  },
+  {
+    "w": "toil",
+    "ph": "tɔɪl",
+    "pos": "v./n.",
+    "zh": "辛苦工作；劳累",
+    "ex": "Farmers toil in the fields from dawn to dusk.",
+    "exzh": "农民从早到晚在田里辛勤劳作。"
+  },
+  {
+    "w": "toilet",
+    "ph": "ˈtɔɪlət",
+    "pos": "n.",
+    "zh": "厕所；洗手间",
+    "ex": "The nearest toilet is on the second floor.",
+    "exzh": "最近的洗手间在二楼。"
+  },
+  {
+    "w": "token",
+    "ph": "ˈtoʊkən",
+    "pos": "n.",
+    "zh": "代币；象征；标志",
+    "ex": "Please accept this gift as a token of thanks.",
+    "exzh": "请接受这份礼物作为感谢的象征。"
+  },
+  {
+    "w": "tolerable",
+    "ph": "ˈtɑːlərəbl",
+    "pos": "adj.",
+    "zh": "可忍受的；尚好的",
+    "ex": "The noise from the street was barely tolerable.",
+    "exzh": "街上的噪音几乎难以忍受。"
+  },
+  {
+    "w": "tolerance",
+    "ph": "ˈtɑːlərəns",
+    "pos": "n.",
+    "zh": "宽容；忍耐力",
+    "ex": "The city is known for its religious tolerance.",
+    "exzh": "这座城市以其宗教宽容而闻名。"
+  },
+  {
+    "w": "tolerant",
+    "ph": "ˈtɑːlərənt",
+    "pos": "adj.",
+    "zh": "宽容的；容忍的",
+    "ex": "We should be tolerant of different opinions.",
+    "exzh": "我们应该宽容不同的意见。"
+  },
+  {
+    "w": "toll",
+    "ph": "toʊl",
+    "pos": "n.",
+    "zh": "通行费；伤亡人数",
+    "ex": "Drivers must pay a toll to cross the bridge.",
+    "exzh": "司机过桥必须支付通行费。"
+  },
+  {
+    "w": "tomato",
+    "ph": "təˈmeɪtoʊ",
+    "pos": "n.",
+    "zh": "西红柿；番茄",
+    "ex": "She sliced a tomato for the salad.",
+    "exzh": "她切了一个西红柿做沙拉。"
+  },
+  {
+    "w": "tomb",
+    "ph": "tuːm",
+    "pos": "n.",
+    "zh": "坟墓；墓穴",
+    "ex": "They placed flowers on the old tomb.",
+    "exzh": "他们在古老的坟墓上放了鲜花。"
+  },
+  {
+    "w": "ton",
+    "ph": "tʌn",
+    "pos": "n.",
+    "zh": "吨；大量",
+    "ex": "The truck carried ten tons of coal.",
+    "exzh": "卡车运了十吨煤。"
+  },
+  {
+    "w": "tone",
+    "ph": "toʊn",
+    "pos": "n.",
+    "zh": "音调；语气；色调",
+    "ex": "I could tell from her tone that she was angry.",
+    "exzh": "从她的语气我能听出她生气了。"
+  },
+  {
+    "w": "tongue",
+    "ph": "tʌŋ",
+    "pos": "n.",
+    "zh": "舌头；语言",
+    "ex": "He burned his tongue on the hot soup.",
+    "exzh": "他被热汤烫到了舌头。"
+  },
+  {
+    "w": "tool",
+    "ph": "tuːl",
+    "pos": "n.",
+    "zh": "工具；手段",
+    "ex": "A hammer is a useful tool for repairs.",
+    "exzh": "锤子是修理时有用的工具。"
+  },
+  {
+    "w": "tooth",
+    "ph": "tuːθ",
+    "pos": "n.",
+    "zh": "牙齿",
+    "ex": "The dentist pulled out my bad tooth.",
+    "exzh": "牙医拔掉了我的坏牙。"
+  },
+  {
+    "w": "toothache",
+    "ph": "ˈtuːθeɪk",
+    "pos": "n.",
+    "zh": "牙痛",
+    "ex": "He took medicine for a bad toothache.",
+    "exzh": "他因严重牙痛吃了药。"
+  },
+  {
+    "w": "toothbrush",
+    "ph": "ˈtuːθbrʌʃ",
+    "pos": "n.",
+    "zh": "牙刷",
+    "ex": "Don't forget to pack your toothbrush.",
+    "exzh": "别忘了带上你的牙刷。"
+  },
+  {
+    "w": "toothpaste",
+    "ph": "ˈtuːθpeɪst",
+    "pos": "n.",
+    "zh": "牙膏",
+    "ex": "We are running out of toothpaste again.",
+    "exzh": "我们的牙膏又快用完了。"
+  },
+  {
+    "w": "top",
+    "ph": "tɑːp",
+    "pos": "n./adj.",
+    "zh": "顶部；最高的",
+    "ex": "They reached the top of the mountain at noon.",
+    "exzh": "他们中午到达了山顶。"
+  },
+  {
+    "w": "topical",
+    "ph": "ˈtɑːpɪkl",
+    "pos": "adj.",
+    "zh": "话题的；时事的",
+    "ex": "The show discusses topical issues every week.",
+    "exzh": "这个节目每周讨论时事话题。"
+  },
+  {
+    "w": "torch",
+    "ph": "tɔːrtʃ",
+    "pos": "n.",
+    "zh": "手电筒；火炬",
+    "ex": "He used a torch to find the path.",
+    "exzh": "他用手电筒找路。"
+  },
+  {
+    "w": "torment",
+    "ph": "ˈtɔːrment",
+    "pos": "n./v.",
+    "zh": "折磨；痛苦",
+    "ex": "The memory of that day still torments him.",
+    "exzh": "那天的记忆仍然折磨着他。"
+  },
+  {
+    "w": "tornado",
+    "ph": "tɔːrˈneɪdoʊ",
+    "pos": "n.",
+    "zh": "龙卷风",
+    "ex": "A tornado destroyed several houses in the village.",
+    "exzh": "一场龙卷风摧毁了村里几栋房子。"
+  },
+  {
+    "w": "torrent",
+    "ph": "ˈtɔːrənt",
+    "pos": "n.",
+    "zh": "激流；洪流",
+    "ex": "Rain fell in torrents all through the night.",
+    "exzh": "雨整夜倾泻而下。"
+  },
+  {
+    "w": "tortoise",
+    "ph": "ˈtɔːrtəs",
+    "pos": "n.",
+    "zh": "乌龟；陆龟",
+    "ex": "A tortoise moved slowly across the garden.",
+    "exzh": "一只陆龟慢慢爬过花园。"
+  },
+  {
+    "w": "torture",
+    "ph": "ˈtɔːrtʃər",
+    "pos": "n./v.",
+    "zh": "折磨；拷打",
+    "ex": "Waiting for the result was pure torture.",
+    "exzh": "等待结果纯粹是种折磨。"
+  },
+  {
+    "w": "toss",
+    "ph": "tɔːs",
+    "pos": "v.",
+    "zh": "扔；抛；辗转",
+    "ex": "He tossed the ball to his little sister.",
+    "exzh": "他把球扔给了妹妹。"
+  },
+  {
+    "w": "total",
+    "ph": "ˈtoʊtl",
+    "pos": "adj./n.",
+    "zh": "总的；总数",
+    "ex": "The total cost of the trip was too high.",
+    "exzh": "这次旅行的总费用太高了。"
+  },
+  {
+    "w": "touch",
+    "ph": "tʌtʃ",
+    "pos": "v./n.",
+    "zh": "触摸；联系",
+    "ex": "Please don't touch the paintings in the museum.",
+    "exzh": "请不要触摸博物馆里的画。"
+  },
+  {
+    "w": "toughness",
+    "ph": "ˈtʌfnəs",
+    "pos": "n.",
+    "zh": "坚韧；强硬",
+    "ex": "Her toughness impressed everyone on the team.",
+    "exzh": "她的坚韧给队里每个人留下了深刻印象。"
+  },
+  {
+    "w": "tow",
+    "ph": "toʊ",
+    "pos": "v./n.",
+    "zh": "拖；拉；牵引",
+    "ex": "A truck towed our broken car away.",
+    "exzh": "一辆卡车把我们的坏车拖走了。"
+  },
+  {
+    "w": "towel",
+    "ph": "ˈtaʊəl",
+    "pos": "n.",
+    "zh": "毛巾",
+    "ex": "She dried her hands on a clean towel.",
+    "exzh": "她用干净毛巾擦干了手。"
+  },
+  {
+    "w": "tower",
+    "ph": "ˈtaʊər",
+    "pos": "n.",
+    "zh": "塔；高楼",
+    "ex": "The clock tower stands in the city center.",
+    "exzh": "钟楼矗立在市中心。"
+  },
+  {
+    "w": "toxic",
+    "ph": "ˈtɑːksɪk",
+    "pos": "adj.",
+    "zh": "有毒的",
+    "ex": "The factory released toxic chemicals into the river.",
+    "exzh": "工厂把有毒化学品排入河中。"
+  },
+  {
+    "w": "track",
+    "ph": "træk",
+    "pos": "n./v.",
+    "zh": "轨道；踪迹；跟踪",
+    "ex": "The train left the track during the storm.",
+    "exzh": "暴风雨中火车脱轨了。"
+  },
+  {
+    "w": "tractor",
+    "ph": "ˈtræktər",
+    "pos": "n.",
+    "zh": "拖拉机",
+    "ex": "The farmer drove his tractor across the field.",
+    "exzh": "农夫开着拖拉机穿过田地。"
+  },
+  {
+    "w": "trade",
+    "ph": "treɪd",
+    "pos": "n./v.",
+    "zh": "贸易；交易",
+    "ex": "Trade between the two countries has grown rapidly.",
+    "exzh": "两国间的贸易迅速增长。"
+  },
+  {
+    "w": "trademark",
+    "ph": "ˈtreɪdmɑːrk",
+    "pos": "n.",
+    "zh": "商标；标志",
+    "ex": "The company registered its trademark last year.",
+    "exzh": "公司去年注册了商标。"
+  },
+  {
+    "w": "trader",
+    "ph": "ˈtreɪdər",
+    "pos": "n.",
+    "zh": "商人；交易者",
+    "ex": "He worked as a trader in the local market.",
+    "exzh": "他在当地市场做商人。"
+  },
+  {
+    "w": "traditional",
+    "ph": "trəˈdɪʃənl",
+    "pos": "adj.",
+    "zh": "传统的；惯例的",
+    "ex": "They served traditional dishes at the wedding.",
+    "exzh": "他们在婚礼上供应传统菜肴。"
+  },
+  {
+    "w": "traditionally",
+    "ph": "trəˈdɪʃənəli",
+    "pos": "adv.",
+    "zh": "传统上；按照惯例",
+    "ex": "Traditionally, families gather for dinner at New Year.",
+    "exzh": "传统上，家庭在新年聚在一起吃晚饭。"
+  },
+  {
+    "w": "tragedy",
+    "ph": "ˈtrædʒədi",
+    "pos": "n.",
+    "zh": "悲剧；惨事",
+    "ex": "The fire was a terrible tragedy for the town.",
+    "exzh": "这场火灾对小镇来说是一场可怕的悲剧。"
+  },
+  {
+    "w": "tragic",
+    "ph": "ˈtrædʒɪk",
+    "pos": "adj.",
+    "zh": "悲剧的；悲惨的",
+    "ex": "The story ended in a tragic accident.",
+    "exzh": "故事以一场悲惨的事故结束。"
+  },
+  {
+    "w": "trail",
+    "ph": "treɪl",
+    "pos": "n./v.",
+    "zh": "小径；踪迹；追踪",
+    "ex": "We followed a narrow trail through the forest.",
+    "exzh": "我们沿着穿过森林的小径走。"
+  },
+  {
+    "w": "trainee",
+    "ph": "ˌtreɪˈniː",
+    "pos": "n.",
+    "zh": "实习生；受训者",
+    "ex": "The trainee learned quickly on the job.",
+    "exzh": "这名实习生在岗位上学得很快。"
+  },
+  {
+    "w": "trainer",
+    "ph": "ˈtreɪnər",
+    "pos": "n.",
+    "zh": "教练；训练员",
+    "ex": "Her personal trainer designed a new program.",
+    "exzh": "她的私人教练设计了一个新方案。"
+  },
+  {
+    "w": "training",
+    "ph": "ˈtreɪnɪŋ",
+    "pos": "n.",
+    "zh": "训练；培训",
+    "ex": "The new staff receive two weeks of training.",
+    "exzh": "新员工接受两周培训。"
+  },
+  {
+    "w": "trait",
+    "ph": "treɪt",
+    "pos": "n.",
+    "zh": "特征；特点",
+    "ex": "Patience is a valuable trait in a teacher.",
+    "exzh": "耐心是教师宝贵的品质。"
+  },
+  {
+    "w": "traitor",
+    "ph": "ˈtreɪtər",
+    "pos": "n.",
+    "zh": "叛徒；卖国贼",
+    "ex": "He was called a traitor by his own people.",
+    "exzh": "他被自己人称为叛徒。"
+  },
+  {
+    "w": "tram",
+    "ph": "træm",
+    "pos": "n.",
+    "zh": "有轨电车",
+    "ex": "We took a tram to the museum.",
+    "exzh": "我们坐有轨电车去博物馆。"
+  },
+  {
+    "w": "trample",
+    "ph": "ˈtræmpl",
+    "pos": "v.",
+    "zh": "踩踏；践踏",
+    "ex": "The crowd trampled the flowers in the park.",
+    "exzh": "人群踩坏了公园里的花。"
+  },
+  {
+    "w": "tranquil",
+    "ph": "ˈtræŋkwɪl",
+    "pos": "adj.",
+    "zh": "平静的；安宁的",
+    "ex": "We spent a tranquil afternoon by the lake.",
+    "exzh": "我们在湖边度过了一个宁静的下午。"
+  },
+  {
+    "w": "transaction",
+    "ph": "trænsˈækʃn",
+    "pos": "n.",
+    "zh": "交易；业务",
+    "ex": "The bank recorded every transaction carefully.",
+    "exzh": "银行仔细记录了每笔交易。"
+  },
+  {
+    "w": "transcript",
+    "ph": "ˈtrænskrɪpt",
+    "pos": "n.",
+    "zh": "成绩单；抄本",
+    "ex": "Please send your transcript to the admission office.",
+    "exzh": "请把你的成绩单寄到招生办公室。"
+  },
+  {
+    "w": "transformation",
+    "ph": "ˌtrænsfərˈmeɪʃn",
+    "pos": "n.",
+    "zh": "转变；改造",
+    "ex": "The city has undergone a remarkable transformation.",
+    "exzh": "这座城市经历了显著的转变。"
+  },
+  {
+    "w": "transformer",
+    "ph": "trænsˈfɔːrmər",
+    "pos": "n.",
+    "zh": "变压器；改革者",
+    "ex": "A transformer failure caused the power cut.",
+    "exzh": "变压器故障导致停电。"
+  },
+  {
+    "w": "transistor",
+    "ph": "trænˈzɪstər",
+    "pos": "n.",
+    "zh": "晶体管",
+    "ex": "This radio uses only three small transistors.",
+    "exzh": "这台收音机只用了三个小晶体管。"
+  },
+  {
+    "w": "transit",
+    "ph": "ˈtrænzɪt",
+    "pos": "n.",
+    "zh": "运输；过境；通过",
+    "ex": "The goods were damaged in transit.",
+    "exzh": "货物在运输途中受损。"
+  },
+  {
+    "w": "transition",
+    "ph": "trænˈzɪʃn",
+    "pos": "n.",
+    "zh": "过渡；转变",
+    "ex": "The transition from school to work is hard.",
+    "exzh": "从学校到工作的过渡很艰难。"
+  },
+  {
+    "w": "translate",
+    "ph": "trænsˈleɪt",
+    "pos": "v.",
+    "zh": "翻译；转化",
+    "ex": "Could you translate this letter into English?",
+    "exzh": "你能把这封信译成英语吗？"
+  },
+  {
+    "w": "translation",
+    "ph": "trænsˈleɪʃn",
+    "pos": "n.",
+    "zh": "翻译；译文",
+    "ex": "Her translation of the poem won a prize.",
+    "exzh": "她翻译的这首诗获了奖。"
+  },
+  {
+    "w": "transmission",
+    "ph": "trænzˈmɪʃn",
+    "pos": "n.",
+    "zh": "传输；传播",
+    "ex": "The transmission of the disease worries doctors.",
+    "exzh": "这种疾病的传播让医生们担忧。"
+  },
+  {
+    "w": "transmit",
+    "ph": "trænzˈmɪt",
+    "pos": "v.",
+    "zh": "传送；传播",
+    "ex": "The station transmits news every hour.",
+    "exzh": "该电台每小时播送新闻。"
+  },
+  {
+    "w": "transparent",
+    "ph": "trænsˈpærənt",
+    "pos": "adj.",
+    "zh": "透明的；明显的",
+    "ex": "The water in the lake is clear and transparent.",
+    "exzh": "湖水清澈透明。"
+  },
+  {
+    "w": "transplant",
+    "ph": "trænsˈplænt",
+    "pos": "v./n.",
+    "zh": "移植；移种",
+    "ex": "He needs a heart transplant to survive.",
+    "exzh": "他需要心脏移植才能活下来。"
+  },
+  {
+    "w": "transportation",
+    "ph": "ˌtrænspərˈteɪʃn",
+    "pos": "n.",
+    "zh": "运输；交通工具",
+    "ex": "Public transportation in this city is cheap.",
+    "exzh": "这座城市的公共交通很便宜。"
+  },
+  {
+    "w": "trap",
+    "ph": "træp",
+    "pos": "n./v.",
+    "zh": "陷阱；使陷入困境",
+    "ex": "The mouse was caught in a simple trap.",
+    "exzh": "老鼠被一个简单的夹子抓住了。"
+  },
+  {
+    "w": "trash",
+    "ph": "træʃ",
+    "pos": "n.",
+    "zh": "垃圾；废物",
+    "ex": "Please throw the trash into the bin.",
+    "exzh": "请把垃圾扔进垃圾桶。"
+  },
+  {
+    "w": "tray",
+    "ph": "treɪ",
+    "pos": "n.",
+    "zh": "托盘；盘子",
+    "ex": "She carried the cups on a wooden tray.",
+    "exzh": "她用木托盘端着杯子。"
+  },
+  {
+    "w": "tread",
+    "ph": "tred",
+    "pos": "v.",
+    "zh": "踏；踩",
+    "ex": "Be careful not to tread on the flowers.",
+    "exzh": "小心别踩到花。"
+  },
+  {
+    "w": "treason",
+    "ph": "ˈtriːzn",
+    "pos": "n.",
+    "zh": "叛国罪；背叛",
+    "ex": "He was accused of treason against the state.",
+    "exzh": "他被控叛国罪。"
+  },
+  {
+    "w": "treasure",
+    "ph": "ˈtreʒər",
+    "pos": "n./v.",
+    "zh": "财宝；珍视",
+    "ex": "They searched for treasure on the small island.",
+    "exzh": "他们在这个小岛上寻找宝藏。"
+  },
+  {
+    "w": "treasury",
+    "ph": "ˈtreʒəri",
+    "pos": "n.",
+    "zh": "财政部；金库",
+    "ex": "The treasury issued new bonds this month.",
+    "exzh": "财政部本月发行了新债券。"
+  },
+  {
+    "w": "treaty",
+    "ph": "ˈtriːti",
+    "pos": "n.",
+    "zh": "条约；协定",
+    "ex": "The two nations signed a peace treaty.",
+    "exzh": "两国签署了和平条约。"
+  },
+  {
+    "w": "tremble",
+    "ph": "ˈtrembl",
+    "pos": "v.",
+    "zh": "颤抖；发抖",
+    "ex": "Her hands trembled as she opened the letter.",
+    "exzh": "她打开信时双手发抖。"
+  },
+  {
+    "w": "tremendous",
+    "ph": "trəˈmendəs",
+    "pos": "adj.",
+    "zh": "巨大的；极大的",
+    "ex": "The project required a tremendous amount of money.",
+    "exzh": "这个项目需要巨额资金。"
+  },
+  {
+    "w": "tremor",
+    "ph": "ˈtremər",
+    "pos": "n.",
+    "zh": "轻微地震；颤抖",
+    "ex": "A slight tremor shook the old building.",
+    "exzh": "一次轻微的震动使这座老建筑摇晃起来。"
+  },
+  {
+    "w": "trench",
+    "ph": "trentʃ",
+    "pos": "n.",
+    "zh": "沟；战壕",
+    "ex": "Workers dug a deep trench beside the road.",
+    "exzh": "工人们在路边挖了一条深沟。"
+  },
+  {
+    "w": "triangle",
+    "ph": "ˈtraɪæŋɡl",
+    "pos": "n.",
+    "zh": "三角形",
+    "ex": "Draw a triangle with three equal sides.",
+    "exzh": "画一个三边相等的三角形。"
+  },
+  {
+    "w": "tribe",
+    "ph": "traɪb",
+    "pos": "n.",
+    "zh": "部落；宗族",
+    "ex": "The tribe still follows its ancient customs.",
+    "exzh": "这个部落仍然遵循古老习俗。"
+  },
+  {
+    "w": "tribute",
+    "ph": "ˈtrɪbjuːt",
+    "pos": "n.",
+    "zh": "致敬；赞辞；贡品",
+    "ex": "The concert was a tribute to the composer.",
+    "exzh": "这场音乐会是对那位作曲家的致敬。"
+  },
+  {
+    "w": "trick",
+    "ph": "trɪk",
+    "pos": "n./v.",
+    "zh": "诡计；把戏；欺骗",
+    "ex": "He played a trick on his best friend.",
+    "exzh": "他对最好的朋友开了个恶作剧。"
+  },
+  {
+    "w": "trickle",
+    "ph": "ˈtrɪkl",
+    "pos": "v./n.",
+    "zh": "滴流；细流",
+    "ex": "Water trickled slowly from the broken pipe.",
+    "exzh": "水从破裂的管子里慢慢滴出来。"
+  },
+  {
+    "w": "trifle",
+    "ph": "ˈtraɪfl",
+    "pos": "n.",
+    "zh": "少许；琐事",
+    "ex": "Don't waste time on such a trifle.",
+    "exzh": "别为这种小事浪费时间。"
+  },
+  {
+    "w": "trigger",
+    "ph": "ˈtrɪɡər",
+    "pos": "v./n.",
+    "zh": "引发；扳机",
+    "ex": "The news triggered a wave of anger.",
+    "exzh": "这消息引发了一阵愤怒。"
+  },
+  {
+    "w": "trim",
+    "ph": "trɪm",
+    "pos": "v./adj.",
+    "zh": "修剪；整齐的",
+    "ex": "He trimmed the hedge in the garden.",
+    "exzh": "他修剪了花园里的树篱。"
+  },
+  {
+    "w": "triple",
+    "ph": "ˈtrɪpl",
+    "pos": "adj./v.",
+    "zh": "三倍的；增至三倍",
+    "ex": "The company's profits tripled in five years.",
+    "exzh": "公司利润在五年内增长了两倍。"
+  },
+  {
+    "w": "triumph",
+    "ph": "ˈtraɪəmf",
+    "pos": "n./v.",
+    "zh": "胜利；成功",
+    "ex": "The team returned home in triumph.",
+    "exzh": "球队凯旋而归。"
+  },
+  {
+    "w": "trivial",
+    "ph": "ˈtrɪviəl",
+    "pos": "adj.",
+    "zh": "琐碎的；不重要的",
+    "ex": "They argued over a trivial matter for hours.",
+    "exzh": "他们为一桩小事争论了几个小时。"
+  },
+  {
+    "w": "trolley",
+    "ph": "ˈtrɑːli",
+    "pos": "n.",
+    "zh": "手推车；电车",
+    "ex": "He pushed a trolley full of groceries.",
+    "exzh": "他推着一辆装满食品的手推车。"
+  },
+  {
+    "w": "troop",
+    "ph": "truːp",
+    "pos": "n.",
+    "zh": "部队；一群",
+    "ex": "The troops marched through the city at dawn.",
+    "exzh": "部队在黎明时穿过城市。"
+  },
+  {
+    "w": "trophy",
+    "ph": "ˈtroʊfi",
+    "pos": "n.",
+    "zh": "奖品；战利品",
+    "ex": "She lifted the trophy above her head.",
+    "exzh": "她把奖杯高举过头。"
+  },
+  {
+    "w": "tropic",
+    "ph": "ˈtrɑːpɪk",
+    "pos": "n.",
+    "zh": "热带；回归线",
+    "ex": "These birds live only in the tropic regions.",
+    "exzh": "这些鸟只生活在热带地区。"
+  },
+  {
+    "w": "tropical",
+    "ph": "ˈtrɑːpɪkl",
+    "pos": "adj.",
+    "zh": "热带的；炎热的",
+    "ex": "The island has a warm tropical climate.",
+    "exzh": "这个岛属于温暖的热带气候。"
+  },
+  {
+    "w": "trot",
+    "ph": "trɑːt",
+    "pos": "v./n.",
+    "zh": "小跑；快步走",
+    "ex": "The horse trotted along the sandy path.",
+    "exzh": "马沿着沙路小跑。"
+  },
+  {
+    "w": "troublesome",
+    "ph": "ˈtrʌblsəm",
+    "pos": "adj.",
+    "zh": "麻烦的；令人烦恼的",
+    "ex": "The cough became troublesome at night.",
+    "exzh": "咳嗽在夜里变得很麻烦。"
+  },
+  {
+    "w": "trousers",
+    "ph": "ˈtraʊzərz",
+    "pos": "n.",
+    "zh": "裤子；长裤",
+    "ex": "These trousers are too long for me.",
+    "exzh": "这条裤子对我来说太长了。"
+  },
+  {
+    "w": "truly",
+    "ph": "ˈtruːli",
+    "pos": "adv.",
+    "zh": "真正地；确实",
+    "ex": "I am truly grateful for your support.",
+    "exzh": "我真心感谢你的支持。"
+  },
+  {
+    "w": "trumpet",
+    "ph": "ˈtrʌmpɪt",
+    "pos": "n.",
+    "zh": "小号；喇叭",
+    "ex": "He learned to play the trumpet at school.",
+    "exzh": "他在学校学会吹小号。"
+  },
+  {
+    "w": "trunk",
+    "ph": "trʌŋk",
+    "pos": "n.",
+    "zh": "树干；后备箱；象鼻",
+    "ex": "The suitcase is in the car's trunk.",
+    "exzh": "行李箱在汽车后备箱里。"
+  },
+  {
+    "w": "trust",
+    "ph": "trʌst",
+    "pos": "v./n.",
+    "zh": "信任；信赖",
+    "ex": "You can trust him to keep a secret.",
+    "exzh": "你可以相信他会保守秘密。"
+  },
+  {
+    "w": "trustworthy",
+    "ph": "ˈtrʌstwɜːrði",
+    "pos": "adj.",
+    "zh": "值得信赖的；可靠的",
+    "ex": "She is a reliable and trustworthy colleague.",
+    "exzh": "她是一位可靠、值得信赖的同事。"
+  },
+  {
+    "w": "truth",
+    "ph": "truːθ",
+    "pos": "n.",
+    "zh": "真相；事实",
+    "ex": "She finally told us the whole truth.",
+    "exzh": "她终于告诉了我们全部真相。"
+  },
+  {
+    "w": "tub",
+    "ph": "tʌb",
+    "pos": "n.",
+    "zh": "桶；浴缸",
+    "ex": "The baby splashed happily in the tub.",
+    "exzh": "婴儿在浴缸里欢快地扑腾。"
+  },
+  {
+    "w": "tube",
+    "ph": "tuːb",
+    "pos": "n.",
+    "zh": "管；地铁",
+    "ex": "He squeezed toothpaste from the tube.",
+    "exzh": "他从管子中挤出牙膏。"
+  },
+  {
+    "w": "tuck",
+    "ph": "tʌk",
+    "pos": "v.",
+    "zh": "塞进；掖好",
+    "ex": "She tucked the blanket around the sleeping child.",
+    "exzh": "她把毯子掖在熟睡的孩子身边。"
+  },
+  {
+    "w": "tug",
+    "ph": "tʌɡ",
+    "pos": "v./n.",
+    "zh": "用力拉；拖船",
+    "ex": "The boy tugged at his mother's sleeve.",
+    "exzh": "男孩拽着母亲的袖子。"
+  },
+  {
+    "w": "tuition",
+    "ph": "tuˈɪʃn",
+    "pos": "n.",
+    "zh": "学费；教学",
+    "ex": "College tuition has risen sharply in recent years.",
+    "exzh": "近年来大学学费急剧上涨。"
+  },
+  {
+    "w": "tumble",
+    "ph": "ˈtʌmbl",
+    "pos": "v.",
+    "zh": "跌倒；翻滚",
+    "ex": "He tumbled down the stairs and hurt his knee.",
+    "exzh": "他从楼梯上摔下来，伤到了膝盖。"
+  },
+  {
+    "w": "tune",
+    "ph": "tuːn",
+    "pos": "n./v.",
+    "zh": "曲调；调音",
+    "ex": "She hummed a familiar tune while cooking.",
+    "exzh": "她做饭时哼着一首熟悉的曲子。"
+  },
+  {
+    "w": "tunnel",
+    "ph": "ˈtʌnl",
+    "pos": "n.",
+    "zh": "隧道；地道",
+    "ex": "The train passed through a long tunnel.",
+    "exzh": "火车穿过一条长长的隧道。"
+  },
+  {
+    "w": "turbine",
+    "ph": "ˈtɜːrbaɪn",
+    "pos": "n.",
+    "zh": "涡轮机；汽轮机",
+    "ex": "Wind turbines stand along the coastline.",
+    "exzh": "风力涡轮机矗立在海岸线上。"
+  },
+  {
+    "w": "turbulent",
+    "ph": "ˈtɜːrbjələnt",
+    "pos": "adj.",
+    "zh": "动荡的；湍流的",
+    "ex": "The country went through turbulent years.",
+    "exzh": "这个国家经历了动荡的岁月。"
+  },
+  {
+    "w": "turf",
+    "ph": "tɜːrf",
+    "pos": "n.",
+    "zh": "草皮；草地",
+    "ex": "The players ran onto the green turf.",
+    "exzh": "球员们跑上绿色草皮。"
+  },
+  {
+    "w": "turkey",
+    "ph": "ˈtɜːrki",
+    "pos": "n.",
+    "zh": "火鸡；火鸡肉",
+    "ex": "We had roast turkey for Thanksgiving dinner.",
+    "exzh": "我们感恩节晚餐吃了烤火鸡。"
+  },
+  {
+    "w": "turmoil",
+    "ph": "ˈtɜːrmɔɪl",
+    "pos": "n.",
+    "zh": "混乱；动乱",
+    "ex": "The country was in political turmoil for months.",
+    "exzh": "这个国家陷入了数月的政治动荡。"
+  },
+  {
+    "w": "turnip",
+    "ph": "ˈtɜːrnɪp",
+    "pos": "n.",
+    "zh": "萝卜；芜菁",
+    "ex": "She added a turnip to the vegetable soup.",
+    "exzh": "她在蔬菜汤里加了一个萝卜。"
+  },
+  {
+    "w": "turnover",
+    "ph": "ˈtɜːrnoʊvər",
+    "pos": "n.",
+    "zh": "营业额；人员流动",
+    "ex": "The company's annual turnover doubled last year.",
+    "exzh": "公司去年的年营业额翻了一番。"
+  },
+  {
+    "w": "turtle",
+    "ph": "ˈtɜːrtl",
+    "pos": "n.",
+    "zh": "海龟；龟",
+    "ex": "A giant turtle swam past our boat.",
+    "exzh": "一只巨大的海龟从我们船边游过。"
+  },
+  {
+    "w": "tutor",
+    "ph": "ˈtuːtər",
+    "pos": "n./v.",
+    "zh": "导师；辅导",
+    "ex": "She works as a private tutor in the evenings.",
+    "exzh": "她晚上做私人辅导老师。"
+  },
+  {
+    "w": "twig",
+    "ph": "twɪɡ",
+    "pos": "n.",
+    "zh": "细枝；嫩枝",
+    "ex": "A bird sat on a thin twig.",
+    "exzh": "一只鸟停在细枝上。"
+  },
+  {
+    "w": "twilight",
+    "ph": "ˈtwaɪlaɪt",
+    "pos": "n.",
+    "zh": "黄昏；暮光",
+    "ex": "We walked home in the quiet twilight.",
+    "exzh": "我们在宁静的暮色中走回家。"
+  },
+  {
+    "w": "twin",
+    "ph": "twɪn",
+    "pos": "n./adj.",
+    "zh": "双胞胎；孪生的",
+    "ex": "The twins look exactly the same.",
+    "exzh": "这对双胞胎长得一模一样。"
+  },
+  {
+    "w": "twinkle",
+    "ph": "ˈtwɪŋkl",
+    "pos": "v.",
+    "zh": "闪烁；闪耀",
+    "ex": "Stars twinkled brightly above the dark field.",
+    "exzh": "星星在黑暗的田野上方明亮地闪烁。"
+  },
+  {
+    "w": "twist",
+    "ph": "twɪst",
+    "pos": "v./n.",
+    "zh": "扭转；弯曲",
+    "ex": "He twisted his ankle while playing football.",
+    "exzh": "他踢足球时扭伤了脚踝。"
+  },
+  {
+    "w": "typewriter",
+    "ph": "ˈtaɪpraɪtər",
+    "pos": "n.",
+    "zh": "打字机",
+    "ex": "My grandfather still keeps an old typewriter.",
+    "exzh": "我祖父还留着一台旧打字机。"
+  },
+  {
+    "w": "typhoon",
+    "ph": "taɪˈfuːn",
+    "pos": "n.",
+    "zh": "台风",
+    "ex": "A powerful typhoon hit the coast last night.",
+    "exzh": "昨晚一场强台风袭击了海岸。"
+  },
+  {
+    "w": "typist",
+    "ph": "ˈtaɪpɪst",
+    "pos": "n.",
+    "zh": "打字员",
+    "ex": "The typist finished the report by noon.",
+    "exzh": "打字员中午前完成了报告。"
+  }
+]

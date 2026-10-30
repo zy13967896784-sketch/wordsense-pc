@@ -1,0 +1,1922 @@
+[
+  {
+    "w": "abandon",
+    "ph": "əˈbændən",
+    "pos": "v.",
+    "zh": "放弃；抛弃；沉溺",
+    "ex": "They had to abandon the car in the heavy snow.",
+    "exzh": "他们不得不把车丢弃在大雪中。"
+  },
+  {
+    "w": "ability",
+    "ph": "əˈbɪləti",
+    "pos": "n.",
+    "zh": "能力；才能；本领",
+    "ex": "She has the ability to solve difficult problems quickly.",
+    "exzh": "她有快速解决难题的能力。"
+  },
+  {
+    "w": "absorb",
+    "ph": "əbˈzɔːrb",
+    "pos": "v.",
+    "zh": "吸收；吸引；理解",
+    "ex": "Plants absorb water and nutrients through their roots.",
+    "exzh": "植物通过根部吸收水分和养分。"
+  },
+  {
+    "w": "abstract",
+    "ph": "ˈæbstrækt",
+    "pos": "adj.",
+    "zh": "抽象的；抽象派的",
+    "ex": "The abstract idea was difficult for young students to understand.",
+    "exzh": "这个抽象的概念对小学生来说很难理解。"
+  },
+  {
+    "w": "abundant",
+    "ph": "əˈbʌndənt",
+    "pos": "adj.",
+    "zh": "丰富的；充裕的；大量的",
+    "ex": "The region has abundant water and fertile soil.",
+    "exzh": "该地区拥有丰富的水资源和肥沃的土壤。"
+  },
+  {
+    "w": "academic",
+    "ph": "ˌækəˈdemɪk",
+    "pos": "adj.",
+    "zh": "学术的；学校的；理论的",
+    "ex": "Her academic performance improved greatly this semester.",
+    "exzh": "她这学期的学习成绩提高了很多。"
+  },
+  {
+    "w": "access",
+    "ph": "ˈækses",
+    "pos": "v.",
+    "zh": "访问；进入；获取",
+    "ex": "Students can access the online library from home.",
+    "exzh": "学生可以在家访问在线图书馆。"
+  },
+  {
+    "w": "accident",
+    "ph": "ˈæksɪdənt",
+    "pos": "n.",
+    "zh": "事故；意外；偶然",
+    "ex": "He broke his arm in a traffic accident last week.",
+    "exzh": "上周他在一次交通事故中摔断了胳膊。"
+  },
+  {
+    "w": "accompany",
+    "ph": "əˈkʌmpəni",
+    "pos": "v.",
+    "zh": "陪伴；伴随；为……伴奏",
+    "ex": "Her mother accompanied her to the hospital yesterday.",
+    "exzh": "她母亲昨天陪她去了医院。"
+  },
+  {
+    "w": "accomplish",
+    "ph": "əˈkɑːmplɪʃ",
+    "pos": "v.",
+    "zh": "完成；实现；达到",
+    "ex": "We accomplished all the tasks ahead of schedule.",
+    "exzh": "我们提前完成了所有任务。"
+  },
+  {
+    "w": "account",
+    "ph": "əˈkaʊnt",
+    "pos": "n.",
+    "zh": "账户；账目；描述",
+    "ex": "She opened a bank account for her monthly savings.",
+    "exzh": "她开了一个银行账户用于每月储蓄。"
+  },
+  {
+    "w": "accurate",
+    "ph": "ˈækjərət",
+    "pos": "adj.",
+    "zh": "准确的；精确的；正确的",
+    "ex": "The weather forecast was surprisingly accurate this week.",
+    "exzh": "本周的天气预报准确得令人惊讶。"
+  },
+  {
+    "w": "achieve",
+    "ph": "əˈtʃiːv",
+    "pos": "v.",
+    "zh": "实现；达到；取得",
+    "ex": "He worked hard to achieve his childhood dream.",
+    "exzh": "他努力工作以实现儿时的梦想。"
+  },
+  {
+    "w": "acquire",
+    "ph": "əˈkwaɪər",
+    "pos": "v.",
+    "zh": "获得；习得；收购",
+    "ex": "Children acquire language skills through daily communication.",
+    "exzh": "儿童通过日常交流习得语言技能。"
+  },
+  {
+    "w": "adapt",
+    "ph": "əˈdæpt",
+    "pos": "v.",
+    "zh": "适应；改编；调整",
+    "ex": "Animals must adapt to changes in their environment.",
+    "exzh": "动物必须适应环境的变化。"
+  },
+  {
+    "w": "adequate",
+    "ph": "ˈædɪkwət",
+    "pos": "adj.",
+    "zh": "足够的；适当的；胜任的",
+    "ex": "The room provides adequate space for ten students.",
+    "exzh": "这个房间为十名学生提供了足够的空间。"
+  },
+  {
+    "w": "adjust",
+    "ph": "əˈdʒʌst",
+    "pos": "v.",
+    "zh": "调整；调节；适应",
+    "ex": "You can adjust the chair to suit your height.",
+    "exzh": "你可以调节椅子来适合你的身高。"
+  },
+  {
+    "w": "admire",
+    "ph": "ədˈmaɪər",
+    "pos": "v.",
+    "zh": "钦佩；欣赏；赞美",
+    "ex": "I admire her courage and determination very much.",
+    "exzh": "我非常钦佩她的勇气和决心。"
+  },
+  {
+    "w": "admit",
+    "ph": "ədˈmɪt",
+    "pos": "v.",
+    "zh": "承认；准许进入；接纳",
+    "ex": "He admitted making a serious mistake in the report.",
+    "exzh": "他承认在报告中犯了一个严重错误。"
+  },
+  {
+    "w": "adopt",
+    "ph": "əˈdɑːpt",
+    "pos": "v.",
+    "zh": "采用；收养；采取",
+    "ex": "The company decided to adopt a new marketing strategy.",
+    "exzh": "公司决定采用新的营销策略。"
+  },
+  {
+    "w": "advance",
+    "ph": "ədˈvæns",
+    "pos": "n.",
+    "zh": "进展；前进；进步",
+    "ex": "Recent advances in medicine have saved many lives.",
+    "exzh": "医学领域的最新进展挽救了许多生命。"
+  },
+  {
+    "w": "advantage",
+    "ph": "ədˈvæntɪdʒ",
+    "pos": "n.",
+    "zh": "优势；好处；有利条件",
+    "ex": "Living near the school has many practical advantages.",
+    "exzh": "住在学校附近有许多实际的好处。"
+  },
+  {
+    "w": "adventure",
+    "ph": "ədˈventʃər",
+    "pos": "n.",
+    "zh": "冒险；奇遇；冒险经历",
+    "ex": "Their adventure in the mountains lasted three exciting days.",
+    "exzh": "他们在山中的冒险持续了三天，充满刺激。"
+  },
+  {
+    "w": "advertise",
+    "ph": "ˈædvərtaɪz",
+    "pos": "v.",
+    "zh": "做广告；宣传；登广告",
+    "ex": "The store advertises its products on social media.",
+    "exzh": "这家商店在社交媒体上宣传其产品。"
+  },
+  {
+    "w": "affect",
+    "ph": "əˈfekt",
+    "pos": "v.",
+    "zh": "影响；感动；侵袭",
+    "ex": "Lack of sleep can affect your memory and mood.",
+    "exzh": "睡眠不足会影响你的记忆和情绪。"
+  },
+  {
+    "w": "afford",
+    "ph": "əˈfɔːrd",
+    "pos": "v.",
+    "zh": "买得起；承担得起；提供",
+    "ex": "We cannot afford to waste any more time.",
+    "exzh": "我们不能再浪费更多时间了。"
+  },
+  {
+    "w": "aggressive",
+    "ph": "əˈɡresɪv",
+    "pos": "adj.",
+    "zh": "好斗的；侵略性的；积极进取的",
+    "ex": "The aggressive dog frightened the children nearby.",
+    "exzh": "那只凶猛的狗吓坏了附近的孩子。"
+  },
+  {
+    "w": "agriculture",
+    "ph": "ˈæɡrɪkʌltʃər",
+    "pos": "n.",
+    "zh": "农业；农学；农艺",
+    "ex": "Agriculture remains the main industry in this region.",
+    "exzh": "农业仍然是该地区的主要产业。"
+  },
+  {
+    "w": "alter",
+    "ph": "ˈɔːltər",
+    "pos": "v.",
+    "zh": "改变；更改；修改",
+    "ex": "Nothing can alter the fact that she was right.",
+    "exzh": "任何事都无法改变她当时正确这一事实。"
+  },
+  {
+    "w": "alternative",
+    "ph": "ɔːlˈtɜːrnətɪv",
+    "pos": "n.",
+    "zh": "替代方案；选择；替代物",
+    "ex": "We need an alternative plan in case of rain.",
+    "exzh": "我们需要一个备选计划以防下雨。"
+  },
+  {
+    "w": "ambition",
+    "ph": "æmˈbɪʃən",
+    "pos": "n.",
+    "zh": "雄心；志向；抱负",
+    "ex": "His ambition is to become a famous scientist.",
+    "exzh": "他的志向是成为一名著名的科学家。"
+  },
+  {
+    "w": "amount",
+    "ph": "əˈmaʊnt",
+    "pos": "n.",
+    "zh": "数量；总额；金额",
+    "ex": "A large amount of money was spent on research.",
+    "exzh": "大量资金被用于研究。"
+  },
+  {
+    "w": "analyze",
+    "ph": "ˈænəlaɪz",
+    "pos": "v.",
+    "zh": "分析；解析；剖析",
+    "ex": "Experts analyzed the data before making a decision.",
+    "exzh": "专家们在做决定前分析了数据。"
+  },
+  {
+    "w": "ancient",
+    "ph": "ˈeɪnʃənt",
+    "pos": "adj.",
+    "zh": "古代的；古老的；年代久远的",
+    "ex": "The museum displays ancient tools and pottery.",
+    "exzh": "博物馆展出了古代工具和陶器。"
+  },
+  {
+    "w": "announce",
+    "ph": "əˈnaʊns",
+    "pos": "v.",
+    "zh": "宣布；公布；通知",
+    "ex": "The school announced the exam results this morning.",
+    "exzh": "学校今天上午公布了考试结果。"
+  },
+  {
+    "w": "annual",
+    "ph": "ˈænjuəl",
+    "pos": "adj.",
+    "zh": "每年的；年度的；一年的",
+    "ex": "The company holds an annual meeting every spring.",
+    "exzh": "公司每年春天举行一次年度会议。"
+  },
+  {
+    "w": "anxiety",
+    "ph": "æŋˈzaɪəti",
+    "pos": "n.",
+    "zh": "焦虑；担心；渴望",
+    "ex": "Her anxiety about the interview kept her awake.",
+    "exzh": "她对面试的焦虑使她无法入睡。"
+  },
+  {
+    "w": "apologize",
+    "ph": "əˈpɑːlədʒaɪz",
+    "pos": "v.",
+    "zh": "道歉；谢罪；认错",
+    "ex": "He apologized to his neighbor for the loud noise.",
+    "exzh": "他因噪音太大向邻居道歉。"
+  },
+  {
+    "w": "apparent",
+    "ph": "əˈpærənt",
+    "pos": "adj.",
+    "zh": "明显的；表面上的；显而易见的",
+    "ex": "It soon became apparent that the plan would fail.",
+    "exzh": "很快就明显看出这个计划会失败。"
+  },
+  {
+    "w": "appeal",
+    "ph": "əˈpiːl",
+    "pos": "v.",
+    "zh": "呼吁；吸引；上诉",
+    "ex": "The charity appealed to the public for more donations.",
+    "exzh": "该慈善机构呼吁公众提供更多捐款。"
+  },
+  {
+    "w": "apply",
+    "ph": "əˈplaɪ",
+    "pos": "v.",
+    "zh": "申请；应用；适用",
+    "ex": "She applied for a scholarship at three universities.",
+    "exzh": "她申请了三所大学的奖学金。"
+  },
+  {
+    "w": "appoint",
+    "ph": "əˈpɔɪnt",
+    "pos": "v.",
+    "zh": "任命；委派；约定",
+    "ex": "The board appointed him as the new director.",
+    "exzh": "董事会任命他为新主管。"
+  },
+  {
+    "w": "appreciate",
+    "ph": "əˈpriːʃieɪt",
+    "pos": "v.",
+    "zh": "感激；欣赏；理解",
+    "ex": "I really appreciate your help with the project.",
+    "exzh": "我非常感谢你在这个项目上的帮助。"
+  },
+  {
+    "w": "approach",
+    "ph": "əˈproʊtʃ",
+    "pos": "n.",
+    "zh": "方法；途径；接近",
+    "ex": "The teacher tried a new approach to grammar.",
+    "exzh": "老师尝试了一种新的语法教学方法。"
+  },
+  {
+    "w": "arrange",
+    "ph": "əˈreɪndʒ",
+    "pos": "v.",
+    "zh": "安排；排列；整理",
+    "ex": "They arranged a meeting for next Monday morning.",
+    "exzh": "他们安排了下周一上午的会议。"
+  },
+  {
+    "w": "balance",
+    "ph": "ˈbæləns",
+    "pos": "n.",
+    "zh": "平衡；余额；均衡",
+    "ex": "She lost her balance and fell off the bike.",
+    "exzh": "她失去平衡，从自行车上摔了下来。"
+  },
+  {
+    "w": "ban",
+    "ph": "bæn",
+    "pos": "v.",
+    "zh": "禁止；取缔；查禁",
+    "ex": "The city banned smoking in all public parks.",
+    "exzh": "该市禁止在所有公园吸烟。"
+  },
+  {
+    "w": "bargain",
+    "ph": "ˈbɑːrɡən",
+    "pos": "n.",
+    "zh": "便宜货；交易；协议",
+    "ex": "This coat was a real bargain at half price.",
+    "exzh": "这件外套半价，真是便宜货。"
+  },
+  {
+    "w": "barrier",
+    "ph": "ˈbæriər",
+    "pos": "n.",
+    "zh": "障碍；屏障；关卡",
+    "ex": "Language can be a serious barrier to communication.",
+    "exzh": "语言可能成为沟通的严重障碍。"
+  },
+  {
+    "w": "basis",
+    "ph": "ˈbeɪsɪs",
+    "pos": "n.",
+    "zh": "基础；根据；依据",
+    "ex": "The report was prepared on the basis of recent surveys.",
+    "exzh": "该报告是根据最近的调查编写的。"
+  },
+  {
+    "w": "behave",
+    "ph": "bɪˈheɪv",
+    "pos": "v.",
+    "zh": "表现；举止；行为得体",
+    "ex": "The children behaved well during the long journey.",
+    "exzh": "孩子们在长途旅行中表现很好。"
+  },
+  {
+    "w": "belief",
+    "ph": "bɪˈliːf",
+    "pos": "n.",
+    "zh": "信念；信仰；相信",
+    "ex": "Her belief in hard work helped her succeed.",
+    "exzh": "她对努力工作的信念帮助她取得成功。"
+  },
+  {
+    "w": "benefit",
+    "ph": "ˈbenɪfɪt",
+    "pos": "n.",
+    "zh": "好处；利益；福利",
+    "ex": "Regular exercise brings many health benefits.",
+    "exzh": "经常锻炼带来许多健康益处。"
+  },
+  {
+    "w": "betray",
+    "ph": "bɪˈtreɪ",
+    "pos": "v.",
+    "zh": "背叛；出卖；泄露",
+    "ex": "He betrayed his friend by revealing the secret.",
+    "exzh": "他泄露秘密，背叛了朋友。"
+  },
+  {
+    "w": "beyond",
+    "ph": "bɪˈjɑːnd",
+    "pos": "prep.",
+    "zh": "超出；在……之外；晚于",
+    "ex": "The village lies beyond those distant green hills.",
+    "exzh": "那个村庄位于远处青翠的山丘之外。"
+  },
+  {
+    "w": "bind",
+    "ph": "baɪnd",
+    "pos": "v.",
+    "zh": "捆绑；装订；约束",
+    "ex": "Please bind these papers together before filing them.",
+    "exzh": "请把这些文件装订好再归档。"
+  },
+  {
+    "w": "blame",
+    "ph": "bleɪm",
+    "pos": "v.",
+    "zh": "责怪；归咎于；指责",
+    "ex": "Do not blame others for your own mistakes.",
+    "exzh": "不要为自己的错误责怪别人。"
+  },
+  {
+    "w": "boost",
+    "ph": "buːst",
+    "pos": "v.",
+    "zh": "促进；提高；增强",
+    "ex": "The new policy will boost economic growth next year.",
+    "exzh": "新政策将在明年促进经济增长。"
+  },
+  {
+    "w": "borrow",
+    "ph": "ˈbɑːroʊ",
+    "pos": "v.",
+    "zh": "借入；借用；借鉴",
+    "ex": "May I borrow your dictionary for a few minutes?",
+    "exzh": "我可以借用你的词典几分钟吗？"
+  },
+  {
+    "w": "brief",
+    "ph": "briːf",
+    "pos": "adj.",
+    "zh": "简短的；短暂的；简洁的",
+    "ex": "He gave a brief report on the project.",
+    "exzh": "他就该项目做了简短的报告。"
+  },
+  {
+    "w": "calculate",
+    "ph": "ˈkælkjuleɪt",
+    "pos": "v.",
+    "zh": "计算；估计；推测",
+    "ex": "Please calculate the total cost of these materials.",
+    "exzh": "请计算这些材料的总成本。"
+  },
+  {
+    "w": "campaign",
+    "ph": "kæmˈpeɪn",
+    "pos": "n.",
+    "zh": "运动；活动；战役",
+    "ex": "The campaign raised enough money for the school.",
+    "exzh": "这次活动为学校筹集了足够的资金。"
+  },
+  {
+    "w": "cancel",
+    "ph": "ˈkænsəl",
+    "pos": "v.",
+    "zh": "取消；撤销；抵消",
+    "ex": "They canceled the flight because of heavy fog.",
+    "exzh": "由于大雾，他们取消了航班。"
+  },
+  {
+    "w": "candidate",
+    "ph": "ˈkændɪdət",
+    "pos": "n.",
+    "zh": "候选人；申请人；考生",
+    "ex": "Each candidate gave a short speech before voting.",
+    "exzh": "每位候选人在投票前都做了简短的演讲。"
+  },
+  {
+    "w": "capable",
+    "ph": "ˈkeɪpəbəl",
+    "pos": "adj.",
+    "zh": "有能力的；能干的；能够的",
+    "ex": "She is capable of handling such difficult tasks.",
+    "exzh": "她有能力处理如此困难的任务。"
+  },
+  {
+    "w": "capacity",
+    "ph": "kəˈpæsəti",
+    "pos": "n.",
+    "zh": "容量；能力；职位",
+    "ex": "The hall has a seating capacity of five hundred.",
+    "exzh": "这个大厅可容纳五百人就座。"
+  },
+  {
+    "w": "capture",
+    "ph": "ˈkæptʃər",
+    "pos": "v.",
+    "zh": "捕获；捕捉；夺取",
+    "ex": "The photo captured the beauty of the sunset.",
+    "exzh": "这张照片捕捉到了日落的美景。"
+  },
+  {
+    "w": "career",
+    "ph": "kəˈrɪr",
+    "pos": "n.",
+    "zh": "职业；生涯；事业",
+    "ex": "He began his teaching career in a small town.",
+    "exzh": "他在一个小镇开始了他的教学生涯。"
+  },
+  {
+    "w": "category",
+    "ph": "ˈkætəɡɔːri",
+    "pos": "n.",
+    "zh": "类别；种类；范畴",
+    "ex": "These books belong to a different category.",
+    "exzh": "这些书属于不同的类别。"
+  },
+  {
+    "w": "celebrate",
+    "ph": "ˈseləbreɪt",
+    "pos": "v.",
+    "zh": "庆祝；赞颂；举行",
+    "ex": "We celebrated her birthday with a small party.",
+    "exzh": "我们用一个小型聚会庆祝了她的生日。"
+  },
+  {
+    "w": "challenge",
+    "ph": "ˈtʃælɪndʒ",
+    "pos": "n.",
+    "zh": "挑战；难题；质疑",
+    "ex": "Learning a new language is a great challenge.",
+    "exzh": "学习一门新语言是一项巨大的挑战。"
+  },
+  {
+    "w": "channel",
+    "ph": "ˈtʃænəl",
+    "pos": "n.",
+    "zh": "频道；渠道；海峡",
+    "ex": "The documentary will be shown on this channel tonight.",
+    "exzh": "这部纪录片今晚将在这个频道播出。"
+  },
+  {
+    "w": "character",
+    "ph": "ˈkærəktər",
+    "pos": "n.",
+    "zh": "性格；特点；人物",
+    "ex": "Honesty is an important part of his character.",
+    "exzh": "诚实是他性格的重要组成部分。"
+  },
+  {
+    "w": "charge",
+    "ph": "tʃɑːrdʒ",
+    "pos": "v.",
+    "zh": "收费；指控；充电",
+    "ex": "The hotel charges extra for breakfast and parking.",
+    "exzh": "这家酒店对早餐和停车额外收费。"
+  },
+  {
+    "w": "chemical",
+    "ph": "ˈkemɪkəl",
+    "pos": "n.",
+    "zh": "化学品；化学物质",
+    "ex": "These chemicals can harm fish and other wildlife.",
+    "exzh": "这些化学物质会伤害鱼类和其他野生动物。"
+  },
+  {
+    "w": "circumstance",
+    "ph": "ˈsɜːrkəmstæns",
+    "pos": "n.",
+    "zh": "情况；环境；境遇",
+    "ex": "Under these circumstances, we must change our plan.",
+    "exzh": "在这种情况下，我们必须改变计划。"
+  },
+  {
+    "w": "civil",
+    "ph": "ˈsɪvəl",
+    "pos": "adj.",
+    "zh": "公民的；民事的；文明的",
+    "ex": "Civil rights are protected by the national constitution.",
+    "exzh": "公民权利受国家宪法保护。"
+  },
+  {
+    "w": "claim",
+    "ph": "kleɪm",
+    "pos": "v.",
+    "zh": "声称；要求；索赔",
+    "ex": "He claims that he saw the accident happen.",
+    "exzh": "他声称他看到了事故发生。"
+  },
+  {
+    "w": "clarify",
+    "ph": "ˈklærəfaɪ",
+    "pos": "v.",
+    "zh": "澄清；阐明；使清楚",
+    "ex": "Could you clarify what you mean by that term?",
+    "exzh": "你能解释一下那个术语是什么意思吗？"
+  },
+  {
+    "w": "climate",
+    "ph": "ˈklaɪmət",
+    "pos": "n.",
+    "zh": "气候；风气；氛围",
+    "ex": "The climate here is mild and wet all year.",
+    "exzh": "这里的气候全年温和湿润。"
+  },
+  {
+    "w": "combine",
+    "ph": "kəmˈbaɪn",
+    "pos": "v.",
+    "zh": "结合；联合；兼有",
+    "ex": "The course combines theory with practical training.",
+    "exzh": "这门课程将理论与实践培训相结合。"
+  },
+  {
+    "w": "commit",
+    "ph": "kəˈmɪt",
+    "pos": "v.",
+    "zh": "承诺；犯（罪）；投入",
+    "ex": "She committed herself to finishing the research project.",
+    "exzh": "她致力于完成这个研究项目。"
+  },
+  {
+    "w": "communicate",
+    "ph": "kəˈmjuːnɪkeɪt",
+    "pos": "v.",
+    "zh": "交流；沟通；传达",
+    "ex": "We communicate mainly by email and video calls.",
+    "exzh": "我们主要通过电子邮件和视频通话交流。"
+  },
+  {
+    "w": "community",
+    "ph": "kəˈmjuːnəti",
+    "pos": "n.",
+    "zh": "社区；群体；共同体",
+    "ex": "The whole community helped rebuild the damaged bridge.",
+    "exzh": "整个社区都帮助重建了受损的桥梁。"
+  },
+  {
+    "w": "compare",
+    "ph": "kəmˈper",
+    "pos": "v.",
+    "zh": "比较；对比；比作",
+    "ex": "Compared with last year, sales have doubled.",
+    "exzh": "与去年相比，销售额翻了一番。"
+  },
+  {
+    "w": "compete",
+    "ph": "kəmˈpiːt",
+    "pos": "v.",
+    "zh": "竞争；比赛；对抗",
+    "ex": "Small shops find it hard to compete with supermarkets.",
+    "exzh": "小商店发现很难与超市竞争。"
+  },
+  {
+    "w": "complain",
+    "ph": "kəmˈpleɪn",
+    "pos": "v.",
+    "zh": "抱怨；投诉；诉苦",
+    "ex": "Several residents complained about the constant noise.",
+    "exzh": "几位居民抱怨持续的噪音。"
+  },
+  {
+    "w": "complex",
+    "ph": "kəmˈpleks",
+    "pos": "adj.",
+    "zh": "复杂的；难懂的；复合的",
+    "ex": "The problem is more complex than it first appears.",
+    "exzh": "这个问题比最初看起来更复杂。"
+  },
+  {
+    "w": "concentrate",
+    "ph": "ˈkɑːnsəntreɪt",
+    "pos": "v.",
+    "zh": "集中；专心；浓缩",
+    "ex": "It is hard to concentrate in such a noisy room.",
+    "exzh": "在如此嘈杂的房间里很难集中注意力。"
+  },
+  {
+    "w": "concept",
+    "ph": "ˈkɑːnsept",
+    "pos": "n.",
+    "zh": "概念；观念；想法",
+    "ex": "The concept of freedom varies across cultures.",
+    "exzh": "自由的概念因文化而异。"
+  },
+  {
+    "w": "concern",
+    "ph": "kənˈsɜːrn",
+    "pos": "n.",
+    "zh": "担忧；关心；事项",
+    "ex": "There is growing concern about food safety.",
+    "exzh": "人们对食品安全的担忧日益增加。"
+  },
+  {
+    "w": "conclude",
+    "ph": "kənˈkluːd",
+    "pos": "v.",
+    "zh": "得出结论；结束；推断",
+    "ex": "The researchers concluded that the treatment was effective.",
+    "exzh": "研究人员得出结论，这种治疗是有效的。"
+  },
+  {
+    "w": "conduct",
+    "ph": "kənˈdʌkt",
+    "pos": "v.",
+    "zh": "进行；实施；指挥",
+    "ex": "They conducted a survey among two hundred students.",
+    "exzh": "他们在两百名学生中进行了一项调查。"
+  },
+  {
+    "w": "confidence",
+    "ph": "ˈkɑːnfɪdəns",
+    "pos": "n.",
+    "zh": "信心；信任；把握",
+    "ex": "Practice can help you build confidence in speaking.",
+    "exzh": "练习可以帮助你建立说话的信心。"
+  },
+  {
+    "w": "confirm",
+    "ph": "kənˈfɜːrm",
+    "pos": "v.",
+    "zh": "确认；证实；批准",
+    "ex": "Please confirm your booking by email before Friday.",
+    "exzh": "请在周五前通过电子邮件确认您的预订。"
+  },
+  {
+    "w": "conflict",
+    "ph": "ˈkɑːnflɪkt",
+    "pos": "n.",
+    "zh": "冲突；矛盾；争执",
+    "ex": "The conflict between the two groups lasted for years.",
+    "exzh": "两个群体之间的冲突持续了多年。"
+  },
+  {
+    "w": "confuse",
+    "ph": "kənˈfjuːz",
+    "pos": "v.",
+    "zh": "使困惑；混淆；弄乱",
+    "ex": "These similar symbols often confuse new learners.",
+    "exzh": "这些相似的符号经常使初学者感到困惑。"
+  },
+  {
+    "w": "connect",
+    "ph": "kəˈnekt",
+    "pos": "v.",
+    "zh": "连接；联系；接通",
+    "ex": "This bridge connects the island with the mainland.",
+    "exzh": "这座桥将岛屿与大陆连接起来。"
+  },
+  {
+    "w": "conscious",
+    "ph": "ˈkɑːnʃəs",
+    "pos": "adj.",
+    "zh": "意识到的；有意识的；神志清醒的",
+    "ex": "She was conscious of the risks involved in the plan.",
+    "exzh": "她意识到这个计划所涉及的风险。"
+  },
+  {
+    "w": "consequence",
+    "ph": "ˈkɑːnsɪkwens",
+    "pos": "n.",
+    "zh": "后果；结果；重要性",
+    "ex": "He must accept the consequences of his careless actions.",
+    "exzh": "他必须承担自己粗心行为带来的后果。"
+  },
+  {
+    "w": "consider",
+    "ph": "kənˈsɪdər",
+    "pos": "v.",
+    "zh": "考虑；认为；体谅",
+    "ex": "We are considering moving to a larger apartment.",
+    "exzh": "我们正在考虑搬到更大的公寓。"
+  },
+  {
+    "w": "contrast",
+    "ph": "ˈkɑːntræst",
+    "pos": "n.",
+    "zh": "对比；反差；对照",
+    "ex": "There is a sharp contrast between the two cities.",
+    "exzh": "这两座城市之间形成了鲜明的对比。"
+  },
+  {
+    "w": "contribute",
+    "ph": "kənˈtrɪbjuːt",
+    "pos": "v.",
+    "zh": "贡献；捐助；促成",
+    "ex": "Many volunteers contributed time and money to the project.",
+    "exzh": "许多志愿者为该项目贡献了时间和金钱。"
+  },
+  {
+    "w": "convince",
+    "ph": "kənˈvɪns",
+    "pos": "v.",
+    "zh": "说服；使确信；使信服",
+    "ex": "She convinced her parents to support her decision.",
+    "exzh": "她说服父母支持她的决定。"
+  },
+  {
+    "w": "courage",
+    "ph": "ˈkɜːrɪdʒ",
+    "pos": "n.",
+    "zh": "勇气；胆量；魄力",
+    "ex": "It takes great courage to admit your own mistakes.",
+    "exzh": "承认自己的错误需要很大的勇气。"
+  },
+  {
+    "w": "create",
+    "ph": "kriˈeɪt",
+    "pos": "v.",
+    "zh": "创造；创建；引起",
+    "ex": "The new factory will create hundreds of jobs.",
+    "exzh": "新工厂将创造数百个就业机会。"
+  },
+  {
+    "w": "crisis",
+    "ph": "ˈkraɪsɪs",
+    "pos": "n.",
+    "zh": "危机；紧要关头；转折点",
+    "ex": "The company faced a serious financial crisis last year.",
+    "exzh": "该公司去年面临严重的财务危机。"
+  },
+  {
+    "w": "critical",
+    "ph": "ˈkrɪtɪkəl",
+    "pos": "adj.",
+    "zh": "关键的；批评的；危急的",
+    "ex": "Clean water is critical to public health.",
+    "exzh": "清洁的水对公共卫生至关重要。"
+  },
+  {
+    "w": "crucial",
+    "ph": "ˈkruːʃəl",
+    "pos": "adj.",
+    "zh": "至关重要的；关键的；决定性的",
+    "ex": "Good preparation is crucial for a successful interview.",
+    "exzh": "充分的准备对成功的面试至关重要。"
+  },
+  {
+    "w": "cultural",
+    "ph": "ˈkʌltʃərəl",
+    "pos": "adj.",
+    "zh": "文化的；人文的；有教养的",
+    "ex": "The festival reflects the rich cultural heritage of the region.",
+    "exzh": "这个节日反映了该地区丰富的文化遗产。"
+  },
+  {
+    "w": "current",
+    "ph": "ˈkɜːrənt",
+    "pos": "adj.",
+    "zh": "当前的；现行的；流通的",
+    "ex": "The current situation requires immediate and careful attention.",
+    "exzh": "目前的形势需要立即而谨慎的关注。"
+  },
+  {
+    "w": "custom",
+    "ph": "ˈkʌstəm",
+    "pos": "n.",
+    "zh": "习俗；惯例；海关",
+    "ex": "It is a local custom to give gifts during the festival.",
+    "exzh": "节日期间送礼是当地的习俗。"
+  },
+  {
+    "w": "damage",
+    "ph": "ˈdæmɪdʒ",
+    "pos": "n.",
+    "zh": "损坏；损害；赔偿金",
+    "ex": "The storm caused serious damage to the roof.",
+    "exzh": "暴风雨对屋顶造成了严重损坏。"
+  },
+  {
+    "w": "debate",
+    "ph": "dɪˈbeɪt",
+    "pos": "n.",
+    "zh": "辩论；争论；讨论",
+    "ex": "The students held a debate about online learning.",
+    "exzh": "学生们就在线学习举行了一场辩论。"
+  },
+  {
+    "w": "decade",
+    "ph": "ˈdekeɪd",
+    "pos": "n.",
+    "zh": "十年；十年期",
+    "ex": "The town has changed greatly over the past decade.",
+    "exzh": "过去十年间，这个小镇发生了巨大变化。"
+  },
+  {
+    "w": "decline",
+    "ph": "dɪˈklaɪn",
+    "pos": "v.",
+    "zh": "下降；衰退；婉拒",
+    "ex": "Sales declined sharply during the second quarter.",
+    "exzh": "第二季度销售额急剧下降。"
+  },
+  {
+    "w": "decrease",
+    "ph": "dɪˈkriːs",
+    "pos": "v.",
+    "zh": "减少；降低；减小",
+    "ex": "The number of accidents decreased after the new rules.",
+    "exzh": "新规定实施后，事故数量减少了。"
+  },
+  {
+    "w": "dedicate",
+    "ph": "ˈdedɪkeɪt",
+    "pos": "v.",
+    "zh": "致力于；献身；题献",
+    "ex": "She dedicated her life to helping poor children.",
+    "exzh": "她毕生致力于帮助贫困儿童。"
+  },
+  {
+    "w": "defeat",
+    "ph": "dɪˈfiːt",
+    "pos": "v.",
+    "zh": "击败；战胜；使失败",
+    "ex": "Our team defeated the champions in the final match.",
+    "exzh": "我们队在决赛中击败了冠军队。"
+  },
+  {
+    "w": "defend",
+    "ph": "dɪˈfend",
+    "pos": "v.",
+    "zh": "保卫；防守；辩护",
+    "ex": "Soldiers were sent to defend the northern border.",
+    "exzh": "士兵们被派去保卫北部边境。"
+  },
+  {
+    "w": "define",
+    "ph": "dɪˈfaɪn",
+    "pos": "v.",
+    "zh": "定义；界定；明确",
+    "ex": "The dictionary defines this word in two ways.",
+    "exzh": "词典用两种方式定义这个词。"
+  },
+  {
+    "w": "delay",
+    "ph": "dɪˈleɪ",
+    "pos": "v.",
+    "zh": "推迟；延误；耽搁",
+    "ex": "Heavy traffic delayed our arrival by two hours.",
+    "exzh": "交通拥堵使我们的到达时间推迟了两个小时。"
+  },
+  {
+    "w": "deliver",
+    "ph": "dɪˈlɪvər",
+    "pos": "v.",
+    "zh": "递送；发表；实现",
+    "ex": "The package will be delivered tomorrow morning.",
+    "exzh": "包裹将于明天上午送达。"
+  },
+  {
+    "w": "demand",
+    "ph": "dɪˈmænd",
+    "pos": "v.",
+    "zh": "要求；需要；询问",
+    "ex": "Customers demanded a full refund for the broken product.",
+    "exzh": "顾客要求对损坏的产品全额退款。"
+  },
+  {
+    "w": "demonstrate",
+    "ph": "ˈdemənstreɪt",
+    "pos": "v.",
+    "zh": "演示；证明；示威",
+    "ex": "The teacher demonstrated how to use the new software.",
+    "exzh": "老师演示了如何使用新软件。"
+  },
+  {
+    "w": "deny",
+    "ph": "dɪˈnaɪ",
+    "pos": "v.",
+    "zh": "否认；否定；拒绝给予",
+    "ex": "He denied taking the money from the drawer.",
+    "exzh": "他否认从抽屉里拿了钱。"
+  },
+  {
+    "w": "depend",
+    "ph": "dɪˈpend",
+    "pos": "v.",
+    "zh": "依赖；取决于；依靠",
+    "ex": "Our success depends largely on careful planning.",
+    "exzh": "我们的成功在很大程度上取决于周密的计划。"
+  },
+  {
+    "w": "deposit",
+    "ph": "dɪˈpɑːzɪt",
+    "pos": "v.",
+    "zh": "存放；储蓄；沉积",
+    "ex": "She deposited half of her salary into savings.",
+    "exzh": "她把一半工资存入储蓄账户。"
+  },
+  {
+    "w": "depress",
+    "ph": "dɪˈpres",
+    "pos": "v.",
+    "zh": "使沮丧；使萧条；按下",
+    "ex": "The gloomy weather made everyone feel depressed.",
+    "exzh": "阴沉的天气使每个人都感到沮丧。"
+  },
+  {
+    "w": "derive",
+    "ph": "dɪˈraɪv",
+    "pos": "v.",
+    "zh": "源自；获得；推导",
+    "ex": "Many English words derive from Latin roots.",
+    "exzh": "许多英语单词源自拉丁词根。"
+  },
+  {
+    "w": "describe",
+    "ph": "dɪˈskraɪb",
+    "pos": "v.",
+    "zh": "描述；形容；描绘",
+    "ex": "Can you describe the man you saw yesterday?",
+    "exzh": "你能描述一下你昨天看到的那个人吗？"
+  },
+  {
+    "w": "deserve",
+    "ph": "dɪˈzɜːrv",
+    "pos": "v.",
+    "zh": "值得；应得；应受",
+    "ex": "After such hard work, you deserve a long rest.",
+    "exzh": "经过如此辛苦的工作，你应该好好休息一下。"
+  },
+  {
+    "w": "design",
+    "ph": "dɪˈzaɪn",
+    "pos": "v.",
+    "zh": "设计；构思；计划",
+    "ex": "The new library was designed by a famous architect.",
+    "exzh": "新图书馆是由一位著名建筑师设计的。"
+  },
+  {
+    "w": "desire",
+    "ph": "dɪˈzaɪər",
+    "pos": "n.",
+    "zh": "愿望；欲望；渴望",
+    "ex": "She has a strong desire to travel around the world.",
+    "exzh": "她有环游世界的强烈愿望。"
+  },
+  {
+    "w": "destroy",
+    "ph": "dɪˈstrɔɪ",
+    "pos": "v.",
+    "zh": "摧毁；破坏；消灭",
+    "ex": "The fire destroyed several ancient buildings in the town.",
+    "exzh": "大火摧毁了镇上的几座古建筑。"
+  },
+  {
+    "w": "detect",
+    "ph": "dɪˈtekt",
+    "pos": "v.",
+    "zh": "检测；发现；察觉",
+    "ex": "The device can detect smoke within seconds.",
+    "exzh": "该设备能在几秒钟内检测到烟雾。"
+  },
+  {
+    "w": "determine",
+    "ph": "dɪˈtɜːrmɪn",
+    "pos": "v.",
+    "zh": "决定；确定；测定",
+    "ex": "The test results will determine your final grade.",
+    "exzh": "测试结果将决定你的最终成绩。"
+  },
+  {
+    "w": "develop",
+    "ph": "dɪˈveləp",
+    "pos": "v.",
+    "zh": "发展；开发；培养",
+    "ex": "The company plans to develop a new electric car.",
+    "exzh": "该公司计划开发一款新的电动汽车。"
+  },
+  {
+    "w": "device",
+    "ph": "dɪˈvaɪs",
+    "pos": "n.",
+    "zh": "设备；装置；手段",
+    "ex": "This small device measures temperature and humidity.",
+    "exzh": "这个小设备测量温度和湿度。"
+  },
+  {
+    "w": "devote",
+    "ph": "dɪˈvoʊt",
+    "pos": "v.",
+    "zh": "致力于；献身；奉献",
+    "ex": "He devoted most of his free time to volunteering.",
+    "exzh": "他把大部分空闲时间用于志愿服务。"
+  },
+  {
+    "w": "economy",
+    "ph": "ɪˈkɑːnəmi",
+    "pos": "n.",
+    "zh": "经济；节约；经济体",
+    "ex": "The local economy depends heavily on tourism.",
+    "exzh": "当地经济严重依赖旅游业。"
+  },
+  {
+    "w": "educate",
+    "ph": "ˈedʒukeɪt",
+    "pos": "v.",
+    "zh": "教育；培养；训练",
+    "ex": "Schools should educate students to think independently.",
+    "exzh": "学校应该教育学生独立思考。"
+  },
+  {
+    "w": "effect",
+    "ph": "ɪˈfekt",
+    "pos": "n.",
+    "zh": "影响；效果；作用",
+    "ex": "The new law had a positive effect on employment.",
+    "exzh": "新法律对就业产生了积极影响。"
+  },
+  {
+    "w": "efficient",
+    "ph": "ɪˈfɪʃənt",
+    "pos": "adj.",
+    "zh": "高效的；有效率的；能干的",
+    "ex": "The new system is more efficient than the old one.",
+    "exzh": "新系统比旧系统更高效。"
+  },
+  {
+    "w": "effort",
+    "ph": "ˈefərt",
+    "pos": "n.",
+    "zh": "努力；尝试；成就",
+    "ex": "With more effort, you can improve your writing.",
+    "exzh": "付出更多努力，你的写作就能提高。"
+  },
+  {
+    "w": "eliminate",
+    "ph": "ɪˈlɪmɪneɪt",
+    "pos": "v.",
+    "zh": "消除；排除；淘汰",
+    "ex": "The company aims to eliminate waste in production.",
+    "exzh": "公司旨在消除生产中的浪费。"
+  },
+  {
+    "w": "emphasize",
+    "ph": "ˈemfəsaɪz",
+    "pos": "v.",
+    "zh": "强调；着重；使突出",
+    "ex": "The doctor emphasized the importance of regular exercise.",
+    "exzh": "医生强调了定期锻炼的重要性。"
+  },
+  {
+    "w": "employ",
+    "ph": "ɪmˈplɔɪ",
+    "pos": "v.",
+    "zh": "雇用；使用；采用",
+    "ex": "The factory employs over three hundred local workers.",
+    "exzh": "这家工厂雇用了三百多名当地工人。"
+  },
+  {
+    "w": "enable",
+    "ph": "ɪˈneɪbəl",
+    "pos": "v.",
+    "zh": "使能够；使成为可能；启用",
+    "ex": "This app enables users to learn words anywhere.",
+    "exzh": "这个应用使用户可以在任何地方学习单词。"
+  },
+  {
+    "w": "encourage",
+    "ph": "ɪnˈkɜːrɪdʒ",
+    "pos": "v.",
+    "zh": "鼓励；激励；促进",
+    "ex": "Teachers should encourage students to ask questions.",
+    "exzh": "老师应该鼓励学生提问。"
+  },
+  {
+    "w": "engage",
+    "ph": "ɪnˈɡeɪdʒ",
+    "pos": "v.",
+    "zh": "吸引；参与；从事",
+    "ex": "The speaker engaged the audience with a funny story.",
+    "exzh": "演讲者用一个有趣的故事吸引了听众。"
+  },
+  {
+    "w": "enhance",
+    "ph": "ɪnˈhæns",
+    "pos": "v.",
+    "zh": "提高；增强；改善",
+    "ex": "Reading widely can enhance your language skills.",
+    "exzh": "广泛阅读可以增强你的语言能力。"
+  },
+  {
+    "w": "ensure",
+    "ph": "ɪnˈʃʊr",
+    "pos": "v.",
+    "zh": "确保；保证；担保",
+    "ex": "Please ensure that all windows are closed tightly.",
+    "exzh": "请确保所有窗户都关紧。"
+  },
+  {
+    "w": "environment",
+    "ph": "ɪnˈvaɪrənmənt",
+    "pos": "n.",
+    "zh": "环境；周围状况；自然环境",
+    "ex": "We must protect the environment for future generations.",
+    "exzh": "我们必须为子孙后代保护环境。"
+  },
+  {
+    "w": "essential",
+    "ph": "ɪˈsenʃəl",
+    "pos": "adj.",
+    "zh": "必要的；本质的；基本的",
+    "ex": "Sleep is essential for good physical and mental health.",
+    "exzh": "睡眠对良好的身心健康至关重要。"
+  },
+  {
+    "w": "establish",
+    "ph": "ɪˈstæblɪʃ",
+    "pos": "v.",
+    "zh": "建立；创立；确立",
+    "ex": "The school was established more than a century ago.",
+    "exzh": "这所学校创建于一个多世纪以前。"
+  },
+  {
+    "w": "estimate",
+    "ph": "ˈestɪmeɪt",
+    "pos": "v.",
+    "zh": "估计；估算；评价",
+    "ex": "Experts estimate that the project will cost millions.",
+    "exzh": "专家估计该项目将耗资数百万。"
+  },
+  {
+    "w": "evidence",
+    "ph": "ˈevɪdəns",
+    "pos": "n.",
+    "zh": "证据；迹象；证明",
+    "ex": "There is strong evidence that exercise improves mood.",
+    "exzh": "有强有力的证据表明锻炼能改善情绪。"
+  },
+  {
+    "w": "factor",
+    "ph": "ˈfæktər",
+    "pos": "n.",
+    "zh": "因素；要素；因子",
+    "ex": "Cost was the main factor in their final decision.",
+    "exzh": "成本是他们最终决定的主要因素。"
+  },
+  {
+    "w": "fail",
+    "ph": "feɪl",
+    "pos": "v.",
+    "zh": "失败；未能；不及格",
+    "ex": "He failed to finish the task on time.",
+    "exzh": "他未能按时完成任务。"
+  },
+  {
+    "w": "familiar",
+    "ph": "fəˈmɪliər",
+    "pos": "adj.",
+    "zh": "熟悉的；常见的；通晓的",
+    "ex": "The song sounds familiar, but I forget its name.",
+    "exzh": "这首歌听起来很耳熟，但我忘了歌名。"
+  },
+  {
+    "w": "fashion",
+    "ph": "ˈfæʃən",
+    "pos": "n.",
+    "zh": "时尚；流行；方式",
+    "ex": "Short skirts came back into fashion this summer.",
+    "exzh": "短裙今年夏天又流行起来。"
+  },
+  {
+    "w": "favor",
+    "ph": "ˈfeɪvər",
+    "pos": "n.",
+    "zh": "帮助；恩惠；赞同",
+    "ex": "Could you do me a favor after class?",
+    "exzh": "课后你能帮我一个忙吗？"
+  },
+  {
+    "w": "feature",
+    "ph": "ˈfiːtʃər",
+    "pos": "n.",
+    "zh": "特点；功能；特征",
+    "ex": "The phone has a useful camera feature.",
+    "exzh": "这款手机有一个实用的相机功能。"
+  },
+  {
+    "w": "figure",
+    "ph": "ˈfɪɡjər",
+    "pos": "n.",
+    "zh": "数字；人物；身材",
+    "ex": "The sales figures for last month look encouraging.",
+    "exzh": "上个月的销售数据看起来令人鼓舞。"
+  },
+  {
+    "w": "finance",
+    "ph": "ˈfaɪnæns",
+    "pos": "n.",
+    "zh": "金融；财政；资金",
+    "ex": "She studies finance at a university in Beijing.",
+    "exzh": "她在北京的一所大学学习金融。"
+  },
+  {
+    "w": "flexible",
+    "ph": "ˈfleksəbəl",
+    "pos": "adj.",
+    "zh": "灵活的；可弯曲的；可变通的",
+    "ex": "Our working hours are flexible during the summer.",
+    "exzh": "我们的工作时间在夏季比较灵活。"
+  },
+  {
+    "w": "focus",
+    "ph": "ˈfoʊkəs",
+    "pos": "v.",
+    "zh": "集中；聚焦；关注",
+    "ex": "Try to focus on one task at a time.",
+    "exzh": "尽量一次专注于一项任务。"
+  },
+  {
+    "w": "force",
+    "ph": "fɔːrs",
+    "pos": "v.",
+    "zh": "强迫；迫使；用力推动",
+    "ex": "The strong wind forced us to stay indoors.",
+    "exzh": "强风迫使我们待在室内。"
+  },
+  {
+    "w": "frequent",
+    "ph": "ˈfriːkwənt",
+    "pos": "adj.",
+    "zh": "频繁的；经常的；屡次的",
+    "ex": "He is a frequent visitor to the city library.",
+    "exzh": "他是市图书馆的常客。"
+  },
+  {
+    "w": "function",
+    "ph": "ˈfʌŋkʃən",
+    "pos": "n.",
+    "zh": "功能；作用；函数",
+    "ex": "The main function of the heart is to pump blood.",
+    "exzh": "心脏的主要功能是泵血。"
+  },
+  {
+    "w": "fundamental",
+    "ph": "ˌfʌndəˈmentəl",
+    "pos": "adj.",
+    "zh": "基本的；根本的；重要的",
+    "ex": "Trust is fundamental to any healthy relationship.",
+    "exzh": "信任对任何健康的关系都至关重要。"
+  },
+  {
+    "w": "further",
+    "ph": "ˈfɜːrðər",
+    "pos": "adv.",
+    "zh": "进一步地；更远地；此外",
+    "ex": "We will discuss the matter further tomorrow morning.",
+    "exzh": "我们明天上午将进一步讨论此事。"
+  },
+  {
+    "w": "gain",
+    "ph": "ɡeɪn",
+    "pos": "v.",
+    "zh": "获得；增加；赢得",
+    "ex": "She gained valuable experience during the summer internship.",
+    "exzh": "她在暑期实习期间获得了宝贵的经验。"
+  },
+  {
+    "w": "gather",
+    "ph": "ˈɡæðər",
+    "pos": "v.",
+    "zh": "聚集；收集；推断",
+    "ex": "A crowd gathered outside the theater before the show.",
+    "exzh": "演出前人群聚集在剧院外。"
+  },
+  {
+    "w": "generate",
+    "ph": "ˈdʒenəreɪt",
+    "pos": "v.",
+    "zh": "产生；生成；引起",
+    "ex": "Solar panels generate electricity even on cloudy days.",
+    "exzh": "太阳能电池板即使在阴天也能发电。"
+  },
+  {
+    "w": "genuine",
+    "ph": "ˈdʒenjuɪn",
+    "pos": "adj.",
+    "zh": "真正的；真诚的；真品的",
+    "ex": "Her smile seemed genuine and full of warmth.",
+    "exzh": "她的微笑显得真诚而充满温暖。"
+  },
+  {
+    "w": "glance",
+    "ph": "ɡlæns",
+    "pos": "v.",
+    "zh": "瞥一眼；扫视；匆匆一看",
+    "ex": "He glanced at his watch and hurried away.",
+    "exzh": "他看了一眼手表，匆匆离开了。"
+  },
+  {
+    "w": "global",
+    "ph": "ˈɡloʊbəl",
+    "pos": "adj.",
+    "zh": "全球的；全面的；整体的",
+    "ex": "Climate change is a global problem requiring cooperation.",
+    "exzh": "气候变化是一个需要合作的全球性问题。"
+  },
+  {
+    "w": "govern",
+    "ph": "ˈɡʌvərn",
+    "pos": "v.",
+    "zh": "治理；管理；支配",
+    "ex": "The country is governed by an elected parliament.",
+    "exzh": "这个国家由选举产生的议会治理。"
+  },
+  {
+    "w": "grant",
+    "ph": "ɡrænt",
+    "pos": "v.",
+    "zh": "授予；准许；承认",
+    "ex": "The university granted her a full scholarship.",
+    "exzh": "大学授予她全额奖学金。"
+  },
+  {
+    "w": "guarantee",
+    "ph": "ˌɡærənˈtiː",
+    "pos": "v.",
+    "zh": "保证；担保；确保",
+    "ex": "We guarantee delivery within three working days.",
+    "exzh": "我们保证三个工作日内送达。"
+  },
+  {
+    "w": "habit",
+    "ph": "ˈhæbɪt",
+    "pos": "n.",
+    "zh": "习惯；习性；嗜好",
+    "ex": "Reading before bed has become a pleasant habit.",
+    "exzh": "睡前阅读已成为一个愉快的习惯。"
+  },
+  {
+    "w": "handle",
+    "ph": "ˈhændəl",
+    "pos": "v.",
+    "zh": "处理；应付；操作",
+    "ex": "She handled the difficult situation with great patience.",
+    "exzh": "她非常耐心地处理了这个困难局面。"
+  },
+  {
+    "w": "harm",
+    "ph": "hɑːrm",
+    "pos": "n.",
+    "zh": "伤害；损害；危害",
+    "ex": "Too much sugar can cause serious harm to your health.",
+    "exzh": "摄入过多糖分会对你的健康造成严重损害。"
+  },
+  {
+    "w": "harsh",
+    "ph": "hɑːrʃ",
+    "pos": "adj.",
+    "zh": "恶劣的；严厉的；刺耳的",
+    "ex": "The workers faced harsh conditions during the winter.",
+    "exzh": "工人们在冬天面临恶劣的条件。"
+  },
+  {
+    "w": "hesitate",
+    "ph": "ˈhezɪteɪt",
+    "pos": "v.",
+    "zh": "犹豫；迟疑；踌躇",
+    "ex": "Do not hesitate to ask if you need help.",
+    "exzh": "如果你需要帮助，请不要犹豫，尽管问。"
+  },
+  {
+    "w": "highlight",
+    "ph": "ˈhaɪlaɪt",
+    "pos": "v.",
+    "zh": "强调；突出；使显著",
+    "ex": "The report highlights the need for better training.",
+    "exzh": "报告强调了加强培训的必要性。"
+  },
+  {
+    "w": "hire",
+    "ph": "ˈhaɪər",
+    "pos": "v.",
+    "zh": "雇用；租用；聘请",
+    "ex": "The company hired ten new engineers this month.",
+    "exzh": "公司本月雇用了十名新工程师。"
+  },
+  {
+    "w": "honest",
+    "ph": "ˈɑːnɪst",
+    "pos": "adj.",
+    "zh": "诚实的；正直的；坦率的",
+    "ex": "To be honest, I do not like this idea.",
+    "exzh": "说实话，我不喜欢这个主意。"
+  },
+  {
+    "w": "household",
+    "ph": "ˈhaʊshoʊld",
+    "pos": "n.",
+    "zh": "家庭；一家人；住户",
+    "ex": "Most households now own at least one computer.",
+    "exzh": "现在大多数家庭至少拥有一台电脑。"
+  },
+  {
+    "w": "identify",
+    "ph": "aɪˈdentɪfaɪ",
+    "pos": "v.",
+    "zh": "识别；确认；鉴定",
+    "ex": "Police identified the driver involved in the crash.",
+    "exzh": "警方确认了卷入撞车事故的司机身份。"
+  },
+  {
+    "w": "ignore",
+    "ph": "ɪɡˈnɔːr",
+    "pos": "v.",
+    "zh": "忽视；忽略；不理睬",
+    "ex": "You should not ignore the warnings on the label.",
+    "exzh": "你不应该忽视标签上的警告。"
+  },
+  {
+    "w": "illustrate",
+    "ph": "ˈɪləstreɪt",
+    "pos": "v.",
+    "zh": "说明；阐明；给……加插图",
+    "ex": "The chart illustrates the change in population.",
+    "exzh": "这张图表说明了人口的变化。"
+  },
+  {
+    "w": "imply",
+    "ph": "ɪmˈplaɪ",
+    "pos": "v.",
+    "zh": "暗示；意味着；隐含",
+    "ex": "His silence implied that he disagreed with us.",
+    "exzh": "他的沉默暗示他不同意我们的意见。"
+  },
+  {
+    "w": "impress",
+    "ph": "ɪmˈpres",
+    "pos": "v.",
+    "zh": "给……留下深刻印象；使钦佩",
+    "ex": "Her performance impressed everyone in the audience.",
+    "exzh": "她的表演给观众中的每个人都留下了深刻印象。"
+  },
+  {
+    "w": "improve",
+    "ph": "ɪmˈpruːv",
+    "pos": "v.",
+    "zh": "改善；提高；改进",
+    "ex": "Reading every day will improve your vocabulary quickly.",
+    "exzh": "每天阅读会迅速扩大你的词汇量。"
+  },
+  {
+    "w": "include",
+    "ph": "ɪnˈkluːd",
+    "pos": "v.",
+    "zh": "包括；包含；列入",
+    "ex": "The price includes breakfast and free Wi-Fi.",
+    "exzh": "价格包括早餐和免费无线网络。"
+  },
+  {
+    "w": "income",
+    "ph": "ˈɪnkʌm",
+    "pos": "n.",
+    "zh": "收入；收益；所得",
+    "ex": "Her monthly income barely covers the rent.",
+    "exzh": "她的月收入勉强够付房租。"
+  },
+  {
+    "w": "increase",
+    "ph": "ɪnˈkriːs",
+    "pos": "v.",
+    "zh": "增加；提高；增长",
+    "ex": "The school increased its library budget this year.",
+    "exzh": "学校今年增加了图书馆预算。"
+  },
+  {
+    "w": "indicate",
+    "ph": "ˈɪndɪkeɪt",
+    "pos": "v.",
+    "zh": "表明；指示；暗示",
+    "ex": "The results indicate a clear improvement in reading.",
+    "exzh": "结果表明阅读能力有明显提高。"
+  },
+  {
+    "w": "individual",
+    "ph": "ˌɪndɪˈvɪdʒuəl",
+    "pos": "n.",
+    "zh": "个人；个体；独立的人",
+    "ex": "Each individual has different learning needs and styles.",
+    "exzh": "每个人都有不同的学习需求和风格。"
+  },
+  {
+    "w": "influence",
+    "ph": "ˈɪnfluəns",
+    "pos": "n.",
+    "zh": "影响；影响力；势力",
+    "ex": "Parents have a strong influence on their children.",
+    "exzh": "父母对孩子有很大的影响。"
+  },
+  {
+    "w": "involve",
+    "ph": "ɪnˈvɑːlv",
+    "pos": "v.",
+    "zh": "涉及；包含；使参与",
+    "ex": "The job involves frequent travel to other cities.",
+    "exzh": "这份工作需要经常去其他城市出差。"
+  },
+  {
+    "w": "issue",
+    "ph": "ˈɪʃuː",
+    "pos": "n.",
+    "zh": "问题；议题；期号",
+    "ex": "The meeting focused on the issue of student safety.",
+    "exzh": "会议重点关注学生安全问题。"
+  },
+  {
+    "w": "joint",
+    "ph": "dʒɔɪnt",
+    "pos": "adj.",
+    "zh": "联合的；共同的；连接的",
+    "ex": "The two schools launched a joint research project.",
+    "exzh": "两所学校启动了一个联合研究项目。"
+  },
+  {
+    "w": "journey",
+    "ph": "ˈdʒɜːrni",
+    "pos": "n.",
+    "zh": "旅行；旅程；历程",
+    "ex": "The train journey took nearly six hours.",
+    "exzh": "火车旅程花了将近六个小时。"
+  },
+  {
+    "w": "judge",
+    "ph": "dʒʌdʒ",
+    "pos": "v.",
+    "zh": "判断；评判；审判",
+    "ex": "Do not judge a person by his appearance.",
+    "exzh": "不要以外表评判一个人。"
+  },
+  {
+    "w": "justify",
+    "ph": "ˈdʒʌstɪfaɪ",
+    "pos": "v.",
+    "zh": "证明……有理；为……辩护",
+    "ex": "Nothing can justify such rude behavior.",
+    "exzh": "没有什么能为如此粗鲁的行为辩解。"
+  },
+  {
+    "w": "keen",
+    "ph": "kiːn",
+    "pos": "adj.",
+    "zh": "热衷的；渴望的；敏锐的",
+    "ex": "She is keen to learn more about Chinese history.",
+    "exzh": "她渴望更多地了解中国历史。"
+  },
+  {
+    "w": "kettle",
+    "ph": "ˈketəl",
+    "pos": "n.",
+    "zh": "水壶；壶；烧水壶",
+    "ex": "The kettle is boiling, so please turn it off.",
+    "exzh": "水壶里的水开了，请关掉它。"
+  },
+  {
+    "w": "kick",
+    "ph": "kɪk",
+    "pos": "v.",
+    "zh": "踢；踢球；戒除",
+    "ex": "He kicked the ball into the goal.",
+    "exzh": "他把球踢进了球门。"
+  },
+  {
+    "w": "knowledge",
+    "ph": "ˈnɑːlɪdʒ",
+    "pos": "n.",
+    "zh": "知识；了解；学识",
+    "ex": "His knowledge of computers helped him find a job.",
+    "exzh": "他的计算机知识帮助他找到了工作。"
+  },
+  {
+    "w": "label",
+    "ph": "ˈleɪbəl",
+    "pos": "n.",
+    "zh": "标签；标记；称号",
+    "ex": "Read the label carefully before taking the medicine.",
+    "exzh": "服药前请仔细阅读标签。"
+  },
+  {
+    "w": "labor",
+    "ph": "ˈleɪbər",
+    "pos": "n.",
+    "zh": "劳动；劳动力；劳工",
+    "ex": "The factory depends on skilled labor from nearby villages.",
+    "exzh": "这家工厂依赖附近村庄的技术劳动力。"
+  },
+  {
+    "w": "lack",
+    "ph": "læk",
+    "pos": "n.",
+    "zh": "缺乏；不足；短缺",
+    "ex": "The project failed because of a lack of funding.",
+    "exzh": "该项目因缺乏资金而失败。"
+  },
+  {
+    "w": "landscape",
+    "ph": "ˈlændskeɪp",
+    "pos": "n.",
+    "zh": "风景；景色；景观",
+    "ex": "The winter landscape looked peaceful under the snow.",
+    "exzh": "雪后的冬日景色显得宁静。"
+  },
+  {
+    "w": "latter",
+    "ph": "ˈlætər",
+    "pos": "adj.",
+    "zh": "后者的；后半的；近来的",
+    "ex": "The latter option seems cheaper and more practical.",
+    "exzh": "后一种选择似乎更便宜也更实用。"
+  },
+  {
+    "w": "launch",
+    "ph": "lɔːntʃ",
+    "pos": "v.",
+    "zh": "推出；发射；发起",
+    "ex": "The company will launch its new product in May.",
+    "exzh": "公司将在五月推出新产品。"
+  },
+  {
+    "w": "layer",
+    "ph": "ˈleɪər",
+    "pos": "n.",
+    "zh": "层；层次；阶层",
+    "ex": "A thick layer of dust covered the old books.",
+    "exzh": "一层厚厚的灰尘覆盖着这些旧书。"
+  },
+  {
+    "w": "league",
+    "ph": "liːɡ",
+    "pos": "n.",
+    "zh": "联盟；联赛；同盟",
+    "ex": "Our school joined the local football league last year.",
+    "exzh": "我们学校去年加入了当地足球联赛。"
+  },
+  {
+    "w": "lecture",
+    "ph": "ˈlektʃər",
+    "pos": "n.",
+    "zh": "讲座；演讲；训斥",
+    "ex": "The professor gave a lecture on modern art.",
+    "exzh": "教授做了一场关于现代艺术的讲座。"
+  },
+  {
+    "w": "legal",
+    "ph": "ˈliːɡəl",
+    "pos": "adj.",
+    "zh": "法律的；合法的；法定的",
+    "ex": "The lawyer explained the legal consequences of the action.",
+    "exzh": "律师解释了该行为的法律后果。"
+  },
+  {
+    "w": "leisure",
+    "ph": "ˈliːʒər",
+    "pos": "n.",
+    "zh": "闲暇；休闲；空闲",
+    "ex": "He spends his leisure time painting and reading.",
+    "exzh": "他把闲暇时间用于绘画和阅读。"
+  },
+  {
+    "w": "lend",
+    "ph": "lend",
+    "pos": "v.",
+    "zh": "借给；出借；提供",
+    "ex": "Could you lend me your notes for the weekend?",
+    "exzh": "你能把笔记借给我用这个周末吗？"
+  },
+  {
+    "w": "liberal",
+    "ph": "ˈlɪbərəl",
+    "pos": "adj.",
+    "zh": "自由的；开明的；慷慨的",
+    "ex": "The university offers a liberal education to all students.",
+    "exzh": "这所大学为所有学生提供通识教育。"
+  },
+  {
+    "w": "license",
+    "ph": "ˈlaɪsəns",
+    "pos": "n.",
+    "zh": "执照；许可证；许可",
+    "ex": "You need a license to drive a taxi here.",
+    "exzh": "在这里开出租车需要执照。"
+  },
+  {
+    "w": "likely",
+    "ph": "ˈlaɪkli",
+    "pos": "adj.",
+    "zh": "可能的；有希望的；似乎合理的",
+    "ex": "It is likely to rain later this afternoon.",
+    "exzh": "今天下午晚些时候可能会下雨。"
+  },
+  {
+    "w": "limit",
+    "ph": "ˈlɪmɪt",
+    "pos": "v.",
+    "zh": "限制；限定；限量",
+    "ex": "The city limits the speed of cars near schools.",
+    "exzh": "该市限制学校附近汽车的速度。"
+  },
+  {
+    "w": "link",
+    "ph": "lɪŋk",
+    "pos": "v.",
+    "zh": "连接；联系；关联",
+    "ex": "The new road links the village with the highway.",
+    "exzh": "这条新路将村庄与高速公路连接起来。"
+  },
+  {
+    "w": "liquid",
+    "ph": "ˈlɪkwɪd",
+    "pos": "n.",
+    "zh": "液体；液态物",
+    "ex": "Water is the most common liquid on earth.",
+    "exzh": "水是地球上最常见的液体。"
+  },
+  {
+    "w": "literature",
+    "ph": "ˈlɪtərətʃər",
+    "pos": "n.",
+    "zh": "文学；文献；著作",
+    "ex": "She studied English literature at a famous university.",
+    "exzh": "她在一所著名大学学习英国文学。"
+  },
+  {
+    "w": "loan",
+    "ph": "loʊn",
+    "pos": "n.",
+    "zh": "贷款；借款；信贷",
+    "ex": "He took out a loan to pay for his studies.",
+    "exzh": "他贷款支付学费。"
+  },
+  {
+    "w": "local",
+    "ph": "ˈloʊkəl",
+    "pos": "adj.",
+    "zh": "当地的；局部的；本地的",
+    "ex": "The local market sells fresh vegetables every morning.",
+    "exzh": "当地市场每天早上出售新鲜蔬菜。"
+  },
+  {
+    "w": "locate",
+    "ph": "ˈloʊkeɪt",
+    "pos": "v.",
+    "zh": "位于；定位；查找",
+    "ex": "The hotel is located near the train station.",
+    "exzh": "这家酒店位于火车站附近。"
+  },
+  {
+    "w": "logical",
+    "ph": "ˈlɑːdʒɪkəl",
+    "pos": "adj.",
+    "zh": "合乎逻辑的；合理的；逻辑的",
+    "ex": "Her argument was clear, logical, and easy to follow.",
+    "exzh": "她的论点清晰、合乎逻辑且容易理解。"
+  },
+  {
+    "w": "loose",
+    "ph": "luːs",
+    "pos": "adj.",
+    "zh": "松的；宽松的；散漫的",
+    "ex": "The screw became loose after months of use.",
+    "exzh": "使用几个月后，螺丝变松了。"
+  },
+  {
+    "w": "loyal",
+    "ph": "ˈlɔɪəl",
+    "pos": "adj.",
+    "zh": "忠诚的；忠实的；忠贞的",
+    "ex": "He has remained loyal to his old friends.",
+    "exzh": "他一直对老朋友保持忠诚。"
+  },
+  {
+    "w": "luggage",
+    "ph": "ˈlʌɡɪdʒ",
+    "pos": "n.",
+    "zh": "行李；行装",
+    "ex": "You can leave your luggage at the front desk.",
+    "exzh": "你可以把行李寄存在前台。"
+  },
+  {
+    "w": "luxury",
+    "ph": "ˈlʌkʃəri",
+    "pos": "n.",
+    "zh": "奢侈；奢侈品；豪华",
+    "ex": "A warm bath is a simple luxury after work.",
+    "exzh": "下班后洗个热水澡是一种简单的奢侈享受。"
+  }
+]

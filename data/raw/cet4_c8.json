@@ -1,0 +1,2114 @@
+[
+  {
+    "w": "icon",
+    "ph": "ˈaɪkɑːn",
+    "pos": "n.",
+    "zh": "图标；偶像；圣像",
+    "ex": "Tap the small icon to open the settings menu.",
+    "exzh": "点击这个小图标打开设置菜单。"
+  },
+  {
+    "w": "ideal",
+    "ph": "aɪˈdiːl",
+    "pos": "adj./n.",
+    "zh": "理想的；理想；典范",
+    "ex": "The weather was ideal for a long walk outside.",
+    "exzh": "天气非常适合在外面长时间散步。"
+  },
+  {
+    "w": "ideally",
+    "ph": "aɪˈdiːəli",
+    "pos": "adv.",
+    "zh": "理想地；最好；理论上",
+    "ex": "Ideally, we should leave before the traffic gets heavy.",
+    "exzh": "理想情况下，我们应该在交通变得拥堵前出发。"
+  },
+  {
+    "w": "identical",
+    "ph": "aɪˈdentɪkəl",
+    "pos": "adj.",
+    "zh": "完全相同的；同一的",
+    "ex": "The twins wore identical coats to the winter party.",
+    "exzh": "双胞胎穿着完全相同的外套去参加冬季聚会。"
+  },
+  {
+    "w": "identification",
+    "ph": "aɪˌdentɪfɪˈkeɪʃən",
+    "pos": "n.",
+    "zh": "识别；鉴定；身份证明",
+    "ex": "Please show some identification before entering the research building.",
+    "exzh": "进入研究大楼前请出示身份证明。"
+  },
+  {
+    "w": "identity",
+    "ph": "aɪˈdentəti",
+    "pos": "n.",
+    "zh": "身份；特征；同一性",
+    "ex": "The police are still trying to confirm the driver's identity.",
+    "exzh": "警方仍在努力确认司机的身份。"
+  },
+  {
+    "w": "ideology",
+    "ph": "ˌaɪdiˈɑːlədʒi",
+    "pos": "n.",
+    "zh": "意识形态；思想体系",
+    "ex": "The two parties differ sharply in their political ideology.",
+    "exzh": "这两个政党在政治意识形态上差异很大。"
+  },
+  {
+    "w": "idle",
+    "ph": "ˈaɪdəl",
+    "pos": "adj./v.",
+    "zh": "闲置的；懒惰的；空转",
+    "ex": "The machines stood idle for weeks during the strike.",
+    "exzh": "罢工期间这些机器闲置了好几周。"
+  },
+  {
+    "w": "idleness",
+    "ph": "ˈaɪdəlnəs",
+    "pos": "n.",
+    "zh": "懒惰；闲散；无所事事",
+    "ex": "Years of idleness had made him slow and careless.",
+    "exzh": "多年的闲散使他变得迟钝而粗心。"
+  },
+  {
+    "w": "ignite",
+    "ph": "ɪɡˈnaɪt",
+    "pos": "v.",
+    "zh": "点燃；引发；着火",
+    "ex": "A single spark can ignite the dry grass very quickly.",
+    "exzh": "一个火花就能很快点燃干草。"
+  },
+  {
+    "w": "ignorance",
+    "ph": "ˈɪɡnərəns",
+    "pos": "n.",
+    "zh": "无知；愚昧；不知情",
+    "ex": "His ignorance of local customs caused a few awkward moments.",
+    "exzh": "他对当地习俗的无知造成了几个尴尬的场面。"
+  },
+  {
+    "w": "ignorant",
+    "ph": "ˈɪɡnərənt",
+    "pos": "adj.",
+    "zh": "无知的；不知道的；愚昧的",
+    "ex": "I was completely ignorant of the new rules last term.",
+    "exzh": "上学期我完全不知道这些新规定。"
+  },
+  {
+    "w": "illegal",
+    "ph": "ɪˈliːɡəl",
+    "pos": "adj.",
+    "zh": "非法的；违法的",
+    "ex": "It is illegal to park your car on this street.",
+    "exzh": "在这条街上停车是违法的。"
+  },
+  {
+    "w": "illiterate",
+    "ph": "ɪˈlɪtərət",
+    "pos": "adj.",
+    "zh": "文盲的；不识字的",
+    "ex": "Many older villagers were still illiterate in their sixties.",
+    "exzh": "许多年长的村民六十多岁时仍然不识字。"
+  },
+  {
+    "w": "illness",
+    "ph": "ˈɪlnəs",
+    "pos": "n.",
+    "zh": "疾病；生病；不健康",
+    "ex": "She missed two weeks of school because of a long illness.",
+    "exzh": "她因长期患病缺课两周。"
+  },
+  {
+    "w": "illuminate",
+    "ph": "ɪˈluːmɪneɪt",
+    "pos": "v.",
+    "zh": "照亮；阐明；使明亮",
+    "ex": "Small lamps illuminate the narrow path beside the river.",
+    "exzh": "小灯照亮了河边狭窄的小路。"
+  },
+  {
+    "w": "illusion",
+    "ph": "ɪˈluːʒən",
+    "pos": "n.",
+    "zh": "错觉；幻想；假象",
+    "ex": "The mirror creates an illusion of much greater space.",
+    "exzh": "这面镜子营造出空间大得多的错觉。"
+  },
+  {
+    "w": "illustration",
+    "ph": "ˌɪləˈstreɪʃən",
+    "pos": "n.",
+    "zh": "插图；说明；例证",
+    "ex": "Each chapter has a colorful illustration of the main idea.",
+    "exzh": "每一章都有一幅表现主要观点的彩色插图。"
+  },
+  {
+    "w": "image",
+    "ph": "ˈɪmɪdʒ",
+    "pos": "n.",
+    "zh": "形象；图像；印象",
+    "ex": "The company spent millions improving its public image.",
+    "exzh": "公司花费数百万改善其公众形象。"
+  },
+  {
+    "w": "imaginary",
+    "ph": "ɪˈmædʒəneri",
+    "pos": "adj.",
+    "zh": "想象中的；虚构的",
+    "ex": "The lonely child invented an imaginary friend to play with.",
+    "exzh": "这个孤独的孩子虚构了一个想象中的朋友一起玩。"
+  },
+  {
+    "w": "imagination",
+    "ph": "ɪˌmædʒɪˈneɪʃən",
+    "pos": "n.",
+    "zh": "想象力；想象；创造力",
+    "ex": "Reading stories helps children develop a rich imagination.",
+    "exzh": "阅读故事有助于孩子培养丰富的想象力。"
+  },
+  {
+    "w": "imaginative",
+    "ph": "ɪˈmædʒɪnətɪv",
+    "pos": "adj.",
+    "zh": "富有想象力的；有创意的",
+    "ex": "The designer offered an imaginative answer to the space problem.",
+    "exzh": "设计师为空间问题提出了一个富有想象力的方案。"
+  },
+  {
+    "w": "imbalance",
+    "ph": "ɪmˈbæləns",
+    "pos": "n.",
+    "zh": "不平衡；失调；不均",
+    "ex": "There is a clear imbalance between work and rest.",
+    "exzh": "工作与休息之间存在明显的不平衡。"
+  },
+  {
+    "w": "imitate",
+    "ph": "ˈɪmɪteɪt",
+    "pos": "v.",
+    "zh": "模仿；仿效；仿制",
+    "ex": "Young birds imitate the songs of the adult birds.",
+    "exzh": "幼鸟模仿成年鸟的鸣叫。"
+  },
+  {
+    "w": "imitation",
+    "ph": "ˌɪmɪˈteɪʃən",
+    "pos": "n.",
+    "zh": "模仿；仿制品；仿效",
+    "ex": "The bag looks like leather but it is only imitation.",
+    "exzh": "这个包看起来像真皮，但只是仿制品。"
+  },
+  {
+    "w": "immature",
+    "ph": "ˌɪməˈtʊr",
+    "pos": "adj.",
+    "zh": "不成熟的；幼稚的",
+    "ex": "His immature behavior annoyed the older students.",
+    "exzh": "他不成熟的行为惹恼了年长的学生。"
+  },
+  {
+    "w": "immediate",
+    "ph": "ɪˈmiːdiət",
+    "pos": "adj.",
+    "zh": "立即的；直接的；紧邻的",
+    "ex": "The medicine brought immediate relief to the tired patient.",
+    "exzh": "这药使疲惫的病人立刻感到缓解。"
+  },
+  {
+    "w": "immediately",
+    "ph": "ɪˈmiːdiətli",
+    "pos": "adv.",
+    "zh": "立即；马上；直接地",
+    "ex": "Call an ambulance immediately if he loses consciousness again.",
+    "exzh": "如果他再次失去意识，立即叫救护车。"
+  },
+  {
+    "w": "immense",
+    "ph": "ɪˈmens",
+    "pos": "adj.",
+    "zh": "巨大的；极大的；无限的",
+    "ex": "The new dam holds an immense amount of fresh water.",
+    "exzh": "新大坝蓄有巨量的淡水。"
+  },
+  {
+    "w": "immigrant",
+    "ph": "ˈɪmɪɡrənt",
+    "pos": "n.",
+    "zh": "移民；外来移民",
+    "ex": "Many immigrants opened small shops in the old town.",
+    "exzh": "许多移民在老城区开了小商店。"
+  },
+  {
+    "w": "immigrate",
+    "ph": "ˈɪmɪɡreɪt",
+    "pos": "v.",
+    "zh": "移居；移民；迁入",
+    "ex": "Her grandparents immigrated to Canada in the early sixties.",
+    "exzh": "她的祖父母在六十年代初移居加拿大。"
+  },
+  {
+    "w": "immigration",
+    "ph": "ˌɪmɪˈɡreɪʃən",
+    "pos": "n.",
+    "zh": "移民入境；移民事务",
+    "ex": "New immigration rules were announced by the government last week.",
+    "exzh": "政府上周公布了新的移民入境规定。"
+  },
+  {
+    "w": "imminent",
+    "ph": "ˈɪmɪnənt",
+    "pos": "adj.",
+    "zh": "即将发生的；逼近的",
+    "ex": "Dark clouds suggested that a heavy storm was imminent.",
+    "exzh": "乌云表明一场大暴风雨即将来临。"
+  },
+  {
+    "w": "immoral",
+    "ph": "ɪˈmɔːrəl",
+    "pos": "adj.",
+    "zh": "不道德的；邪恶的",
+    "ex": "Many people consider cheating on exams immoral.",
+    "exzh": "许多人认为考试作弊是不道德的。"
+  },
+  {
+    "w": "immune",
+    "ph": "ɪˈmjuːn",
+    "pos": "adj.",
+    "zh": "免疫的；不受影响的",
+    "ex": "Vaccination makes most children immune to this disease.",
+    "exzh": "接种疫苗使大多数孩子对这种病免疫。"
+  },
+  {
+    "w": "impact",
+    "ph": "ˈɪmpækt",
+    "pos": "n./v.",
+    "zh": "影响；冲击；碰撞",
+    "ex": "The new law had a major impact on small businesses.",
+    "exzh": "新法律对小企业产生了重大影响。"
+  },
+  {
+    "w": "impair",
+    "ph": "ɪmˈper",
+    "pos": "v.",
+    "zh": "损害；削弱；减少",
+    "ex": "Loud music can permanently impair your hearing.",
+    "exzh": "嘈杂的音乐会永久损害你的听力。"
+  },
+  {
+    "w": "impartial",
+    "ph": "ɪmˈpɑːrʃəl",
+    "pos": "adj.",
+    "zh": "公正的；不偏不倚的",
+    "ex": "A judge must remain impartial during the whole trial.",
+    "exzh": "法官在整个审判过程中必须保持公正。"
+  },
+  {
+    "w": "impatience",
+    "ph": "ɪmˈpeɪʃəns",
+    "pos": "n.",
+    "zh": "不耐烦；急躁",
+    "ex": "Her impatience with slow learners surprised the whole class.",
+    "exzh": "她对学习慢的人表现出的不耐烦令全班惊讶。"
+  },
+  {
+    "w": "impatient",
+    "ph": "ɪmˈpeɪʃənt",
+    "pos": "adj.",
+    "zh": "不耐烦的；急躁的；急切的",
+    "ex": "Drivers grew impatient as the traffic slowed down.",
+    "exzh": "随着车流变慢，司机们变得不耐烦。"
+  },
+  {
+    "w": "imperative",
+    "ph": "ɪmˈperətɪv",
+    "pos": "adj./n.",
+    "zh": "必要的；命令的；祈使语气",
+    "ex": "It is imperative that we act before the deadline.",
+    "exzh": "我们必须在截止日期前采取行动。"
+  },
+  {
+    "w": "imperfect",
+    "ph": "ɪmˈpɜːrfɪkt",
+    "pos": "adj.",
+    "zh": "不完美的；有缺陷的",
+    "ex": "The system is imperfect but still very useful.",
+    "exzh": "这个系统并不完美，但仍然很有用。"
+  },
+  {
+    "w": "imperial",
+    "ph": "ɪmˈpɪriəl",
+    "pos": "adj.",
+    "zh": "帝国的；皇帝的；威严的",
+    "ex": "The museum displays objects from the imperial palace.",
+    "exzh": "博物馆展出皇宫里的物品。"
+  },
+  {
+    "w": "impersonal",
+    "ph": "ɪmˈpɜːrsənəl",
+    "pos": "adj.",
+    "zh": "非个人的；没有人情味的",
+    "ex": "His letters were formal and oddly impersonal.",
+    "exzh": "他的信很正式，而且出奇地缺乏人情味。"
+  },
+  {
+    "w": "implement",
+    "ph": "ˈɪmplɪment",
+    "pos": "v./n.",
+    "zh": "实施；执行；工具",
+    "ex": "The school will implement the new rules next term.",
+    "exzh": "学校将在下学期实施新规定。"
+  },
+  {
+    "w": "implicate",
+    "ph": "ˈɪmplɪkeɪt",
+    "pos": "v.",
+    "zh": "牵连；涉及；暗示",
+    "ex": "The letters implicate two senior officials in the fraud.",
+    "exzh": "这些信件表明两名高级官员与这起诈骗案有牵连。"
+  },
+  {
+    "w": "implication",
+    "ph": "ˌɪmplɪˈkeɪʃən",
+    "pos": "n.",
+    "zh": "含义；暗示；影响",
+    "ex": "Few people understood the implication of that decision.",
+    "exzh": "很少有人理解那个决定的含义。"
+  },
+  {
+    "w": "implicit",
+    "ph": "ɪmˈplɪsɪt",
+    "pos": "adj.",
+    "zh": "含蓄的；隐含的；绝对的",
+    "ex": "There was an implicit warning in his quiet reply.",
+    "exzh": "他平静的回答中带有一种含蓄的警告。"
+  },
+  {
+    "w": "impolite",
+    "ph": "ˌɪmpəˈlaɪt",
+    "pos": "adj.",
+    "zh": "不礼貌的；粗鲁的",
+    "ex": "It is impolite to interrupt when someone is talking.",
+    "exzh": "别人说话时打断是不礼貌的。"
+  },
+  {
+    "w": "import",
+    "ph": "ɪmˈpɔːrt",
+    "pos": "v./n.",
+    "zh": "进口；输入；进口品",
+    "ex": "The country imports most of its oil from abroad.",
+    "exzh": "这个国家的大部分石油都靠进口。"
+  },
+  {
+    "w": "importance",
+    "ph": "ɪmˈpɔːrtəns",
+    "pos": "n.",
+    "zh": "重要性；重大",
+    "ex": "He stressed the importance of regular health checks.",
+    "exzh": "他强调了定期体检的重要性。"
+  },
+  {
+    "w": "importantly",
+    "ph": "ɪmˈpɔːrtəntli",
+    "pos": "adv.",
+    "zh": "重要的是；重要地",
+    "ex": "More importantly, the plan must be finished this month.",
+    "exzh": "更重要的是，这个计划必须在本月完成。"
+  },
+  {
+    "w": "impose",
+    "ph": "ɪmˈpoʊz",
+    "pos": "v.",
+    "zh": "强加；征收；征用",
+    "ex": "The city imposed new taxes on large vehicles.",
+    "exzh": "该市对大型车辆征收新税。"
+  },
+  {
+    "w": "impression",
+    "ph": "ɪmˈpreʃən",
+    "pos": "n.",
+    "zh": "印象；感想；印记",
+    "ex": "Her first impression of the campus was very positive.",
+    "exzh": "她对校园的第一印象非常好。"
+  },
+  {
+    "w": "impressive",
+    "ph": "ɪmˈpresɪv",
+    "pos": "adj.",
+    "zh": "令人印象深刻的；感人的",
+    "ex": "The team gave an impressive performance in the final.",
+    "exzh": "这支队伍在决赛中表现出色，令人印象深刻。"
+  },
+  {
+    "w": "imprison",
+    "ph": "ɪmˈprɪzən",
+    "pos": "v.",
+    "zh": "监禁；关押；束缚",
+    "ex": "The court decided to imprison him for three years.",
+    "exzh": "法院决定判他三年监禁。"
+  },
+  {
+    "w": "imprisonment",
+    "ph": "ɪmˈprɪzənmənt",
+    "pos": "n.",
+    "zh": "监禁；关押",
+    "ex": "He faced up to five years of imprisonment for the crime.",
+    "exzh": "他因这项罪行面临最高五年的监禁。"
+  },
+  {
+    "w": "improbable",
+    "ph": "ɪmˈprɑːbəbəl",
+    "pos": "adj.",
+    "zh": "不太可能的；奇异的",
+    "ex": "It seems improbable that prices will fall this year.",
+    "exzh": "今年价格下跌似乎不太可能。"
+  },
+  {
+    "w": "improper",
+    "ph": "ɪmˈprɑːpər",
+    "pos": "adj.",
+    "zh": "不适当的；不正确的；不道德的",
+    "ex": "Improper use of this machine can be very dangerous.",
+    "exzh": "不恰当地使用这台机器会非常危险。"
+  },
+  {
+    "w": "improvement",
+    "ph": "ɪmˈpruːvmənt",
+    "pos": "n.",
+    "zh": "改进；改善；提高",
+    "ex": "There has been a slight improvement in air quality.",
+    "exzh": "空气质量略有改善。"
+  },
+  {
+    "w": "impulse",
+    "ph": "ˈɪmpʌls",
+    "pos": "n.",
+    "zh": "冲动；脉冲；推动力",
+    "ex": "She bought the dress on impulse and regretted it.",
+    "exzh": "她一时冲动买下了那条裙子，后来后悔了。"
+  },
+  {
+    "w": "inability",
+    "ph": "ˌɪnəˈbɪləti",
+    "pos": "n.",
+    "zh": "无能力；无法",
+    "ex": "His inability to swim kept him out of the water.",
+    "exzh": "他不会游泳，所以一直不敢下水。"
+  },
+  {
+    "w": "inaccessible",
+    "ph": "ˌɪnəkˈsesəbəl",
+    "pos": "adj.",
+    "zh": "难以到达的；难以获得的",
+    "ex": "The village stays inaccessible during the heavy snow.",
+    "exzh": "大雪期间这个村庄难以到达。"
+  },
+  {
+    "w": "inaccurate",
+    "ph": "ɪnˈækjərət",
+    "pos": "adj.",
+    "zh": "不准确的；有错误的",
+    "ex": "The first report was inaccurate and had to be corrected.",
+    "exzh": "第一份报告不准确，不得不加以更正。"
+  },
+  {
+    "w": "inactive",
+    "ph": "ɪnˈæktɪv",
+    "pos": "adj.",
+    "zh": "不活跃的；停用的；静止的",
+    "ex": "The volcano has been inactive for two hundred years.",
+    "exzh": "这座火山已经两百年没有活动了。"
+  },
+  {
+    "w": "inadequate",
+    "ph": "ɪnˈædɪkwət",
+    "pos": "adj.",
+    "zh": "不足的；不适当的；不胜任的",
+    "ex": "The old heating system is inadequate for this winter.",
+    "exzh": "旧的供暖系统不足以应付这个冬天。"
+  },
+  {
+    "w": "inappropriate",
+    "ph": "ˌɪnəˈproʊpriət",
+    "pos": "adj.",
+    "zh": "不恰当的；不合适的",
+    "ex": "That joke was inappropriate for such a formal occasion.",
+    "exzh": "那个玩笑在这样的正式场合不合适。"
+  },
+  {
+    "w": "incapable",
+    "ph": "ɪnˈkeɪpəbəl",
+    "pos": "adj.",
+    "zh": "无能力的；不能的",
+    "ex": "He seems incapable of admitting his own mistakes.",
+    "exzh": "他似乎无法承认自己的错误。"
+  },
+  {
+    "w": "incentive",
+    "ph": "ɪnˈsentɪv",
+    "pos": "n.",
+    "zh": "激励；诱因；奖励措施",
+    "ex": "Tax cuts provide a strong incentive for small companies.",
+    "exzh": "减税为小公司提供了强有力的激励。"
+  },
+  {
+    "w": "incidence",
+    "ph": "ˈɪnsɪdəns",
+    "pos": "n.",
+    "zh": "发生率；发病率",
+    "ex": "The incidence of this disease has fallen sharply.",
+    "exzh": "这种疾病的发病率已急剧下降。"
+  },
+  {
+    "w": "incident",
+    "ph": "ˈɪnsɪdənt",
+    "pos": "n.",
+    "zh": "事件；事故；插曲",
+    "ex": "The police are investigating a strange incident at school.",
+    "exzh": "警方正在调查学校里发生的一件怪事。"
+  },
+  {
+    "w": "incidentally",
+    "ph": "ˌɪnsɪˈdentəli",
+    "pos": "adv.",
+    "zh": "顺便提一句；偶然地",
+    "ex": "Incidentally, I saw your brother at the station yesterday.",
+    "exzh": "顺便说一句，我昨天在车站看到你弟弟了。"
+  },
+  {
+    "w": "inclination",
+    "ph": "ˌɪnklɪˈneɪʃən",
+    "pos": "n.",
+    "zh": "倾向；爱好；倾斜",
+    "ex": "She has a strong inclination toward music and painting.",
+    "exzh": "她对音乐和绘画有强烈的爱好。"
+  },
+  {
+    "w": "incline",
+    "ph": "ɪnˈklaɪn",
+    "pos": "v./n.",
+    "zh": "倾向；使倾斜；斜坡",
+    "ex": "I incline to believe that she is telling the truth.",
+    "exzh": "我倾向于相信她说的是真话。"
+  },
+  {
+    "w": "inclusion",
+    "ph": "ɪnˈkluːʒən",
+    "pos": "n.",
+    "zh": "包含；纳入；包容",
+    "ex": "The inclusion of local artists made the show more interesting.",
+    "exzh": "把当地艺术家纳入其中使展览更有趣。"
+  },
+  {
+    "w": "inclusive",
+    "ph": "ɪnˈkluːsɪv",
+    "pos": "adj.",
+    "zh": "包含在内的；包容的",
+    "ex": "The price is inclusive of breakfast and room service.",
+    "exzh": "价格包含早餐和客房服务。"
+  },
+  {
+    "w": "incompatible",
+    "ph": "ˌɪnkəmˈpætəbəl",
+    "pos": "adj.",
+    "zh": "不相容的；不兼容的",
+    "ex": "This software is incompatible with older computers.",
+    "exzh": "这个软件与旧电脑不兼容。"
+  },
+  {
+    "w": "incompetent",
+    "ph": "ɪnˈkɑːmpɪtənt",
+    "pos": "adj.",
+    "zh": "不称职的；无能力的",
+    "ex": "The manager was dismissed for being completely incompetent.",
+    "exzh": "这位经理因完全不称职而被解雇。"
+  },
+  {
+    "w": "incomplete",
+    "ph": "ˌɪnkəmˈpliːt",
+    "pos": "adj.",
+    "zh": "不完整的；未完成的",
+    "ex": "The records were incomplete, so the study was repeated.",
+    "exzh": "记录不完整，因此这项研究又重新做了一遍。"
+  },
+  {
+    "w": "inconvenience",
+    "ph": "ˌɪnkənˈviːniəns",
+    "pos": "n./v.",
+    "zh": "不便；麻烦；给……带来不便",
+    "ex": "We apologize for the inconvenience caused by the delay.",
+    "exzh": "我们为延误带来的不便表示歉意。"
+  },
+  {
+    "w": "inconvenient",
+    "ph": "ˌɪnkənˈviːniənt",
+    "pos": "adj.",
+    "zh": "不方便的；麻烦的",
+    "ex": "The early train time is inconvenient for most students.",
+    "exzh": "这么早的火车时间对大多数学生都不方便。"
+  },
+  {
+    "w": "incorporate",
+    "ph": "ɪnˈkɔːrpəreɪt",
+    "pos": "v.",
+    "zh": "包含；合并；纳入",
+    "ex": "The new plan incorporates suggestions from local residents.",
+    "exzh": "新计划纳入了当地居民的建议。"
+  },
+  {
+    "w": "incorrect",
+    "ph": "ˌɪnkəˈrekt",
+    "pos": "adj.",
+    "zh": "不正确的；错误的",
+    "ex": "Two answers on the form were incorrect.",
+    "exzh": "表格上有两个答案不正确。"
+  },
+  {
+    "w": "increasingly",
+    "ph": "ɪnˈkriːsɪŋli",
+    "pos": "adv.",
+    "zh": "越来越；日益",
+    "ex": "Online courses are becoming increasingly popular among students.",
+    "exzh": "网络课程在学生中越来越受欢迎。"
+  },
+  {
+    "w": "incredible",
+    "ph": "ɪnˈkredəbəl",
+    "pos": "adj.",
+    "zh": "难以置信的；惊人的",
+    "ex": "She told an incredible story about her mountain journey.",
+    "exzh": "她讲述了一段关于自己登山之旅的惊人经历。"
+  },
+  {
+    "w": "indefinite",
+    "ph": "ɪnˈdefɪnət",
+    "pos": "adj.",
+    "zh": "不确定的；无限期的；模糊的",
+    "ex": "The meeting was postponed for an indefinite period.",
+    "exzh": "会议被无限期推迟。"
+  },
+  {
+    "w": "indefinitely",
+    "ph": "ɪnˈdefɪnətli",
+    "pos": "adv.",
+    "zh": "无限期地；不确定地",
+    "ex": "The project cannot be delayed indefinitely without extra money.",
+    "exzh": "如果没有额外资金，这个项目不可能无限期推迟。"
+  },
+  {
+    "w": "independence",
+    "ph": "ˌɪndɪˈpendəns",
+    "pos": "n.",
+    "zh": "独立；自主；自立",
+    "ex": "The country gained independence more than seventy years ago.",
+    "exzh": "该国在七十多年前获得独立。"
+  },
+  {
+    "w": "independent",
+    "ph": "ˌɪndɪˈpendənt",
+    "pos": "adj.",
+    "zh": "独立的；自主的；不受约束的",
+    "ex": "Young adults should learn to become financially independent.",
+    "exzh": "年轻人应该学会在经济上独立。"
+  },
+  {
+    "w": "independently",
+    "ph": "ˌɪndɪˈpendəntli",
+    "pos": "adv.",
+    "zh": "独立地；自主地",
+    "ex": "The two teams worked independently on the same problem.",
+    "exzh": "两个团队独立研究同一个问题。"
+  },
+  {
+    "w": "index",
+    "ph": "ˈɪndeks",
+    "pos": "n./v.",
+    "zh": "索引；指数；编索引",
+    "ex": "You can find that topic in the index.",
+    "exzh": "你可以在索引中找到那个主题。"
+  },
+  {
+    "w": "indication",
+    "ph": "ˌɪndɪˈkeɪʃən",
+    "pos": "n.",
+    "zh": "迹象；指示；表明",
+    "ex": "There is no indication that prices will fall.",
+    "exzh": "没有迹象表明价格会下跌。"
+  },
+  {
+    "w": "indifference",
+    "ph": "ɪnˈdɪfərəns",
+    "pos": "n.",
+    "zh": "冷漠；不关心；无所谓",
+    "ex": "His indifference to the suffering of others shocked us.",
+    "exzh": "他对他人苦难的冷漠令我们震惊。"
+  },
+  {
+    "w": "indifferent",
+    "ph": "ɪnˈdɪfərənt",
+    "pos": "adj.",
+    "zh": "漠不关心的；冷淡的；一般的",
+    "ex": "He seemed completely indifferent to the criticism.",
+    "exzh": "他似乎对批评完全无动于衷。"
+  },
+  {
+    "w": "indigenous",
+    "ph": "ɪnˈdɪdʒənəs",
+    "pos": "adj.",
+    "zh": "土生土长的；本地的",
+    "ex": "These plants are indigenous to the southern mountains.",
+    "exzh": "这些植物原产于南方山区。"
+  },
+  {
+    "w": "indignant",
+    "ph": "ɪnˈdɪɡnənt",
+    "pos": "adj.",
+    "zh": "愤怒的；愤慨的",
+    "ex": "She was indignant at the unfair treatment.",
+    "exzh": "她对这种不公平的待遇感到愤慨。"
+  },
+  {
+    "w": "indignation",
+    "ph": "ˌɪndɪɡˈneɪʃən",
+    "pos": "n.",
+    "zh": "愤慨；愤怒",
+    "ex": "The unfair decision caused widespread public indignation.",
+    "exzh": "这个不公平的决定引起了公众的普遍愤慨。"
+  },
+  {
+    "w": "indirect",
+    "ph": "ˌɪndəˈrekt",
+    "pos": "adj.",
+    "zh": "间接的；迂回的；不直截了当的",
+    "ex": "The route was indirect but far more beautiful.",
+    "exzh": "这条路线绕远了，但风景美得多。"
+  },
+  {
+    "w": "indispensable",
+    "ph": "ˌɪndɪˈspensəbəl",
+    "pos": "adj.",
+    "zh": "不可缺少的；必需的",
+    "ex": "Clean water is indispensable to any growing city.",
+    "exzh": "清洁的水对任何发展中的城市都不可缺少。"
+  },
+  {
+    "w": "indoor",
+    "ph": "ˈɪndɔːr",
+    "pos": "adj.",
+    "zh": "室内的；户内的",
+    "ex": "The school built an indoor pool last summer.",
+    "exzh": "学校去年夏天建了一个室内游泳池。"
+  },
+  {
+    "w": "indoors",
+    "ph": "ˌɪnˈdɔːrz",
+    "pos": "adv.",
+    "zh": "在室内；往室内",
+    "ex": "We stayed indoors all weekend because of the rain.",
+    "exzh": "因为下雨，我们整个周末都待在室内。"
+  },
+  {
+    "w": "induce",
+    "ph": "ɪnˈduːs",
+    "pos": "v.",
+    "zh": "引起；诱使；导致",
+    "ex": "Certain drugs can induce deep sleep in patients.",
+    "exzh": "某些药物可以引起病人深度睡眠。"
+  },
+  {
+    "w": "indulge",
+    "ph": "ɪnˈdʌldʒ",
+    "pos": "v.",
+    "zh": "沉溺；纵容；使满足",
+    "ex": "He indulges in sweets whenever he feels stressed.",
+    "exzh": "他每次感到压力大就大吃甜食。"
+  },
+  {
+    "w": "industrial",
+    "ph": "ɪnˈdʌstriəl",
+    "pos": "adj.",
+    "zh": "工业的；产业的",
+    "ex": "Industrial waste polluted the river for many years.",
+    "exzh": "工业废料多年来一直污染着这条河。"
+  },
+  {
+    "w": "industrialize",
+    "ph": "ɪnˈdʌstriəlaɪz",
+    "pos": "v.",
+    "zh": "使工业化；实现工业化",
+    "ex": "The region began to industrialize in the nineteenth century.",
+    "exzh": "该地区在十九世纪开始工业化。"
+  },
+  {
+    "w": "industrious",
+    "ph": "ɪnˈdʌstriəs",
+    "pos": "adj.",
+    "zh": "勤劳的；勤奋的",
+    "ex": "The industrious students finished their project early.",
+    "exzh": "这些勤奋的学生提前完成了项目。"
+  },
+  {
+    "w": "industry",
+    "ph": "ˈɪndəstri",
+    "pos": "n.",
+    "zh": "工业；行业；勤奋",
+    "ex": "The tourism industry brings millions to the city.",
+    "exzh": "旅游业为这座城市带来数百万收入。"
+  },
+  {
+    "w": "ineffective",
+    "ph": "ˌɪnɪˈfektɪv",
+    "pos": "adj.",
+    "zh": "无效的；无效果的",
+    "ex": "The old method proved ineffective against the new virus.",
+    "exzh": "旧方法对付这种新病毒被证明无效。"
+  },
+  {
+    "w": "inefficient",
+    "ph": "ˌɪnɪˈfɪʃənt",
+    "pos": "adj.",
+    "zh": "效率低的；无能的",
+    "ex": "The factory closed because its methods were inefficient.",
+    "exzh": "这家工厂因生产方式效率低下而关闭。"
+  },
+  {
+    "w": "inequality",
+    "ph": "ˌɪnɪˈkwɑːləti",
+    "pos": "n.",
+    "zh": "不平等；不均等；不等",
+    "ex": "Income inequality has widened over the last decade.",
+    "exzh": "过去十年收入不平等有所扩大。"
+  },
+  {
+    "w": "inevitable",
+    "ph": "ɪnˈevɪtəbəl",
+    "pos": "adj.",
+    "zh": "不可避免的；必然的",
+    "ex": "Some delay is inevitable when so many people travel.",
+    "exzh": "这么多人出行时，一些延误是不可避免的。"
+  },
+  {
+    "w": "inevitably",
+    "ph": "ɪnˈevɪtəbli",
+    "pos": "adv.",
+    "zh": "不可避免地；必然地",
+    "ex": "Higher costs will inevitably lead to higher prices.",
+    "exzh": "成本上升必然导致价格上涨。"
+  },
+  {
+    "w": "inexpensive",
+    "ph": "ˌɪnɪkˈspensɪv",
+    "pos": "adj.",
+    "zh": "不贵的；便宜的",
+    "ex": "They found an inexpensive hotel near the railway station.",
+    "exzh": "他们在火车站附近找到一家便宜的旅馆。"
+  },
+  {
+    "w": "inexperienced",
+    "ph": "ˌɪnɪkˈspɪriənst",
+    "pos": "adj.",
+    "zh": "缺乏经验的；不熟练的",
+    "ex": "The inexperienced driver stopped suddenly at the crossing.",
+    "exzh": "这位缺乏经验的司机在路口突然刹车。"
+  },
+  {
+    "w": "infancy",
+    "ph": "ˈɪnfənsi",
+    "pos": "n.",
+    "zh": "婴儿期；初期；幼年",
+    "ex": "The industry was still in its infancy ten years ago.",
+    "exzh": "这个行业十年前还处于起步阶段。"
+  },
+  {
+    "w": "infant",
+    "ph": "ˈɪnfənt",
+    "pos": "n./adj.",
+    "zh": "婴儿；幼儿；婴儿的",
+    "ex": "The infant slept peacefully in her mother's arms.",
+    "exzh": "婴儿在母亲怀里安睡。"
+  },
+  {
+    "w": "infect",
+    "ph": "ɪnˈfekt",
+    "pos": "v.",
+    "zh": "感染；传染；影响",
+    "ex": "The virus can infect thousands of people each winter.",
+    "exzh": "这种病毒每年冬天都能感染数千人。"
+  },
+  {
+    "w": "infection",
+    "ph": "ɪnˈfekʃən",
+    "pos": "n.",
+    "zh": "感染；传染；传染病",
+    "ex": "A serious infection kept him in hospital for weeks.",
+    "exzh": "一次严重的感染使他在医院住了几周。"
+  },
+  {
+    "w": "infectious",
+    "ph": "ɪnˈfekʃəs",
+    "pos": "adj.",
+    "zh": "传染的；有感染力的",
+    "ex": "Her laughter was infectious and soon we all smiled.",
+    "exzh": "她的笑声很有感染力，很快我们都笑了。"
+  },
+  {
+    "w": "infer",
+    "ph": "ɪnˈfɜːr",
+    "pos": "v.",
+    "zh": "推断；推论；推测",
+    "ex": "From his tone we inferred that he was angry.",
+    "exzh": "从他的语气我们推断出他生气了。"
+  },
+  {
+    "w": "inference",
+    "ph": "ˈɪnfərəns",
+    "pos": "n.",
+    "zh": "推论；推断；推理",
+    "ex": "His conclusion rests on a weak inference.",
+    "exzh": "他的结论建立在一个薄弱的推论之上。"
+  },
+  {
+    "w": "inferior",
+    "ph": "ɪnˈfɪriər",
+    "pos": "adj./n.",
+    "zh": "较差的；下级的；下属",
+    "ex": "This cloth is inferior to the one we bought before.",
+    "exzh": "这种布料比我们以前买的那种差。"
+  },
+  {
+    "w": "infinite",
+    "ph": "ˈɪnfɪnət",
+    "pos": "adj.",
+    "zh": "无限的；无穷的；极大的",
+    "ex": "The desert seemed to stretch on in infinite space.",
+    "exzh": "沙漠似乎向无限的空间延伸。"
+  },
+  {
+    "w": "infinity",
+    "ph": "ɪnˈfɪnəti",
+    "pos": "n.",
+    "zh": "无限；无穷；无穷大",
+    "ex": "The stars seemed to extend to infinity above us.",
+    "exzh": "星空似乎在我们头顶延伸到无限远处。"
+  },
+  {
+    "w": "inflate",
+    "ph": "ɪnˈfleɪt",
+    "pos": "v.",
+    "zh": "使充气；使膨胀；抬高",
+    "ex": "He used a pump to inflate the old bicycle tires.",
+    "exzh": "他用打气筒给旧自行车轮胎充气。"
+  },
+  {
+    "w": "inflation",
+    "ph": "ɪnˈfleɪʃən",
+    "pos": "n.",
+    "zh": "通货膨胀；膨胀；充气",
+    "ex": "Rising inflation has made everyday food more expensive.",
+    "exzh": "不断上升的通货膨胀使日常食品更贵了。"
+  },
+  {
+    "w": "influential",
+    "ph": "ˌɪnfluˈenʃəl",
+    "pos": "adj.",
+    "zh": "有影响力的；有势力的",
+    "ex": "She became one of the most influential writers of her generation.",
+    "exzh": "她成为她那一代最有影响力的作家之一。"
+  },
+  {
+    "w": "inform",
+    "ph": "ɪnˈfɔːrm",
+    "pos": "v.",
+    "zh": "通知；告知；告发",
+    "ex": "Please inform the office if your address changes.",
+    "exzh": "如果你的地址有变，请通知办公室。"
+  },
+  {
+    "w": "informal",
+    "ph": "ɪnˈfɔːrməl",
+    "pos": "adj.",
+    "zh": "非正式的；随意的；日常的",
+    "ex": "The meeting was informal and everyone felt quite relaxed.",
+    "exzh": "会议很随意，每个人都感到相当放松。"
+  },
+  {
+    "w": "informative",
+    "ph": "ɪnˈfɔːrmətɪv",
+    "pos": "adj.",
+    "zh": "信息量大的；有教育意义的",
+    "ex": "The lecture was short but extremely informative.",
+    "exzh": "这场讲座很短，但信息量极大。"
+  },
+  {
+    "w": "infrequent",
+    "ph": "ɪnˈfriːkwənt",
+    "pos": "adj.",
+    "zh": "罕见的；很少发生的",
+    "ex": "Heavy snow is infrequent in this warm southern city.",
+    "exzh": "在这座温暖的南方城市，大雪很少见。"
+  },
+  {
+    "w": "ingredient",
+    "ph": "ɪnˈɡriːdiənt",
+    "pos": "n.",
+    "zh": "成分；原料；要素",
+    "ex": "Flour is the main ingredient in this simple bread.",
+    "exzh": "面粉是这种简单面包的主要原料。"
+  },
+  {
+    "w": "inhabit",
+    "ph": "ɪnˈhæbɪt",
+    "pos": "v.",
+    "zh": "居住于；栖息于；占据",
+    "ex": "Rare birds inhabit the forest near the lake.",
+    "exzh": "珍稀鸟类栖息在湖边的森林里。"
+  },
+  {
+    "w": "inhabitant",
+    "ph": "ɪnˈhæbɪtənt",
+    "pos": "n.",
+    "zh": "居民；栖息动物",
+    "ex": "The island has only three hundred permanent inhabitants.",
+    "exzh": "这个岛只有三百名常住居民。"
+  },
+  {
+    "w": "inherent",
+    "ph": "ɪnˈhɪrənt",
+    "pos": "adj.",
+    "zh": "固有的；内在的；天生的",
+    "ex": "There are inherent risks in any mountain climb.",
+    "exzh": "任何登山活动都有固有的风险。"
+  },
+  {
+    "w": "inherit",
+    "ph": "ɪnˈherɪt",
+    "pos": "v.",
+    "zh": "继承；遗传；接受",
+    "ex": "She inherited the old house from her grandmother.",
+    "exzh": "她从祖母那里继承了这座老房子。"
+  },
+  {
+    "w": "inheritance",
+    "ph": "ɪnˈherɪtəns",
+    "pos": "n.",
+    "zh": "继承；遗产；遗传",
+    "ex": "His small inheritance paid for the first year of study.",
+    "exzh": "他那份不多的遗产支付了第一年的学费。"
+  },
+  {
+    "w": "inhibit",
+    "ph": "ɪnˈhɪbɪt",
+    "pos": "v.",
+    "zh": "抑制；阻止；约束",
+    "ex": "Fear of failure can inhibit students from asking questions.",
+    "exzh": "害怕失败会抑制学生提问。"
+  },
+  {
+    "w": "initial",
+    "ph": "ɪˈnɪʃəl",
+    "pos": "adj./n.",
+    "zh": "最初的；开始的；首字母",
+    "ex": "Our initial plan was much simpler than the final one.",
+    "exzh": "我们最初的计划比最终方案简单得多。"
+  },
+  {
+    "w": "initiate",
+    "ph": "ɪˈnɪʃieɪt",
+    "pos": "v.",
+    "zh": "开始；发起；使入门",
+    "ex": "The city will initiate a new recycling program soon.",
+    "exzh": "该市很快将启动一项新的回收计划。"
+  },
+  {
+    "w": "initiative",
+    "ph": "ɪˈnɪʃətɪv",
+    "pos": "n.",
+    "zh": "主动性；倡议；主动权",
+    "ex": "She took the initiative and organized the whole trip.",
+    "exzh": "她主动承担并组织了整个行程。"
+  },
+  {
+    "w": "inject",
+    "ph": "ɪnˈdʒekt",
+    "pos": "v.",
+    "zh": "注射；注入；投入",
+    "ex": "The nurse injected the medicine into his left arm.",
+    "exzh": "护士把药注射进他的左臂。"
+  },
+  {
+    "w": "injection",
+    "ph": "ɪnˈdʒekʃən",
+    "pos": "n.",
+    "zh": "注射；注入；注射液",
+    "ex": "The doctor gave him an injection against the flu.",
+    "exzh": "医生给他打了一针防流感的疫苗。"
+  },
+  {
+    "w": "injure",
+    "ph": "ˈɪndʒər",
+    "pos": "v.",
+    "zh": "伤害；损害；使受伤",
+    "ex": "Two workers were injured when the wall collapsed.",
+    "exzh": "墙倒塌时两名工人受了伤。"
+  },
+  {
+    "w": "injury",
+    "ph": "ˈɪndʒəri",
+    "pos": "n.",
+    "zh": "伤害；损伤；受伤处",
+    "ex": "A knee injury kept her out of the game.",
+    "exzh": "膝伤使她无法参加比赛。"
+  },
+  {
+    "w": "injustice",
+    "ph": "ɪnˈdʒʌstɪs",
+    "pos": "n.",
+    "zh": "不公正；不义；冤屈",
+    "ex": "She spent her life fighting against social injustice.",
+    "exzh": "她一生都在与社会不公作斗争。"
+  },
+  {
+    "w": "inland",
+    "ph": "ˈɪnlənd",
+    "pos": "adj./adv.",
+    "zh": "内陆的；向内地；在内地",
+    "ex": "The boat moved slowly toward the inland lakes.",
+    "exzh": "小船慢慢驶向内陆的湖泊。"
+  },
+  {
+    "w": "inn",
+    "ph": "ɪn",
+    "pos": "n.",
+    "zh": "小旅馆；客栈；酒馆",
+    "ex": "We spent the night at a quiet country inn.",
+    "exzh": "我们在一家安静的乡村小旅馆过夜。"
+  },
+  {
+    "w": "inner",
+    "ph": "ˈɪnər",
+    "pos": "adj.",
+    "zh": "内部的；内在的；内心的",
+    "ex": "The inner rooms of the palace are open to visitors.",
+    "exzh": "宫殿的内室向游客开放。"
+  },
+  {
+    "w": "innocence",
+    "ph": "ˈɪnəsəns",
+    "pos": "n.",
+    "zh": "无罪；清白；天真",
+    "ex": "He spent years proving his innocence to the court.",
+    "exzh": "他花了多年时间向法庭证明自己的清白。"
+  },
+  {
+    "w": "innocent",
+    "ph": "ˈɪnəsənt",
+    "pos": "adj.",
+    "zh": "无罪的；无辜的；天真的",
+    "ex": "The court found him innocent of all the charges.",
+    "exzh": "法庭判定他所有指控均不成立。"
+  },
+  {
+    "w": "innovation",
+    "ph": "ˌɪnəˈveɪʃən",
+    "pos": "n.",
+    "zh": "创新；革新；新方法",
+    "ex": "Constant innovation keeps the company ahead of its rivals.",
+    "exzh": "不断创新使公司领先于竞争对手。"
+  },
+  {
+    "w": "innovative",
+    "ph": "ˈɪnəveɪtɪv",
+    "pos": "adj.",
+    "zh": "创新的；革新的；新颖的",
+    "ex": "The factory adopted an innovative method to save energy.",
+    "exzh": "这家工厂采用了创新的方法来节能。"
+  },
+  {
+    "w": "input",
+    "ph": "ˈɪnput",
+    "pos": "n./v.",
+    "zh": "输入；投入；输入信息",
+    "ex": "Your input would make this plan much better.",
+    "exzh": "你的意见会让这个计划好得多。"
+  },
+  {
+    "w": "inquire",
+    "ph": "ɪnˈkwaɪər",
+    "pos": "v.",
+    "zh": "询问；打听；调查",
+    "ex": "She inquired about the price of the train tickets.",
+    "exzh": "她询问了火车票的价格。"
+  },
+  {
+    "w": "inquiry",
+    "ph": "ɪnˈkwaɪəri",
+    "pos": "n.",
+    "zh": "询问；查询；调查",
+    "ex": "The office received hundreds of inquiries about the course.",
+    "exzh": "办公室收到了数百个关于这门课程的询问。"
+  },
+  {
+    "w": "insane",
+    "ph": "ɪnˈseɪn",
+    "pos": "adj.",
+    "zh": "疯狂的；精神失常的；极愚蠢的",
+    "ex": "It would be insane to drive in this heavy fog.",
+    "exzh": "在这样的大雾中开车简直是疯了。"
+  },
+  {
+    "w": "insect",
+    "ph": "ˈɪnsekt",
+    "pos": "n.",
+    "zh": "昆虫；虫子",
+    "ex": "Insects play a vital role in pollinating many plants.",
+    "exzh": "昆虫在为许多植物授粉方面起着重要作用。"
+  },
+  {
+    "w": "insecure",
+    "ph": "ˌɪnsɪˈkjʊr",
+    "pos": "adj.",
+    "zh": "不安全的；缺乏自信的；不牢靠的",
+    "ex": "He felt insecure about speaking in front of strangers.",
+    "exzh": "他在陌生人面前讲话感到不自信。"
+  },
+  {
+    "w": "insensitive",
+    "ph": "ɪnˈsensətɪv",
+    "pos": "adj.",
+    "zh": "感觉迟钝的；不敏感的；不体贴的",
+    "ex": "His insensitive remark upset everyone at the table.",
+    "exzh": "他那句不体贴的话让桌旁所有人都很不快。"
+  },
+  {
+    "w": "inseparable",
+    "ph": "ɪnˈsepərəbəl",
+    "pos": "adj.",
+    "zh": "不可分离的；形影不离的",
+    "ex": "The two sisters have been inseparable since childhood.",
+    "exzh": "这两姐妹从小就形影不离。"
+  },
+  {
+    "w": "insert",
+    "ph": "ɪnˈsɜːrt",
+    "pos": "v.",
+    "zh": "插入；嵌入；添加",
+    "ex": "Insert the card into the machine and wait.",
+    "exzh": "把卡插入机器然后等待。"
+  },
+  {
+    "w": "insight",
+    "ph": "ˈɪnsaɪt",
+    "pos": "n.",
+    "zh": "洞察力；见解；深刻理解",
+    "ex": "Her book offers real insight into rural life.",
+    "exzh": "她的书让人真正洞察了乡村生活。"
+  },
+  {
+    "w": "insignificant",
+    "ph": "ˌɪnsɪɡˈnɪfɪkənt",
+    "pos": "adj.",
+    "zh": "无关紧要的；微不足道的",
+    "ex": "The difference in price was insignificant to most buyers.",
+    "exzh": "价格差异对大多数买家来说微不足道。"
+  },
+  {
+    "w": "insist",
+    "ph": "ɪnˈsɪst",
+    "pos": "v.",
+    "zh": "坚持；坚决要求；强调",
+    "ex": "He insisted on paying for the whole dinner.",
+    "exzh": "他坚持要付整顿晚餐的钱。"
+  },
+  {
+    "w": "insistent",
+    "ph": "ɪnˈsɪstənt",
+    "pos": "adj.",
+    "zh": "坚持的；急切的；持续的",
+    "ex": "The child was insistent about getting a puppy.",
+    "exzh": "这孩子坚持要养一只小狗。"
+  },
+  {
+    "w": "inspect",
+    "ph": "ɪnˈspekt",
+    "pos": "v.",
+    "zh": "检查；视察；检验",
+    "ex": "Officials inspect the factory twice every year.",
+    "exzh": "官员每年检查这家工厂两次。"
+  },
+  {
+    "w": "inspection",
+    "ph": "ɪnˈspekʃən",
+    "pos": "n.",
+    "zh": "检查；视察；检验",
+    "ex": "A careful inspection found several small cracks.",
+    "exzh": "仔细检查发现了几个小裂缝。"
+  },
+  {
+    "w": "inspector",
+    "ph": "ɪnˈspektər",
+    "pos": "n.",
+    "zh": "检查员；督察；巡视员",
+    "ex": "The inspector found several faults in the wiring.",
+    "exzh": "检查员在电线上发现了几个缺陷。"
+  },
+  {
+    "w": "inspiration",
+    "ph": "ˌɪnspəˈreɪʃən",
+    "pos": "n.",
+    "zh": "灵感；鼓舞人心的人或事",
+    "ex": "The mountain scenery gave her inspiration for the painting.",
+    "exzh": "山间景色给了她画这幅画的灵感。"
+  },
+  {
+    "w": "inspire",
+    "ph": "ɪnˈspaɪər",
+    "pos": "v.",
+    "zh": "鼓舞；启发；激发",
+    "ex": "Her teacher inspired her to become a writer.",
+    "exzh": "她的老师激励她成为一名作家。"
+  },
+  {
+    "w": "instability",
+    "ph": "ˌɪnstəˈbɪləti",
+    "pos": "n.",
+    "zh": "不稳定；动荡；不安定",
+    "ex": "Political instability slowed the country's economic growth.",
+    "exzh": "政治动荡拖慢了这个国家的经济增长。"
+  },
+  {
+    "w": "install",
+    "ph": "ɪnˈstɔːl",
+    "pos": "v.",
+    "zh": "安装；安置；任命",
+    "ex": "Engineers will install the new system next week.",
+    "exzh": "工程师们将在下周安装新系统。"
+  },
+  {
+    "w": "installation",
+    "ph": "ˌɪnstəˈleɪʃən",
+    "pos": "n.",
+    "zh": "安装；装置；设施",
+    "ex": "The installation of the heating system took three days.",
+    "exzh": "供暖系统的安装花了三天时间。"
+  },
+  {
+    "w": "instalment",
+    "ph": "ɪnˈstɔːlmənt",
+    "pos": "n.",
+    "zh": "分期付款；一期；连载的一部分",
+    "ex": "They pay for the car in monthly instalments.",
+    "exzh": "他们按月分期付款买车。"
+  },
+  {
+    "w": "instance",
+    "ph": "ˈɪnstəns",
+    "pos": "n.",
+    "zh": "例子；实例；情况",
+    "ex": "There are several instances of such careless work.",
+    "exzh": "这种粗心的工作有几个例子。"
+  },
+  {
+    "w": "instant",
+    "ph": "ˈɪnstənt",
+    "pos": "adj./n.",
+    "zh": "立即的；速食的；瞬间",
+    "ex": "The new app became an instant success among users.",
+    "exzh": "这款新应用在用户中大获成功。"
+  },
+  {
+    "w": "instantaneous",
+    "ph": "ˌɪnstənˈteɪniəs",
+    "pos": "adj.",
+    "zh": "瞬间的；即刻的",
+    "ex": "The reply was almost instantaneous after the message.",
+    "exzh": "消息发出后，回复几乎是瞬间到达的。"
+  },
+  {
+    "w": "instantly",
+    "ph": "ˈɪnstəntli",
+    "pos": "adv.",
+    "zh": "立即；马上；即刻",
+    "ex": "She recognized the song instantly and started singing.",
+    "exzh": "她立刻听出了这首歌，开始跟着唱。"
+  },
+  {
+    "w": "instinct",
+    "ph": "ˈɪnstɪŋkt",
+    "pos": "n.",
+    "zh": "本能；直觉；天性",
+    "ex": "Birds build nests by instinct rather than learning.",
+    "exzh": "鸟类筑巢是出于本能而非学习。"
+  },
+  {
+    "w": "instinctive",
+    "ph": "ɪnˈstɪŋktɪv",
+    "pos": "adj.",
+    "zh": "本能的；直觉的；天性的",
+    "ex": "Her instinctive reaction was to protect the child.",
+    "exzh": "她的本能反应是保护那个孩子。"
+  },
+  {
+    "w": "institute",
+    "ph": "ˈɪnstətuːt",
+    "pos": "n./v.",
+    "zh": "学院；研究所；设立",
+    "ex": "He works at a research institute near the university.",
+    "exzh": "他在大学附近的一个研究所工作。"
+  },
+  {
+    "w": "institution",
+    "ph": "ˌɪnstəˈtuːʃən",
+    "pos": "n.",
+    "zh": "机构；制度；习俗",
+    "ex": "The hospital is the oldest medical institution in the city.",
+    "exzh": "这家医院是该市最古老的医疗机构。"
+  },
+  {
+    "w": "instruct",
+    "ph": "ɪnˈstrʌkt",
+    "pos": "v.",
+    "zh": "指导；指示；教授",
+    "ex": "The coach instructed the players to warm up slowly.",
+    "exzh": "教练指示队员们慢慢热身。"
+  },
+  {
+    "w": "instruction",
+    "ph": "ɪnˈstrʌkʃən",
+    "pos": "n.",
+    "zh": "指示；说明；教导",
+    "ex": "Read the instructions carefully before using the machine.",
+    "exzh": "使用这台机器前请仔细阅读说明。"
+  },
+  {
+    "w": "instructive",
+    "ph": "ɪnˈstrʌktɪv",
+    "pos": "adj.",
+    "zh": "有教育意义的；有启发的",
+    "ex": "The visit to the factory was surprisingly instructive.",
+    "exzh": "这次工厂参观出乎意料地有教育意义。"
+  },
+  {
+    "w": "instructor",
+    "ph": "ɪnˈstrʌktər",
+    "pos": "n.",
+    "zh": "指导者；教练；讲师",
+    "ex": "Our driving instructor was patient and very encouraging.",
+    "exzh": "我们的驾驶教练很有耐心，也很鼓励人。"
+  },
+  {
+    "w": "instrument",
+    "ph": "ˈɪnstrəmənt",
+    "pos": "n.",
+    "zh": "仪器；乐器；工具",
+    "ex": "The piano is her favorite musical instrument.",
+    "exzh": "钢琴是她最喜欢的乐器。"
+  },
+  {
+    "w": "insufficient",
+    "ph": "ˌɪnsəˈfɪʃənt",
+    "pos": "adj.",
+    "zh": "不足的；不够的",
+    "ex": "Insufficient sleep made him slow and forgetful.",
+    "exzh": "睡眠不足使他反应迟钝、健忘。"
+  },
+  {
+    "w": "insulate",
+    "ph": "ˈɪnsəleɪt",
+    "pos": "v.",
+    "zh": "使绝缘；使隔热；隔离",
+    "ex": "Thick walls insulate the old house from winter cold.",
+    "exzh": "厚厚的墙壁使这座老房子隔绝了冬天的寒冷。"
+  },
+  {
+    "w": "insult",
+    "ph": "ɪnˈsʌlt",
+    "pos": "v./n.",
+    "zh": "侮辱；辱骂；冒犯",
+    "ex": "He did not mean to insult anyone at the party.",
+    "exzh": "他并不是想在聚会上侮辱任何人。"
+  },
+  {
+    "w": "insurance",
+    "ph": "ɪnˈʃʊrəns",
+    "pos": "n.",
+    "zh": "保险；保险费；保障",
+    "ex": "Travel insurance covers most medical costs abroad.",
+    "exzh": "旅行保险涵盖国外的大部分医疗费用。"
+  },
+  {
+    "w": "insure",
+    "ph": "ɪnˈʃʊr",
+    "pos": "v.",
+    "zh": "给……保险；确保；保证",
+    "ex": "You should insure your house against fire and flood.",
+    "exzh": "你应该给房子投保火灾和水灾险。"
+  },
+  {
+    "w": "intact",
+    "ph": "ɪnˈtækt",
+    "pos": "adj.",
+    "zh": "完整无损的；未受损伤的",
+    "ex": "The old temple survived the earthquake completely intact.",
+    "exzh": "这座古庙在地震中完好无损地保存下来。"
+  },
+  {
+    "w": "intake",
+    "ph": "ˈɪnteɪk",
+    "pos": "n.",
+    "zh": "摄入量；吸收；招收人数",
+    "ex": "Doctors advised him to reduce his daily salt intake.",
+    "exzh": "医生建议他减少每日盐的摄入量。"
+  },
+  {
+    "w": "integral",
+    "ph": "ˈɪntɪɡrəl",
+    "pos": "adj.",
+    "zh": "不可缺少的；完整的；积分的",
+    "ex": "Practice is an integral part of learning a language.",
+    "exzh": "练习是学习一门语言不可缺少的部分。"
+  },
+  {
+    "w": "integrate",
+    "ph": "ˈɪntɪɡreɪt",
+    "pos": "v.",
+    "zh": "整合；使融入；结合",
+    "ex": "The school helps new students integrate into campus life.",
+    "exzh": "学校帮助新生融入校园生活。"
+  },
+  {
+    "w": "integration",
+    "ph": "ˌɪntɪˈɡreɪʃən",
+    "pos": "n.",
+    "zh": "整合；融合；一体化",
+    "ex": "The integration of the two systems took several months.",
+    "exzh": "这两个系统的整合花了几个月时间。"
+  },
+  {
+    "w": "integrity",
+    "ph": "ɪnˈteɡrəti",
+    "pos": "n.",
+    "zh": "正直；诚实；完整",
+    "ex": "Everyone respected him for his honesty and integrity.",
+    "exzh": "大家都因他的诚实和正直而尊敬他。"
+  },
+  {
+    "w": "intellect",
+    "ph": "ˈɪntəlekt",
+    "pos": "n.",
+    "zh": "智力；才智；有才智的人",
+    "ex": "Her sharp intellect impressed all the professors.",
+    "exzh": "她敏锐的才智给所有教授留下了深刻印象。"
+  },
+  {
+    "w": "intellectual",
+    "ph": "ˌɪntəˈlektʃuəl",
+    "pos": "adj./n.",
+    "zh": "智力的；知识的；知识分子",
+    "ex": "The debate offered real intellectual pleasure to everyone.",
+    "exzh": "这场辩论给每个人都带来了真正的智力乐趣。"
+  },
+  {
+    "w": "intelligence",
+    "ph": "ɪnˈtelɪdʒəns",
+    "pos": "n.",
+    "zh": "智力；智能；情报",
+    "ex": "Artificial intelligence is changing many modern industries.",
+    "exzh": "人工智能正在改变许多现代行业。"
+  },
+  {
+    "w": "intelligent",
+    "ph": "ɪnˈtelɪdʒənt",
+    "pos": "adj.",
+    "zh": "聪明的；智能的；有才智的",
+    "ex": "Dogs are intelligent animals that learn very quickly.",
+    "exzh": "狗是聪明的动物，学东西非常快。"
+  },
+  {
+    "w": "intend",
+    "ph": "ɪnˈtend",
+    "pos": "v.",
+    "zh": "打算；意图；计划",
+    "ex": "We intend to finish the report before Friday.",
+    "exzh": "我们打算在周五前完成报告。"
+  },
+  {
+    "w": "intense",
+    "ph": "ɪnˈtens",
+    "pos": "adj.",
+    "zh": "强烈的；紧张的；热情的",
+    "ex": "The competition for these jobs is extremely intense.",
+    "exzh": "这些工作的竞争极其激烈。"
+  },
+  {
+    "w": "intensify",
+    "ph": "ɪnˈtensɪfaɪ",
+    "pos": "v.",
+    "zh": "加强；加剧；使强烈",
+    "ex": "The rain intensified as the night went on.",
+    "exzh": "随着夜色加深，雨越下越大。"
+  },
+  {
+    "w": "intensity",
+    "ph": "ɪnˈtensəti",
+    "pos": "n.",
+    "zh": "强度；强烈；紧张",
+    "ex": "The intensity of the storm surprised the local farmers.",
+    "exzh": "暴风雨的强度让当地农民吃惊。"
+  },
+  {
+    "w": "intensive",
+    "ph": "ɪnˈtensɪv",
+    "pos": "adj.",
+    "zh": "密集的；集中的；加强的",
+    "ex": "She took an intensive course in spoken English.",
+    "exzh": "她上了一门英语口语强化课程。"
+  },
+  {
+    "w": "intent",
+    "ph": "ɪnˈtent",
+    "pos": "n./adj.",
+    "zh": "意图；目的；专注的",
+    "ex": "Her intent was to finish the work before noon.",
+    "exzh": "她的意图是在中午前完成工作。"
+  },
+  {
+    "w": "intention",
+    "ph": "ɪnˈtenʃən",
+    "pos": "n.",
+    "zh": "意图；目的；打算",
+    "ex": "I have no intention of changing my mind.",
+    "exzh": "我没有改变主意的打算。"
+  },
+  {
+    "w": "interact",
+    "ph": "ˌɪntərˈækt",
+    "pos": "v.",
+    "zh": "互动；相互作用；交流",
+    "ex": "Children learn to interact with others through play.",
+    "exzh": "孩子们通过游戏学会与他人互动。"
+  },
+  {
+    "w": "interaction",
+    "ph": "ˌɪntərˈækʃən",
+    "pos": "n.",
+    "zh": "互动；相互作用；交流",
+    "ex": "Regular interaction with teachers improves student confidence.",
+    "exzh": "与老师的经常互动能增强学生的信心。"
+  },
+  {
+    "w": "interfere",
+    "ph": "ˌɪntərˈfɪr",
+    "pos": "v.",
+    "zh": "干涉；妨碍；干扰",
+    "ex": "Noise from the street interferes with my study.",
+    "exzh": "街上的噪音妨碍我学习。"
+  },
+  {
+    "w": "interference",
+    "ph": "ˌɪntərˈfɪrəns",
+    "pos": "n.",
+    "zh": "干涉；干扰；阻碍",
+    "ex": "The radio signal was ruined by interference from nearby towers.",
+    "exzh": "无线电信号被附近铁塔的干扰破坏了。"
+  },
+  {
+    "w": "interior",
+    "ph": "ɪnˈtɪriər",
+    "pos": "n./adj.",
+    "zh": "内部；内部；内地的",
+    "ex": "The interior of the old church is beautifully decorated.",
+    "exzh": "这座古老教堂的内部装饰得很美。"
+  },
+  {
+    "w": "intermediate",
+    "ph": "ˌɪntərˈmiːdiət",
+    "pos": "adj.",
+    "zh": "中级的；中间的；过渡的",
+    "ex": "She joined an intermediate class after the test.",
+    "exzh": "考试之后她进了一个中级班。"
+  },
+  {
+    "w": "internal",
+    "ph": "ɪnˈtɜːrnəl",
+    "pos": "adj.",
+    "zh": "内部的；国内的；体内的",
+    "ex": "The company is reviewing its internal communication system.",
+    "exzh": "公司正在审查其内部沟通系统。"
+  },
+  {
+    "w": "interpersonal",
+    "ph": "ˌɪntərˈpɜːrsənəl",
+    "pos": "adj.",
+    "zh": "人际的；人与人之间的",
+    "ex": "Good interpersonal skills matter in almost every job.",
+    "exzh": "良好的人际交往能力在几乎每份工作中都很重要。"
+  },
+  {
+    "w": "interpret",
+    "ph": "ɪnˈtɜːrprət",
+    "pos": "v.",
+    "zh": "解释；理解；口译",
+    "ex": "Different readers interpret the poem in different ways.",
+    "exzh": "不同的读者对这首诗有不同理解。"
+  },
+  {
+    "w": "interpretation",
+    "ph": "ɪnˌtɜːrprəˈteɪʃən",
+    "pos": "n.",
+    "zh": "解释；理解；口译",
+    "ex": "Her interpretation of the data was widely accepted.",
+    "exzh": "她对数据的解释被广泛接受。"
+  },
+  {
+    "w": "interpreter",
+    "ph": "ɪnˈtɜːrprətər",
+    "pos": "n.",
+    "zh": "口译者；解释者",
+    "ex": "An interpreter translated the speech into three languages.",
+    "exzh": "一名口译员把演讲翻译成三种语言。"
+  },
+  {
+    "w": "interrupt",
+    "ph": "ˌɪntəˈrʌpt",
+    "pos": "v.",
+    "zh": "打断；中断；打扰",
+    "ex": "Please do not interrupt me while I am speaking.",
+    "exzh": "我说话时请不要打断我。"
+  },
+  {
+    "w": "interruption",
+    "ph": "ˌɪntəˈrʌpʃən",
+    "pos": "n.",
+    "zh": "中断；打扰；打断",
+    "ex": "A sudden interruption stopped the meeting for ten minutes.",
+    "exzh": "一次突然的打断使会议停了十分钟。"
+  },
+  {
+    "w": "intersection",
+    "ph": "ˌɪntərˈsekʃən",
+    "pos": "n.",
+    "zh": "十字路口；交叉点；交集",
+    "ex": "Turn left at the next intersection and keep walking.",
+    "exzh": "在下一个路口左转，然后一直走。"
+  },
+  {
+    "w": "interval",
+    "ph": "ˈɪntərvəl",
+    "pos": "n.",
+    "zh": "间隔；间歇；幕间休息",
+    "ex": "Buses leave at an interval of twenty minutes.",
+    "exzh": "公交车每隔二十分钟发一班。"
+  },
+  {
+    "w": "intervene",
+    "ph": "ˌɪntərˈviːn",
+    "pos": "v.",
+    "zh": "干预；介入；调停",
+    "ex": "The teacher intervened before the argument became serious.",
+    "exzh": "老师争吵变严重之前就介入了。"
+  },
+  {
+    "w": "intervention",
+    "ph": "ˌɪntərˈvenʃən",
+    "pos": "n.",
+    "zh": "干预；介入；调停",
+    "ex": "Only quick medical intervention saved the patient's life.",
+    "exzh": "只有迅速的医疗干预才挽救了病人的生命。"
+  },
+  {
+    "w": "interview",
+    "ph": "ˈɪntərvjuː",
+    "pos": "n./v.",
+    "zh": "面试；采访；面谈",
+    "ex": "She has a job interview on Monday morning.",
+    "exzh": "她周一上午有一场工作面试。"
+  },
+  {
+    "w": "interviewer",
+    "ph": "ˈɪntərvjuːər",
+    "pos": "n.",
+    "zh": "面试官；采访者",
+    "ex": "The interviewer asked him why he wanted the job.",
+    "exzh": "面试官问他为什么想要这份工作。"
+  },
+  {
+    "w": "intimate",
+    "ph": "ˈɪntɪmət",
+    "pos": "adj.",
+    "zh": "亲密的；私人的；深入的",
+    "ex": "They have been intimate friends since primary school.",
+    "exzh": "他们从小学起就是亲密的朋友。"
+  },
+  {
+    "w": "intolerable",
+    "ph": "ɪnˈtɑːlərəbəl",
+    "pos": "adj.",
+    "zh": "无法忍受的；极严重的",
+    "ex": "The noise from the building site became intolerable.",
+    "exzh": "建筑工地的噪音变得令人无法忍受。"
+  },
+  {
+    "w": "intolerant",
+    "ph": "ɪnˈtɑːlərənt",
+    "pos": "adj.",
+    "zh": "不容忍的；偏狭的",
+    "ex": "He is intolerant of any criticism of his work.",
+    "exzh": "他无法容忍任何对他工作的批评。"
+  },
+  {
+    "w": "intonation",
+    "ph": "ˌɪntəˈneɪʃən",
+    "pos": "n.",
+    "zh": "语调；声调；抑扬",
+    "ex": "Her English intonation sounds natural and easy to follow.",
+    "exzh": "她的英语语调听起来自然，也很容易听懂。"
+  },
+  {
+    "w": "invade",
+    "ph": "ɪnˈveɪd",
+    "pos": "v.",
+    "zh": "入侵；侵犯；侵扰",
+    "ex": "Tourists invade this small beach every summer.",
+    "exzh": "每年夏天游客都涌向这个小小的海滩。"
+  },
+  {
+    "w": "invaluable",
+    "ph": "ɪnˈvæljuəbəl",
+    "pos": "adj.",
+    "zh": "无价的；极宝贵的",
+    "ex": "Her advice proved invaluable during the difficult year.",
+    "exzh": "在困难的那一年，她的建议极为宝贵。"
+  },
+  {
+    "w": "invariably",
+    "ph": "ɪnˈveriəbli",
+    "pos": "adv.",
+    "zh": "总是；不变地；一贯地",
+    "ex": "He invariably arrives ten minutes before the meeting.",
+    "exzh": "他总是在会议开始前十分钟到达。"
+  },
+  {
+    "w": "invasion",
+    "ph": "ɪnˈveɪʒən",
+    "pos": "n.",
+    "zh": "入侵；侵犯；侵袭",
+    "ex": "The invasion of privacy worried many internet users.",
+    "exzh": "隐私被侵犯让许多互联网用户担忧。"
+  },
+  {
+    "w": "invent",
+    "ph": "ɪnˈvent",
+    "pos": "v.",
+    "zh": "发明；创造；捏造",
+    "ex": "Who invented the first practical telephone?",
+    "exzh": "是谁发明了第一部实用的电话？"
+  },
+  {
+    "w": "invention",
+    "ph": "ɪnˈvenʃən",
+    "pos": "n.",
+    "zh": "发明；发明物；创造",
+    "ex": "The invention of printing changed European society.",
+    "exzh": "印刷术的发明改变了欧洲社会。"
+  },
+  {
+    "w": "inventor",
+    "ph": "ɪnˈventər",
+    "pos": "n.",
+    "zh": "发明者；发明家",
+    "ex": "The inventor sold his design to a large company.",
+    "exzh": "这位发明家把他的设计卖给了一家大公司。"
+  },
+  {
+    "w": "inventory",
+    "ph": "ˈɪnvəntɔːri",
+    "pos": "n.",
+    "zh": "库存；清单；盘点",
+    "ex": "The store checks its inventory at the end of each month.",
+    "exzh": "这家商店每月月底盘点库存。"
+  },
+  {
+    "w": "inverse",
+    "ph": "ˌɪnˈvɜːrs",
+    "pos": "adj./n.",
+    "zh": "相反的；倒转的；倒数",
+    "ex": "There is an inverse relationship between price and demand.",
+    "exzh": "价格与需求之间存在反向关系。"
+  },
+  {
+    "w": "invest",
+    "ph": "ɪnˈvest",
+    "pos": "v.",
+    "zh": "投资；投入；授予",
+    "ex": "They decided to invest heavily in solar energy.",
+    "exzh": "他们决定大举投资太阳能。"
+  },
+  {
+    "w": "investigate",
+    "ph": "ɪnˈvestɪɡeɪt",
+    "pos": "v.",
+    "zh": "调查；研究；审查",
+    "ex": "Scientists are investigating the cause of the illness.",
+    "exzh": "科学家们正在调查这种疾病的原因。"
+  },
+  {
+    "w": "investigation",
+    "ph": "ɪnˌvestɪˈɡeɪʃən",
+    "pos": "n.",
+    "zh": "调查；研究；侦查",
+    "ex": "The police opened an investigation into the accident.",
+    "exzh": "警方对这起事故展开了调查。"
+  },
+  {
+    "w": "investment",
+    "ph": "ɪnˈvestmənt",
+    "pos": "n.",
+    "zh": "投资；投入；投资额",
+    "ex": "Education is the best investment for any country.",
+    "exzh": "教育对任何国家都是最好的投资。"
+  },
+  {
+    "w": "invisible",
+    "ph": "ɪnˈvɪzəbəl",
+    "pos": "adj.",
+    "zh": "看不见的；无形的；隐蔽的",
+    "ex": "The gas is invisible but smells strongly of eggs.",
+    "exzh": "这种气体看不见，但有强烈的臭鸡蛋味。"
+  },
+  {
+    "w": "invitation",
+    "ph": "ˌɪnvɪˈteɪʃən",
+    "pos": "n.",
+    "zh": "邀请；请柬；招致",
+    "ex": "She accepted the invitation to speak at the conference.",
+    "exzh": "她接受了在会议上发言的邀请。"
+  },
+  {
+    "w": "inward",
+    "ph": "ˈɪnwərd",
+    "pos": "adj./adv.",
+    "zh": "向内的；内心的；向内",
+    "ex": "The door opens inward, so keep the hallway clear.",
+    "exzh": "这扇门向内开，所以要保持走廊畅通。"
+  },
+  {
+    "w": "ironic",
+    "ph": "aɪˈrɑːnɪk",
+    "pos": "adj.",
+    "zh": "讽刺的；具有讽刺意味的",
+    "ex": "It is ironic that the fire station burned down.",
+    "exzh": "具有讽刺意味的是消防站被烧毁了。"
+  },
+  {
+    "w": "ironically",
+    "ph": "aɪˈrɑːnɪkli",
+    "pos": "adv.",
+    "zh": "具有讽刺意味的是；说反话地",
+    "ex": "Ironically, the safety film itself caused a small fire.",
+    "exzh": "具有讽刺意味的是，那部安全宣传片本身引发了一场小火。"
+  },
+  {
+    "w": "irony",
+    "ph": "ˈaɪrəni",
+    "pos": "n.",
+    "zh": "讽刺；反讽；出人意料",
+    "ex": "The irony of his situation made everyone smile.",
+    "exzh": "他处境的讽刺意味让大家都笑了。"
+  },
+  {
+    "w": "irrational",
+    "ph": "ɪˈræʃənəl",
+    "pos": "adj.",
+    "zh": "不理智的；不合理的；无理性的",
+    "ex": "His irrational fear of lifts made travel difficult.",
+    "exzh": "他对电梯不理智的恐惧使出行变得困难。"
+  },
+  {
+    "w": "irregular",
+    "ph": "ɪˈreɡjələr",
+    "pos": "adj.",
+    "zh": "不规则的；不规律的；不合规的",
+    "ex": "His irregular working hours made sleep difficult.",
+    "exzh": "他不规律的工作时间使他难以入睡。"
+  },
+  {
+    "w": "irrelevant",
+    "ph": "ɪˈreləvənt",
+    "pos": "adj.",
+    "zh": "不相关的；离题的；无关紧要的",
+    "ex": "His comments were irrelevant to the main question.",
+    "exzh": "他的评论与主要问题无关。"
+  },
+  {
+    "w": "irresistible",
+    "ph": "ˌɪrɪˈzɪstəbəl",
+    "pos": "adj.",
+    "zh": "无法抗拒的；极诱人的",
+    "ex": "The smell of fresh bread was irresistible to us.",
+    "exzh": "新鲜面包的香味让我们无法抗拒。"
+  },
+  {
+    "w": "irresponsible",
+    "ph": "ˌɪrɪˈspɑːnsəbəl",
+    "pos": "adj.",
+    "zh": "不负责任的；无责任感的",
+    "ex": "It was irresponsible to leave the children alone.",
+    "exzh": "把孩子们单独留下是不负责任的。"
+  },
+  {
+    "w": "irrigate",
+    "ph": "ˈɪrɪɡeɪt",
+    "pos": "v.",
+    "zh": "灌溉；冲洗；使湿润",
+    "ex": "Farmers irrigate these fields with water from the river.",
+    "exzh": "农民用河水灌溉这些田地。"
+  },
+  {
+    "w": "irrigation",
+    "ph": "ˌɪrɪˈɡeɪʃən",
+    "pos": "n.",
+    "zh": "灌溉；水利；冲洗",
+    "ex": "Modern irrigation has doubled the harvest in this region.",
+    "exzh": "现代灌溉使该地区的收成翻了一番。"
+  },
+  {
+    "w": "irritate",
+    "ph": "ˈɪrɪteɪt",
+    "pos": "v.",
+    "zh": "使恼怒；刺激；使不适",
+    "ex": "The constant noise began to irritate everyone in the office.",
+    "exzh": "持续不断的噪音开始让办公室里的每个人都恼火。"
+  },
+  {
+    "w": "isolate",
+    "ph": "ˈaɪsəleɪt",
+    "pos": "v.",
+    "zh": "隔离；孤立；分离",
+    "ex": "Doctors isolated the patient to protect other people.",
+    "exzh": "为了保护好其他人，医生隔离了这名病人。"
+  },
+  {
+    "w": "isolation",
+    "ph": "ˌaɪsəˈleɪʃən",
+    "pos": "n.",
+    "zh": "隔离；孤独；孤立状态",
+    "ex": "The old man lived in isolation for many years.",
+    "exzh": "这位老人孤独地生活了很多年。"
+  },
+  {
+    "w": "item",
+    "ph": "ˈaɪtəm",
+    "pos": "n.",
+    "zh": "项目；条款；物品",
+    "ex": "Each item on the list has its own price.",
+    "exzh": "清单上的每一项都有自己的价格。"
+  },
+  {
+    "w": "ivory",
+    "ph": "ˈaɪvəri",
+    "pos": "n./adj.",
+    "zh": "象牙；象牙色；象牙制品",
+    "ex": "The museum refused to display objects made of ivory.",
+    "exzh": "博物馆拒绝展出象牙制品。"
+  }
+]

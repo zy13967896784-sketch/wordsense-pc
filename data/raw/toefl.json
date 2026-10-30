@@ -1,0 +1,2082 @@
+[
+  {
+    "w": "abundant",
+    "ph": "əˈbʌndənt",
+    "pos": "adj.",
+    "zh": "丰富的；大量的",
+    "ex": "Fossil evidence is abundant in this ancient sedimentary layer.",
+    "exzh": "这一古老沉积层中化石证据十分丰富。"
+  },
+  {
+    "w": "accelerate",
+    "ph": "ækˈsɛləreɪt",
+    "pos": "v.",
+    "zh": "加速；促进",
+    "ex": "Rising temperatures can accelerate the melting of polar ice.",
+    "exzh": "气温上升会加速极地冰的融化。"
+  },
+  {
+    "w": "accumulate",
+    "ph": "əˈkjuːmjəleɪt",
+    "pos": "v.",
+    "zh": "积累；聚集",
+    "ex": "Sediment gradually accumulated along the river delta over centuries.",
+    "exzh": "几个世纪以来，沉积物逐渐在河流三角洲沿线堆积。"
+  },
+  {
+    "w": "adapt",
+    "ph": "əˈdæpt",
+    "pos": "v.",
+    "zh": "适应；改编",
+    "ex": "Desert plants have adapted to survive with very little water.",
+    "exzh": "沙漠植物已经适应在极少水分下生存。"
+  },
+  {
+    "w": "adjacent",
+    "ph": "əˈdʒeɪsənt",
+    "pos": "adj.",
+    "zh": "邻近的；毗邻的",
+    "ex": "The laboratory is adjacent to the university's main library.",
+    "exzh": "实验室毗邻大学的主图书馆。"
+  },
+  {
+    "w": "advocate",
+    "ph": "ˈædvəkeɪt",
+    "pos": "v.",
+    "zh": "提倡；主张",
+    "ex": "Many researchers advocate stricter protection for endangered marine species.",
+    "exzh": "许多研究人员主张对濒危海洋物种实施更严格的保护。"
+  },
+  {
+    "w": "aesthetic",
+    "ph": "ɛsˈθɛtɪk",
+    "pos": "adj.",
+    "zh": "审美的；美学的",
+    "ex": "The building's aesthetic design reflects the influence of classical architecture.",
+    "exzh": "这座建筑的美学设计反映了古典建筑的影响。"
+  },
+  {
+    "w": "alter",
+    "ph": "ˈɔːltər",
+    "pos": "v.",
+    "zh": "改变；更改",
+    "ex": "Human activity has altered the region's climate and water cycle.",
+    "exzh": "人类活动改变了该地区的气候和水循环。"
+  },
+  {
+    "w": "ambiguous",
+    "ph": "æmˈbɪɡjuəs",
+    "pos": "adj.",
+    "zh": "模棱两可的；含糊的",
+    "ex": "The wording of the treaty remains ambiguous on several key points.",
+    "exzh": "该条约的措辞在几个关键问题上仍然含糊不清。"
+  },
+  {
+    "w": "analyze",
+    "ph": "ˈænəlaɪz",
+    "pos": "v.",
+    "zh": "分析；解析",
+    "ex": "Scientists analyzed the soil samples for traces of ancient pollen.",
+    "exzh": "科学家分析了土壤样本，寻找古代花粉的痕迹。"
+  },
+  {
+    "w": "ancient",
+    "ph": "ˈeɪnʃənt",
+    "pos": "adj.",
+    "zh": "古代的；古老的",
+    "ex": "Ancient trade routes connected distant civilizations across the desert.",
+    "exzh": "古代贸易路线穿越沙漠，连接了遥远的文明。"
+  },
+  {
+    "w": "anomaly",
+    "ph": "əˈnɑːməli",
+    "pos": "n.",
+    "zh": "异常；反常现象",
+    "ex": "The unusually warm winter was an anomaly in the climate record.",
+    "exzh": "这个异常温暖的冬天是气候记录中的一个反常现象。"
+  },
+  {
+    "w": "anticipate",
+    "ph": "ænˈtɪsəpeɪt",
+    "pos": "v.",
+    "zh": "预期；预料",
+    "ex": "Researchers anticipate a sharp rise in urban populations by 2050.",
+    "exzh": "研究人员预计到2050年城市人口将急剧增加。"
+  },
+  {
+    "w": "apparent",
+    "ph": "əˈpærənt",
+    "pos": "adj.",
+    "zh": "明显的；表面上的",
+    "ex": "The apparent decline in fish stocks alarmed coastal communities.",
+    "exzh": "鱼类种群明显的减少令沿海社区感到担忧。"
+  },
+  {
+    "w": "arbitrary",
+    "ph": "ˈɑːrbɪtreri",
+    "pos": "adj.",
+    "zh": "任意的；武断的",
+    "ex": "The boundary drawn on the map was arbitrary and ignored local cultures.",
+    "exzh": "地图上划定的边界是武断的，忽视了当地文化。"
+  },
+  {
+    "w": "barrier",
+    "ph": "ˈbæriər",
+    "pos": "n.",
+    "zh": "障碍；屏障",
+    "ex": "Language can be a significant barrier to scientific collaboration.",
+    "exzh": "语言可能成为科学合作的重要障碍。"
+  },
+  {
+    "w": "behavior",
+    "ph": "bɪˈheɪvjər",
+    "pos": "n.",
+    "zh": "行为；举止",
+    "ex": "Researchers observed the social behavior of chimpanzees in the wild.",
+    "exzh": "研究人员观察了野生黑猩猩的社会行为。"
+  },
+  {
+    "w": "beneficial",
+    "ph": "ˌbɛnɪˈfɪʃəl",
+    "pos": "adj.",
+    "zh": "有益的；有利的",
+    "ex": "Regular exercise is beneficial for both physical and mental health.",
+    "exzh": "经常锻炼对身心健康都有益。"
+  },
+  {
+    "w": "bias",
+    "ph": "ˈbaɪəs",
+    "pos": "n.",
+    "zh": "偏见；偏差",
+    "ex": "Small sample sizes can introduce bias into the final results.",
+    "exzh": "样本量小可能会给最终结果引入偏差。"
+  },
+  {
+    "w": "bilingual",
+    "ph": "baɪˈlɪŋɡwəl",
+    "pos": "adj.",
+    "zh": "双语的",
+    "ex": "Bilingual children often switch between languages with remarkable ease.",
+    "exzh": "双语儿童往往能非常轻松地在两种语言间切换。"
+  },
+  {
+    "w": "biodiversity",
+    "ph": "ˌbaɪoʊdaɪˈvɝːsəti",
+    "pos": "n.",
+    "zh": "生物多样性",
+    "ex": "Protecting the rainforest is essential for maintaining global biodiversity.",
+    "exzh": "保护雨林对维持全球生物多样性至关重要。"
+  },
+  {
+    "w": "bolster",
+    "ph": "ˈboʊlstər",
+    "pos": "v.",
+    "zh": "支持；加强",
+    "ex": "New fossil discoveries bolster the theory of continental drift.",
+    "exzh": "新的化石发现支持了大陆漂移学说。"
+  },
+  {
+    "w": "boundary",
+    "ph": "ˈbaʊndəri",
+    "pos": "n.",
+    "zh": "边界；界限",
+    "ex": "The river forms a natural boundary between the two provinces.",
+    "exzh": "这条河构成两省之间的天然边界。"
+  },
+  {
+    "w": "breed",
+    "ph": "briːd",
+    "pos": "v.",
+    "zh": "繁殖；培育",
+    "ex": "These birds breed in the marshes during the rainy season.",
+    "exzh": "这些鸟在雨季于沼泽中繁殖。"
+  },
+  {
+    "w": "bureaucracy",
+    "ph": "bjʊˈrɑːkrəsi",
+    "pos": "n.",
+    "zh": "官僚机构；官僚主义",
+    "ex": "Complex bureaucracy slowed the distribution of emergency supplies.",
+    "exzh": "复杂的官僚程序拖慢了应急物资的分发。"
+  },
+  {
+    "w": "capacity",
+    "ph": "kəˈpæsəti",
+    "pos": "n.",
+    "zh": "容量；能力",
+    "ex": "The brain's capacity to store new information is remarkable.",
+    "exzh": "大脑储存新信息的能力十分惊人。"
+  },
+  {
+    "w": "category",
+    "ph": "ˈkætəɡɔːri",
+    "pos": "n.",
+    "zh": "类别；分类",
+    "ex": "Each fossil was placed in a category based on its age.",
+    "exzh": "每块化石都根据年代归入一个类别。"
+  },
+  {
+    "w": "chronic",
+    "ph": "ˈkrɑːnɪk",
+    "pos": "adj.",
+    "zh": "慢性的；长期的",
+    "ex": "Chronic water shortages have forced farmers to change their crops.",
+    "exzh": "长期缺水迫使农民改种作物。"
+  },
+  {
+    "w": "circulate",
+    "ph": "ˈsɝːkjəleɪt",
+    "pos": "v.",
+    "zh": "循环；流通",
+    "ex": "Warm ocean currents circulate heat toward the northern latitudes.",
+    "exzh": "温暖的洋流将热量输送到北纬地区。"
+  },
+  {
+    "w": "civilization",
+    "ph": "ˌsɪvələˈzeɪʃən",
+    "pos": "n.",
+    "zh": "文明",
+    "ex": "The discovery sheds light on an ancient civilization in Mesopotamia.",
+    "exzh": "这一发现揭示了美索不达米亚的一个古代文明。"
+  },
+  {
+    "w": "classify",
+    "ph": "ˈklæsəfaɪ",
+    "pos": "v.",
+    "zh": "分类；归类",
+    "ex": "Scientists classify these rocks according to their mineral composition.",
+    "exzh": "科学家根据矿物成分对这些岩石进行分类。"
+  },
+  {
+    "w": "coincide",
+    "ph": "ˌkoʊɪnˈsaɪd",
+    "pos": "v.",
+    "zh": "同时发生；相符",
+    "ex": "The population boom coincided with the invention of the printing press.",
+    "exzh": "人口激增与印刷机的发明同时发生。"
+  },
+  {
+    "w": "collaborate",
+    "ph": "kəˈlæbəreɪt",
+    "pos": "v.",
+    "zh": "合作；协作",
+    "ex": "Researchers from several countries collaborated on the climate study.",
+    "exzh": "来自几个国家的研究人员合作开展了这项气候研究。"
+  },
+  {
+    "w": "colony",
+    "ph": "ˈkɑːləni",
+    "pos": "n.",
+    "zh": "殖民地；群体",
+    "ex": "The ant colony builds complex tunnels beneath the desert floor.",
+    "exzh": "蚁群在沙漠地表下建造复杂的隧道。"
+  },
+  {
+    "w": "commodity",
+    "ph": "kəˈmɑːdəti",
+    "pos": "n.",
+    "zh": "商品；大宗商品",
+    "ex": "Coffee became a valuable commodity in global trade centuries ago.",
+    "exzh": "几个世纪前，咖啡成为全球贸易中的贵重商品。"
+  },
+  {
+    "w": "compensate",
+    "ph": "ˈkɑːmpənseɪt",
+    "pos": "v.",
+    "zh": "补偿；抵消",
+    "ex": "Warmer winters may compensate for shorter growing seasons elsewhere.",
+    "exzh": "较暖的冬季可能抵消其他地方缩短的生长季。"
+  },
+  {
+    "w": "comprehensive",
+    "ph": "ˌkɑːmprɪˈhɛnsɪv",
+    "pos": "adj.",
+    "zh": "全面的；综合的",
+    "ex": "The report offers a comprehensive analysis of urban air pollution.",
+    "exzh": "该报告对城市空气污染进行了全面分析。"
+  },
+  {
+    "w": "conduct",
+    "ph": "kənˈdʌkt",
+    "pos": "v.",
+    "zh": "进行；实施",
+    "ex": "Researchers conducted a controlled experiment to test the hypothesis.",
+    "exzh": "研究人员进行了一项对照实验来检验该假设。"
+  },
+  {
+    "w": "conflict",
+    "ph": "ˈkɑːnflɪkt",
+    "pos": "n.",
+    "zh": "冲突；矛盾",
+    "ex": "Competition for water can lead to conflict between neighboring communities.",
+    "exzh": "争夺水资源可能导致相邻社区之间发生冲突。"
+  },
+  {
+    "w": "consequence",
+    "ph": "ˈkɑːnsəkwɛns",
+    "pos": "n.",
+    "zh": "后果；结果",
+    "ex": "Deforestation has serious consequences for local wildlife and rainfall.",
+    "exzh": "森林砍伐对当地野生动物和降雨造成严重后果。"
+  },
+  {
+    "w": "conservation",
+    "ph": "ˌkɑːnsərˈveɪʃən",
+    "pos": "n.",
+    "zh": "保护；保存",
+    "ex": "Wildlife conservation depends on protecting both habitats and migration routes.",
+    "exzh": "野生动物保护有赖于同时保护栖息地和迁徙路线。"
+  },
+  {
+    "w": "constitute",
+    "ph": "ˈkɑːnstətuːt",
+    "pos": "v.",
+    "zh": "构成；组成",
+    "ex": "These fossils constitute the earliest evidence of flowering plants.",
+    "exzh": "这些化石构成了开花植物最早的证据。"
+  },
+  {
+    "w": "consume",
+    "ph": "kənˈsuːm",
+    "pos": "v.",
+    "zh": "消耗；消费",
+    "ex": "Modern cities consume enormous amounts of energy and fresh water.",
+    "exzh": "现代城市消耗大量能源和淡水。"
+  },
+  {
+    "w": "contemporary",
+    "ph": "kənˈtɛmpəreri",
+    "pos": "adj.",
+    "zh": "当代的；同时代的",
+    "ex": "Contemporary artists often draw inspiration from ancient mythology.",
+    "exzh": "当代艺术家常从古代神话中汲取灵感。"
+  },
+  {
+    "w": "contradict",
+    "ph": "ˌkɑːntrəˈdɪkt",
+    "pos": "v.",
+    "zh": "反驳；与…矛盾",
+    "ex": "The new evidence contradicts the accepted explanation of the extinction.",
+    "exzh": "新证据与公认的灭绝解释相矛盾。"
+  },
+  {
+    "w": "decline",
+    "ph": "dɪˈklaɪn",
+    "pos": "v.",
+    "zh": "下降；衰退",
+    "ex": "Fish populations declined sharply after the river was dammed.",
+    "exzh": "河流筑坝后，鱼类种群数量急剧下降。"
+  },
+  {
+    "w": "decompose",
+    "ph": "ˌdiːkəmˈpoʊz",
+    "pos": "v.",
+    "zh": "分解；腐烂",
+    "ex": "Bacteria decompose dead leaves and return nutrients to the soil.",
+    "exzh": "细菌分解枯叶，将养分归还土壤。"
+  },
+  {
+    "w": "deduce",
+    "ph": "dɪˈduːs",
+    "pos": "v.",
+    "zh": "推断；演绎",
+    "ex": "Archaeologists deduced the diet of early humans from tooth remains.",
+    "exzh": "考古学家从牙齿遗骸推断出早期人类的饮食。"
+  },
+  {
+    "w": "define",
+    "ph": "dɪˈfaɪn",
+    "pos": "v.",
+    "zh": "定义；界定",
+    "ex": "Researchers must clearly define the variables used in the study.",
+    "exzh": "研究人员必须明确界定研究中使用的变量。"
+  },
+  {
+    "w": "deforestation",
+    "ph": "ˌdiːˌfɔːrɪˈsteɪʃən",
+    "pos": "n.",
+    "zh": "森林砍伐",
+    "ex": "Rapid deforestation threatens both biodiversity and local water supplies.",
+    "exzh": "快速森林砍伐威胁生物多样性和当地水源。"
+  },
+  {
+    "w": "democratic",
+    "ph": "ˌdɛməˈkrætɪk",
+    "pos": "adj.",
+    "zh": "民主的",
+    "ex": "Democratic institutions require informed citizens and transparent laws.",
+    "exzh": "民主制度需要知情的公民和透明的法律。"
+  },
+  {
+    "w": "demonstrate",
+    "ph": "ˈdɛmənstreɪt",
+    "pos": "v.",
+    "zh": "证明；演示",
+    "ex": "The experiment demonstrates how pressure affects the boiling point.",
+    "exzh": "该实验演示了压力如何影响沸点。"
+  },
+  {
+    "w": "dense",
+    "ph": "dɛns",
+    "pos": "adj.",
+    "zh": "密集的；浓厚的",
+    "ex": "Dense fog delayed flights and reduced visibility across the valley.",
+    "exzh": "浓雾导致航班延误，并降低了整个山谷的能见度。"
+  },
+  {
+    "w": "derive",
+    "ph": "dɪˈraɪv",
+    "pos": "v.",
+    "zh": "源自；获得",
+    "ex": "Many English scientific terms derive from Latin and Greek.",
+    "exzh": "许多英语科学术语源自拉丁语和希腊语。"
+  },
+  {
+    "w": "detect",
+    "ph": "dɪˈtɛkt",
+    "pos": "v.",
+    "zh": "发现；探测",
+    "ex": "New instruments can detect tiny changes in the earth's magnetic field.",
+    "exzh": "新仪器能够探测地球磁场的微小变化。"
+  },
+  {
+    "w": "deteriorate",
+    "ph": "dɪˈtɪriəreɪt",
+    "pos": "v.",
+    "zh": "恶化；退化",
+    "ex": "Air quality deteriorated rapidly as industrial activity expanded.",
+    "exzh": "随着工业活动扩张，空气质量迅速恶化。"
+  },
+  {
+    "w": "diverse",
+    "ph": "daɪˈvɝːs",
+    "pos": "adj.",
+    "zh": "多样的；不同的",
+    "ex": "The island supports a remarkably diverse range of plant species.",
+    "exzh": "这座岛孕育了种类异常丰富的植物。"
+  },
+  {
+    "w": "domestic",
+    "ph": "dəˈmɛstɪk",
+    "pos": "adj.",
+    "zh": "国内的；家庭的",
+    "ex": "Domestic demand for grain rose steadily during the nineteenth century.",
+    "exzh": "十九世纪期间，国内粮食需求稳步上升。"
+  },
+  {
+    "w": "dominate",
+    "ph": "ˈdɑːmɪneɪt",
+    "pos": "v.",
+    "zh": "主导；支配",
+    "ex": "A few large firms dominate the global market for computer chips.",
+    "exzh": "少数大公司主导着全球计算机芯片市场。"
+  },
+  {
+    "w": "drought",
+    "ph": "draʊt",
+    "pos": "n.",
+    "zh": "干旱",
+    "ex": "A severe drought destroyed crops across the southern plains.",
+    "exzh": "严重干旱摧毁了南部平原的农作物。"
+  },
+  {
+    "w": "ecosystem",
+    "ph": "ˈiːkoʊˌsɪstəm",
+    "pos": "n.",
+    "zh": "生态系统",
+    "ex": "Coastal wetlands form a fragile ecosystem that supports many species.",
+    "exzh": "沿海湿地构成一个支持许多物种的脆弱生态系统。"
+  },
+  {
+    "w": "elaborate",
+    "ph": "ɪˈlæbəreɪt",
+    "pos": "v.",
+    "zh": "详细阐述；精心制作",
+    "ex": "The professor elaborated on the causes of the Industrial Revolution.",
+    "exzh": "教授详细阐述了工业革命的起因。"
+  },
+  {
+    "w": "eliminate",
+    "ph": "ɪˈlɪmɪneɪt",
+    "pos": "v.",
+    "zh": "消除；淘汰",
+    "ex": "Better sanitation helped eliminate many deadly diseases in cities.",
+    "exzh": "改善卫生条件帮助城市消除了许多致命疾病。"
+  },
+  {
+    "w": "emerge",
+    "ph": "ɪˈmɝːdʒ",
+    "pos": "v.",
+    "zh": "出现；显现",
+    "ex": "New evidence emerged from the excavation of a Bronze Age settlement.",
+    "exzh": "对青铜时代定居点的发掘中出现了新证据。"
+  },
+  {
+    "w": "emphasis",
+    "ph": "ˈɛmfəsɪs",
+    "pos": "n.",
+    "zh": "强调；重点",
+    "ex": "The course places emphasis on critical reading and academic writing.",
+    "exzh": "该课程强调批判性阅读和学术写作。"
+  },
+  {
+    "w": "empirical",
+    "ph": "ɪmˈpɪrɪkəl",
+    "pos": "adj.",
+    "zh": "经验的；实证的",
+    "ex": "Scientific claims must be supported by empirical evidence from experiments.",
+    "exzh": "科学主张必须得到实验实证证据的支持。"
+  },
+  {
+    "w": "enable",
+    "ph": "ɪˈneɪbəl",
+    "pos": "v.",
+    "zh": "使能够；使成为可能",
+    "ex": "Advances in microscopy enabled scientists to study individual cells.",
+    "exzh": "显微技术的进步使科学家能够研究单个细胞。"
+  },
+  {
+    "w": "enormous",
+    "ph": "ɪˈnɔːrməs",
+    "pos": "adj.",
+    "zh": "巨大的",
+    "ex": "The construction project required an enormous amount of stone.",
+    "exzh": "这项建筑工程需要大量石材。"
+  },
+  {
+    "w": "environment",
+    "ph": "ɪnˈvaɪrənmənt",
+    "pos": "n.",
+    "zh": "环境",
+    "ex": "Coal mining has damaged the environment of the surrounding valleys.",
+    "exzh": "煤矿开采破坏了周边山谷的环境。"
+  },
+  {
+    "w": "equilibrium",
+    "ph": "ˌiːkwɪˈlɪbriəm",
+    "pos": "n.",
+    "zh": "平衡；均衡",
+    "ex": "The market gradually returned to equilibrium after the sudden shock.",
+    "exzh": "市场在突然冲击后逐渐恢复平衡。"
+  },
+  {
+    "w": "erode",
+    "ph": "ɪˈroʊd",
+    "pos": "v.",
+    "zh": "侵蚀；削弱",
+    "ex": "Steady rainfall eroded the hillside and exposed older rock layers.",
+    "exzh": "持续的降雨侵蚀了山坡，露出更古老的岩层。"
+  },
+  {
+    "w": "establish",
+    "ph": "ɪˈstæblɪʃ",
+    "pos": "v.",
+    "zh": "建立；确立",
+    "ex": "Archaeologists established the age of the settlement through radiocarbon dating.",
+    "exzh": "考古学家通过放射性碳定年确定了该定居点的年代。"
+  },
+  {
+    "w": "evaluate",
+    "ph": "ɪˈvæljueɪt",
+    "pos": "v.",
+    "zh": "评估；评价",
+    "ex": "Researchers evaluated the effectiveness of the new teaching method.",
+    "exzh": "研究人员评估了新教学方法的效果。"
+  },
+  {
+    "w": "facilitate",
+    "ph": "fəˈsɪlɪteɪt",
+    "pos": "v.",
+    "zh": "促进；使便利",
+    "ex": "Improved roads facilitated trade between inland towns and coastal ports.",
+    "exzh": "道路改善促进了内陆城镇与沿海港口之间的贸易。"
+  },
+  {
+    "w": "factor",
+    "ph": "ˈfæktər",
+    "pos": "n.",
+    "zh": "因素；要素",
+    "ex": "Temperature is a key factor in the rate of chemical weathering.",
+    "exzh": "温度是化学风化速率的一个关键因素。"
+  },
+  {
+    "w": "feature",
+    "ph": "ˈfiːtʃər",
+    "pos": "n.",
+    "zh": "特征；特点",
+    "ex": "The most striking feature of the cave is its enormous crystal chamber.",
+    "exzh": "这个洞穴最显著的特征是其巨大的水晶洞室。"
+  },
+  {
+    "w": "fertile",
+    "ph": "ˈfɝːtəl",
+    "pos": "adj.",
+    "zh": "肥沃的；多产的",
+    "ex": "Flooding left behind fertile soil that supported early agriculture.",
+    "exzh": "洪水留下了肥沃的土壤，支撑了早期农业。"
+  },
+  {
+    "w": "fluctuate",
+    "ph": "ˈflʌktʃueɪt",
+    "pos": "v.",
+    "zh": "波动；起伏",
+    "ex": "Global temperatures fluctuate naturally over long periods of time.",
+    "exzh": "全球气温在漫长时期内自然波动。"
+  },
+  {
+    "w": "fossil",
+    "ph": "ˈfɑːsəl",
+    "pos": "n.",
+    "zh": "化石",
+    "ex": "The fossil provides new insight into the evolution of birds.",
+    "exzh": "这块化石为鸟类演化提供了新见解。"
+  },
+  {
+    "w": "fragment",
+    "ph": "ˈfræɡmənt",
+    "pos": "n.",
+    "zh": "碎片；片段",
+    "ex": "Archaeologists found a fragment of pottery beneath the temple floor.",
+    "exzh": "考古学家在神庙地板下发现了一块陶器碎片。"
+  },
+  {
+    "w": "framework",
+    "ph": "ˈfreɪmwɝːk",
+    "pos": "n.",
+    "zh": "框架；体系",
+    "ex": "The theory provides a useful framework for studying social change.",
+    "exzh": "该理论为研究社会变迁提供了有用的框架。"
+  },
+  {
+    "w": "frequency",
+    "ph": "ˈfriːkwənsi",
+    "pos": "n.",
+    "zh": "频率；频繁程度",
+    "ex": "The frequency of extreme storms has increased in recent decades.",
+    "exzh": "近几十年来极端风暴的发生频率有所增加。"
+  },
+  {
+    "w": "function",
+    "ph": "ˈfʌŋkʃən",
+    "pos": "n.",
+    "zh": "功能；作用",
+    "ex": "The function of the heart is to circulate blood throughout the body.",
+    "exzh": "心脏的功能是将血液输送到全身。"
+  },
+  {
+    "w": "fundamental",
+    "ph": "ˌfʌndəˈmɛntəl",
+    "pos": "adj.",
+    "zh": "基本的；根本的",
+    "ex": "Water is fundamental to all known forms of life on Earth.",
+    "exzh": "水对地球上所有已知生命形式都至关重要。"
+  },
+  {
+    "w": "generate",
+    "ph": "ˈdʒɛnəreɪt",
+    "pos": "v.",
+    "zh": "产生；生成",
+    "ex": "Solar panels generate electricity without releasing greenhouse gases.",
+    "exzh": "太阳能电池板发电时不释放温室气体。"
+  },
+  {
+    "w": "genetic",
+    "ph": "dʒəˈnɛtɪk",
+    "pos": "adj.",
+    "zh": "遗传的；基因的",
+    "ex": "Genetic analysis revealed a close relationship between the two species.",
+    "exzh": "基因分析揭示这两个物种之间存在密切关系。"
+  },
+  {
+    "w": "geological",
+    "ph": "ˌdʒiːəˈlɑːdʒɪkəl",
+    "pos": "adj.",
+    "zh": "地质的；地质学的",
+    "ex": "Geological evidence suggests the region was once covered by ocean.",
+    "exzh": "地质证据表明该地区曾被海洋覆盖。"
+  },
+  {
+    "w": "germinate",
+    "ph": "ˈdʒɝːməneɪt",
+    "pos": "v.",
+    "zh": "发芽；萌芽",
+    "ex": "Seeds germinate only when temperature and moisture conditions are right.",
+    "exzh": "种子只有在温度和湿度条件适宜时才会发芽。"
+  },
+  {
+    "w": "glacier",
+    "ph": "ˈɡleɪʃər",
+    "pos": "n.",
+    "zh": "冰川",
+    "ex": "The glacier has retreated nearly two kilometers since 1990.",
+    "exzh": "自1990年以来，这条冰川已退缩近两公里。"
+  },
+  {
+    "w": "global",
+    "ph": "ˈɡloʊbəl",
+    "pos": "adj.",
+    "zh": "全球的；整体的",
+    "ex": "Climate change is a global problem that requires international cooperation.",
+    "exzh": "气候变化是一个需要国际合作的全球性问题。"
+  },
+  {
+    "w": "gradual",
+    "ph": "ˈɡrædʒuəl",
+    "pos": "adj.",
+    "zh": "渐进的；逐渐的",
+    "ex": "The transition from hunting to farming was gradual in many regions.",
+    "exzh": "在许多地区，从狩猎到农耕的转变是渐进的。"
+  },
+  {
+    "w": "gravity",
+    "ph": "ˈɡrævəti",
+    "pos": "n.",
+    "zh": "重力；引力",
+    "ex": "Gravity causes objects to fall toward the center of the Earth.",
+    "exzh": "重力使物体向地心方向下落。"
+  },
+  {
+    "w": "greenhouse",
+    "ph": "ˈɡriːnhaʊs",
+    "pos": "n.",
+    "zh": "温室",
+    "ex": "Greenhouse gases trap heat in the atmosphere and warm the planet.",
+    "exzh": "温室气体在大气中截留热量，使地球变暖。"
+  },
+  {
+    "w": "habitat",
+    "ph": "ˈhæbɪtæt",
+    "pos": "n.",
+    "zh": "栖息地",
+    "ex": "Logging has destroyed the natural habitat of many forest birds.",
+    "exzh": "伐木破坏了许多森林鸟类的自然栖息地。"
+  },
+  {
+    "w": "heritage",
+    "ph": "ˈhɛrɪtɪdʒ",
+    "pos": "n.",
+    "zh": "遗产；传统",
+    "ex": "The city's architectural heritage attracts millions of visitors each year.",
+    "exzh": "这座城市的建筑遗产每年吸引数百万游客。"
+  },
+  {
+    "w": "hibernate",
+    "ph": "ˈhaɪbərneɪt",
+    "pos": "v.",
+    "zh": "冬眠",
+    "ex": "Some mammals hibernate through the coldest months of winter.",
+    "exzh": "一些哺乳动物在冬季最冷的几个月里冬眠。"
+  },
+  {
+    "w": "hierarchy",
+    "ph": "ˈhaɪərɑːrki",
+    "pos": "n.",
+    "zh": "等级制度；层级",
+    "ex": "Ancient Egyptian society had a strict social hierarchy.",
+    "exzh": "古埃及社会有严格的社会等级制度。"
+  },
+  {
+    "w": "homogeneous",
+    "ph": "ˌhoʊməˈdʒiːniəs",
+    "pos": "adj.",
+    "zh": "同质的；均匀的",
+    "ex": "The mixture must remain homogeneous for the reaction to proceed evenly.",
+    "exzh": "混合物必须保持均匀，反应才能平稳进行。"
+  },
+  {
+    "w": "hostile",
+    "ph": "ˈhɑːstəl",
+    "pos": "adj.",
+    "zh": "敌对的；不利的",
+    "ex": "Early settlers faced a hostile environment with little fresh water.",
+    "exzh": "早期定居者面对缺乏淡水的恶劣环境。"
+  },
+  {
+    "w": "hydraulic",
+    "ph": "haɪˈdrɔːlɪk",
+    "pos": "adj.",
+    "zh": "水力的；液压的",
+    "ex": "Hydraulic mining used powerful jets of water to wash away soil.",
+    "exzh": "水力采矿利用强力水流冲走土壤。"
+  },
+  {
+    "w": "hypothesis",
+    "ph": "haɪˈpɑːθəsɪs",
+    "pos": "n.",
+    "zh": "假设；假说",
+    "ex": "The data did not support the original hypothesis about migration.",
+    "exzh": "数据并不支持最初关于迁徙的假设。"
+  },
+  {
+    "w": "hypothetical",
+    "ph": "ˌhaɪpəˈθɛtɪkəl",
+    "pos": "adj.",
+    "zh": "假设的；假想的",
+    "ex": "The professor posed a hypothetical question about future energy use.",
+    "exzh": "教授提出了一个关于未来能源使用的假设性问题。"
+  },
+  {
+    "w": "identical",
+    "ph": "aɪˈdɛntɪkəl",
+    "pos": "adj.",
+    "zh": "完全相同的",
+    "ex": "The two samples were nearly identical in chemical composition.",
+    "exzh": "这两个样本的化学成分几乎完全相同。"
+  },
+  {
+    "w": "ideology",
+    "ph": "ˌaɪdiˈɑːlədʒi",
+    "pos": "n.",
+    "zh": "意识形态；思想体系",
+    "ex": "Political ideology shaped the government's approach to land reform.",
+    "exzh": "政治意识形态塑造了政府的土地改革方式。"
+  },
+  {
+    "w": "illustrate",
+    "ph": "ˈɪləstreɪt",
+    "pos": "v.",
+    "zh": "说明；阐明",
+    "ex": "The diagram illustrates how water moves through the soil.",
+    "exzh": "该图说明了水如何穿过土壤。"
+  },
+  {
+    "w": "immune",
+    "ph": "ɪˈmjuːn",
+    "pos": "adj.",
+    "zh": "免疫的；不受影响的",
+    "ex": "Vaccination helps the immune system recognize dangerous viruses.",
+    "exzh": "接种疫苗帮助免疫系统识别危险病毒。"
+  },
+  {
+    "w": "implement",
+    "ph": "ˈɪmpləment",
+    "pos": "v.",
+    "zh": "实施；执行",
+    "ex": "The city implemented a new policy to reduce traffic congestion.",
+    "exzh": "该市实施了一项减少交通拥堵的新政策。"
+  },
+  {
+    "w": "imply",
+    "ph": "ɪmˈplaɪ",
+    "pos": "v.",
+    "zh": "暗示；意味着",
+    "ex": "The findings imply that early humans used fire for cooking.",
+    "exzh": "这些发现意味着早期人类曾用火烹饪。"
+  },
+  {
+    "w": "impose",
+    "ph": "ɪmˈpoʊz",
+    "pos": "v.",
+    "zh": "强加；征收",
+    "ex": "The government imposed higher taxes on imported luxury goods.",
+    "exzh": "政府对进口奢侈品征收了更高的税。"
+  },
+  {
+    "w": "incentive",
+    "ph": "ɪnˈsɛntɪv",
+    "pos": "n.",
+    "zh": "激励；动机",
+    "ex": "Tax breaks provide an incentive for companies to invest in research.",
+    "exzh": "税收减免为企业投资研究提供了激励。"
+  },
+  {
+    "w": "indicate",
+    "ph": "ˈɪndɪkeɪt",
+    "pos": "v.",
+    "zh": "表明；指示",
+    "ex": "Tree rings indicate that the region suffered a long drought.",
+    "exzh": "树木年轮表明该地区曾经历长期干旱。"
+  },
+  {
+    "w": "indigenous",
+    "ph": "ɪnˈdɪdʒənəs",
+    "pos": "adj.",
+    "zh": "土著的；本地的",
+    "ex": "Indigenous communities have managed these forests for generations.",
+    "exzh": "土著社区世代管理着这些森林。"
+  },
+  {
+    "w": "inevitable",
+    "ph": "ɪnˈɛvɪtəbəl",
+    "pos": "adj.",
+    "zh": "不可避免的",
+    "ex": "Some conflict over scarce resources seems inevitable in growing cities.",
+    "exzh": "在不断发展的城市中，围绕稀缺资源的某些冲突似乎不可避免。"
+  },
+  {
+    "w": "infer",
+    "ph": "ɪnˈfɝː",
+    "pos": "v.",
+    "zh": "推断；推论",
+    "ex": "Researchers infer past climates from the chemistry of ancient ice.",
+    "exzh": "研究人员从古老冰层的化学成分推断过去的气候。"
+  },
+  {
+    "w": "initiate",
+    "ph": "ɪˈnɪʃieɪt",
+    "pos": "v.",
+    "zh": "开始；发起",
+    "ex": "The university initiated a study of migration patterns among birds.",
+    "exzh": "这所大学发起了一项关于鸟类迁徙模式的研究。"
+  },
+  {
+    "w": "integrate",
+    "ph": "ˈɪntɪɡreɪt",
+    "pos": "v.",
+    "zh": "整合；融入",
+    "ex": "The new evidence integrates findings from geology and archaeology.",
+    "exzh": "新证据整合了地质学和考古学的发现。"
+  },
+  {
+    "w": "interpret",
+    "ph": "ɪnˈtɝːprət",
+    "pos": "v.",
+    "zh": "解释；理解",
+    "ex": "Scholars still debate how to interpret these ancient symbols.",
+    "exzh": "学者们仍在争论如何解释这些古代符号。"
+  },
+  {
+    "w": "jurisdiction",
+    "ph": "ˌdʒʊrɪsˈdɪkʃən",
+    "pos": "n.",
+    "zh": "管辖权；司法辖区",
+    "ex": "The case fell outside the jurisdiction of the local court.",
+    "exzh": "该案件不属于地方法院的管辖范围。"
+  },
+  {
+    "w": "justify",
+    "ph": "ˈdʒʌstəfaɪ",
+    "pos": "v.",
+    "zh": "证明合理；为…辩护",
+    "ex": "Researchers must justify their methods when submitting a grant proposal.",
+    "exzh": "研究人员在提交资助申请时必须证明其方法合理。"
+  },
+  {
+    "w": "juvenile",
+    "ph": "ˈdʒuːvənaɪl",
+    "pos": "adj.",
+    "zh": "少年的；幼年的",
+    "ex": "Juvenile fish shelter in shallow waters near the shoreline.",
+    "exzh": "幼鱼在近岸浅水区栖息。"
+  },
+  {
+    "w": "juxtapose",
+    "ph": "ˈdʒʌkstəpoʊz",
+    "pos": "v.",
+    "zh": "并列；并置",
+    "ex": "The exhibition juxtaposes modern photographs with nineteenth-century paintings.",
+    "exzh": "该展览将现代照片与十九世纪绘画并置。"
+  },
+  {
+    "w": "kernel",
+    "ph": "ˈkɝːnəl",
+    "pos": "n.",
+    "zh": "核心；果仁",
+    "ex": "The kernel of the argument is that education drives economic growth.",
+    "exzh": "该论点的核心是教育推动经济增长。"
+  },
+  {
+    "w": "kinetic",
+    "ph": "kɪˈnɛtɪk",
+    "pos": "adj.",
+    "zh": "运动的；动能的",
+    "ex": "Falling water converts kinetic energy into electrical power.",
+    "exzh": "落水将动能转化为电能。"
+  },
+  {
+    "w": "kinship",
+    "ph": "ˈkɪnʃɪp",
+    "pos": "n.",
+    "zh": "亲属关系；血缘",
+    "ex": "Kinship ties played a central role in early agricultural villages.",
+    "exzh": "亲属关系在早期农业村落中发挥了核心作用。"
+  },
+  {
+    "w": "laboratory",
+    "ph": "ˈlæbrətɔːri",
+    "pos": "n.",
+    "zh": "实验室",
+    "ex": "The laboratory is equipped with instruments for measuring air quality.",
+    "exzh": "实验室配备了测量空气质量的仪器。"
+  },
+  {
+    "w": "landscape",
+    "ph": "ˈlændskeɪp",
+    "pos": "n.",
+    "zh": "景观；风景",
+    "ex": "Glaciers shaped the landscape of the northern valley long ago.",
+    "exzh": "很久以前，冰川塑造了北部山谷的景观。"
+  },
+  {
+    "w": "latent",
+    "ph": "ˈleɪtənt",
+    "pos": "adj.",
+    "zh": "潜在的；潜伏的",
+    "ex": "The virus may remain latent in the body for many years.",
+    "exzh": "这种病毒可能在体内潜伏多年。"
+  },
+  {
+    "w": "legislation",
+    "ph": "ˌlɛdʒɪsˈleɪʃən",
+    "pos": "n.",
+    "zh": "立法；法律",
+    "ex": "New legislation requires factories to reduce their carbon emissions.",
+    "exzh": "新立法要求工厂减少碳排放。"
+  },
+  {
+    "w": "legitimate",
+    "ph": "lɪˈdʒɪtɪmət",
+    "pos": "adj.",
+    "zh": "合法的；合理的",
+    "ex": "Citizens have a legitimate interest in how public funds are spent.",
+    "exzh": "公民对公共资金的使用有正当利益。"
+  },
+  {
+    "w": "linguistic",
+    "ph": "lɪŋˈɡwɪstɪk",
+    "pos": "adj.",
+    "zh": "语言的；语言学的",
+    "ex": "Linguistic diversity is declining as small languages disappear.",
+    "exzh": "随着小语种消失，语言多样性正在下降。"
+  },
+  {
+    "w": "literacy",
+    "ph": "ˈlɪtərəsi",
+    "pos": "n.",
+    "zh": "读写能力；素养",
+    "ex": "Literacy rates rose sharply after public schools were established.",
+    "exzh": "公立学校建立后，识字率急剧上升。"
+  },
+  {
+    "w": "livestock",
+    "ph": "ˈlaɪvstɑːk",
+    "pos": "n.",
+    "zh": "牲畜",
+    "ex": "Farmers moved their livestock to higher ground during the flood.",
+    "exzh": "洪水期间，农民将牲畜转移到高地。"
+  },
+  {
+    "w": "logical",
+    "ph": "ˈlɑːdʒɪkəl",
+    "pos": "adj.",
+    "zh": "合乎逻辑的；逻辑的",
+    "ex": "The argument is logical, but its evidence remains incomplete.",
+    "exzh": "这个论证合乎逻辑，但证据仍不完整。"
+  },
+  {
+    "w": "lunar",
+    "ph": "ˈluːnər",
+    "pos": "adj.",
+    "zh": "月球的；阴历的",
+    "ex": "Ancient farmers used lunar cycles to plan their planting seasons.",
+    "exzh": "古代农民利用月相周期安排种植季节。"
+  },
+  {
+    "w": "magnetic",
+    "ph": "mæɡˈnɛtɪk",
+    "pos": "adj.",
+    "zh": "磁的；有吸引力的",
+    "ex": "Compass needles align with the Earth's magnetic field.",
+    "exzh": "指南针的指针与地球磁场方向一致。"
+  },
+  {
+    "w": "magnitude",
+    "ph": "ˈmæɡnɪtuːd",
+    "pos": "n.",
+    "zh": "大小；重要性",
+    "ex": "Scientists underestimated the magnitude of the volcanic eruption.",
+    "exzh": "科学家低估了这次火山喷发的规模。"
+  },
+  {
+    "w": "maintain",
+    "ph": "meɪnˈteɪn",
+    "pos": "v.",
+    "zh": "维持；坚持；维护",
+    "ex": "National parks maintain trails and protect fragile wildlife habitats.",
+    "exzh": "国家公园维护步道，并保护脆弱的野生动物栖息地。"
+  },
+  {
+    "w": "mammal",
+    "ph": "ˈmæməl",
+    "pos": "n.",
+    "zh": "哺乳动物",
+    "ex": "The whale is the largest mammal living in the ocean.",
+    "exzh": "鲸是生活在海洋中的最大哺乳动物。"
+  },
+  {
+    "w": "manipulate",
+    "ph": "məˈnɪpjuleɪt",
+    "pos": "v.",
+    "zh": "操纵；巧妙处理",
+    "ex": "Researchers manipulated temperature to observe changes in plant growth.",
+    "exzh": "研究人员控制温度，以观察植物生长的变化。"
+  },
+  {
+    "w": "marine",
+    "ph": "məˈriːn",
+    "pos": "adj.",
+    "zh": "海洋的；海生的",
+    "ex": "Marine ecosystems are sensitive to changes in ocean temperature.",
+    "exzh": "海洋生态系统对海水温度变化很敏感。"
+  },
+  {
+    "w": "mechanism",
+    "ph": "ˈmɛkənɪzəm",
+    "pos": "n.",
+    "zh": "机制；原理",
+    "ex": "Scientists are studying the mechanism by which the virus spreads.",
+    "exzh": "科学家正在研究这种病毒的传播机制。"
+  },
+  {
+    "w": "medieval",
+    "ph": "ˌmɛdiˈiːvəl",
+    "pos": "adj.",
+    "zh": "中世纪的",
+    "ex": "Medieval towns often grew around a castle or a busy market.",
+    "exzh": "中世纪城镇常围绕城堡或繁忙的集市发展起来。"
+  },
+  {
+    "w": "metabolic",
+    "ph": "ˌmɛtəˈbɑːlɪk",
+    "pos": "adj.",
+    "zh": "新陈代谢的",
+    "ex": "Cold weather slows the metabolic rate of many reptiles.",
+    "exzh": "寒冷的天气会降低许多爬行动物的代谢率。"
+  },
+  {
+    "w": "migrate",
+    "ph": "ˈmaɪɡreɪt",
+    "pos": "v.",
+    "zh": "迁徙；迁移",
+    "ex": "Millions of birds migrate south before the winter arrives.",
+    "exzh": "数百万只鸟在冬季来临前向南迁徙。"
+  },
+  {
+    "w": "mineral",
+    "ph": "ˈmɪnərəl",
+    "pos": "n.",
+    "zh": "矿物；矿物质",
+    "ex": "The rock contains several minerals that form only under high pressure.",
+    "exzh": "这块岩石含有几种只在高压下形成的矿物。"
+  },
+  {
+    "w": "modify",
+    "ph": "ˈmɑːdəfaɪ",
+    "pos": "v.",
+    "zh": "修改；调整",
+    "ex": "Engineers modified the design to withstand stronger earthquakes.",
+    "exzh": "工程师修改了设计，以承受更强的地震。"
+  },
+  {
+    "w": "molecule",
+    "ph": "ˈmɑːlɪkjuːl",
+    "pos": "n.",
+    "zh": "分子",
+    "ex": "A water molecule consists of two hydrogen atoms and one oxygen atom.",
+    "exzh": "一个水分子由两个氢原子和一个氧原子构成。"
+  },
+  {
+    "w": "narrative",
+    "ph": "ˈnærətɪv",
+    "pos": "n.",
+    "zh": "叙述；故事",
+    "ex": "The oral narrative preserved the history of the community.",
+    "exzh": "口述叙事保存了该社区的历史。"
+  },
+  {
+    "w": "navigate",
+    "ph": "ˈnævɪɡeɪt",
+    "pos": "v.",
+    "zh": "导航；航行",
+    "ex": "Early sailors navigated by observing stars and ocean currents.",
+    "exzh": "早期水手通过观察星辰和洋流来导航。"
+  },
+  {
+    "w": "negligible",
+    "ph": "ˈnɛɡlɪdʒəbəl",
+    "pos": "adj.",
+    "zh": "微不足道的；可忽略的",
+    "ex": "The difference between the two samples was statistically negligible.",
+    "exzh": "两个样本之间的差异在统计上可以忽略不计。"
+  },
+  {
+    "w": "negotiate",
+    "ph": "nɪˈɡoʊʃieɪt",
+    "pos": "v.",
+    "zh": "谈判；协商",
+    "ex": "Representatives negotiated a treaty to share the river's water.",
+    "exzh": "代表们协商达成了一项共享河水的条约。"
+  },
+  {
+    "w": "nomadic",
+    "ph": "noʊˈmædɪk",
+    "pos": "adj.",
+    "zh": "游牧的；流浪的",
+    "ex": "Nomadic herders moved their animals in search of seasonal pasture.",
+    "exzh": "游牧民赶着牲畜寻找季节性牧场。"
+  },
+  {
+    "w": "norm",
+    "ph": "nɔːrm",
+    "pos": "n.",
+    "zh": "规范；常态",
+    "ex": "Social norms influence how people respond to public health advice.",
+    "exzh": "社会规范影响人们如何回应公共卫生建议。"
+  },
+  {
+    "w": "notion",
+    "ph": "ˈnoʊʃən",
+    "pos": "n.",
+    "zh": "概念；观念",
+    "ex": "The notion that continents move was once widely rejected.",
+    "exzh": "大陆会移动这一观念曾遭到广泛否定。"
+  },
+  {
+    "w": "nutrient",
+    "ph": "ˈnuːtriənt",
+    "pos": "n.",
+    "zh": "营养物；养分",
+    "ex": "Decaying plants release nutrients that enrich the forest soil.",
+    "exzh": "腐烂的植物释放养分，使森林土壤更加肥沃。"
+  },
+  {
+    "w": "objective",
+    "ph": "əbˈdʒɛktɪv",
+    "pos": "n.",
+    "zh": "目标；目的",
+    "ex": "The main objective of the study was to measure soil erosion.",
+    "exzh": "这项研究的主要目标是测量土壤侵蚀。"
+  },
+  {
+    "w": "observe",
+    "ph": "əbˈzɝːv",
+    "pos": "v.",
+    "zh": "观察；遵守",
+    "ex": "Astronomers observed the comet through a powerful new telescope.",
+    "exzh": "天文学家通过一台强大的新望远镜观察了这颗彗星。"
+  },
+  {
+    "w": "obtain",
+    "ph": "əbˈteɪn",
+    "pos": "v.",
+    "zh": "获得；获取",
+    "ex": "Researchers obtained permission to excavate the ancient burial site.",
+    "exzh": "研究人员获得了发掘这处古代墓地的许可。"
+  },
+  {
+    "w": "occupy",
+    "ph": "ˈɑːkjəpaɪ",
+    "pos": "v.",
+    "zh": "占据；占用",
+    "ex": "Farming communities occupied the fertile valley for thousands of years.",
+    "exzh": "农耕社区占据这个肥沃的山谷数千年之久。"
+  },
+  {
+    "w": "offset",
+    "ph": "ˈɔːfsɛt",
+    "pos": "v.",
+    "zh": "抵消；补偿",
+    "ex": "Planting trees can offset some of the carbon released by industry.",
+    "exzh": "植树可以抵消工业排放的部分碳。"
+  },
+  {
+    "w": "optimal",
+    "ph": "ˈɑːptɪməl",
+    "pos": "adj.",
+    "zh": "最佳的；最优的",
+    "ex": "These plants grow best under optimal light and moisture conditions.",
+    "exzh": "这些植物在最佳光照和湿度条件下生长最好。"
+  },
+  {
+    "w": "orbit",
+    "ph": "ˈɔːrbɪt",
+    "pos": "n.",
+    "zh": "轨道；环绕",
+    "ex": "The satellite completes one orbit around the Earth every ninety minutes.",
+    "exzh": "这颗卫星每九十分钟绕地球一圈。"
+  },
+  {
+    "w": "organism",
+    "ph": "ˈɔːrɡənɪzəm",
+    "pos": "n.",
+    "zh": "生物；有机体",
+    "ex": "Every organism in the reef depends on clean, warm water.",
+    "exzh": "珊瑚礁中的每一种生物都依赖干净温暖的海水。"
+  },
+  {
+    "w": "originate",
+    "ph": "əˈrɪdʒɪneɪt",
+    "pos": "v.",
+    "zh": "起源；发源",
+    "ex": "Many cultivated plants originated in the mountains of Central America.",
+    "exzh": "许多栽培植物起源于中美洲的山地。"
+  },
+  {
+    "w": "parallel",
+    "ph": "ˈpærəlɛl",
+    "pos": "adj.",
+    "zh": "平行的；类似的",
+    "ex": "The two mountain ranges run parallel to the coast.",
+    "exzh": "这两条山脉与海岸线平行延伸。"
+  },
+  {
+    "w": "parameter",
+    "ph": "pəˈræmɪtər",
+    "pos": "n.",
+    "zh": "参数；界限",
+    "ex": "Researchers adjusted several parameters to improve the model's accuracy.",
+    "exzh": "研究人员调整了几个参数以提高模型的准确性。"
+  },
+  {
+    "w": "participate",
+    "ph": "pɑːrˈtɪsəpeɪt",
+    "pos": "v.",
+    "zh": "参与；参加",
+    "ex": "Local residents participated in the survey about public transportation.",
+    "exzh": "当地居民参与了这项关于公共交通的调查。"
+  },
+  {
+    "w": "particle",
+    "ph": "ˈpɑːrtɪkəl",
+    "pos": "n.",
+    "zh": "粒子；微粒",
+    "ex": "Fine particles in the air can damage the human respiratory system.",
+    "exzh": "空气中的细颗粒物会损害人体呼吸系统。"
+  },
+  {
+    "w": "perceive",
+    "ph": "pərˈsiːv",
+    "pos": "v.",
+    "zh": "感知；认为",
+    "ex": "People perceive color differently depending on the surrounding light.",
+    "exzh": "人们感知颜色会因周围光线不同而不同。"
+  },
+  {
+    "w": "periodic",
+    "ph": "ˌpɪriˈɑːdɪk",
+    "pos": "adj.",
+    "zh": "周期性的；定期的",
+    "ex": "Periodic droughts have shaped the region's agricultural practices.",
+    "exzh": "周期性干旱塑造了该地区的农业实践。"
+  },
+  {
+    "w": "permanent",
+    "ph": "ˈpɝːmənənt",
+    "pos": "adj.",
+    "zh": "永久的；固定的",
+    "ex": "The settlement became permanent once a reliable water source was found.",
+    "exzh": "找到可靠水源后，这个定居点变得永久定居。"
+  },
+  {
+    "w": "persist",
+    "ph": "pərˈsɪst",
+    "pos": "v.",
+    "zh": "持续；坚持",
+    "ex": "Dry conditions persisted throughout the summer and damaged crops.",
+    "exzh": "干旱条件持续整个夏季，损害了农作物。"
+  },
+  {
+    "w": "phenomenon",
+    "ph": "fəˈnɑːmənɑːn",
+    "pos": "n.",
+    "zh": "现象",
+    "ex": "Scientists still cannot fully explain this unusual atmospheric phenomenon.",
+    "exzh": "科学家仍无法完全解释这一不寻常的大气现象。"
+  },
+  {
+    "w": "photosynthesis",
+    "ph": "ˌfoʊtoʊˈsɪnθəsɪs",
+    "pos": "n.",
+    "zh": "光合作用",
+    "ex": "Photosynthesis converts sunlight into chemical energy inside plant cells.",
+    "exzh": "光合作用在植物细胞内将阳光转化为化学能。"
+  },
+  {
+    "w": "plausible",
+    "ph": "ˈplɔːzəbəl",
+    "pos": "adj.",
+    "zh": "似乎合理的；可信的",
+    "ex": "The theory offers a plausible explanation for the sudden extinction.",
+    "exzh": "该理论为这次突然灭绝提供了看似合理的解释。"
+  },
+  {
+    "w": "policy",
+    "ph": "ˈpɑːləsi",
+    "pos": "n.",
+    "zh": "政策；方针",
+    "ex": "Public policy should reflect the latest evidence on climate risk.",
+    "exzh": "公共政策应反映关于气候风险的最新证据。"
+  },
+  {
+    "w": "pollinate",
+    "ph": "ˈpɑːləneɪt",
+    "pos": "v.",
+    "zh": "授粉",
+    "ex": "Bees pollinate many crops that humans depend on for food.",
+    "exzh": "蜜蜂为许多人类赖以食用的作物授粉。"
+  },
+  {
+    "w": "potential",
+    "ph": "pəˈtɛnʃəl",
+    "pos": "n.",
+    "zh": "潜力；可能性",
+    "ex": "The region has great potential for producing wind energy.",
+    "exzh": "该地区在生产风能方面潜力巨大。"
+  },
+  {
+    "w": "precede",
+    "ph": "prɪˈsiːd",
+    "pos": "v.",
+    "zh": "先于；在…之前",
+    "ex": "A period of rapid warming preceded the collapse of the ice sheet.",
+    "exzh": "冰盖崩塌之前有一段快速变暖时期。"
+  },
+  {
+    "w": "predator",
+    "ph": "ˈprɛdətər",
+    "pos": "n.",
+    "zh": "捕食者；食肉动物",
+    "ex": "Top predators help maintain balance in the forest ecosystem.",
+    "exzh": "顶级捕食者有助于维持森林生态系统的平衡。"
+  },
+  {
+    "w": "predict",
+    "ph": "prɪˈdɪkt",
+    "pos": "v.",
+    "zh": "预测；预言",
+    "ex": "Climate models predict more frequent heat waves in coming decades.",
+    "exzh": "气候模型预测未来几十年热浪将更加频繁。"
+  },
+  {
+    "w": "preserve",
+    "ph": "prɪˈzɝːv",
+    "pos": "v.",
+    "zh": "保存；保护",
+    "ex": "Museums preserve artifacts that tell the story of early civilizations.",
+    "exzh": "博物馆保存着讲述早期文明故事的文物。"
+  },
+  {
+    "w": "qualitative",
+    "ph": "ˈkwɑːləteɪtɪv",
+    "pos": "adj.",
+    "zh": "定性的；性质上的",
+    "ex": "Qualitative interviews revealed how residents experienced the new policy.",
+    "exzh": "定性访谈揭示了居民对新政策的体验。"
+  },
+  {
+    "w": "quantitative",
+    "ph": "ˈkwɑːntəteɪtɪv",
+    "pos": "adj.",
+    "zh": "定量的；数量的",
+    "ex": "The study used quantitative data to compare rates of deforestation.",
+    "exzh": "该研究使用定量数据比较森林砍伐率。"
+  },
+  {
+    "w": "quota",
+    "ph": "ˈkwoʊtə",
+    "pos": "n.",
+    "zh": "配额；定额",
+    "ex": "The government set a quota on the number of fish caught annually.",
+    "exzh": "政府设定了年度捕鱼数量配额。"
+  },
+  {
+    "w": "random",
+    "ph": "ˈrændəm",
+    "pos": "adj.",
+    "zh": "随机的；任意的",
+    "ex": "Participants were assigned to groups in a random order.",
+    "exzh": "参与者被按随机顺序分配到各组。"
+  },
+  {
+    "w": "ratio",
+    "ph": "ˈreɪʃoʊ",
+    "pos": "n.",
+    "zh": "比率；比例",
+    "ex": "The ratio of carbon to nitrogen affects how quickly materials decompose.",
+    "exzh": "碳氮比影响物质分解的速度。"
+  },
+  {
+    "w": "rational",
+    "ph": "ˈræʃənəl",
+    "pos": "adj.",
+    "zh": "理性的；合理的",
+    "ex": "Consumers do not always make rational choices about energy use.",
+    "exzh": "消费者在能源使用方面并不总是做出理性选择。"
+  },
+  {
+    "w": "reciprocal",
+    "ph": "rɪˈsɪprəkəl",
+    "pos": "adj.",
+    "zh": "相互的；互惠的",
+    "ex": "The two species have a reciprocal relationship based on mutual benefit.",
+    "exzh": "这两个物种基于互利形成相互依存的关系。"
+  },
+  {
+    "w": "reconstruct",
+    "ph": "ˌriːkənˈstrʌkt",
+    "pos": "v.",
+    "zh": "重建；重构",
+    "ex": "Scientists reconstructed the ancient climate from ice core samples.",
+    "exzh": "科学家根据冰芯样本重建了古代气候。"
+  },
+  {
+    "w": "refine",
+    "ph": "rɪˈfaɪn",
+    "pos": "v.",
+    "zh": "改进；提炼",
+    "ex": "Researchers refined their model after testing it on new data.",
+    "exzh": "研究人员用新数据测试后改进了模型。"
+  },
+  {
+    "w": "regime",
+    "ph": "rəˈʒiːm",
+    "pos": "n.",
+    "zh": "政权；制度",
+    "ex": "The new regime introduced sweeping reforms to the legal system.",
+    "exzh": "新政权对法律体系进行了全面改革。"
+  },
+  {
+    "w": "reinforce",
+    "ph": "ˌriːɪnˈfɔːrs",
+    "pos": "v.",
+    "zh": "加强；强化",
+    "ex": "Repeated droughts may reinforce the cycle of soil degradation.",
+    "exzh": "反复干旱可能加剧土壤退化的循环。"
+  },
+  {
+    "w": "reliable",
+    "ph": "rɪˈlaɪəbəl",
+    "pos": "adj.",
+    "zh": "可靠的；可信的",
+    "ex": "Oral histories are valuable but not always reliable as evidence.",
+    "exzh": "口述历史很有价值，但作为证据并不总是可靠。"
+  },
+  {
+    "w": "remote",
+    "ph": "rɪˈmoʊt",
+    "pos": "adj.",
+    "zh": "偏远的；遥远的",
+    "ex": "Remote sensing allows scientists to monitor changes in forest cover.",
+    "exzh": "遥感使科学家能够监测森林覆盖的变化。"
+  },
+  {
+    "w": "render",
+    "ph": "ˈrɛndər",
+    "pos": "v.",
+    "zh": "使成为；提供",
+    "ex": "Heavy rain rendered the dirt road impassable for several days.",
+    "exzh": "大雨使这条土路数天无法通行。"
+  },
+  {
+    "w": "reproduce",
+    "ph": "ˌriːprəˈduːs",
+    "pos": "v.",
+    "zh": "繁殖；复制",
+    "ex": "These fish reproduce only in shallow, warm coastal waters.",
+    "exzh": "这些鱼只在温暖的海岸浅水区繁殖。"
+  },
+  {
+    "w": "resilient",
+    "ph": "rɪˈzɪliənt",
+    "pos": "adj.",
+    "zh": "有韧性的；能恢复的",
+    "ex": "Resilient ecosystems can recover from disturbances such as fires.",
+    "exzh": "有韧性的生态系统能从火灾等干扰中恢复。"
+  },
+  {
+    "w": "reveal",
+    "ph": "rɪˈviːl",
+    "pos": "v.",
+    "zh": "揭示；显露",
+    "ex": "New excavations reveal how the city was organized in antiquity.",
+    "exzh": "新的发掘揭示了这座古城在古代如何布局。"
+  },
+  {
+    "w": "scatter",
+    "ph": "ˈskætər",
+    "pos": "v.",
+    "zh": "散开；分散",
+    "ex": "Wind can scatter seeds across a surprisingly large distance.",
+    "exzh": "风能把种子散播到惊人的远处。"
+  },
+  {
+    "w": "scenario",
+    "ph": "səˈnɛrioʊ",
+    "pos": "n.",
+    "zh": "情景；设想",
+    "ex": "Scientists modeled a scenario in which global emissions decline rapidly.",
+    "exzh": "科学家模拟了全球排放迅速下降的情景。"
+  },
+  {
+    "w": "sediment",
+    "ph": "ˈsɛdəmənt",
+    "pos": "n.",
+    "zh": "沉积物",
+    "ex": "Layers of sediment preserve evidence of ancient floods.",
+    "exzh": "层层沉积物保存着古代洪水的证据。"
+  },
+  {
+    "w": "segment",
+    "ph": "ˈsɛɡmənt",
+    "pos": "n.",
+    "zh": "部分；片段",
+    "ex": "The final segment of the lecture focused on marine ecosystems.",
+    "exzh": "讲座的最后一部分聚焦海洋生态系统。"
+  },
+  {
+    "w": "sequence",
+    "ph": "ˈsiːkwəns",
+    "pos": "n.",
+    "zh": "顺序；序列",
+    "ex": "Geologists dated the rock sequence using radioactive isotopes.",
+    "exzh": "地质学家利用放射性同位素测定了岩层的年代。"
+  },
+  {
+    "w": "simulate",
+    "ph": "ˈsɪmjəleɪt",
+    "pos": "v.",
+    "zh": "模拟；模仿",
+    "ex": "Computer models simulate how ocean currents affect global temperatures.",
+    "exzh": "计算机模型模拟洋流如何影响全球气温。"
+  },
+  {
+    "w": "skeptical",
+    "ph": "ˈskɛptɪkəl",
+    "pos": "adj.",
+    "zh": "怀疑的",
+    "ex": "Many scientists remained skeptical of the extraordinary claim.",
+    "exzh": "许多科学家对这一惊人主张仍持怀疑态度。"
+  },
+  {
+    "w": "society",
+    "ph": "səˈsaɪəti",
+    "pos": "n.",
+    "zh": "社会；社团",
+    "ex": "Trade helped shape the society of the ancient Mediterranean.",
+    "exzh": "贸易帮助塑造了古代地中海社会。"
+  },
+  {
+    "w": "solar",
+    "ph": "ˈsoʊlər",
+    "pos": "adj.",
+    "zh": "太阳的；太阳能的",
+    "ex": "Solar radiation drives the circulation of the atmosphere and oceans.",
+    "exzh": "太阳辐射驱动大气和海洋的环流。"
+  },
+  {
+    "w": "species",
+    "ph": "ˈspiːʃiːz",
+    "pos": "n.",
+    "zh": "物种",
+    "ex": "These species evolved in isolation on the remote island.",
+    "exzh": "这些物种在偏远的岛屿上孤立演化。"
+  },
+  {
+    "w": "specify",
+    "ph": "ˈspɛsəfaɪ",
+    "pos": "v.",
+    "zh": "明确说明；指定",
+    "ex": "The instructions specify how each sample should be stored.",
+    "exzh": "说明中明确规定了每个样本应如何储存。"
+  },
+  {
+    "w": "sphere",
+    "ph": "sfɪr",
+    "pos": "n.",
+    "zh": "球体；领域",
+    "ex": "The planet's iron core forms a solid sphere at its center.",
+    "exzh": "这颗行星的铁核在中心形成一个固态球体。"
+  },
+  {
+    "w": "stable",
+    "ph": "ˈsteɪbəl",
+    "pos": "adj.",
+    "zh": "稳定的；稳固的",
+    "ex": "A stable climate allowed farming communities to flourish.",
+    "exzh": "稳定的气候使农耕社区得以繁荣。"
+  },
+  {
+    "w": "stimulate",
+    "ph": "ˈstɪmjəleɪt",
+    "pos": "v.",
+    "zh": "刺激；促进",
+    "ex": "Warm water can stimulate the growth of harmful algae.",
+    "exzh": "温暖的水会刺激有害藻类生长。"
+  },
+  {
+    "w": "strategy",
+    "ph": "ˈstrætədʒi",
+    "pos": "n.",
+    "zh": "策略；战略",
+    "ex": "Conservationists developed a strategy to protect migrating birds.",
+    "exzh": "保护人士制定了一项保护候鸟的策略。"
+  },
+  {
+    "w": "structure",
+    "ph": "ˈstrʌktʃər",
+    "pos": "n.",
+    "zh": "结构；构造",
+    "ex": "The structure of the cell membrane controls what enters and exits.",
+    "exzh": "细胞膜的结构控制物质的进出。"
+  },
+  {
+    "w": "subsequent",
+    "ph": "ˈsʌbsəkwənt",
+    "pos": "adj.",
+    "zh": "随后的；后来的",
+    "ex": "Subsequent studies confirmed the original findings about ocean acidification.",
+    "exzh": "随后的研究证实了最初关于海洋酸化的发现。"
+  },
+  {
+    "w": "subsist",
+    "ph": "səbˈsɪst",
+    "pos": "v.",
+    "zh": "维持生存；勉强维生",
+    "ex": "Early farmers subsisted mainly on grains, beans, and wild plants.",
+    "exzh": "早期农民主要靠谷物、豆类和野生植物维生。"
+  },
+  {
+    "w": "sufficient",
+    "ph": "səˈfɪʃənt",
+    "pos": "adj.",
+    "zh": "足够的；充分的",
+    "ex": "Plants need sufficient sunlight to carry out photosynthesis efficiently.",
+    "exzh": "植物需要充足的阳光才能高效进行光合作用。"
+  },
+  {
+    "w": "sustain",
+    "ph": "səˈsteɪn",
+    "pos": "v.",
+    "zh": "维持；支撑",
+    "ex": "Small farms could not sustain the growing urban population.",
+    "exzh": "小农场无法养活不断增长的城市人口。"
+  },
+  {
+    "w": "symbol",
+    "ph": "ˈsɪmbəl",
+    "pos": "n.",
+    "zh": "符号；象征",
+    "ex": "The dove is a widely recognized symbol of peace.",
+    "exzh": "鸽子是广为人知的和平象征。"
+  },
+  {
+    "w": "synthesize",
+    "ph": "ˈsɪnθəsaɪz",
+    "pos": "v.",
+    "zh": "合成；综合",
+    "ex": "Plants synthesize sugars from carbon dioxide and water.",
+    "exzh": "植物利用二氧化碳和水合成糖类。"
+  },
+  {
+    "w": "systematic",
+    "ph": "ˌsɪstəˈmætɪk",
+    "pos": "adj.",
+    "zh": "系统的；有条理的",
+    "ex": "The team conducted a systematic review of published climate studies.",
+    "exzh": "该团队对已发表的气候研究进行了系统综述。"
+  },
+  {
+    "w": "technique",
+    "ph": "tɛkˈniːk",
+    "pos": "n.",
+    "zh": "技术；技巧",
+    "ex": "Archaeologists use new dating techniques to analyze ancient bones.",
+    "exzh": "考古学家使用新的测年技术分析古代骨骼。"
+  },
+  {
+    "w": "tectonic",
+    "ph": "tɛkˈtɑːnɪk",
+    "pos": "adj.",
+    "zh": "构造的；地壳运动的",
+    "ex": "Tectonic activity formed the mountains along the western coast.",
+    "exzh": "构造活动形成了西海岸沿线的山脉。"
+  },
+  {
+    "w": "temperate",
+    "ph": "ˈtɛmpərət",
+    "pos": "adj.",
+    "zh": "温带的；温和的",
+    "ex": "Temperate forests experience distinct seasons and moderate rainfall.",
+    "exzh": "温带森林四季分明，降水适中。"
+  },
+  {
+    "w": "tendency",
+    "ph": "ˈtɛndənsi",
+    "pos": "n.",
+    "zh": "趋势；倾向",
+    "ex": "Scientists observed a tendency for storms to intensify over warm water.",
+    "exzh": "科学家观察到风暴在暖水上方增强的趋势。"
+  },
+  {
+    "w": "terrestrial",
+    "ph": "təˈrɛstriəl",
+    "pos": "adj.",
+    "zh": "陆地的；地球的",
+    "ex": "Terrestrial animals evolved from creatures that once lived in water.",
+    "exzh": "陆生动物由曾生活在水中生物演化而来。"
+  },
+  {
+    "w": "theoretical",
+    "ph": "ˌθiːəˈrɛtɪkəl",
+    "pos": "adj.",
+    "zh": "理论的；假设的",
+    "ex": "The idea remains theoretical until experiments provide supporting evidence.",
+    "exzh": "在实验提供支持证据之前，这一想法仍停留在理论层面。"
+  },
+  {
+    "w": "thermal",
+    "ph": "ˈθɝːməl",
+    "pos": "adj.",
+    "zh": "热的；热量的",
+    "ex": "Thermal energy from the sun drives weather patterns on Earth.",
+    "exzh": "来自太阳的热能驱动地球上的天气模式。"
+  },
+  {
+    "w": "threshold",
+    "ph": "ˈθrɛʃhoʊld",
+    "pos": "n.",
+    "zh": "阈值；门槛",
+    "ex": "Beyond a certain threshold, the material begins to melt.",
+    "exzh": "超过某一阈值后，材料开始熔化。"
+  },
+  {
+    "w": "tolerance",
+    "ph": "ˈtɑːlərəns",
+    "pos": "n.",
+    "zh": "容忍；耐受性",
+    "ex": "Some plants have a high tolerance for salt and drought.",
+    "exzh": "有些植物对盐分和干旱有很强的耐受性。"
+  },
+  {
+    "w": "transform",
+    "ph": "trænsˈfɔːrm",
+    "pos": "v.",
+    "zh": "转变；改造",
+    "ex": "Agriculture transformed human societies over several thousand years.",
+    "exzh": "农业在数千年间改变了人类社会。"
+  },
+  {
+    "w": "transition",
+    "ph": "trænˈzɪʃən",
+    "pos": "n.",
+    "zh": "过渡；转变",
+    "ex": "The transition from nomadic life to farming took many generations.",
+    "exzh": "从游牧生活到农耕的转变经历了许多代人。"
+  },
+  {
+    "w": "transmit",
+    "ph": "trænsˈmɪt",
+    "pos": "v.",
+    "zh": "传递；传播",
+    "ex": "Mosquitoes can transmit diseases to humans and other animals.",
+    "exzh": "蚊子能将疾病传播给人类和其他动物。"
+  },
+  {
+    "w": "trigger",
+    "ph": "ˈtrɪɡər",
+    "pos": "v.",
+    "zh": "引发；触发",
+    "ex": "A sudden drop in temperature can trigger an early frost.",
+    "exzh": "气温骤降可能引发早霜。"
+  },
+  {
+    "w": "ultimate",
+    "ph": "ˈʌltəmət",
+    "pos": "adj.",
+    "zh": "最终的；根本的",
+    "ex": "The ultimate goal of the project is to reduce urban pollution.",
+    "exzh": "该项目的最终目标是减少城市污染。"
+  },
+  {
+    "w": "undergo",
+    "ph": "ˌʌndərˈɡoʊ",
+    "pos": "v.",
+    "zh": "经历；接受",
+    "ex": "These rocks underwent intense heat and pressure deep underground.",
+    "exzh": "这些岩石在地下深处经历了强烈的高温和高压。"
+  },
+  {
+    "w": "uniform",
+    "ph": "ˈjuːnɪfɔːrm",
+    "pos": "adj.",
+    "zh": "一致的；统一的",
+    "ex": "The samples showed a uniform distribution of tiny mineral grains.",
+    "exzh": "样本中的微小矿物颗粒呈均匀分布。"
+  },
+  {
+    "w": "unique",
+    "ph": "juˈniːk",
+    "pos": "adj.",
+    "zh": "独特的；唯一的",
+    "ex": "Each layer of sediment preserves a unique record of past climate.",
+    "exzh": "每一层沉积物都保存着过去气候的独特记录。"
+  },
+  {
+    "w": "urban",
+    "ph": "ˈɝːbən",
+    "pos": "adj.",
+    "zh": "城市的；都市的",
+    "ex": "Urban growth has increased demand for clean water and housing.",
+    "exzh": "城市发展增加了对清洁水和住房的需求。"
+  },
+  {
+    "w": "utilize",
+    "ph": "ˈjuːtəlaɪz",
+    "pos": "v.",
+    "zh": "利用；使用",
+    "ex": "Farmers utilize drip irrigation to conserve water in dry regions.",
+    "exzh": "农民利用滴灌在干旱地区节约用水。"
+  },
+  {
+    "w": "valid",
+    "ph": "ˈvælɪd",
+    "pos": "adj.",
+    "zh": "有效的；合理的",
+    "ex": "The conclusion is valid only if the sample is truly random.",
+    "exzh": "只有当样本真正随机时，这个结论才有效。"
+  },
+  {
+    "w": "variable",
+    "ph": "ˈvɛriəbəl",
+    "pos": "n.",
+    "zh": "变量；可变因素",
+    "ex": "Researchers controlled every variable except the amount of light.",
+    "exzh": "研究人员控制了除光照量以外的所有变量。"
+  },
+  {
+    "w": "vary",
+    "ph": "ˈvɛri",
+    "pos": "v.",
+    "zh": "变化；不同",
+    "ex": "Rainfall varies greatly across the region from year to year.",
+    "exzh": "该地区的降雨量年际变化很大。"
+  },
+  {
+    "w": "vast",
+    "ph": "væst",
+    "pos": "adj.",
+    "zh": "广阔的；巨大的",
+    "ex": "The vast grassland supports millions of grazing animals.",
+    "exzh": "广阔的草原养活了数百万只食草动物。"
+  },
+  {
+    "w": "vegetation",
+    "ph": "ˌvɛdʒəˈteɪʃən",
+    "pos": "n.",
+    "zh": "植被；植物",
+    "ex": "Dense vegetation covers the slopes of the tropical mountain.",
+    "exzh": "茂密的植被覆盖着这座热带山峰的坡地。"
+  },
+  {
+    "w": "velocity",
+    "ph": "vəˈlɑːsəti",
+    "pos": "n.",
+    "zh": "速度；速率",
+    "ex": "The velocity of the current increases as the river narrows.",
+    "exzh": "河流变窄时，水流速度会加快。"
+  },
+  {
+    "w": "vital",
+    "ph": "ˈvaɪtəl",
+    "pos": "adj.",
+    "zh": "至关重要的；生命的",
+    "ex": "Clean water is vital to the health of every community.",
+    "exzh": "清洁水对每个社区的健康都至关重要。"
+  },
+  {
+    "w": "wavelength",
+    "ph": "ˈweɪvlɛŋθ",
+    "pos": "n.",
+    "zh": "波长",
+    "ex": "Different colors of light have different wavelengths and energies.",
+    "exzh": "不同颜色的光具有不同的波长和能量。"
+  },
+  {
+    "w": "widespread",
+    "ph": "ˈwaɪdˌsprɛd",
+    "pos": "adj.",
+    "zh": "广泛的；普遍的",
+    "ex": "Widespread use of antibiotics has led to resistant bacteria.",
+    "exzh": "抗生素的广泛使用导致了耐药细菌的出现。"
+  },
+  {
+    "w": "withdraw",
+    "ph": "wɪðˈdrɔː",
+    "pos": "v.",
+    "zh": "撤回；提取；退出",
+    "ex": "The government withdrew its support for the costly dam project.",
+    "exzh": "政府撤回了对这个昂贵水坝项目的支持。"
+  },
+  {
+    "w": "withstand",
+    "ph": "wɪðˈstænd",
+    "pos": "v.",
+    "zh": "承受；抵挡",
+    "ex": "These buildings are designed to withstand strong earthquakes.",
+    "exzh": "这些建筑的设计能够承受强烈地震。"
+  },
+  {
+    "w": "witness",
+    "ph": "ˈwɪtnəs",
+    "pos": "v.",
+    "zh": "目睹；见证",
+    "ex": "The region has witnessed rapid economic growth over the past decade.",
+    "exzh": "过去十年，该地区见证了快速的经济增长。"
+  },
+  {
+    "w": "workforce",
+    "ph": "ˈwɝːkfɔːrs",
+    "pos": "n.",
+    "zh": "劳动力；员工队伍",
+    "ex": "An aging workforce may slow economic growth in many countries.",
+    "exzh": "劳动力老龄化可能减缓许多国家的经济增长。"
+  },
+  {
+    "w": "xenophobia",
+    "ph": "ˌzɛnəˈfoʊbiə",
+    "pos": "n.",
+    "zh": "仇外心理；对外国人的恐惧",
+    "ex": "Economic hardship can fuel xenophobia toward immigrants and refugees.",
+    "exzh": "经济困难可能助长对移民和难民的仇外心理。"
+  },
+  {
+    "w": "xylem",
+    "ph": "ˈzaɪləm",
+    "pos": "n.",
+    "zh": "木质部",
+    "ex": "Xylem vessels carry water from roots to the leaves.",
+    "exzh": "木质部导管将水分从根部输送到叶片。"
+  },
+  {
+    "w": "yeast",
+    "ph": "jiːst",
+    "pos": "n.",
+    "zh": "酵母",
+    "ex": "Yeast converts sugar into alcohol during the fermentation process.",
+    "exzh": "酵母在发酵过程中将糖转化为酒精。"
+  },
+  {
+    "w": "yield",
+    "ph": "jiːld",
+    "pos": "v.",
+    "zh": "产生；屈服",
+    "ex": "The experiment yielded unexpected results about plant growth.",
+    "exzh": "该实验在植物生长方面产生了意想不到的结果。"
+  },
+  {
+    "w": "zone",
+    "ph": "zoʊn",
+    "pos": "n.",
+    "zh": "地带；区域",
+    "ex": "The temperate zone experiences distinct seasons and moderate temperatures.",
+    "exzh": "温带地区四季分明，气温适中。"
+  },
+  {
+    "w": "zooplankton",
+    "ph": "ˌzoʊəˈplæŋktən",
+    "pos": "n.",
+    "zh": "浮游动物",
+    "ex": "Zooplankton drift near the surface and feed on tiny algae.",
+    "exzh": "浮游动物漂浮在近表层，以微小藻类为食。"
+  }
+]

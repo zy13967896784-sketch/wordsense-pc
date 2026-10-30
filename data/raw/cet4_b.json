@@ -1,0 +1,1922 @@
+[
+  {
+    "w": "maintain",
+    "ph": "meɪnˈteɪn",
+    "pos": "v.",
+    "zh": "维持；保养；坚持",
+    "ex": "Regular exercise helps you maintain a healthy body and mind.",
+    "exzh": "经常锻炼有助于保持健康的身体和心态。"
+  },
+  {
+    "w": "major",
+    "ph": "ˈmeɪdʒər",
+    "pos": "adj.",
+    "zh": "主要的；重大的；专业",
+    "ex": "Air pollution is a major problem in many large cities.",
+    "exzh": "空气污染是许多大城市的一个主要问题。"
+  },
+  {
+    "w": "manage",
+    "ph": "ˈmænɪdʒ",
+    "pos": "v.",
+    "zh": "管理；设法完成",
+    "ex": "She manages a small team of designers in Shanghai.",
+    "exzh": "她在上海管理一个小型设计师团队。"
+  },
+  {
+    "w": "manner",
+    "ph": "ˈmænər",
+    "pos": "n.",
+    "zh": "方式；态度；礼貌",
+    "ex": "He answered the question in a calm and respectful manner.",
+    "exzh": "他以冷静而尊重的态度回答了这个问题。"
+  },
+  {
+    "w": "manufacture",
+    "ph": "ˌmænjuˈfæktʃər",
+    "pos": "v./n.",
+    "zh": "制造；生产",
+    "ex": "The company manufactures electric cars for the European market.",
+    "exzh": "这家公司为欧洲市场生产电动汽车。"
+  },
+  {
+    "w": "market",
+    "ph": "ˈmɑːrkɪt",
+    "pos": "n./v.",
+    "zh": "市场；行情",
+    "ex": "The local market sells fresh fruit and vegetables every morning.",
+    "exzh": "当地市场每天早上出售新鲜水果和蔬菜。"
+  },
+  {
+    "w": "material",
+    "ph": "məˈtɪriəl",
+    "pos": "n./adj.",
+    "zh": "材料；物质；素材",
+    "ex": "This building material is strong, cheap, and easy to use.",
+    "exzh": "这种建筑材料坚固、便宜且易于使用。"
+  },
+  {
+    "w": "matter",
+    "ph": "ˈmætər",
+    "pos": "n./v.",
+    "zh": "事情；问题；物质",
+    "ex": "The safety of passengers is a matter of great importance.",
+    "exzh": "乘客的安全是一件非常重要的事情。"
+  },
+  {
+    "w": "measure",
+    "ph": "ˈmeʒər",
+    "pos": "v./n.",
+    "zh": "测量；衡量；措施",
+    "ex": "We need to measure the length of the room carefully.",
+    "exzh": "我们需要仔细测量这个房间的长度。"
+  },
+  {
+    "w": "medical",
+    "ph": "ˈmedɪkəl",
+    "pos": "adj.",
+    "zh": "医学的；医疗的",
+    "ex": "She is studying medical science at a famous university.",
+    "exzh": "她正在一所著名大学学习医学。"
+  },
+  {
+    "w": "medium",
+    "ph": "ˈmiːdiəm",
+    "pos": "adj./n.",
+    "zh": "中等的；媒介",
+    "ex": "He prefers to buy clothes of medium size and simple style.",
+    "exzh": "他更喜欢买中等尺码、款式简单的衣服。"
+  },
+  {
+    "w": "mental",
+    "ph": "ˈmentəl",
+    "pos": "adj.",
+    "zh": "精神的；心理的；智力的",
+    "ex": "Regular sleep is important for your mental health and memory.",
+    "exzh": "规律的睡眠对你的心理健康和记忆力很重要。"
+  },
+  {
+    "w": "mention",
+    "ph": "ˈmenʃən",
+    "pos": "v./n.",
+    "zh": "提到；提及",
+    "ex": "She did not mention the meeting during our phone call.",
+    "exzh": "她在我们的通话中没有提到那次会议。"
+  },
+  {
+    "w": "method",
+    "ph": "ˈmeθəd",
+    "pos": "n.",
+    "zh": "方法；办法",
+    "ex": "This teaching method helps students learn new words quickly.",
+    "exzh": "这种教学方法能帮助学生快速学习新单词。"
+  },
+  {
+    "w": "military",
+    "ph": "ˈmɪləteri",
+    "pos": "adj./n.",
+    "zh": "军事的；军队",
+    "ex": "The military forces were sent to help after the flood.",
+    "exzh": "洪水过后，军队被派去帮忙。"
+  },
+  {
+    "w": "minimum",
+    "ph": "ˈmɪnɪməm",
+    "pos": "adj./n.",
+    "zh": "最低的；最小值",
+    "ex": "The minimum age for driving in this country is eighteen.",
+    "exzh": "这个国家的最低驾驶年龄是十八岁。"
+  },
+  {
+    "w": "minor",
+    "ph": "ˈmaɪnər",
+    "pos": "adj.",
+    "zh": "较小的；次要的",
+    "ex": "He suffered only minor injuries in the traffic accident.",
+    "exzh": "他在交通事故中只受了轻伤。"
+  },
+  {
+    "w": "mixture",
+    "ph": "ˈmɪkstʃər",
+    "pos": "n.",
+    "zh": "混合物；混合",
+    "ex": "The cake is made from a mixture of flour and sugar.",
+    "exzh": "这个蛋糕是由面粉和糖的混合物制成的。"
+  },
+  {
+    "w": "modern",
+    "ph": "ˈmɑːdərn",
+    "pos": "adj.",
+    "zh": "现代的；新式的",
+    "ex": "Modern technology has changed the way we communicate with others.",
+    "exzh": "现代科技改变了我们与他人交流的方式。"
+  },
+  {
+    "w": "modify",
+    "ph": "ˈmɑːdɪfaɪ",
+    "pos": "v.",
+    "zh": "修改；调整",
+    "ex": "We had to modify our plan because of the bad weather.",
+    "exzh": "由于天气恶劣，我们不得不修改计划。"
+  },
+  {
+    "w": "monitor",
+    "ph": "ˈmɑːnɪtər",
+    "pos": "v./n.",
+    "zh": "监控；显示器",
+    "ex": "Doctors monitor the patient's heart rate day and night.",
+    "exzh": "医生日夜监测病人的心率。"
+  },
+  {
+    "w": "moral",
+    "ph": "ˈmɔːrəl",
+    "pos": "adj./n.",
+    "zh": "道德的；寓意",
+    "ex": "It is our moral duty to help people in need.",
+    "exzh": "帮助有需要的人是我们的道德责任。"
+  },
+  {
+    "w": "motion",
+    "ph": "ˈmoʊʃən",
+    "pos": "n.",
+    "zh": "运动；动作；提议",
+    "ex": "The gentle motion of the boat made him feel sleepy.",
+    "exzh": "小船轻柔的晃动使他感到困倦。"
+  },
+  {
+    "w": "motivate",
+    "ph": "ˈmoʊtɪveɪt",
+    "pos": "v.",
+    "zh": "激励；促使",
+    "ex": "Good teachers know how to motivate students to work hard.",
+    "exzh": "好老师懂得如何激励学生努力学习。"
+  },
+  {
+    "w": "mount",
+    "ph": "maʊnt",
+    "pos": "v.",
+    "zh": "增加；登上；安装",
+    "ex": "Concern about air quality continues to mount in big cities.",
+    "exzh": "在大城市，人们对空气质量的担忧持续加剧。"
+  },
+  {
+    "w": "movement",
+    "ph": "ˈmuːvmənt",
+    "pos": "n.",
+    "zh": "运动；移动；动作",
+    "ex": "The slow movement of the clouds suggested that rain was coming.",
+    "exzh": "云层的缓慢移动表明要下雨了。"
+  },
+  {
+    "w": "multiple",
+    "ph": "ˈmʌltɪpəl",
+    "pos": "adj.",
+    "zh": "多个的；多样的",
+    "ex": "The survey asked people to choose from multiple answers.",
+    "exzh": "这项调查要求人们从多个答案中做出选择。"
+  },
+  {
+    "w": "mutual",
+    "ph": "ˈmjuːtʃuəl",
+    "pos": "adj.",
+    "zh": "相互的；共同的",
+    "ex": "Their friendship is based on mutual trust and respect.",
+    "exzh": "他们的友谊建立在相互信任和尊重的基础上。"
+  },
+  {
+    "w": "narrow",
+    "ph": "ˈnæroʊ",
+    "pos": "adj./v.",
+    "zh": "狭窄的；勉强的",
+    "ex": "The narrow street is lined with small shops and busy cafes.",
+    "exzh": "狭窄的街道两旁排列着小商店和繁忙的咖啡馆。"
+  },
+  {
+    "w": "nation",
+    "ph": "ˈneɪʃən",
+    "pos": "n.",
+    "zh": "国家；民族",
+    "ex": "The whole nation celebrated the team's victory last night.",
+    "exzh": "昨晚，全国人民都在庆祝这支队伍的胜利。"
+  },
+  {
+    "w": "native",
+    "ph": "ˈneɪtɪv",
+    "pos": "adj./n.",
+    "zh": "本地的；母语者",
+    "ex": "She speaks English like a native speaker of the language.",
+    "exzh": "她说起英语来就像母语者一样。"
+  },
+  {
+    "w": "natural",
+    "ph": "ˈnætʃərəl",
+    "pos": "adj.",
+    "zh": "自然的；天生的",
+    "ex": "This region is rich in natural resources such as coal and water.",
+    "exzh": "这个地区富含煤炭和水等自然资源。"
+  },
+  {
+    "w": "necessary",
+    "ph": "ˈnesəseri",
+    "pos": "adj.",
+    "zh": "必要的；必需的",
+    "ex": "It is necessary to book a ticket before the holiday starts.",
+    "exzh": "在假期开始前预订车票是必要的。"
+  },
+  {
+    "w": "negative",
+    "ph": "ˈneɡətɪv",
+    "pos": "adj./n.",
+    "zh": "负面的；消极的；否定的",
+    "ex": "Too much stress can have a negative effect on your health.",
+    "exzh": "过多的压力会对你的健康产生负面影响。"
+  },
+  {
+    "w": "neglect",
+    "ph": "nɪˈɡlekt",
+    "pos": "v./n.",
+    "zh": "忽视；疏忽",
+    "ex": "Many people neglect their health while chasing career success.",
+    "exzh": "许多人在追求事业成功时忽视了自己的健康。"
+  },
+  {
+    "w": "negotiate",
+    "ph": "nɪˈɡoʊʃieɪt",
+    "pos": "v.",
+    "zh": "谈判；协商",
+    "ex": "The two companies will negotiate a new contract next week.",
+    "exzh": "这两家公司下周将谈判一份新合同。"
+  },
+  {
+    "w": "nervous",
+    "ph": "ˈnɜːrvəs",
+    "pos": "adj.",
+    "zh": "紧张的；焦虑的",
+    "ex": "She felt nervous before giving her first public speech.",
+    "exzh": "她在第一次公开演讲前感到紧张。"
+  },
+  {
+    "w": "network",
+    "ph": "ˈnetwɜːrk",
+    "pos": "n./v.",
+    "zh": "网络；人脉",
+    "ex": "The city has a fast and reliable public transport network.",
+    "exzh": "这座城市拥有快速可靠的公共交通网络。"
+  },
+  {
+    "w": "neutral",
+    "ph": "ˈnuːtrəl",
+    "pos": "adj.",
+    "zh": "中立的；中性的",
+    "ex": "The reporter tried to stay neutral during the heated debate.",
+    "exzh": "在激烈的辩论中，记者努力保持中立。"
+  },
+  {
+    "w": "nevertheless",
+    "ph": "ˌnevərðəˈles",
+    "pos": "adv.",
+    "zh": "然而；尽管如此",
+    "ex": "The task was difficult; nevertheless, we finished it on time.",
+    "exzh": "任务很艰巨，尽管如此，我们还是按时完成了。"
+  },
+  {
+    "w": "normal",
+    "ph": "ˈnɔːrməl",
+    "pos": "adj.",
+    "zh": "正常的；普通的",
+    "ex": "It is normal to feel tired after a long journey.",
+    "exzh": "长途旅行后感到疲倦是正常的。"
+  },
+  {
+    "w": "notice",
+    "ph": "ˈnoʊtɪs",
+    "pos": "v./n.",
+    "zh": "注意到；通知",
+    "ex": "I did not notice the small sign beside the door.",
+    "exzh": "我没有注意到门旁的小标志。"
+  },
+  {
+    "w": "notion",
+    "ph": "ˈnoʊʃən",
+    "pos": "n.",
+    "zh": "概念；想法",
+    "ex": "He rejected the notion that money can buy happiness.",
+    "exzh": "他否定了金钱能买到幸福这一观念。"
+  },
+  {
+    "w": "object",
+    "ph": "ˈɑːbdʒekt",
+    "pos": "n./v.",
+    "zh": "物体；对象；目标",
+    "ex": "A strange object appeared in the sky above the village.",
+    "exzh": "一个奇怪的物体出现在村庄上方的天空中。"
+  },
+  {
+    "w": "observe",
+    "ph": "əbˈzɜːrv",
+    "pos": "v.",
+    "zh": "观察；遵守；注意到",
+    "ex": "Scientists observe the stars through powerful telescopes every night.",
+    "exzh": "科学家每晚用强大的望远镜观察星星。"
+  },
+  {
+    "w": "obtain",
+    "ph": "əbˈteɪn",
+    "pos": "v.",
+    "zh": "获得；得到",
+    "ex": "You must obtain permission before entering the research laboratory.",
+    "exzh": "进入研究实验室前你必须获得许可。"
+  },
+  {
+    "w": "obvious",
+    "ph": "ˈɑːbviəs",
+    "pos": "adj.",
+    "zh": "明显的；显而易见的",
+    "ex": "It was obvious that she had not read the report.",
+    "exzh": "很明显，她没有读过那份报告。"
+  },
+  {
+    "w": "occasion",
+    "ph": "əˈkeɪʒən",
+    "pos": "n.",
+    "zh": "场合；时机",
+    "ex": "A wedding is a special occasion for the whole family.",
+    "exzh": "婚礼是全家人的一个特殊场合。"
+  },
+  {
+    "w": "occupy",
+    "ph": "ˈɑːkjupaɪ",
+    "pos": "v.",
+    "zh": "占据；占用；使忙碌",
+    "ex": "Books and papers occupy most of the space on his desk.",
+    "exzh": "书籍和文件占据了他书桌的大部分空间。"
+  },
+  {
+    "w": "occur",
+    "ph": "əˈkɜːr",
+    "pos": "v.",
+    "zh": "发生；出现；想起",
+    "ex": "The accident occurred at the corner of the busy street.",
+    "exzh": "事故发生在繁忙街道的拐角处。"
+  },
+  {
+    "w": "official",
+    "ph": "əˈfɪʃəl",
+    "pos": "adj./n.",
+    "zh": "官方的；官员",
+    "ex": "The official results will be published on Friday morning.",
+    "exzh": "官方结果将于周五上午公布。"
+  },
+  {
+    "w": "operate",
+    "ph": "ˈɑːpəreɪt",
+    "pos": "v.",
+    "zh": "操作；运行；做手术",
+    "ex": "Only trained workers can operate this dangerous machine.",
+    "exzh": "只有受过培训的工人才能操作这台危险的机器。"
+  },
+  {
+    "w": "opinion",
+    "ph": "əˈpɪnjən",
+    "pos": "n.",
+    "zh": "意见；看法",
+    "ex": "In my opinion, the plan needs more time and money.",
+    "exzh": "我认为，这个计划需要更多时间和资金。"
+  },
+  {
+    "w": "opportunity",
+    "ph": "ˌɑːpərˈtuːnəti",
+    "pos": "n.",
+    "zh": "机会；时机",
+    "ex": "Studying abroad gave her the opportunity to learn a new language.",
+    "exzh": "出国留学给了她学习一门新语言的机会。"
+  },
+  {
+    "w": "oppose",
+    "ph": "əˈpoʊz",
+    "pos": "v.",
+    "zh": "反对；对抗",
+    "ex": "Many residents oppose the plan to build a factory here.",
+    "exzh": "许多居民反对在这里建工厂的计划。"
+  },
+  {
+    "w": "optimistic",
+    "ph": "ˌɑːptɪˈmɪstɪk",
+    "pos": "adj.",
+    "zh": "乐观的",
+    "ex": "She remains optimistic about finding a job after graduation.",
+    "exzh": "她对毕业后找到工作仍持乐观态度。"
+  },
+  {
+    "w": "organize",
+    "ph": "ˈɔːrɡənaɪz",
+    "pos": "v.",
+    "zh": "组织；安排",
+    "ex": "The students organized a concert to raise money for charity.",
+    "exzh": "学生们组织了一场音乐会为慈善事业筹款。"
+  },
+  {
+    "w": "origin",
+    "ph": "ˈɔːrɪdʒɪn",
+    "pos": "n.",
+    "zh": "起源；出身",
+    "ex": "The origin of this ancient custom is still unknown.",
+    "exzh": "这个古老习俗的起源仍然未知。"
+  },
+  {
+    "w": "otherwise",
+    "ph": "ˈʌðərwaɪz",
+    "pos": "adv.",
+    "zh": "否则；另外",
+    "ex": "Leave early, otherwise you will miss the last bus.",
+    "exzh": "早点出发，否则你会错过末班车。"
+  },
+  {
+    "w": "outcome",
+    "ph": "ˈaʊtkʌm",
+    "pos": "n.",
+    "zh": "结果；成果",
+    "ex": "Nobody can predict the outcome of the election yet.",
+    "exzh": "目前还没有人能预测这次选举的结果。"
+  },
+  {
+    "w": "overcome",
+    "ph": "ˌoʊvərˈkʌm",
+    "pos": "v.",
+    "zh": "克服；战胜",
+    "ex": "She worked hard to overcome her fear of public speaking.",
+    "exzh": "她努力克服了对公开演讲的恐惧。"
+  },
+  {
+    "w": "participate",
+    "ph": "pɑːrˈtɪsɪpeɪt",
+    "pos": "v.",
+    "zh": "参与；参加",
+    "ex": "More than fifty students will participate in the speech contest.",
+    "exzh": "五十多名学生将参加演讲比赛。"
+  },
+  {
+    "w": "particular",
+    "ph": "pərˈtɪkjələr",
+    "pos": "adj./n.",
+    "zh": "特定的；特别的；挑剔的",
+    "ex": "He paid particular attention to the details of the design.",
+    "exzh": "他特别注意设计的细节。"
+  },
+  {
+    "w": "passion",
+    "ph": "ˈpæʃən",
+    "pos": "n.",
+    "zh": "热情；酷爱",
+    "ex": "Her passion for music began when she was a child.",
+    "exzh": "她对音乐的热爱始于童年。"
+  },
+  {
+    "w": "patient",
+    "ph": "ˈpeɪʃənt",
+    "pos": "n./adj.",
+    "zh": "病人；耐心的",
+    "ex": "The nurse was very patient with the frightened child.",
+    "exzh": "护士对那个受惊的孩子非常耐心。"
+  },
+  {
+    "w": "pattern",
+    "ph": "ˈpætərn",
+    "pos": "n.",
+    "zh": "模式；图案；范例",
+    "ex": "The carpet has a simple pattern of blue and white lines.",
+    "exzh": "地毯上有蓝白线条组成的简单图案。"
+  },
+  {
+    "w": "perform",
+    "ph": "pərˈfɔːrm",
+    "pos": "v.",
+    "zh": "表演；执行；表现",
+    "ex": "The students will perform a short play at the school festival.",
+    "exzh": "学生们将在学校节庆上表演一出短剧。"
+  },
+  {
+    "w": "permanent",
+    "ph": "ˈpɜːrmənənt",
+    "pos": "adj.",
+    "zh": "永久的；长期的",
+    "ex": "He found a permanent job after months of searching.",
+    "exzh": "经过几个月的寻找，他找到了一份固定工作。"
+  },
+  {
+    "w": "permit",
+    "ph": "pərˈmɪt",
+    "pos": "v./n.",
+    "zh": "允许；许可证",
+    "ex": "The rules do not permit visitors to take photos inside.",
+    "exzh": "规则不允许访客在里面拍照。"
+  },
+  {
+    "w": "persist",
+    "ph": "pərˈsɪst",
+    "pos": "v.",
+    "zh": "坚持；持续",
+    "ex": "If the pain persists, you should see a doctor immediately.",
+    "exzh": "如果疼痛持续，你应该立即去看医生。"
+  },
+  {
+    "w": "personal",
+    "ph": "ˈpɜːrsənəl",
+    "pos": "adj.",
+    "zh": "个人的；私人的",
+    "ex": "Please keep your personal information safe when shopping online.",
+    "exzh": "网上购物时请保护好你的个人信息。"
+  },
+  {
+    "w": "persuade",
+    "ph": "pərˈsweɪd",
+    "pos": "v.",
+    "zh": "说服；劝说",
+    "ex": "She persuaded her father to give up smoking last year.",
+    "exzh": "她说服父亲去年戒了烟。"
+  },
+  {
+    "w": "phenomenon",
+    "ph": "fəˈnɑːmɪnən",
+    "pos": "n.",
+    "zh": "现象；奇迹",
+    "ex": "Scientists are still trying to explain this strange natural phenomenon.",
+    "exzh": "科学家仍在试图解释这种奇怪的自然现象。"
+  },
+  {
+    "w": "physical",
+    "ph": "ˈfɪzɪkəl",
+    "pos": "adj.",
+    "zh": "身体的；物理的；物质的",
+    "ex": "Regular physical activity can improve both mood and sleep.",
+    "exzh": "经常进行身体活动可以改善情绪和睡眠。"
+  },
+  {
+    "w": "policy",
+    "ph": "ˈpɑːləsi",
+    "pos": "n.",
+    "zh": "政策；方针",
+    "ex": "The government introduced a new policy to protect the environment.",
+    "exzh": "政府出台了一项保护环境的新政策。"
+  },
+  {
+    "w": "popular",
+    "ph": "ˈpɑːpjələr",
+    "pos": "adj.",
+    "zh": "受欢迎的；流行的",
+    "ex": "This song became popular among young people very quickly.",
+    "exzh": "这首歌很快在年轻人中流行起来。"
+  },
+  {
+    "w": "position",
+    "ph": "pəˈzɪʃən",
+    "pos": "n.",
+    "zh": "位置；职位；立场",
+    "ex": "He applied for a teaching position at the local college.",
+    "exzh": "他申请了当地学院的一个教学职位。"
+  },
+  {
+    "w": "positive",
+    "ph": "ˈpɑːzətɪv",
+    "pos": "adj.",
+    "zh": "积极的；肯定的；正面的",
+    "ex": "A positive attitude can help you deal with difficulties.",
+    "exzh": "积极的态度可以帮助你应对困难。"
+  },
+  {
+    "w": "possess",
+    "ph": "pəˈzes",
+    "pos": "v.",
+    "zh": "拥有；具有",
+    "ex": "The old house possesses a beautiful garden and a quiet study.",
+    "exzh": "这座老房子拥有美丽的花园和安静的书房。"
+  },
+  {
+    "w": "potential",
+    "ph": "pəˈtenʃəl",
+    "pos": "adj./n.",
+    "zh": "潜力；潜在的",
+    "ex": "The young player has great potential to become a star.",
+    "exzh": "这位年轻球员有很大潜力成为明星。"
+  },
+  {
+    "w": "practical",
+    "ph": "ˈpræktɪkəl",
+    "pos": "adj.",
+    "zh": "实用的；实际的",
+    "ex": "We need a practical solution, not just a beautiful theory.",
+    "exzh": "我们需要一个实用的解决方案，而不只是漂亮的理论。"
+  },
+  {
+    "w": "precise",
+    "ph": "prɪˈsaɪs",
+    "pos": "adj.",
+    "zh": "精确的；准确的",
+    "ex": "The scientist gave a precise description of the experiment.",
+    "exzh": "科学家对实验作了精确的描述。"
+  },
+  {
+    "w": "predict",
+    "ph": "prɪˈdɪkt",
+    "pos": "v.",
+    "zh": "预测；预言",
+    "ex": "Experts cannot predict exactly when the next earthquake will happen.",
+    "exzh": "专家无法准确预测下一次地震何时发生。"
+  },
+  {
+    "w": "prefer",
+    "ph": "prɪˈfɜːr",
+    "pos": "v.",
+    "zh": "更喜欢；宁愿",
+    "ex": "I prefer tea to coffee when I am working late.",
+    "exzh": "工作到很晚时，我更喜欢喝茶而不是咖啡。"
+  },
+  {
+    "w": "prepare",
+    "ph": "prɪˈper",
+    "pos": "v.",
+    "zh": "准备；预备",
+    "ex": "She will prepare for the interview all afternoon.",
+    "exzh": "她将花一下午为面试做准备。"
+  },
+  {
+    "w": "preserve",
+    "ph": "prɪˈzɜːrv",
+    "pos": "v.",
+    "zh": "保护；保存；维持",
+    "ex": "We must preserve these old buildings for future generations.",
+    "exzh": "我们必须为后代保护这些古老的建筑。"
+  },
+  {
+    "w": "pressure",
+    "ph": "ˈpreʃər",
+    "pos": "n./v.",
+    "zh": "压力；压强",
+    "ex": "Many students feel great pressure before the final exams.",
+    "exzh": "许多学生在期末考试前感到巨大压力。"
+  },
+  {
+    "w": "prevent",
+    "ph": "prɪˈvent",
+    "pos": "v.",
+    "zh": "防止；阻止",
+    "ex": "Washing your hands often can prevent the spread of disease.",
+    "exzh": "经常洗手可以防止疾病传播。"
+  },
+  {
+    "w": "previous",
+    "ph": "ˈpriːviəs",
+    "pos": "adj.",
+    "zh": "以前的；先前的",
+    "ex": "His previous job was in a small publishing company.",
+    "exzh": "他以前在一家小型出版公司工作。"
+  },
+  {
+    "w": "principle",
+    "ph": "ˈprɪnsəpəl",
+    "pos": "n.",
+    "zh": "原则；原理",
+    "ex": "She refused to lie because honesty is one of her principles.",
+    "exzh": "她拒绝撒谎，因为诚实是她的原则之一。"
+  },
+  {
+    "w": "priority",
+    "ph": "praɪˈɔːrəti",
+    "pos": "n.",
+    "zh": "优先事项；优先权",
+    "ex": "Safety should be our top priority during the building work.",
+    "exzh": "施工期间，安全应该是我们的首要任务。"
+  },
+  {
+    "w": "private",
+    "ph": "ˈpraɪvət",
+    "pos": "adj.",
+    "zh": "私人的；私下的",
+    "ex": "He rarely talks about his private life in public.",
+    "exzh": "他很少在公开场合谈论自己的私生活。"
+  },
+  {
+    "w": "procedure",
+    "ph": "prəˈsiːdʒər",
+    "pos": "n.",
+    "zh": "程序；步骤",
+    "ex": "Please follow the correct procedure when you report a problem.",
+    "exzh": "报告问题时，请遵循正确的程序。"
+  },
+  {
+    "w": "produce",
+    "ph": "prəˈduːs",
+    "pos": "v./n.",
+    "zh": "生产；产生",
+    "ex": "These factories produce more than a thousand cars every month.",
+    "exzh": "这些工厂每月生产一千多辆汽车。"
+  },
+  {
+    "w": "profession",
+    "ph": "prəˈfeʃən",
+    "pos": "n.",
+    "zh": "职业；专业",
+    "ex": "Teaching is a profession that requires patience and strong skills.",
+    "exzh": "教师是一个需要耐心和过硬技能的职业。"
+  },
+  {
+    "w": "profit",
+    "ph": "ˈprɑːfɪt",
+    "pos": "n./v.",
+    "zh": "利润；获益",
+    "ex": "The company made a large profit from online sales last year.",
+    "exzh": "这家公司去年从线上销售中获得了巨额利润。"
+  },
+  {
+    "w": "progress",
+    "ph": "ˈprɑːɡres",
+    "pos": "n./v.",
+    "zh": "进步；进展",
+    "ex": "She has made great progress in her spoken English.",
+    "exzh": "她的英语口语已经取得了很大进步。"
+  },
+  {
+    "w": "project",
+    "ph": "ˈprɑːdʒekt",
+    "pos": "n./v.",
+    "zh": "项目；工程",
+    "ex": "Our team is working on a new research project this term.",
+    "exzh": "我们团队这学期正在做一个新的研究项目。"
+  },
+  {
+    "w": "promote",
+    "ph": "prəˈmoʊt",
+    "pos": "v.",
+    "zh": "促进；提升；推销",
+    "ex": "The campaign aims to promote healthy eating among school children.",
+    "exzh": "这项活动旨在促进学龄儿童的健康饮食。"
+  },
+  {
+    "w": "purchase",
+    "ph": "ˈpɜːrtʃəs",
+    "pos": "v./n.",
+    "zh": "购买；采购",
+    "ex": "They plan to purchase a new computer for the office.",
+    "exzh": "他们计划为办公室购买一台新电脑。"
+  },
+  {
+    "w": "purpose",
+    "ph": "ˈpɜːrpəs",
+    "pos": "n.",
+    "zh": "目的；用途",
+    "ex": "The main purpose of this meeting is to share information.",
+    "exzh": "这次会议的主要目的是分享信息。"
+  },
+  {
+    "w": "qualify",
+    "ph": "ˈkwɑːlɪfaɪ",
+    "pos": "v.",
+    "zh": "取得资格；使合格",
+    "ex": "She trained hard to qualify for the national swimming team.",
+    "exzh": "她刻苦训练，以取得进入国家游泳队的资格。"
+  },
+  {
+    "w": "quality",
+    "ph": "ˈkwɑːləti",
+    "pos": "n.",
+    "zh": "质量；品质；特性",
+    "ex": "The quality of the air has improved since the factory closed.",
+    "exzh": "工厂关闭后，空气质量有所改善。"
+  },
+  {
+    "w": "quantity",
+    "ph": "ˈkwɑːntəti",
+    "pos": "n.",
+    "zh": "数量；量",
+    "ex": "We need a large quantity of water for the journey.",
+    "exzh": "这趟旅程我们需要大量的水。"
+  },
+  {
+    "w": "quarrel",
+    "ph": "ˈkwɔːrəl",
+    "pos": "n./v.",
+    "zh": "争吵；吵架",
+    "ex": "The two brothers often quarrel about small things at home.",
+    "exzh": "两兄弟在家里经常为小事争吵。"
+  },
+  {
+    "w": "quote",
+    "ph": "kwoʊt",
+    "pos": "v./n.",
+    "zh": "引用；报价",
+    "ex": "The teacher quoted a famous line from an old poem.",
+    "exzh": "老师引用了一句古诗中的名言。"
+  },
+  {
+    "w": "range",
+    "ph": "reɪndʒ",
+    "pos": "n./v.",
+    "zh": "范围；一系列；变化",
+    "ex": "The shop offers a wide range of fresh vegetables.",
+    "exzh": "这家商店提供各种各样的新鲜蔬菜。"
+  },
+  {
+    "w": "rapid",
+    "ph": "ˈræpɪd",
+    "pos": "adj.",
+    "zh": "快速的；迅速的",
+    "ex": "The city experienced rapid growth during the past decade.",
+    "exzh": "这座城市在过去十年经历了快速发展。"
+  },
+  {
+    "w": "rare",
+    "ph": "rer",
+    "pos": "adj.",
+    "zh": "稀有的；罕见的",
+    "ex": "It is rare to see snow in this southern city.",
+    "exzh": "在这座南方城市看到雪是很罕见的。"
+  },
+  {
+    "w": "react",
+    "ph": "riˈækt",
+    "pos": "v.",
+    "zh": "反应；回应",
+    "ex": "How people react to stress differs from person to person.",
+    "exzh": "人们对压力的反应因人而异。"
+  },
+  {
+    "w": "realize",
+    "ph": "ˈriːəlaɪz",
+    "pos": "v.",
+    "zh": "意识到；实现",
+    "ex": "I did not realize how late it was until midnight.",
+    "exzh": "直到午夜我才意识到已经这么晚了。"
+  },
+  {
+    "w": "recognize",
+    "ph": "ˈrekəɡnaɪz",
+    "pos": "v.",
+    "zh": "认出；承认；认可",
+    "ex": "She recognized his voice immediately on the telephone.",
+    "exzh": "她在电话里立刻认出了他的声音。"
+  },
+  {
+    "w": "recommend",
+    "ph": "ˌrekəˈmend",
+    "pos": "v.",
+    "zh": "推荐；建议",
+    "ex": "Doctors recommend at least thirty minutes of exercise every day.",
+    "exzh": "医生建议每天至少锻炼三十分钟。"
+  },
+  {
+    "w": "recover",
+    "ph": "rɪˈkʌvər",
+    "pos": "v.",
+    "zh": "恢复；康复；找回",
+    "ex": "It took him two weeks to recover from the flu.",
+    "exzh": "他花了两个星期才从流感中康复。"
+  },
+  {
+    "w": "reduce",
+    "ph": "rɪˈduːs",
+    "pos": "v.",
+    "zh": "减少；降低",
+    "ex": "We should reduce the amount of plastic we throw away.",
+    "exzh": "我们应该减少丢弃的塑料数量。"
+  },
+  {
+    "w": "refer",
+    "ph": "rɪˈfɜːr",
+    "pos": "v.",
+    "zh": "提到；参考；查阅",
+    "ex": "The teacher referred to the map during the geography lesson.",
+    "exzh": "老师在地理课上参考了地图。"
+  },
+  {
+    "w": "reflect",
+    "ph": "rɪˈflekt",
+    "pos": "v.",
+    "zh": "反映；反射；思考",
+    "ex": "The calm lake reflected the colors of the evening sky.",
+    "exzh": "平静的湖面映出了傍晚天空的色彩。"
+  },
+  {
+    "w": "refuse",
+    "ph": "rɪˈfjuːz",
+    "pos": "v.",
+    "zh": "拒绝；不愿",
+    "ex": "He refused to answer any questions about the accident.",
+    "exzh": "他拒绝回答任何有关事故的问题。"
+  },
+  {
+    "w": "regard",
+    "ph": "rɪˈɡɑːrd",
+    "pos": "v./n.",
+    "zh": "认为；看待；尊重",
+    "ex": "Many people regard him as a talented young writer.",
+    "exzh": "许多人认为他是一位有才华的年轻作家。"
+  },
+  {
+    "w": "region",
+    "ph": "ˈriːdʒən",
+    "pos": "n.",
+    "zh": "地区；区域",
+    "ex": "This region is famous for its tea and beautiful mountains.",
+    "exzh": "这个地区以茶叶和美丽的山峦而闻名。"
+  },
+  {
+    "w": "regular",
+    "ph": "ˈreɡjələr",
+    "pos": "adj.",
+    "zh": "定期的；规律的；常规的",
+    "ex": "Regular exercise and enough sleep keep you healthy.",
+    "exzh": "规律锻炼和充足睡眠使你保持健康。"
+  },
+  {
+    "w": "reject",
+    "ph": "rɪˈdʒekt",
+    "pos": "v.",
+    "zh": "拒绝；否决",
+    "ex": "The committee rejected his proposal because it cost too much.",
+    "exzh": "委员会否决了他的提议，因为花费太高。"
+  },
+  {
+    "w": "relate",
+    "ph": "rɪˈleɪt",
+    "pos": "v.",
+    "zh": "联系；讲述；有关",
+    "ex": "The report relates the rise in prices to poor harvests.",
+    "exzh": "报告将价格上涨与歉收联系起来。"
+  },
+  {
+    "w": "release",
+    "ph": "rɪˈliːs",
+    "pos": "v./n.",
+    "zh": "释放；发布；发行",
+    "ex": "The band will release a new album next month.",
+    "exzh": "乐队下个月将发行一张新专辑。"
+  },
+  {
+    "w": "relevant",
+    "ph": "ˈreləvənt",
+    "pos": "adj.",
+    "zh": "相关的；切题的",
+    "ex": "Please include only relevant information in your final report.",
+    "exzh": "请在你的最终报告中只包含相关信息。"
+  },
+  {
+    "w": "rely",
+    "ph": "rɪˈlaɪ",
+    "pos": "v.",
+    "zh": "依赖；信赖",
+    "ex": "You can rely on her to finish the work on time.",
+    "exzh": "你可以依靠她按时完成工作。"
+  },
+  {
+    "w": "remain",
+    "ph": "rɪˈmeɪn",
+    "pos": "v.",
+    "zh": "保持；剩下；留待",
+    "ex": "The weather remained cold and wet for several days.",
+    "exzh": "天气持续寒冷潮湿了好几天。"
+  },
+  {
+    "w": "remind",
+    "ph": "rɪˈmaɪnd",
+    "pos": "v.",
+    "zh": "提醒；使想起",
+    "ex": "Please remind me to call my mother this evening.",
+    "exzh": "请提醒我今晚给妈妈打电话。"
+  },
+  {
+    "w": "remove",
+    "ph": "rɪˈmuːv",
+    "pos": "v.",
+    "zh": "移除；去掉；脱下",
+    "ex": "He removed his shoes before entering the clean room.",
+    "exzh": "他进入洁净室前脱下了鞋子。"
+  },
+  {
+    "w": "replace",
+    "ph": "rɪˈpleɪs",
+    "pos": "v.",
+    "zh": "替换；取代；放回",
+    "ex": "We need to replace the old printer with a newer one.",
+    "exzh": "我们需要用一台更新的打印机替换旧的。"
+  },
+  {
+    "w": "represent",
+    "ph": "ˌreprɪˈzent",
+    "pos": "v.",
+    "zh": "代表；表示；描绘",
+    "ex": "These figures represent the average temperature of each month.",
+    "exzh": "这些数字代表每个月的平均气温。"
+  },
+  {
+    "w": "require",
+    "ph": "rɪˈkwaɪər",
+    "pos": "v.",
+    "zh": "需要；要求",
+    "ex": "This job requires good communication skills and a lot of patience.",
+    "exzh": "这份工作需要良好的沟通能力和很大的耐心。"
+  },
+  {
+    "w": "research",
+    "ph": "ˈriːsɜːrtʃ",
+    "pos": "n./v.",
+    "zh": "研究；调查",
+    "ex": "Her research focuses on the effects of climate change.",
+    "exzh": "她的研究聚焦于气候变化的影响。"
+  },
+  {
+    "w": "resist",
+    "ph": "rɪˈzɪst",
+    "pos": "v.",
+    "zh": "抵抗；抵制；忍住",
+    "ex": "She could not resist the smell of fresh bread.",
+    "exzh": "她无法抗拒新鲜面包的香味。"
+  },
+  {
+    "w": "resource",
+    "ph": "ˈriːsɔːrs",
+    "pos": "n.",
+    "zh": "资源；财力",
+    "ex": "Water is a precious resource that we must protect.",
+    "exzh": "水是我们必须保护的宝贵资源。"
+  },
+  {
+    "w": "respect",
+    "ph": "rɪˈspekt",
+    "pos": "n./v.",
+    "zh": "尊重；敬意",
+    "ex": "We should respect people whose opinions differ from our own.",
+    "exzh": "我们应该尊重那些观点与我们不同的人。"
+  },
+  {
+    "w": "respond",
+    "ph": "rɪˈspɑːnd",
+    "pos": "v.",
+    "zh": "回应；反应",
+    "ex": "He did not respond to my email until Friday.",
+    "exzh": "他直到周五才回复我的邮件。"
+  },
+  {
+    "w": "responsible",
+    "ph": "rɪˈspɑːnsəbəl",
+    "pos": "adj.",
+    "zh": "有责任的；负责的",
+    "ex": "Parents are responsible for teaching their children good habits.",
+    "exzh": "父母有责任教孩子养成好习惯。"
+  },
+  {
+    "w": "result",
+    "ph": "rɪˈzʌlt",
+    "pos": "n./v.",
+    "zh": "结果；导致",
+    "ex": "The test result showed that everything was normal.",
+    "exzh": "检测结果显示一切正常。"
+  },
+  {
+    "w": "review",
+    "ph": "rɪˈvjuː",
+    "pos": "v./n.",
+    "zh": "回顾；复习；评论",
+    "ex": "Please review your notes before the exam tomorrow morning.",
+    "exzh": "请在明天早上考试前复习你的笔记。"
+  },
+  {
+    "w": "risk",
+    "ph": "rɪsk",
+    "pos": "n./v.",
+    "zh": "风险；冒险",
+    "ex": "Smoking greatly increases the risk of heart disease.",
+    "exzh": "吸烟大大增加了患心脏病的风险。"
+  },
+  {
+    "w": "role",
+    "ph": "roʊl",
+    "pos": "n.",
+    "zh": "角色；作用",
+    "ex": "Teachers play an important role in shaping young minds.",
+    "exzh": "教师在塑造年轻心灵方面发挥着重要作用。"
+  },
+  {
+    "w": "satisfy",
+    "ph": "ˈsætɪsfaɪ",
+    "pos": "v.",
+    "zh": "使满意；满足",
+    "ex": "The final result did not satisfy the angry customers.",
+    "exzh": "最终结果没有让愤怒的顾客满意。"
+  },
+  {
+    "w": "scale",
+    "ph": "skeɪl",
+    "pos": "n./v.",
+    "zh": "规模；比例；刻度",
+    "ex": "The project was planned on a very large scale.",
+    "exzh": "这个项目的规划规模非常大。"
+  },
+  {
+    "w": "schedule",
+    "ph": "ˈskedʒuːl",
+    "pos": "n./v.",
+    "zh": "日程；安排",
+    "ex": "The train arrived exactly on schedule this morning.",
+    "exzh": "今天早上火车准时到达。"
+  },
+  {
+    "w": "scheme",
+    "ph": "skiːm",
+    "pos": "n.",
+    "zh": "计划；方案；阴谋",
+    "ex": "The city launched a new scheme to reduce traffic.",
+    "exzh": "这座城市推出了一项减少交通的新方案。"
+  },
+  {
+    "w": "seek",
+    "ph": "siːk",
+    "pos": "v.",
+    "zh": "寻找；寻求",
+    "ex": "Many graduates seek jobs in large cities every year.",
+    "exzh": "每年都有许多毕业生在大城市找工作。"
+  },
+  {
+    "w": "select",
+    "ph": "sɪˈlekt",
+    "pos": "v.",
+    "zh": "选择；挑选",
+    "ex": "The coach will select five players for the final match.",
+    "exzh": "教练将为决赛挑选五名球员。"
+  },
+  {
+    "w": "sensitive",
+    "ph": "ˈsensətɪv",
+    "pos": "adj.",
+    "zh": "敏感的；灵敏的",
+    "ex": "Her skin is very sensitive to strong sunlight.",
+    "exzh": "她的皮肤对强烈的阳光非常敏感。"
+  },
+  {
+    "w": "separate",
+    "ph": "ˈsepərət",
+    "pos": "adj./v.",
+    "zh": "分开的；分离",
+    "ex": "The two departments are in separate buildings across the road.",
+    "exzh": "这两个部门位于马路对面的不同建筑里。"
+  },
+  {
+    "w": "serious",
+    "ph": "ˈsɪriəs",
+    "pos": "adj.",
+    "zh": "严肃的；严重的；认真的",
+    "ex": "Air pollution is a serious threat to public health.",
+    "exzh": "空气污染是对公众健康的严重威胁。"
+  },
+  {
+    "w": "settle",
+    "ph": "ˈsetəl",
+    "pos": "v.",
+    "zh": "解决；定居；安顿",
+    "ex": "They decided to settle in a quiet town by the sea.",
+    "exzh": "他们决定在海边一个安静的小镇定居。"
+  },
+  {
+    "w": "severe",
+    "ph": "sɪˈvɪr",
+    "pos": "adj.",
+    "zh": "严重的；严厉的；剧烈的",
+    "ex": "The storm caused severe damage to the coastal villages.",
+    "exzh": "风暴对沿海村庄造成了严重破坏。"
+  },
+  {
+    "w": "shift",
+    "ph": "ʃɪft",
+    "pos": "n./v.",
+    "zh": "转变；轮班；移动",
+    "ex": "There has been a shift in public opinion recently.",
+    "exzh": "最近公众舆论发生了转变。"
+  },
+  {
+    "w": "shortage",
+    "ph": "ˈʃɔːrtɪdʒ",
+    "pos": "n.",
+    "zh": "短缺；不足",
+    "ex": "The heavy snow caused a serious shortage of fresh food.",
+    "exzh": "大雪造成了新鲜食物的严重短缺。"
+  },
+  {
+    "w": "significant",
+    "ph": "sɪɡˈnɪfɪkənt",
+    "pos": "adj.",
+    "zh": "重要的；显著的",
+    "ex": "The new medicine showed a significant improvement in patients.",
+    "exzh": "这种新药使患者病情显著改善。"
+  },
+  {
+    "w": "similar",
+    "ph": "ˈsɪmələr",
+    "pos": "adj.",
+    "zh": "相似的；类似的",
+    "ex": "These two paintings look similar but have different origins.",
+    "exzh": "这两幅画看起来相似，但来源不同。"
+  },
+  {
+    "w": "situation",
+    "ph": "ˌsɪtʃuˈeɪʃən",
+    "pos": "n.",
+    "zh": "情况；形势；处境",
+    "ex": "The situation improved after the rescue team arrived.",
+    "exzh": "救援队到达后，情况有所改善。"
+  },
+  {
+    "w": "social",
+    "ph": "ˈsoʊʃəl",
+    "pos": "adj.",
+    "zh": "社会的；社交的",
+    "ex": "Social media plays a big part in modern daily life.",
+    "exzh": "社交媒体在现代日常生活中扮演着重要角色。"
+  },
+  {
+    "w": "solve",
+    "ph": "sɑːlv",
+    "pos": "v.",
+    "zh": "解决；解答",
+    "ex": "We must work together to solve this difficult problem.",
+    "exzh": "我们必须共同努力解决这个难题。"
+  },
+  {
+    "w": "source",
+    "ph": "sɔːrs",
+    "pos": "n.",
+    "zh": "来源；源头",
+    "ex": "The river is an important source of drinking water.",
+    "exzh": "这条河是重要的饮用水来源。"
+  },
+  {
+    "w": "specific",
+    "ph": "spəˈsɪfɪk",
+    "pos": "adj.",
+    "zh": "特定的；具体的",
+    "ex": "The teacher gave us specific instructions for the project.",
+    "exzh": "老师给了我们关于这个项目的具体指示。"
+  },
+  {
+    "w": "spirit",
+    "ph": "ˈspɪrɪt",
+    "pos": "n.",
+    "zh": "精神；心灵；情绪",
+    "ex": "The team showed great spirit despite the heavy loss.",
+    "exzh": "尽管惨败，这支队伍仍表现出顽强的精神。"
+  },
+  {
+    "w": "spread",
+    "ph": "spred",
+    "pos": "v./n.",
+    "zh": "传播；展开；蔓延",
+    "ex": "The news spread quickly through the small village.",
+    "exzh": "消息很快传遍了这个小村庄。"
+  },
+  {
+    "w": "stable",
+    "ph": "ˈsteɪbəl",
+    "pos": "adj.",
+    "zh": "稳定的；牢固的",
+    "ex": "The patient is now in a stable condition after surgery.",
+    "exzh": "手术后病人现在情况稳定。"
+  },
+  {
+    "w": "standard",
+    "ph": "ˈstændərd",
+    "pos": "n./adj.",
+    "zh": "标准；标准的",
+    "ex": "The hotel has high standards of cleanliness and service.",
+    "exzh": "这家酒店有很高的清洁和服务标准。"
+  },
+  {
+    "w": "status",
+    "ph": "ˈsteɪtəs",
+    "pos": "n.",
+    "zh": "地位；状态",
+    "ex": "The website shows the current status of your order.",
+    "exzh": "网站会显示你订单的当前状态。"
+  },
+  {
+    "w": "stimulate",
+    "ph": "ˈstɪmjuleɪt",
+    "pos": "v.",
+    "zh": "刺激；激励；促进",
+    "ex": "The new policy is designed to stimulate economic growth.",
+    "exzh": "新政策旨在刺激经济增长。"
+  },
+  {
+    "w": "strategy",
+    "ph": "ˈstrætədʒi",
+    "pos": "n.",
+    "zh": "策略；战略",
+    "ex": "The company needs a better strategy to attract young customers.",
+    "exzh": "公司需要更好的策略来吸引年轻顾客。"
+  },
+  {
+    "w": "stress",
+    "ph": "stres",
+    "pos": "n./v.",
+    "zh": "压力；强调",
+    "ex": "He is under a lot of stress before the final exam.",
+    "exzh": "期末考试前他承受着很大的压力。"
+  },
+  {
+    "w": "strict",
+    "ph": "strɪkt",
+    "pos": "adj.",
+    "zh": "严格的；严厉的",
+    "ex": "Our school has strict rules about mobile phone use.",
+    "exzh": "我们学校对使用手机有严格的规定。"
+  },
+  {
+    "w": "struggle",
+    "ph": "ˈstrʌɡəl",
+    "pos": "v./n.",
+    "zh": "奋斗；努力；挣扎",
+    "ex": "Many families struggle to pay their rent and bills.",
+    "exzh": "许多家庭努力支付房租和账单。"
+  },
+  {
+    "w": "subject",
+    "ph": "ˈsʌbdʒekt",
+    "pos": "n./adj.",
+    "zh": "主题；科目；对象",
+    "ex": "History is my favorite subject at school this year.",
+    "exzh": "历史是我今年在学校最喜欢的科目。"
+  },
+  {
+    "w": "submit",
+    "ph": "səbˈmɪt",
+    "pos": "v.",
+    "zh": "提交；屈服",
+    "ex": "Please submit your application before the end of May.",
+    "exzh": "请在五月底前提交你的申请。"
+  },
+  {
+    "w": "sufficient",
+    "ph": "səˈfɪʃənt",
+    "pos": "adj.",
+    "zh": "足够的；充足的",
+    "ex": "We have sufficient food and water for three days.",
+    "exzh": "我们的食物和水足够维持三天。"
+  },
+  {
+    "w": "suggest",
+    "ph": "səɡˈdʒest",
+    "pos": "v.",
+    "zh": "建议；表明；暗示",
+    "ex": "The doctor suggested taking a short walk after dinner.",
+    "exzh": "医生建议晚饭后散一会儿步。"
+  },
+  {
+    "w": "supply",
+    "ph": "səˈplaɪ",
+    "pos": "v./n.",
+    "zh": "供应；供给",
+    "ex": "The local farm can supply fresh milk to the school.",
+    "exzh": "当地农场可以向学校供应新鲜牛奶。"
+  },
+  {
+    "w": "support",
+    "ph": "səˈpɔːrt",
+    "pos": "v./n.",
+    "zh": "支持；支撑；供养",
+    "ex": "Her family fully supports her decision to study abroad.",
+    "exzh": "她的家人完全支持她出国留学的决定。"
+  },
+  {
+    "w": "suppose",
+    "ph": "səˈpoʊz",
+    "pos": "v.",
+    "zh": "假设；认为",
+    "ex": "I suppose we should leave before the traffic gets worse.",
+    "exzh": "我想我们应该在交通变得更糟之前离开。"
+  },
+  {
+    "w": "surface",
+    "ph": "ˈsɜːrfɪs",
+    "pos": "n.",
+    "zh": "表面；外表",
+    "ex": "A thin layer of ice covered the surface of the lake.",
+    "exzh": "湖面上覆盖着一层薄冰。"
+  },
+  {
+    "w": "surround",
+    "ph": "səˈraʊnd",
+    "pos": "v.",
+    "zh": "包围；环绕",
+    "ex": "Tall trees surround the small house near the river.",
+    "exzh": "高大的树木环绕着河边的小房子。"
+  },
+  {
+    "w": "survive",
+    "ph": "sərˈvaɪv",
+    "pos": "v.",
+    "zh": "生存；幸存",
+    "ex": "Few plants can survive in such dry and cold conditions.",
+    "exzh": "很少有植物能在如此干燥寒冷的条件下存活。"
+  },
+  {
+    "w": "suspect",
+    "ph": "səˈspekt",
+    "pos": "v./n.",
+    "zh": "怀疑；嫌疑人",
+    "ex": "The police suspect that the fire was started deliberately.",
+    "exzh": "警方怀疑这场火灾是故意纵火的。"
+  },
+  {
+    "w": "sustain",
+    "ph": "səˈsteɪn",
+    "pos": "v.",
+    "zh": "维持；支撑；遭受",
+    "ex": "It is hard to sustain such a fast pace for long.",
+    "exzh": "长时间保持这么快的节奏很难。"
+  },
+  {
+    "w": "switch",
+    "ph": "swɪtʃ",
+    "pos": "n./v.",
+    "zh": "转换；开关",
+    "ex": "Please switch off the lights when you leave the room.",
+    "exzh": "离开房间时请关灯。"
+  },
+  {
+    "w": "symbol",
+    "ph": "ˈsɪmbəl",
+    "pos": "n.",
+    "zh": "象征；符号",
+    "ex": "The dove is a symbol of peace in many cultures.",
+    "exzh": "在许多文化中，鸽子是和平的象征。"
+  },
+  {
+    "w": "tackle",
+    "ph": "ˈtækəl",
+    "pos": "v.",
+    "zh": "处理；应对",
+    "ex": "The government must tackle the problem of youth unemployment.",
+    "exzh": "政府必须解决青年失业问题。"
+  },
+  {
+    "w": "target",
+    "ph": "ˈtɑːrɡɪt",
+    "pos": "n./v.",
+    "zh": "目标；靶子；瞄准",
+    "ex": "The company reached its sales target ahead of schedule.",
+    "exzh": "公司提前达到了销售目标。"
+  },
+  {
+    "w": "technique",
+    "ph": "tekˈniːk",
+    "pos": "n.",
+    "zh": "技巧；技术；方法",
+    "ex": "The artist uses a special technique to create these paintings.",
+    "exzh": "这位艺术家使用一种特殊技巧创作这些画。"
+  },
+  {
+    "w": "temporary",
+    "ph": "ˈtempəreri",
+    "pos": "adj.",
+    "zh": "临时的；暂时的",
+    "ex": "She found a temporary job while looking for permanent work.",
+    "exzh": "她在寻找长期职位期间做了一份临时工作。"
+  },
+  {
+    "w": "tend",
+    "ph": "tend",
+    "pos": "v.",
+    "zh": "倾向于；照料",
+    "ex": "People tend to eat more when they are tired or stressed.",
+    "exzh": "人们在疲倦或紧张时往往吃得更多。"
+  },
+  {
+    "w": "tension",
+    "ph": "ˈtenʃən",
+    "pos": "n.",
+    "zh": "紧张；张力；矛盾",
+    "ex": "You could feel the tension in the room before the result.",
+    "exzh": "结果公布前，你能感受到房间里的紧张气氛。"
+  },
+  {
+    "w": "theory",
+    "ph": "ˈθɪri",
+    "pos": "n.",
+    "zh": "理论；学说；推测",
+    "ex": "His theory explains why some birds travel so far.",
+    "exzh": "他的理论解释了为什么有些鸟飞得那么远。"
+  },
+  {
+    "w": "threaten",
+    "ph": "ˈθretən",
+    "pos": "v.",
+    "zh": "威胁；危及",
+    "ex": "Rising sea levels threaten many low-lying coastal cities.",
+    "exzh": "海平面上升威胁着许多低洼的沿海城市。"
+  },
+  {
+    "w": "tolerate",
+    "ph": "ˈtɑːləreɪt",
+    "pos": "v.",
+    "zh": "容忍；忍受",
+    "ex": "She refuses to tolerate rude behavior from her colleagues.",
+    "exzh": "她拒绝容忍同事的粗鲁行为。"
+  },
+  {
+    "w": "topic",
+    "ph": "ˈtɑːpɪk",
+    "pos": "n.",
+    "zh": "话题；主题",
+    "ex": "Climate change was the main topic of the discussion.",
+    "exzh": "气候变化是讨论的主要话题。"
+  },
+  {
+    "w": "tough",
+    "ph": "tʌf",
+    "pos": "adj.",
+    "zh": "艰难的；坚韧的；强硬的",
+    "ex": "Finding a good job can be tough for new graduates.",
+    "exzh": "对新毕业生来说，找到好工作可能很艰难。"
+  },
+  {
+    "w": "trace",
+    "ph": "treɪs",
+    "pos": "n./v.",
+    "zh": "追踪；痕迹；追溯",
+    "ex": "Police found no trace of the missing car.",
+    "exzh": "警方没有找到失踪汽车的踪迹。"
+  },
+  {
+    "w": "tradition",
+    "ph": "trəˈdɪʃən",
+    "pos": "n.",
+    "zh": "传统；惯例",
+    "ex": "It is a family tradition to eat dumplings on New Year's Eve.",
+    "exzh": "除夕吃饺子是一个家庭传统。"
+  },
+  {
+    "w": "transfer",
+    "ph": "trænsˈfɜːr",
+    "pos": "v./n.",
+    "zh": "转移；调动；换乘",
+    "ex": "He decided to transfer to another department next month.",
+    "exzh": "他决定下个月调到另一个部门。"
+  },
+  {
+    "w": "transform",
+    "ph": "trænsˈfɔːrm",
+    "pos": "v.",
+    "zh": "改变；转化",
+    "ex": "The internet has transformed the way we read news.",
+    "exzh": "互联网改变了我们阅读新闻的方式。"
+  },
+  {
+    "w": "transport",
+    "ph": "ˈtrænspɔːrt",
+    "pos": "n./v.",
+    "zh": "运输；交通",
+    "ex": "Public transport in this city is cheap and convenient.",
+    "exzh": "这座城市的公共交通既便宜又方便。"
+  },
+  {
+    "w": "treat",
+    "ph": "triːt",
+    "pos": "v.",
+    "zh": "对待；治疗；款待",
+    "ex": "The doctor treated her injured leg with great care.",
+    "exzh": "医生非常细心地治疗了她受伤的腿。"
+  },
+  {
+    "w": "trend",
+    "ph": "trend",
+    "pos": "n.",
+    "zh": "趋势；潮流",
+    "ex": "There is a growing trend toward online shopping in China.",
+    "exzh": "中国出现了越来越明显的网购趋势。"
+  },
+  {
+    "w": "trial",
+    "ph": "ˈtraɪəl",
+    "pos": "n.",
+    "zh": "试验；审判；考验",
+    "ex": "The new drug is still undergoing clinical trials.",
+    "exzh": "这种新药仍在进行临床试验。"
+  },
+  {
+    "w": "typical",
+    "ph": "ˈtɪpɪkəl",
+    "pos": "adj.",
+    "zh": "典型的；有代表性的",
+    "ex": "This is a typical example of traditional Chinese architecture.",
+    "exzh": "这是中国传统建筑的典型例子。"
+  },
+  {
+    "w": "ultimate",
+    "ph": "ˈʌltɪmət",
+    "pos": "adj.",
+    "zh": "最终的；根本的；极致的",
+    "ex": "Our ultimate goal is to provide clean water for everyone.",
+    "exzh": "我们的最终目标是为每个人提供清洁的水。"
+  },
+  {
+    "w": "undergo",
+    "ph": "ˌʌndərˈɡoʊ",
+    "pos": "v.",
+    "zh": "经历；接受",
+    "ex": "The old bridge will undergo major repairs next year.",
+    "exzh": "这座老桥明年将进行大修。"
+  },
+  {
+    "w": "underline",
+    "ph": "ˌʌndərˈlaɪn",
+    "pos": "v.",
+    "zh": "在…下划线；强调",
+    "ex": "Please underline the most important sentence in each paragraph.",
+    "exzh": "请在每个段落中最重要的句子下面划线。"
+  },
+  {
+    "w": "undertake",
+    "ph": "ˌʌndərˈteɪk",
+    "pos": "v.",
+    "zh": "承担；从事；承诺",
+    "ex": "The company agreed to undertake the whole research project.",
+    "exzh": "公司同意承担整个研究项目。"
+  },
+  {
+    "w": "unique",
+    "ph": "juˈniːk",
+    "pos": "adj.",
+    "zh": "独特的；唯一的",
+    "ex": "Each city has its own unique history and local culture.",
+    "exzh": "每座城市都有自己独特的历史和本地文化。"
+  },
+  {
+    "w": "universal",
+    "ph": "ˌjuːnɪˈvɜːrsəl",
+    "pos": "adj.",
+    "zh": "普遍的；通用的；宇宙的",
+    "ex": "Music is often described as a universal language of emotion.",
+    "exzh": "音乐常被描述为表达情感的通用语言。"
+  },
+  {
+    "w": "update",
+    "ph": "ˌʌpˈdeɪt",
+    "pos": "v./n.",
+    "zh": "更新；最新消息",
+    "ex": "Please update your address if you move to a new home.",
+    "exzh": "如果你搬到新家，请更新你的地址。"
+  },
+  {
+    "w": "urban",
+    "ph": "ˈɜːrbən",
+    "pos": "adj.",
+    "zh": "城市的；都市的",
+    "ex": "More people are moving to urban areas in search of work.",
+    "exzh": "越来越多的人搬到城市地区寻找工作。"
+  },
+  {
+    "w": "urge",
+    "ph": "ɜːrdʒ",
+    "pos": "v./n.",
+    "zh": "敦促；力劝；冲动",
+    "ex": "Doctors urge people to exercise more and sit less.",
+    "exzh": "医生敦促人们多锻炼、少久坐。"
+  },
+  {
+    "w": "valid",
+    "ph": "ˈvælɪd",
+    "pos": "adj.",
+    "zh": "有效的；正当的；合理的",
+    "ex": "Your ticket is valid for three months from the date of purchase.",
+    "exzh": "你的票自购买之日起三个月内有效。"
+  },
+  {
+    "w": "value",
+    "ph": "ˈvæljuː",
+    "pos": "n./v.",
+    "zh": "价值；重视",
+    "ex": "We value honesty more than money in this company.",
+    "exzh": "在这家公司，我们更看重诚实而不是金钱。"
+  },
+  {
+    "w": "variety",
+    "ph": "vəˈraɪəti",
+    "pos": "n.",
+    "zh": "多样性；种类",
+    "ex": "The market offers a wide variety of fresh fruit.",
+    "exzh": "这个市场提供各种各样的新鲜水果。"
+  },
+  {
+    "w": "various",
+    "ph": "ˈveriəs",
+    "pos": "adj.",
+    "zh": "各种各样的；不同的",
+    "ex": "The museum displays various objects from ancient China.",
+    "exzh": "博物馆展出各种来自古代中国的物品。"
+  },
+  {
+    "w": "vary",
+    "ph": "ˈveri",
+    "pos": "v.",
+    "zh": "变化；不同",
+    "ex": "Prices vary widely from one shop to another.",
+    "exzh": "不同商店的价格差别很大。"
+  },
+  {
+    "w": "vehicle",
+    "ph": "ˈviːɪkəl",
+    "pos": "n.",
+    "zh": "车辆；工具；媒介",
+    "ex": "No vehicle is allowed to enter the narrow old street.",
+    "exzh": "任何车辆都不允许进入这条狭窄的老街。"
+  },
+  {
+    "w": "version",
+    "ph": "ˈvɜːrʒən",
+    "pos": "n.",
+    "zh": "版本；说法",
+    "ex": "The new version of the software is much faster.",
+    "exzh": "这个软件的新版本快得多。"
+  },
+  {
+    "w": "victim",
+    "ph": "ˈvɪktɪm",
+    "pos": "n.",
+    "zh": "受害者；牺牲品",
+    "ex": "The charity provides free legal help to crime victims.",
+    "exzh": "这家慈善机构为犯罪受害者提供免费法律援助。"
+  },
+  {
+    "w": "violent",
+    "ph": "ˈvaɪələnt",
+    "pos": "adj.",
+    "zh": "暴力的；猛烈的",
+    "ex": "The violent storm damaged several houses along the coast.",
+    "exzh": "猛烈的风暴损坏了沿海的几座房屋。"
+  },
+  {
+    "w": "vital",
+    "ph": "ˈvaɪtəl",
+    "pos": "adj.",
+    "zh": "至关重要的；生命的",
+    "ex": "Clean water is vital for the health of every community.",
+    "exzh": "清洁的水对每个社区的健康都至关重要。"
+  },
+  {
+    "w": "wage",
+    "ph": "weɪdʒ",
+    "pos": "n.",
+    "zh": "工资；报酬",
+    "ex": "Many workers are asking for a higher minimum wage.",
+    "exzh": "许多工人要求提高最低工资。"
+  },
+  {
+    "w": "wealth",
+    "ph": "welθ",
+    "pos": "n.",
+    "zh": "财富；丰富",
+    "ex": "The country's wealth comes mainly from oil and tourism.",
+    "exzh": "这个国家的财富主要来自石油和旅游业。"
+  },
+  {
+    "w": "weapon",
+    "ph": "ˈwepən",
+    "pos": "n.",
+    "zh": "武器；手段",
+    "ex": "The police found a weapon hidden under the car seat.",
+    "exzh": "警方发现一件武器藏在汽车座椅下。"
+  },
+  {
+    "w": "welfare",
+    "ph": "ˈwelfer",
+    "pos": "n.",
+    "zh": "福利；幸福；健康",
+    "ex": "The government spends more money on child welfare each year.",
+    "exzh": "政府每年在儿童福利上投入更多资金。"
+  },
+  {
+    "w": "widespread",
+    "ph": "ˈwaɪdspred",
+    "pos": "adj.",
+    "zh": "广泛的；普遍的",
+    "ex": "There is widespread support for the new environmental law.",
+    "exzh": "这项新环境法得到了广泛支持。"
+  },
+  {
+    "w": "willing",
+    "ph": "ˈwɪlɪŋ",
+    "pos": "adj.",
+    "zh": "愿意的；乐意的",
+    "ex": "She is always willing to help her classmates with homework.",
+    "exzh": "她总是愿意帮助同学做作业。"
+  },
+  {
+    "w": "withdraw",
+    "ph": "wɪðˈdrɔː",
+    "pos": "v.",
+    "zh": "撤回；提取；退出",
+    "ex": "He decided to withdraw from the competition because of injury.",
+    "exzh": "由于受伤，他决定退出比赛。"
+  },
+  {
+    "w": "witness",
+    "ph": "ˈwɪtnəs",
+    "pos": "n./v.",
+    "zh": "目击者；见证",
+    "ex": "A witness described the accident to the police clearly.",
+    "exzh": "一名目击者向警方清楚地描述了事故经过。"
+  },
+  {
+    "w": "wonder",
+    "ph": "ˈwʌndər",
+    "pos": "v./n.",
+    "zh": "想知道；奇迹",
+    "ex": "I wonder whether the train will arrive on time.",
+    "exzh": "我想知道火车是否会准时到达。"
+  },
+  {
+    "w": "wrap",
+    "ph": "ræp",
+    "pos": "v.",
+    "zh": "包裹；缠绕",
+    "ex": "Please wrap the glass carefully before putting it in the box.",
+    "exzh": "把玻璃杯放进盒子前请仔细包好。"
+  },
+  {
+    "w": "yard",
+    "ph": "jɑːrd",
+    "pos": "n.",
+    "zh": "院子；码",
+    "ex": "The children are playing football in the back yard.",
+    "exzh": "孩子们正在后院踢足球。"
+  },
+  {
+    "w": "yield",
+    "ph": "jiːld",
+    "pos": "v./n.",
+    "zh": "产生；屈服；产量",
+    "ex": "The new farming method yields twice as much rice.",
+    "exzh": "这种新耕作方法的稻米产量是原来的两倍。"
+  },
+  {
+    "w": "youth",
+    "ph": "juːθ",
+    "pos": "n.",
+    "zh": "青年；青春",
+    "ex": "The youth center offers free classes after school.",
+    "exzh": "青年中心放学后提供免费课程。"
+  },
+  {
+    "w": "zero",
+    "ph": "ˈzɪroʊ",
+    "pos": "n./adj.",
+    "zh": "零；零的",
+    "ex": "The temperature dropped below zero during the cold night.",
+    "exzh": "寒冷的夜晚气温降到了零度以下。"
+  },
+  {
+    "w": "zone",
+    "ph": "zoʊn",
+    "pos": "n.",
+    "zh": "区域；地带",
+    "ex": "Cars are not allowed in the pedestrian zone of the city.",
+    "exzh": "这座城市步行区内不允许汽车通行。"
+  }
+]

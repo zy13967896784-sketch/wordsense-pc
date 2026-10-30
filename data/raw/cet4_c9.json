@@ -1,0 +1,1602 @@
+[
+  {
+    "w": "jacket",
+    "ph": "ˈdʒækɪt",
+    "pos": "n.",
+    "zh": "夹克；短上衣",
+    "ex": "He hung his jacket on the back of the chair.",
+    "exzh": "他把夹克挂在椅背上。"
+  },
+  {
+    "w": "jail",
+    "ph": "dʒeɪl",
+    "pos": "n./v.",
+    "zh": "监狱；监禁",
+    "ex": "The thief spent two years in jail for robbery.",
+    "exzh": "那个小偷因抢劫在监狱里待了两年。"
+  },
+  {
+    "w": "jam",
+    "ph": "dʒæm",
+    "pos": "n./v.",
+    "zh": "果酱；堵塞",
+    "ex": "Traffic jammed the narrow street during the morning rush.",
+    "exzh": "早高峰时车流堵住了这条窄街。"
+  },
+  {
+    "w": "jar",
+    "ph": "dʒɑːr",
+    "pos": "n.",
+    "zh": "罐子；广口瓶",
+    "ex": "She stored the honey in a large glass jar.",
+    "exzh": "她把蜂蜜存放在一个大玻璃罐里。"
+  },
+  {
+    "w": "jaw",
+    "ph": "dʒɔː",
+    "pos": "n.",
+    "zh": "颌；下巴",
+    "ex": "He broke his jaw during the football match.",
+    "exzh": "他在足球比赛中摔断了下巴。"
+  },
+  {
+    "w": "jazz",
+    "ph": "dʒæz",
+    "pos": "n.",
+    "zh": "爵士乐",
+    "ex": "The band played soft jazz until midnight.",
+    "exzh": "乐队演奏轻柔的爵士乐直到午夜。"
+  },
+  {
+    "w": "jealous",
+    "ph": "ˈdʒeləs",
+    "pos": "adj.",
+    "zh": "嫉妒的；吃醋的",
+    "ex": "She felt jealous when her best friend won.",
+    "exzh": "当她最好的朋友获胜时，她感到嫉妒。"
+  },
+  {
+    "w": "jealousy",
+    "ph": "ˈdʒeləsi",
+    "pos": "n.",
+    "zh": "嫉妒；猜忌",
+    "ex": "His jealousy destroyed their long and happy marriage.",
+    "exzh": "他的嫉妒毁掉了他们长久幸福的婚姻。"
+  },
+  {
+    "w": "jeans",
+    "ph": "dʒiːnz",
+    "pos": "n.",
+    "zh": "牛仔裤",
+    "ex": "He wore faded jeans and an old white shirt.",
+    "exzh": "他穿着褪色的牛仔裤和一件旧白衬衫。"
+  },
+  {
+    "w": "jerk",
+    "ph": "dʒɜːrk",
+    "pos": "v./n.",
+    "zh": "猛拉；急推",
+    "ex": "She jerked the door open and rushed outside.",
+    "exzh": "她猛地拉开门冲了出去。"
+  },
+  {
+    "w": "jet",
+    "ph": "dʒet",
+    "pos": "n.",
+    "zh": "喷气式飞机；喷射",
+    "ex": "The jet took off smoothly despite the strong wind.",
+    "exzh": "尽管风很大，喷气式飞机还是平稳起飞了。"
+  },
+  {
+    "w": "jewel",
+    "ph": "ˈdʒuːəl",
+    "pos": "n.",
+    "zh": "宝石；珠宝",
+    "ex": "The queen wore a rare jewel on her crown.",
+    "exzh": "女王王冠上镶着一颗稀有的宝石。"
+  },
+  {
+    "w": "jewelry",
+    "ph": "ˈdʒuːəlri",
+    "pos": "n.",
+    "zh": "珠宝；首饰",
+    "ex": "She keeps her jewelry in a small wooden box.",
+    "exzh": "她把首饰放在一个小木盒里。"
+  },
+  {
+    "w": "job",
+    "ph": "dʒɑːb",
+    "pos": "n.",
+    "zh": "工作；职业；任务",
+    "ex": "He found a new job at a local bank.",
+    "exzh": "他在当地一家银行找到了新工作。"
+  },
+  {
+    "w": "jog",
+    "ph": "dʒɑːɡ",
+    "pos": "v.",
+    "zh": "慢跑",
+    "ex": "They jog along the river every morning before work.",
+    "exzh": "他们每天早上上班前沿着河边慢跑。"
+  },
+  {
+    "w": "join",
+    "ph": "dʒɔɪn",
+    "pos": "v.",
+    "zh": "参加；连接",
+    "ex": "Would you like to join us for dinner tonight?",
+    "exzh": "你今晚愿意和我们一起吃饭吗？"
+  },
+  {
+    "w": "joke",
+    "ph": "dʒoʊk",
+    "pos": "n./v.",
+    "zh": "笑话；开玩笑",
+    "ex": "His joke made the whole class laugh loudly.",
+    "exzh": "他的笑话让全班都大笑起来。"
+  },
+  {
+    "w": "jolly",
+    "ph": "ˈdʒɑːli",
+    "pos": "adj.",
+    "zh": "快活的；愉快的",
+    "ex": "Our jolly guide told stories throughout the journey.",
+    "exzh": "我们快活的导游一路上都在讲故事。"
+  },
+  {
+    "w": "journal",
+    "ph": "ˈdʒɜːrnl",
+    "pos": "n.",
+    "zh": "期刊；日志",
+    "ex": "Her research appeared in a medical journal last month.",
+    "exzh": "她的研究成果上个月发表在一本医学期刊上。"
+  },
+  {
+    "w": "journalism",
+    "ph": "ˈdʒɜːrnəlɪzəm",
+    "pos": "n.",
+    "zh": "新闻业；新闻工作",
+    "ex": "He studied journalism before working for a newspaper.",
+    "exzh": "他在为报纸工作之前学过新闻学。"
+  },
+  {
+    "w": "journalist",
+    "ph": "ˈdʒɜːrnəlɪst",
+    "pos": "n.",
+    "zh": "记者",
+    "ex": "The journalist interviewed several villagers about the flood.",
+    "exzh": "那名记者就洪水采访了几位村民。"
+  },
+  {
+    "w": "joy",
+    "ph": "dʒɔɪ",
+    "pos": "n.",
+    "zh": "欢乐；乐事",
+    "ex": "The children shouted with joy when the snow began.",
+    "exzh": "开始下雪时，孩子们高兴地欢呼起来。"
+  },
+  {
+    "w": "joyful",
+    "ph": "ˈdʒɔɪfl",
+    "pos": "adj.",
+    "zh": "快乐的；令人愉快的",
+    "ex": "The wedding was a joyful occasion for the whole family.",
+    "exzh": "这场婚礼对全家来说都是欢乐的时刻。"
+  },
+  {
+    "w": "judgment",
+    "ph": "ˈdʒʌdʒmənt",
+    "pos": "n.",
+    "zh": "判断；判决",
+    "ex": "Trust your own judgment when making this important decision.",
+    "exzh": "做这个重要决定时，相信你自己的判断。"
+  },
+  {
+    "w": "juice",
+    "ph": "dʒuːs",
+    "pos": "n.",
+    "zh": "果汁；汁液",
+    "ex": "She squeezed fresh orange juice for the children.",
+    "exzh": "她给孩子们榨了新鲜橙汁。"
+  },
+  {
+    "w": "jump",
+    "ph": "dʒʌmp",
+    "pos": "v./n.",
+    "zh": "跳；跳跃",
+    "ex": "The cat jumped onto the table without a sound.",
+    "exzh": "猫无声地跳到了桌子上。"
+  },
+  {
+    "w": "jungle",
+    "ph": "ˈdʒʌŋɡl",
+    "pos": "n.",
+    "zh": "丛林；密林",
+    "ex": "Many rare animals still live in that tropical jungle.",
+    "exzh": "许多珍稀动物仍生活在那片热带丛林中。"
+  },
+  {
+    "w": "junior",
+    "ph": "ˈdʒuːniər",
+    "pos": "adj./n.",
+    "zh": "年少的；大三学生",
+    "ex": "He is a junior at a university in Boston.",
+    "exzh": "他是波士顿一所大学的大三学生。"
+  },
+  {
+    "w": "jury",
+    "ph": "ˈdʒʊri",
+    "pos": "n.",
+    "zh": "陪审团；评判团",
+    "ex": "The jury found the young man not guilty.",
+    "exzh": "陪审团判定这个年轻人无罪。"
+  },
+  {
+    "w": "justice",
+    "ph": "ˈdʒʌstɪs",
+    "pos": "n.",
+    "zh": "正义；司法",
+    "ex": "The victims are still fighting for justice.",
+    "exzh": "受害者们仍在为正义而抗争。"
+  },
+  {
+    "w": "juvenile",
+    "ph": "ˈdʒuːvənaɪl",
+    "pos": "adj./n.",
+    "zh": "少年的；青少年",
+    "ex": "The city opened a special court for juvenile offenders.",
+    "exzh": "该市为青少年罪犯设立了一个特别法庭。"
+  },
+  {
+    "w": "keep",
+    "ph": "kiːp",
+    "pos": "v.",
+    "zh": "保持；保留",
+    "ex": "Please keep the door closed while the meeting is on.",
+    "exzh": "会议进行时请保持门关闭。"
+  },
+  {
+    "w": "keeper",
+    "ph": "ˈkiːpər",
+    "pos": "n.",
+    "zh": "看守人；饲养员",
+    "ex": "The zoo keeper feeds the lions twice a day.",
+    "exzh": "动物园饲养员每天喂狮子两次。"
+  },
+  {
+    "w": "key",
+    "ph": "kiː",
+    "pos": "n./adj.",
+    "zh": "钥匙；关键的",
+    "ex": "She lost her car key somewhere in the office.",
+    "exzh": "她把车钥匙丢在办公室的某个地方了。"
+  },
+  {
+    "w": "keyboard",
+    "ph": "ˈkiːbɔːrd",
+    "pos": "n.",
+    "zh": "键盘",
+    "ex": "He spilled coffee on his computer keyboard again.",
+    "exzh": "他又把咖啡洒在电脑键盘上了。"
+  },
+  {
+    "w": "kid",
+    "ph": "kɪd",
+    "pos": "n./v.",
+    "zh": "小孩；开玩笑",
+    "ex": "The kids played football in the park after school.",
+    "exzh": "放学后孩子们在公园里踢足球。"
+  },
+  {
+    "w": "kidnap",
+    "ph": "ˈkɪdnæp",
+    "pos": "v.",
+    "zh": "绑架；诱拐",
+    "ex": "The gang tried to kidnap the banker's son.",
+    "exzh": "那伙歹徒试图绑架银行家的儿子。"
+  },
+  {
+    "w": "kidney",
+    "ph": "ˈkɪdni",
+    "pos": "n.",
+    "zh": "肾",
+    "ex": "He donated a kidney to his younger brother.",
+    "exzh": "他把一个肾捐给了弟弟。"
+  },
+  {
+    "w": "kill",
+    "ph": "kɪl",
+    "pos": "v.",
+    "zh": "杀死；扼杀",
+    "ex": "The frost killed most of the young plants.",
+    "exzh": "霜冻冻死了大部分幼苗。"
+  },
+  {
+    "w": "kilogram",
+    "ph": "ˈkɪləɡræm",
+    "pos": "n.",
+    "zh": "千克；公斤",
+    "ex": "This bag of rice weighs about one kilogram.",
+    "exzh": "这袋米大约重一千克。"
+  },
+  {
+    "w": "kilometer",
+    "ph": "kɪˈlɑːmɪtər",
+    "pos": "n.",
+    "zh": "千米；公里",
+    "ex": "The next village is two kilometers down the road.",
+    "exzh": "沿着这条路走两公里就是下一个村庄。"
+  },
+  {
+    "w": "kind",
+    "ph": "kaɪnd",
+    "pos": "n./adj.",
+    "zh": "种类；友好的",
+    "ex": "She was kind enough to help the lost child.",
+    "exzh": "她好心帮助了那个走失的孩子。"
+  },
+  {
+    "w": "kindergarten",
+    "ph": "ˈkɪndərɡɑːrtn",
+    "pos": "n.",
+    "zh": "幼儿园",
+    "ex": "Their daughter started kindergarten this September.",
+    "exzh": "他们的女儿今年九月开始上幼儿园。"
+  },
+  {
+    "w": "kindness",
+    "ph": "ˈkaɪndnəs",
+    "pos": "n.",
+    "zh": "仁慈；好意",
+    "ex": "He never forgot her kindness during his illness.",
+    "exzh": "他从未忘记她在他生病期间的好意。"
+  },
+  {
+    "w": "king",
+    "ph": "kɪŋ",
+    "pos": "n.",
+    "zh": "国王",
+    "ex": "The king ruled the small country for forty years.",
+    "exzh": "国王统治这个小国四十年。"
+  },
+  {
+    "w": "kingdom",
+    "ph": "ˈkɪŋdəm",
+    "pos": "n.",
+    "zh": "王国；领域",
+    "ex": "The old kingdom lasted for nearly three centuries.",
+    "exzh": "这个古老的王国延续了近三个世纪。"
+  },
+  {
+    "w": "kiss",
+    "ph": "kɪs",
+    "pos": "v./n.",
+    "zh": "吻；亲吻",
+    "ex": "She kissed her son goodbye at the station.",
+    "exzh": "她在车站亲吻儿子道别。"
+  },
+  {
+    "w": "kit",
+    "ph": "kɪt",
+    "pos": "n.",
+    "zh": "成套工具；装备",
+    "ex": "Every car should carry a basic first-aid kit.",
+    "exzh": "每辆车都应备有一个基本急救包。"
+  },
+  {
+    "w": "kitchen",
+    "ph": "ˈkɪtʃɪn",
+    "pos": "n.",
+    "zh": "厨房",
+    "ex": "My mother is cooking noodles in the kitchen.",
+    "exzh": "我妈妈正在厨房里煮面条。"
+  },
+  {
+    "w": "kite",
+    "ph": "kaɪt",
+    "pos": "n.",
+    "zh": "风筝",
+    "ex": "The boys flew a red kite on the beach.",
+    "exzh": "男孩们在海滩上放一只红风筝。"
+  },
+  {
+    "w": "knee",
+    "ph": "niː",
+    "pos": "n.",
+    "zh": "膝盖",
+    "ex": "He hurt his knee while climbing the stairs.",
+    "exzh": "他爬楼梯时伤了膝盖。"
+  },
+  {
+    "w": "kneel",
+    "ph": "niːl",
+    "pos": "v.",
+    "zh": "跪下",
+    "ex": "She kneels beside the bed and prays quietly.",
+    "exzh": "她在床边跪下默默祈祷。"
+  },
+  {
+    "w": "knife",
+    "ph": "naɪf",
+    "pos": "n.",
+    "zh": "刀；小刀",
+    "ex": "Cut the bread with a sharp knife, please.",
+    "exzh": "请用一把锋利的刀切面包。"
+  },
+  {
+    "w": "knight",
+    "ph": "naɪt",
+    "pos": "n.",
+    "zh": "骑士",
+    "ex": "The knight rode slowly toward the castle gate.",
+    "exzh": "骑士缓缓向城堡大门骑去。"
+  },
+  {
+    "w": "knit",
+    "ph": "nɪt",
+    "pos": "v.",
+    "zh": "编织",
+    "ex": "My grandmother knitted me a warm winter sweater.",
+    "exzh": "我奶奶给我织了一件暖和的冬衣。"
+  },
+  {
+    "w": "knob",
+    "ph": "nɑːb",
+    "pos": "n.",
+    "zh": "门把手；旋钮",
+    "ex": "Turn the knob clockwise to open the wooden door.",
+    "exzh": "顺时针转动门把手就能打开这扇木门。"
+  },
+  {
+    "w": "knock",
+    "ph": "nɑːk",
+    "pos": "v./n.",
+    "zh": "敲；击",
+    "ex": "Someone knocked loudly on the front door at midnight.",
+    "exzh": "半夜有人大声敲前门。"
+  },
+  {
+    "w": "knot",
+    "ph": "nɑːt",
+    "pos": "n./v.",
+    "zh": "结；打结",
+    "ex": "He tied a tight knot in the wet rope.",
+    "exzh": "他在湿绳子上打了一个紧紧的结。"
+  },
+  {
+    "w": "know",
+    "ph": "noʊ",
+    "pos": "v.",
+    "zh": "知道；认识",
+    "ex": "I know the answer, but I cannot explain it.",
+    "exzh": "我知道答案，但无法解释。"
+  },
+  {
+    "w": "lab",
+    "ph": "læb",
+    "pos": "n.",
+    "zh": "实验室",
+    "ex": "The students did the experiment in the chemistry lab.",
+    "exzh": "学生们在化学实验室做实验。"
+  },
+  {
+    "w": "laboratory",
+    "ph": "ˈlæbrətɔːri",
+    "pos": "n.",
+    "zh": "实验室",
+    "ex": "The samples were tested in a modern laboratory.",
+    "exzh": "这些样本在一间现代化实验室里接受了检测。"
+  },
+  {
+    "w": "lace",
+    "ph": "leɪs",
+    "pos": "n./v.",
+    "zh": "鞋带；花边；系带",
+    "ex": "He tied his laces and ran out of the door.",
+    "exzh": "他系好鞋带，跑出了门。"
+  },
+  {
+    "w": "ladder",
+    "ph": "ˈlædər",
+    "pos": "n.",
+    "zh": "梯子",
+    "ex": "He climbed the ladder to fix the roof.",
+    "exzh": "他爬上梯子去修屋顶。"
+  },
+  {
+    "w": "lady",
+    "ph": "ˈleɪdi",
+    "pos": "n.",
+    "zh": "女士；夫人",
+    "ex": "An elderly lady asked me for directions to the station.",
+    "exzh": "一位老太太向我打听去车站的路。"
+  },
+  {
+    "w": "lag",
+    "ph": "læɡ",
+    "pos": "v./n.",
+    "zh": "落后；滞后",
+    "ex": "Our sales lag behind those of our competitors.",
+    "exzh": "我们的销售额落后于竞争对手。"
+  },
+  {
+    "w": "lake",
+    "ph": "leɪk",
+    "pos": "n.",
+    "zh": "湖",
+    "ex": "We rowed across the quiet lake at sunrise.",
+    "exzh": "日出时我们划船穿过平静的湖面。"
+  },
+  {
+    "w": "lamb",
+    "ph": "læm",
+    "pos": "n.",
+    "zh": "羔羊；羔羊肉",
+    "ex": "The little lamb stayed close to its mother.",
+    "exzh": "小羊羔紧挨着它的妈妈。"
+  },
+  {
+    "w": "lame",
+    "ph": "leɪm",
+    "pos": "adj.",
+    "zh": "跛的；站不住脚的",
+    "ex": "He gave a lame excuse for missing the meeting.",
+    "exzh": "他为错过会议找了个站不住脚的借口。"
+  },
+  {
+    "w": "lamp",
+    "ph": "læmp",
+    "pos": "n.",
+    "zh": "灯",
+    "ex": "She switched on the lamp and started reading.",
+    "exzh": "她打开灯开始看书。"
+  },
+  {
+    "w": "land",
+    "ph": "lænd",
+    "pos": "n./v.",
+    "zh": "陆地；着陆",
+    "ex": "The plane landed safely despite the heavy fog.",
+    "exzh": "尽管大雾弥漫，飞机还是安全着陆了。"
+  },
+  {
+    "w": "landing",
+    "ph": "ˈlændɪŋ",
+    "pos": "n.",
+    "zh": "着陆；登陆",
+    "ex": "The plane made a smooth landing in strong wind.",
+    "exzh": "飞机在大风中平稳着陆。"
+  },
+  {
+    "w": "landlady",
+    "ph": "ˈlændleɪdi",
+    "pos": "n.",
+    "zh": "女房东",
+    "ex": "The landlady collected the rent at the end of each month.",
+    "exzh": "女房东每月月底收房租。"
+  },
+  {
+    "w": "landlord",
+    "ph": "ˈlændlɔːrd",
+    "pos": "n.",
+    "zh": "房东；地主",
+    "ex": "Our landlord finally repaired the broken heating system.",
+    "exzh": "我们的房东终于修好了坏掉的供暖系统。"
+  },
+  {
+    "w": "landmark",
+    "ph": "ˈlændmɑːrk",
+    "pos": "n.",
+    "zh": "地标；里程碑",
+    "ex": "The old tower is a famous landmark in this city.",
+    "exzh": "这座古塔是该市著名的地标。"
+  },
+  {
+    "w": "lane",
+    "ph": "leɪn",
+    "pos": "n.",
+    "zh": "小巷；车道",
+    "ex": "She cycled slowly down the narrow country lane.",
+    "exzh": "她沿着狭窄的乡间小路慢慢骑车。"
+  },
+  {
+    "w": "language",
+    "ph": "ˈlæŋɡwɪdʒ",
+    "pos": "n.",
+    "zh": "语言",
+    "ex": "Learning a second language takes patience and daily practice.",
+    "exzh": "学习第二语言需要耐心和每日练习。"
+  },
+  {
+    "w": "lantern",
+    "ph": "ˈlæntərn",
+    "pos": "n.",
+    "zh": "灯笼",
+    "ex": "They hung a red lantern above the front door.",
+    "exzh": "他们在前门上方挂了一盏红灯笼。"
+  },
+  {
+    "w": "lap",
+    "ph": "læp",
+    "pos": "n.",
+    "zh": "膝部；大腿部",
+    "ex": "The cat slept quietly on her lap all afternoon.",
+    "exzh": "猫整个下午都安静地睡在她腿上。"
+  },
+  {
+    "w": "laptop",
+    "ph": "ˈlæptɑːp",
+    "pos": "n.",
+    "zh": "笔记本电脑",
+    "ex": "He takes his laptop to every business meeting.",
+    "exzh": "他每次商务会议都带着笔记本电脑。"
+  },
+  {
+    "w": "large",
+    "ph": "lɑːrdʒ",
+    "pos": "adj.",
+    "zh": "大的；大量的",
+    "ex": "A large crowd gathered outside the concert hall.",
+    "exzh": "一大群人聚集在音乐厅外。"
+  },
+  {
+    "w": "largely",
+    "ph": "ˈlɑːrdʒli",
+    "pos": "adv.",
+    "zh": "主要地；大部分",
+    "ex": "The success of the project was largely due to her.",
+    "exzh": "这个项目的成功主要归功于她。"
+  },
+  {
+    "w": "laser",
+    "ph": "ˈleɪzər",
+    "pos": "n.",
+    "zh": "激光",
+    "ex": "Doctors use a laser to perform this delicate eye surgery.",
+    "exzh": "医生用激光来做这种精细的眼部手术。"
+  },
+  {
+    "w": "last",
+    "ph": "læst",
+    "pos": "adj./v.",
+    "zh": "最后的；持续",
+    "ex": "The meeting lasted almost three hours yesterday.",
+    "exzh": "昨天的会议持续了将近三个小时。"
+  },
+  {
+    "w": "late",
+    "ph": "leɪt",
+    "pos": "adj./adv.",
+    "zh": "迟的；晚",
+    "ex": "Sorry, I am late because the bus broke down.",
+    "exzh": "抱歉，我迟到了，因为公共汽车坏了。"
+  },
+  {
+    "w": "lately",
+    "ph": "ˈleɪtli",
+    "pos": "adv.",
+    "zh": "最近；近来",
+    "ex": "She has been very busy with work lately.",
+    "exzh": "她最近工作非常忙。"
+  },
+  {
+    "w": "later",
+    "ph": "ˈleɪtər",
+    "pos": "adv.",
+    "zh": "后来；以后",
+    "ex": "We will discuss the details later this afternoon.",
+    "exzh": "我们今天下午晚些时候再讨论细节。"
+  },
+  {
+    "w": "laugh",
+    "ph": "læf",
+    "pos": "v./n.",
+    "zh": "笑；大笑",
+    "ex": "The audience laughed at almost every joke.",
+    "exzh": "观众对几乎每个笑话都大笑。"
+  },
+  {
+    "w": "laughter",
+    "ph": "ˈlæftər",
+    "pos": "n.",
+    "zh": "笑；笑声",
+    "ex": "Loud laughter came from the room next door.",
+    "exzh": "隔壁房间传来响亮的大笑声。"
+  },
+  {
+    "w": "laundry",
+    "ph": "ˈlɔːndri",
+    "pos": "n.",
+    "zh": "洗衣房；待洗衣物",
+    "ex": "She does the laundry every Sunday morning.",
+    "exzh": "她每周日早上洗衣服。"
+  },
+  {
+    "w": "lavatory",
+    "ph": "ˈlævətɔːri",
+    "pos": "n.",
+    "zh": "盥洗室；厕所",
+    "ex": "The lavatory is at the end of the corridor.",
+    "exzh": "盥洗室在走廊尽头。"
+  },
+  {
+    "w": "law",
+    "ph": "lɔː",
+    "pos": "n.",
+    "zh": "法律；法则",
+    "ex": "Every citizen should obey the law of the land.",
+    "exzh": "每个公民都应遵守国家的法律。"
+  },
+  {
+    "w": "lawn",
+    "ph": "lɔːn",
+    "pos": "n.",
+    "zh": "草坪",
+    "ex": "He cuts the lawn every Saturday morning in summer.",
+    "exzh": "夏天他每周六早上修剪草坪。"
+  },
+  {
+    "w": "lawyer",
+    "ph": "ˈlɔːjər",
+    "pos": "n.",
+    "zh": "律师",
+    "ex": "She hired a lawyer to handle the property dispute.",
+    "exzh": "她请了一位律师处理房产纠纷。"
+  },
+  {
+    "w": "lay",
+    "ph": "leɪ",
+    "pos": "v.",
+    "zh": "放置；铺设；下蛋",
+    "ex": "He will lay the documents carefully on the desk.",
+    "exzh": "他会把文件小心地放在桌子上。"
+  },
+  {
+    "w": "layout",
+    "ph": "ˈleɪaʊt",
+    "pos": "n.",
+    "zh": "布局；版面设计",
+    "ex": "The new layout makes the website easier to read.",
+    "exzh": "新的版面设计让网站更易阅读。"
+  },
+  {
+    "w": "lazy",
+    "ph": "ˈleɪzi",
+    "pos": "adj.",
+    "zh": "懒惰的；懒散的",
+    "ex": "He was too lazy to clean his room.",
+    "exzh": "他太懒了，不愿意打扫房间。"
+  },
+  {
+    "w": "lead",
+    "ph": "liːd",
+    "pos": "v./n.",
+    "zh": "领导；引导；领先",
+    "ex": "Her advice will lead us to a better solution.",
+    "exzh": "她的建议将引导我们找到更好的解决办法。"
+  },
+  {
+    "w": "leader",
+    "ph": "ˈliːdər",
+    "pos": "n.",
+    "zh": "领导者；领袖",
+    "ex": "The team leader explained the plan to everyone.",
+    "exzh": "队长向大家解释了计划。"
+  },
+  {
+    "w": "leadership",
+    "ph": "ˈliːdərʃɪp",
+    "pos": "n.",
+    "zh": "领导；领导能力",
+    "ex": "Good leadership requires patience, courage and clear thinking.",
+    "exzh": "优秀的领导力需要耐心、勇气和清晰的思维。"
+  },
+  {
+    "w": "leading",
+    "ph": "ˈliːdɪŋ",
+    "pos": "adj.",
+    "zh": "主要的；领先的",
+    "ex": "She is a leading expert on climate change.",
+    "exzh": "她是气候变化方面的顶尖专家。"
+  },
+  {
+    "w": "leaf",
+    "ph": "liːf",
+    "pos": "n.",
+    "zh": "叶子",
+    "ex": "A yellow leaf fell slowly from the tree.",
+    "exzh": "一片黄叶从树上慢慢飘落。"
+  },
+  {
+    "w": "leak",
+    "ph": "liːk",
+    "pos": "v./n.",
+    "zh": "漏；泄露",
+    "ex": "The roof leaks badly whenever it rains hard.",
+    "exzh": "每逢下大雨屋顶就漏得厉害。"
+  },
+  {
+    "w": "lean",
+    "ph": "liːn",
+    "pos": "v./adj.",
+    "zh": "倾斜；靠；瘦的",
+    "ex": "He leaned against the wall and closed his eyes.",
+    "exzh": "他靠在墙上闭上了眼睛。"
+  },
+  {
+    "w": "leap",
+    "ph": "liːp",
+    "pos": "v./n.",
+    "zh": "跳跃；跃过",
+    "ex": "The dog leaped over the low wooden fence.",
+    "exzh": "狗跃过了低矮的木栅栏。"
+  },
+  {
+    "w": "learn",
+    "ph": "lɜːrn",
+    "pos": "v.",
+    "zh": "学习；得知",
+    "ex": "Children learn new words quickly through songs and games.",
+    "exzh": "孩子们通过歌曲和游戏很快学会新词。"
+  },
+  {
+    "w": "learned",
+    "ph": "ˈlɜːrnɪd",
+    "pos": "adj.",
+    "zh": "有学问的；学术的",
+    "ex": "The professor is a learned man in his field.",
+    "exzh": "这位教授是他所在领域的一位博学之士。"
+  },
+  {
+    "w": "learning",
+    "ph": "ˈlɜːrnɪŋ",
+    "pos": "n.",
+    "zh": "学习；学问",
+    "ex": "Online learning has become popular among working adults.",
+    "exzh": "在线学习在职成年人中已经流行起来。"
+  },
+  {
+    "w": "least",
+    "ph": "liːst",
+    "pos": "adj./adv.",
+    "zh": "最少的；最小的",
+    "ex": "This is the least expensive option we have.",
+    "exzh": "这是我们最便宜的选择。"
+  },
+  {
+    "w": "leather",
+    "ph": "ˈleðər",
+    "pos": "n.",
+    "zh": "皮革",
+    "ex": "He bought a brown leather jacket for winter.",
+    "exzh": "他买了一件棕色皮夹克过冬。"
+  },
+  {
+    "w": "leave",
+    "ph": "liːv",
+    "pos": "v.",
+    "zh": "离开；留下",
+    "ex": "Please leave the key with the receptionist.",
+    "exzh": "请把钥匙留给前台。"
+  },
+  {
+    "w": "left",
+    "ph": "left",
+    "pos": "adj./n.",
+    "zh": "左边的；左边",
+    "ex": "Turn left at the next traffic light.",
+    "exzh": "在下个红绿灯处左转。"
+  },
+  {
+    "w": "leg",
+    "ph": "leɡ",
+    "pos": "n.",
+    "zh": "腿",
+    "ex": "She broke her leg while skiing last winter.",
+    "exzh": "去年冬天滑雪时她摔断了腿。"
+  },
+  {
+    "w": "legend",
+    "ph": "ˈledʒənd",
+    "pos": "n.",
+    "zh": "传说；传奇人物",
+    "ex": "The legend of the dragon has lasted for centuries.",
+    "exzh": "关于龙的传说已经流传了几个世纪。"
+  },
+  {
+    "w": "lemon",
+    "ph": "ˈlemən",
+    "pos": "n.",
+    "zh": "柠檬",
+    "ex": "Add a slice of lemon to your tea.",
+    "exzh": "往茶里加一片柠檬。"
+  },
+  {
+    "w": "length",
+    "ph": "leŋθ",
+    "pos": "n.",
+    "zh": "长度；一段",
+    "ex": "The room is about five meters in length.",
+    "exzh": "这个房间大约五米长。"
+  },
+  {
+    "w": "lengthen",
+    "ph": "ˈleŋθən",
+    "pos": "v.",
+    "zh": "加长；延长",
+    "ex": "They plan to lengthen the runway next year.",
+    "exzh": "他们计划明年加长跑道。"
+  },
+  {
+    "w": "lens",
+    "ph": "lenz",
+    "pos": "n.",
+    "zh": "透镜；镜头",
+    "ex": "He cleaned the camera lens before taking photos.",
+    "exzh": "拍照前他擦干净了相机镜头。"
+  },
+  {
+    "w": "less",
+    "ph": "les",
+    "pos": "adj./adv.",
+    "zh": "较少的；更少地",
+    "ex": "Try to spend less time on your phone.",
+    "exzh": "尽量少花点时间在手机上。"
+  },
+  {
+    "w": "lessen",
+    "ph": "ˈlesn",
+    "pos": "v.",
+    "zh": "减少；减轻",
+    "ex": "These exercises can lessen the pain in your back.",
+    "exzh": "这些锻炼能减轻你背部的疼痛。"
+  },
+  {
+    "w": "lesson",
+    "ph": "ˈlesn",
+    "pos": "n.",
+    "zh": "课；教训",
+    "ex": "The accident taught him a painful lesson.",
+    "exzh": "这次事故给了他一个痛苦的教训。"
+  },
+  {
+    "w": "lest",
+    "ph": "lest",
+    "pos": "conj.",
+    "zh": "以免；唯恐",
+    "ex": "Speak quietly lest you wake the sleeping baby.",
+    "exzh": "说话小声点，以免吵醒熟睡的婴儿。"
+  },
+  {
+    "w": "letter",
+    "ph": "ˈletər",
+    "pos": "n.",
+    "zh": "信；字母",
+    "ex": "She wrote a long letter to her old friend.",
+    "exzh": "她给老朋友写了一封长信。"
+  },
+  {
+    "w": "level",
+    "ph": "ˈlevl",
+    "pos": "n./adj.",
+    "zh": "水平；水平的",
+    "ex": "The water level rose quickly after the storm.",
+    "exzh": "暴风雨过后水位迅速上涨。"
+  },
+  {
+    "w": "lever",
+    "ph": "ˈlevər",
+    "pos": "n.",
+    "zh": "杠杆；控制杆",
+    "ex": "Pull the lever to open the emergency door.",
+    "exzh": "拉动杠杆打开应急门。"
+  },
+  {
+    "w": "liable",
+    "ph": "ˈlaɪəbl",
+    "pos": "adj.",
+    "zh": "有责任的；易于…的",
+    "ex": "Drivers are liable for any damage they cause.",
+    "exzh": "司机要对自己造成的任何损失负责。"
+  },
+  {
+    "w": "liar",
+    "ph": "ˈlaɪər",
+    "pos": "n.",
+    "zh": "说谎者",
+    "ex": "Nobody trusts him because he is a liar.",
+    "exzh": "没人信任他，因为他是个骗子。"
+  },
+  {
+    "w": "liberate",
+    "ph": "ˈlɪbəreɪt",
+    "pos": "v.",
+    "zh": "解放；释放",
+    "ex": "The soldiers liberated the town at dawn.",
+    "exzh": "士兵们在黎明解放了这座小镇。"
+  },
+  {
+    "w": "liberation",
+    "ph": "ˌlɪbəˈreɪʃn",
+    "pos": "n.",
+    "zh": "解放",
+    "ex": "The museum documents the liberation of the city.",
+    "exzh": "这座博物馆记录了该市的解放。"
+  },
+  {
+    "w": "liberty",
+    "ph": "ˈlɪbərti",
+    "pos": "n.",
+    "zh": "自由",
+    "ex": "People fought hard for liberty and equal rights.",
+    "exzh": "人们为自由和平等权利而奋力斗争。"
+  },
+  {
+    "w": "librarian",
+    "ph": "laɪˈbreriən",
+    "pos": "n.",
+    "zh": "图书馆员",
+    "ex": "The librarian helped me find several useful books.",
+    "exzh": "图书管理员帮我找到了几本有用的书。"
+  },
+  {
+    "w": "lick",
+    "ph": "lɪk",
+    "pos": "v.",
+    "zh": "舔",
+    "ex": "The dog licked the plate clean in seconds.",
+    "exzh": "狗几秒钟就把盘子舔干净了。"
+  },
+  {
+    "w": "lid",
+    "ph": "lɪd",
+    "pos": "n.",
+    "zh": "盖子",
+    "ex": "She lifted the lid and looked inside the box.",
+    "exzh": "她掀开盖子往盒子里看。"
+  },
+  {
+    "w": "lie",
+    "ph": "laɪ",
+    "pos": "v./n.",
+    "zh": "躺；说谎；谎言",
+    "ex": "She wants to lie down and rest for a while.",
+    "exzh": "她想躺下休息一会儿。"
+  },
+  {
+    "w": "lieutenant",
+    "ph": "luːˈtenənt",
+    "pos": "n.",
+    "zh": "中尉",
+    "ex": "The lieutenant led his soldiers across the river.",
+    "exzh": "中尉带领士兵们过了河。"
+  },
+  {
+    "w": "life",
+    "ph": "laɪf",
+    "pos": "n.",
+    "zh": "生命；生活",
+    "ex": "Music has been an important part of her life.",
+    "exzh": "音乐一直是她生活的重要组成部分。"
+  },
+  {
+    "w": "lifestyle",
+    "ph": "ˈlaɪfstaɪl",
+    "pos": "n.",
+    "zh": "生活方式",
+    "ex": "A healthy lifestyle includes exercise and good sleep.",
+    "exzh": "健康的生活方式包括锻炼和良好睡眠。"
+  },
+  {
+    "w": "lifetime",
+    "ph": "ˈlaɪftaɪm",
+    "pos": "n.",
+    "zh": "一生；终身",
+    "ex": "He spent a lifetime studying ancient Chinese poetry.",
+    "exzh": "他一生都在研究中国古诗。"
+  },
+  {
+    "w": "lift",
+    "ph": "lɪft",
+    "pos": "v./n.",
+    "zh": "举起；电梯",
+    "ex": "She lifted the heavy box onto the table.",
+    "exzh": "她把沉重的箱子抬到桌子上。"
+  },
+  {
+    "w": "light",
+    "ph": "laɪt",
+    "pos": "n./adj.",
+    "zh": "光；轻的",
+    "ex": "The room was filled with warm morning light.",
+    "exzh": "房间里洒满了温暖的晨光。"
+  },
+  {
+    "w": "lighten",
+    "ph": "ˈlaɪtn",
+    "pos": "v.",
+    "zh": "减轻；照亮",
+    "ex": "A good laugh can lighten a difficult day.",
+    "exzh": "开怀一笑能照亮艰难的一天。"
+  },
+  {
+    "w": "lightly",
+    "ph": "ˈlaɪtli",
+    "pos": "adv.",
+    "zh": "轻轻地；轻微地",
+    "ex": "She touched his shoulder lightly and smiled.",
+    "exzh": "她轻轻碰了碰他的肩膀，笑了。"
+  },
+  {
+    "w": "lightning",
+    "ph": "ˈlaɪtnɪŋ",
+    "pos": "n.",
+    "zh": "闪电",
+    "ex": "Lightning struck the tall tree during the storm.",
+    "exzh": "暴风雨中闪电击中了那棵大树。"
+  },
+  {
+    "w": "likewise",
+    "ph": "ˈlaɪkwaɪz",
+    "pos": "adv.",
+    "zh": "同样地；也",
+    "ex": "She enjoys reading, and her sister does likewise.",
+    "exzh": "她喜欢读书，她妹妹也一样。"
+  },
+  {
+    "w": "limb",
+    "ph": "lɪm",
+    "pos": "n.",
+    "zh": "肢；树枝",
+    "ex": "The injury left his left limb weak for months.",
+    "exzh": "这次受伤使他的左肢虚弱了好几个月。"
+  },
+  {
+    "w": "lime",
+    "ph": "laɪm",
+    "pos": "n.",
+    "zh": "石灰；酸橙",
+    "ex": "Farmers spread lime on the field to improve the soil.",
+    "exzh": "农民在田里撒石灰改良土壤。"
+  },
+  {
+    "w": "limitation",
+    "ph": "ˌlɪmɪˈteɪʃn",
+    "pos": "n.",
+    "zh": "限制；局限",
+    "ex": "Every method has its own limitation and weakness.",
+    "exzh": "每种方法都有其自身的局限和弱点。"
+  },
+  {
+    "w": "limited",
+    "ph": "ˈlɪmɪtɪd",
+    "pos": "adj.",
+    "zh": "有限的",
+    "ex": "We have only limited time to finish the task.",
+    "exzh": "我们完成任务的时间很有限。"
+  },
+  {
+    "w": "line",
+    "ph": "laɪn",
+    "pos": "n./v.",
+    "zh": "线；排队",
+    "ex": "People lined up outside the shop before dawn.",
+    "exzh": "天还没亮人们就在店外排起了队。"
+  },
+  {
+    "w": "linen",
+    "ph": "ˈlɪnɪn",
+    "pos": "n.",
+    "zh": "亚麻布；亚麻织物",
+    "ex": "She spread a clean linen cloth over the table.",
+    "exzh": "她在桌上铺了一块干净的亚麻布。"
+  },
+  {
+    "w": "liner",
+    "ph": "ˈlaɪnər",
+    "pos": "n.",
+    "zh": "班轮；班机",
+    "ex": "The ocean liner left the port at noon.",
+    "exzh": "远洋班轮中午离开了港口。"
+  },
+  {
+    "w": "lion",
+    "ph": "ˈlaɪən",
+    "pos": "n.",
+    "zh": "狮子",
+    "ex": "A lion slept quietly under the acacia tree.",
+    "exzh": "一头狮子在金合欢树下安静地睡觉。"
+  },
+  {
+    "w": "lip",
+    "ph": "lɪp",
+    "pos": "n.",
+    "zh": "嘴唇",
+    "ex": "She bit her lip and said nothing.",
+    "exzh": "她咬着嘴唇什么也没说。"
+  },
+  {
+    "w": "liquor",
+    "ph": "ˈlɪkər",
+    "pos": "n.",
+    "zh": "烈酒",
+    "ex": "The shop is not allowed to sell liquor to minors.",
+    "exzh": "这家商店不得向未成年人出售烈酒。"
+  },
+  {
+    "w": "list",
+    "ph": "lɪst",
+    "pos": "n./v.",
+    "zh": "清单；列出",
+    "ex": "Please list all the books you have read this year.",
+    "exzh": "请列出你今年读过的所有书。"
+  },
+  {
+    "w": "listen",
+    "ph": "ˈlɪsn",
+    "pos": "v.",
+    "zh": "听；倾听",
+    "ex": "She likes to listen to music while cooking.",
+    "exzh": "她喜欢边做饭边听音乐。"
+  },
+  {
+    "w": "listener",
+    "ph": "ˈlɪsənər",
+    "pos": "n.",
+    "zh": "听众；倾听者",
+    "ex": "A good listener pays attention to every word.",
+    "exzh": "好的倾听者会注意每一个字。"
+  },
+  {
+    "w": "liter",
+    "ph": "ˈliːtər",
+    "pos": "n.",
+    "zh": "升",
+    "ex": "He drinks at least one liter of water daily.",
+    "exzh": "他每天至少喝一升水。"
+  },
+  {
+    "w": "literary",
+    "ph": "ˈlɪtəreri",
+    "pos": "adj.",
+    "zh": "文学的",
+    "ex": "The magazine publishes literary criticism and short stories.",
+    "exzh": "这本杂志发表文学评论和短篇小说。"
+  },
+  {
+    "w": "litter",
+    "ph": "ˈlɪtər",
+    "pos": "n./v.",
+    "zh": "垃圾；乱扔",
+    "ex": "Please do not litter the park with plastic bottles.",
+    "exzh": "请不要在公园里乱扔塑料瓶。"
+  },
+  {
+    "w": "little",
+    "ph": "ˈlɪtl",
+    "pos": "adj./adv.",
+    "zh": "小的；很少",
+    "ex": "She has little time for hobbies these days.",
+    "exzh": "她最近没什么时间搞爱好。"
+  },
+  {
+    "w": "live",
+    "ph": "lɪv",
+    "pos": "v./adj.",
+    "zh": "居住；活的",
+    "ex": "They live in a small village near the coast.",
+    "exzh": "他们住在海边的一个小村庄。"
+  },
+  {
+    "w": "lively",
+    "ph": "ˈlaɪvli",
+    "pos": "adj.",
+    "zh": "活泼的；生动的",
+    "ex": "The market is lively and full of color.",
+    "exzh": "市场热闹非凡，色彩缤纷。"
+  },
+  {
+    "w": "liver",
+    "ph": "ˈlɪvər",
+    "pos": "n.",
+    "zh": "肝",
+    "ex": "The doctor found a small problem with his liver.",
+    "exzh": "医生发现他的肝脏有个小问题。"
+  },
+  {
+    "w": "living",
+    "ph": "ˈlɪvɪŋ",
+    "pos": "adj./n.",
+    "zh": "活着的；生活",
+    "ex": "The cost of living has risen sharply this year.",
+    "exzh": "今年生活成本大幅上涨。"
+  },
+  {
+    "w": "load",
+    "ph": "loʊd",
+    "pos": "v./n.",
+    "zh": "装载；负担",
+    "ex": "They loaded the truck with fresh vegetables.",
+    "exzh": "他们把新鲜蔬菜装上卡车。"
+  },
+  {
+    "w": "loaf",
+    "ph": "loʊf",
+    "pos": "n.",
+    "zh": "一条面包",
+    "ex": "She bought a loaf of bread on her way home.",
+    "exzh": "她回家的路上买了一条面包。"
+  },
+  {
+    "w": "lobby",
+    "ph": "ˈlɑːbi",
+    "pos": "n.",
+    "zh": "大厅；游说",
+    "ex": "We waited for him in the hotel lobby.",
+    "exzh": "我们在酒店大厅等他。"
+  },
+  {
+    "w": "location",
+    "ph": "loʊˈkeɪʃn",
+    "pos": "n.",
+    "zh": "位置；地点",
+    "ex": "The hotel has a quiet location near the lake.",
+    "exzh": "这家酒店位于湖边，环境安静。"
+  },
+  {
+    "w": "lock",
+    "ph": "lɑːk",
+    "pos": "n./v.",
+    "zh": "锁；锁上",
+    "ex": "She locked the door and left the office.",
+    "exzh": "她锁上门离开了办公室。"
+  },
+  {
+    "w": "locomotive",
+    "ph": "ˌloʊkəˈmoʊtɪv",
+    "pos": "n.",
+    "zh": "机车；火车头",
+    "ex": "The old locomotive still pulls tourist trains today.",
+    "exzh": "这台老机车如今仍牵引观光列车。"
+  },
+  {
+    "w": "lodge",
+    "ph": "lɑːdʒ",
+    "pos": "v./n.",
+    "zh": "寄宿；小屋",
+    "ex": "We lodged in a small guesthouse near the station.",
+    "exzh": "我们住在车站附近的一家小旅馆。"
+  },
+  {
+    "w": "log",
+    "ph": "lɔːɡ",
+    "pos": "n./v.",
+    "zh": "原木；记录",
+    "ex": "He threw another log onto the burning fire.",
+    "exzh": "他又往燃烧的火里扔了一根木头。"
+  },
+  {
+    "w": "logic",
+    "ph": "ˈlɑːdʒɪk",
+    "pos": "n.",
+    "zh": "逻辑",
+    "ex": "There is no logic in his argument.",
+    "exzh": "他的论证毫无逻辑。"
+  },
+  {
+    "w": "lonely",
+    "ph": "ˈloʊnli",
+    "pos": "adj.",
+    "zh": "孤独的；荒凉的",
+    "ex": "She felt lonely during her first month abroad.",
+    "exzh": "她在国外的第一个月感到孤独。"
+  },
+  {
+    "w": "long",
+    "ph": "lɔːŋ",
+    "pos": "adj./v.",
+    "zh": "长的；渴望",
+    "ex": "The children long for the summer holiday.",
+    "exzh": "孩子们渴望暑假。"
+  },
+  {
+    "w": "longitude",
+    "ph": "ˈlɑːndʒɪtuːd",
+    "pos": "n.",
+    "zh": "经度",
+    "ex": "Every point on Earth has its own latitude and longitude.",
+    "exzh": "地球上的每个点都有自己的纬度和经度。"
+  },
+  {
+    "w": "look",
+    "ph": "lʊk",
+    "pos": "v./n.",
+    "zh": "看；看起来",
+    "ex": "He looked out of the window at the falling snow.",
+    "exzh": "他望着窗外飘落的雪花。"
+  },
+  {
+    "w": "loop",
+    "ph": "luːp",
+    "pos": "n./v.",
+    "zh": "环；循环",
+    "ex": "The road makes a wide loop around the hill.",
+    "exzh": "这条路绕山形成一个大的环。"
+  },
+  {
+    "w": "loosen",
+    "ph": "ˈluːsn",
+    "pos": "v.",
+    "zh": "放松；解开",
+    "ex": "He loosened his tie and sat down.",
+    "exzh": "他松开领带坐了下来。"
+  },
+  {
+    "w": "lord",
+    "ph": "lɔːrd",
+    "pos": "n.",
+    "zh": "贵族；领主",
+    "ex": "The lord owned all the land around the village.",
+    "exzh": "这位领主拥有村庄周围所有的土地。"
+  },
+  {
+    "w": "lorry",
+    "ph": "ˈlɔːri",
+    "pos": "n.",
+    "zh": "卡车",
+    "ex": "A large lorry blocked the narrow street.",
+    "exzh": "一辆大卡车堵住了狭窄的街道。"
+  },
+  {
+    "w": "loss",
+    "ph": "lɔːs",
+    "pos": "n.",
+    "zh": "损失；丧失",
+    "ex": "The company reported a heavy loss this year.",
+    "exzh": "公司报告今年严重亏损。"
+  },
+  {
+    "w": "lot",
+    "ph": "lɑːt",
+    "pos": "n.",
+    "zh": "许多；一块地",
+    "ex": "She spends a lot of time reading English novels.",
+    "exzh": "她花很多时间读英文小说。"
+  },
+  {
+    "w": "loud",
+    "ph": "laʊd",
+    "pos": "adj.",
+    "zh": "响亮的；大声的",
+    "ex": "The music was too loud for the small room.",
+    "exzh": "对于这个小房间来说音乐太响了。"
+  },
+  {
+    "w": "loudspeaker",
+    "ph": "ˌlaʊdˈspiːkər",
+    "pos": "n.",
+    "zh": "扬声器",
+    "ex": "The announcement came through the loudspeaker in the hall.",
+    "exzh": "通知通过大厅里的扬声器传了出来。"
+  },
+  {
+    "w": "lounge",
+    "ph": "laʊndʒ",
+    "pos": "n./v.",
+    "zh": "休息室；闲逛",
+    "ex": "Guests can relax in the lounge before dinner.",
+    "exzh": "客人可以在餐前到休息室放松。"
+  },
+  {
+    "w": "love",
+    "ph": "lʌv",
+    "pos": "v./n.",
+    "zh": "爱；喜爱",
+    "ex": "She loves walking in the rain after class.",
+    "exzh": "她喜欢下课后在雨中散步。"
+  },
+  {
+    "w": "lovely",
+    "ph": "ˈlʌvli",
+    "pos": "adj.",
+    "zh": "可爱的；令人愉快的",
+    "ex": "We had a lovely afternoon by the sea.",
+    "exzh": "我们在海边度过了一个愉快的下午。"
+  },
+  {
+    "w": "lover",
+    "ph": "ˈlʌvər",
+    "pos": "n.",
+    "zh": "爱好者；情人",
+    "ex": "He is a great lover of classical music.",
+    "exzh": "他非常喜爱古典音乐。"
+  },
+  {
+    "w": "low",
+    "ph": "loʊ",
+    "pos": "adj.",
+    "zh": "低的；低下的",
+    "ex": "The plane flew low over the sleeping village.",
+    "exzh": "飞机低低地飞过沉睡的村庄。"
+  },
+  {
+    "w": "lower",
+    "ph": "ˈloʊər",
+    "pos": "v./adj.",
+    "zh": "降低；较低的",
+    "ex": "Please lower your voice in the reading room.",
+    "exzh": "在阅览室里请把声音放低。"
+  },
+  {
+    "w": "loyalty",
+    "ph": "ˈlɔɪəlti",
+    "pos": "n.",
+    "zh": "忠诚",
+    "ex": "Her loyalty to the team never changed.",
+    "exzh": "她对球队的忠诚从未改变。"
+  },
+  {
+    "w": "luck",
+    "ph": "lʌk",
+    "pos": "n.",
+    "zh": "运气",
+    "ex": "Good luck with your exam tomorrow morning.",
+    "exzh": "祝你明天早上考试好运。"
+  },
+  {
+    "w": "lucky",
+    "ph": "ˈlʌki",
+    "pos": "adj.",
+    "zh": "幸运的",
+    "ex": "You are lucky to have such kind neighbors.",
+    "exzh": "你有这么善良的邻居真幸运。"
+  },
+  {
+    "w": "lumber",
+    "ph": "ˈlʌmbər",
+    "pos": "n.",
+    "zh": "木材",
+    "ex": "The truck carried lumber from the forest to town.",
+    "exzh": "卡车把木材从森林运到镇上。"
+  },
+  {
+    "w": "lump",
+    "ph": "lʌmp",
+    "pos": "n.",
+    "zh": "块；肿块",
+    "ex": "He found a small lump on his arm.",
+    "exzh": "他在手臂上发现了一个小肿块。"
+  },
+  {
+    "w": "lunar",
+    "ph": "ˈluːnər",
+    "pos": "adj.",
+    "zh": "月球的；阴历的",
+    "ex": "The Spring Festival follows the lunar calendar.",
+    "exzh": "春节按农历计算。"
+  },
+  {
+    "w": "lunch",
+    "ph": "lʌntʃ",
+    "pos": "n.",
+    "zh": "午餐",
+    "ex": "We usually have lunch at noon in the office.",
+    "exzh": "我们通常中午在办公室吃午饭。"
+  },
+  {
+    "w": "lung",
+    "ph": "lʌŋ",
+    "pos": "n.",
+    "zh": "肺",
+    "ex": "Smoking seriously damages your heart and lungs.",
+    "exzh": "吸烟严重损害你的心脏和肺。"
+  },
+  {
+    "w": "lyric",
+    "ph": "ˈlɪrɪk",
+    "pos": "n./adj.",
+    "zh": "歌词；抒情的",
+    "ex": "The song's lyrics describe a quiet hometown.",
+    "exzh": "这首歌的歌词描绘了一个安静的家乡。"
+  }
+]

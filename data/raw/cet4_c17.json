@@ -1,0 +1,1634 @@
+[
+  {
+    "w": "unable",
+    "ph": "ʌnˈeɪbl",
+    "pos": "adj.",
+    "zh": "不能的；无能力的",
+    "ex": "He was unable to attend the meeting because of illness.",
+    "exzh": "他因病无法出席会议。"
+  },
+  {
+    "w": "unaware",
+    "ph": "ˌʌnəˈwer",
+    "pos": "adj.",
+    "zh": "不知道的；未察觉的",
+    "ex": "She was unaware that the door had been left open.",
+    "exzh": "她没注意到门一直开着。"
+  },
+  {
+    "w": "uncertain",
+    "ph": "ʌnˈsɜːrtn",
+    "pos": "adj.",
+    "zh": "不确定的；犹豫的",
+    "ex": "The date of the wedding is still uncertain.",
+    "exzh": "婚礼的日期仍不确定。"
+  },
+  {
+    "w": "uncertainty",
+    "ph": "ʌnˈsɜːrtnti",
+    "pos": "n.",
+    "zh": "不确定性；疑虑",
+    "ex": "Uncertainty about the new rules made everyone nervous.",
+    "exzh": "对新规定的不确定让每个人都紧张。"
+  },
+  {
+    "w": "uncomfortable",
+    "ph": "ʌnˈkʌmftərbl",
+    "pos": "adj.",
+    "zh": "不舒服的；不自在的",
+    "ex": "The hard chair made everyone feel rather uncomfortable.",
+    "exzh": "那把硬椅子让每个人都觉得很不舒服。"
+  },
+  {
+    "w": "unconscious",
+    "ph": "ʌnˈkɑːnʃəs",
+    "pos": "adj.",
+    "zh": "失去知觉的；无意识的",
+    "ex": "The driver was unconscious when the ambulance arrived.",
+    "exzh": "救护车到达时司机已失去知觉。"
+  },
+  {
+    "w": "uncover",
+    "ph": "ʌnˈkʌvər",
+    "pos": "v.",
+    "zh": "揭开；发现",
+    "ex": "Police uncovered new evidence during the second search.",
+    "exzh": "警方在第二次搜查中发现了新证据。"
+  },
+  {
+    "w": "underestimate",
+    "ph": "ˌʌndərˈestɪmeɪt",
+    "pos": "v.",
+    "zh": "低估；轻视",
+    "ex": "Never underestimate the power of a simple apology.",
+    "exzh": "永远不要低估一句简单道歉的力量。"
+  },
+  {
+    "w": "undergraduate",
+    "ph": "ˌʌndərˈɡrædʒuət",
+    "pos": "n.",
+    "zh": "本科生；大学生",
+    "ex": "She wrote her first novel as an undergraduate at college.",
+    "exzh": "她在读本科时写下了第一部小说。"
+  },
+  {
+    "w": "underground",
+    "ph": "ˈʌndərɡraʊnd",
+    "pos": "adj.",
+    "zh": "地下的；秘密的",
+    "ex": "The city's underground railway is fast and clean.",
+    "exzh": "这座城市的地铁快捷又干净。"
+  },
+  {
+    "w": "underlying",
+    "ph": "ˌʌndərˈlaɪɪŋ",
+    "pos": "adj.",
+    "zh": "潜在的；根本的",
+    "ex": "The report examines the underlying causes of the crisis.",
+    "exzh": "这份报告探讨了这场危机的根本原因。"
+  },
+  {
+    "w": "undermine",
+    "ph": "ˌʌndərˈmaɪn",
+    "pos": "v.",
+    "zh": "削弱；暗中破坏",
+    "ex": "Constant criticism can undermine a child's confidence.",
+    "exzh": "不断的批评会削弱孩子的自信心。"
+  },
+  {
+    "w": "underneath",
+    "ph": "ˌʌndərˈniːθ",
+    "pos": "prep.",
+    "zh": "在…下面；在底下",
+    "ex": "The cat was hiding underneath the old wooden table.",
+    "exzh": "猫藏在旧木桌下面。"
+  },
+  {
+    "w": "understanding",
+    "ph": "ˌʌndərˈstændɪŋ",
+    "pos": "n.",
+    "zh": "理解；谅解",
+    "ex": "The two countries reached a better understanding after the talks.",
+    "exzh": "会谈后两国达成了更好的理解。"
+  },
+  {
+    "w": "underwater",
+    "ph": "ˈʌndərwɔːtər",
+    "pos": "adj.",
+    "zh": "水下的；水下进行的",
+    "ex": "The underwater camera captured a school of silver fish.",
+    "exzh": "水下相机拍到一群银色的鱼。"
+  },
+  {
+    "w": "undo",
+    "ph": "ʌnˈduː",
+    "pos": "v.",
+    "zh": "解开；取消",
+    "ex": "She bent down to undo the laces of her shoes.",
+    "exzh": "她弯腰解开鞋带。"
+  },
+  {
+    "w": "undoubtedly",
+    "ph": "ʌnˈdaʊtɪdli",
+    "pos": "adv.",
+    "zh": "无疑地；确实地",
+    "ex": "He is undoubtedly the best player on our team.",
+    "exzh": "他无疑是我们队里最好的球员。"
+  },
+  {
+    "w": "uneasy",
+    "ph": "ʌnˈiːzi",
+    "pos": "adj.",
+    "zh": "不安的；担心的",
+    "ex": "I felt uneasy about walking home alone so late.",
+    "exzh": "那么晚独自走回家让我感到不安。"
+  },
+  {
+    "w": "unemployed",
+    "ph": "ˌʌnɪmˈplɔɪd",
+    "pos": "adj.",
+    "zh": "失业的；无工作的",
+    "ex": "He has been unemployed since the factory closed last year.",
+    "exzh": "自从工厂去年倒闭，他就失业了。"
+  },
+  {
+    "w": "unexpected",
+    "ph": "ˌʌnɪkˈspektɪd",
+    "pos": "adj.",
+    "zh": "出乎意料的；意外的",
+    "ex": "Their unexpected visit caught us completely unprepared.",
+    "exzh": "他们的意外来访让我们措手不及。"
+  },
+  {
+    "w": "unfair",
+    "ph": "ˌʌnˈfer",
+    "pos": "adj.",
+    "zh": "不公平的；不公正的",
+    "ex": "It seems unfair to blame him for the whole failure.",
+    "exzh": "把整个失败归咎于他似乎不公平。"
+  },
+  {
+    "w": "unfamiliar",
+    "ph": "ˌʌnfəˈmɪliər",
+    "pos": "adj.",
+    "zh": "不熟悉的；陌生的",
+    "ex": "The streets were unfamiliar, so we asked for directions.",
+    "exzh": "这些街道很陌生，所以我们问了路。"
+  },
+  {
+    "w": "unfold",
+    "ph": "ʌnˈfoʊld",
+    "pos": "v.",
+    "zh": "展开；逐步展现",
+    "ex": "The story unfolds slowly through the eyes of a child.",
+    "exzh": "故事通过一个孩子的视角慢慢展开。"
+  },
+  {
+    "w": "unfortunate",
+    "ph": "ʌnˈfɔːrtʃənət",
+    "pos": "adj.",
+    "zh": "不幸的；遗憾的",
+    "ex": "It was unfortunate that the train left just before we arrived.",
+    "exzh": "遗憾的是火车就在我们到达前开走了。"
+  },
+  {
+    "w": "unfortunately",
+    "ph": "ʌnˈfɔːrtʃənətli",
+    "pos": "adv.",
+    "zh": "不幸地；遗憾地",
+    "ex": "Unfortunately, the tickets were sold out before noon.",
+    "exzh": "不幸的是，票在中午前就卖完了。"
+  },
+  {
+    "w": "unify",
+    "ph": "ˈjuːnɪfaɪ",
+    "pos": "v.",
+    "zh": "统一；使一致",
+    "ex": "The new leader promised to unify the divided party.",
+    "exzh": "新领导人承诺统一这个分裂的政党。"
+  },
+  {
+    "w": "union",
+    "ph": "ˈjuːnjən",
+    "pos": "n.",
+    "zh": "联合；工会",
+    "ex": "The workers formed a union to protect their rights.",
+    "exzh": "工人们成立了工会来保护自己的权利。"
+  },
+  {
+    "w": "unite",
+    "ph": "juˈnaɪt",
+    "pos": "v.",
+    "zh": "联合；团结",
+    "ex": "The disaster united the whole neighborhood in a common effort.",
+    "exzh": "这场灾难让整个社区团结起来共同努力。"
+  },
+  {
+    "w": "unity",
+    "ph": "ˈjuːnəti",
+    "pos": "n.",
+    "zh": "团结；统一",
+    "ex": "The team showed great unity during the difficult season.",
+    "exzh": "这支队伍在艰难的赛季中表现出极大的团结。"
+  },
+  {
+    "w": "universe",
+    "ph": "ˈjuːnɪvɜːrs",
+    "pos": "n.",
+    "zh": "宇宙；万物",
+    "ex": "Scientists still know very little about the origins of the universe.",
+    "exzh": "科学家对宇宙的起源仍知之甚少。"
+  },
+  {
+    "w": "unless",
+    "ph": "ənˈles",
+    "pos": "conj.",
+    "zh": "除非；如果不",
+    "ex": "We will not finish the project unless everyone helps.",
+    "exzh": "除非大家都帮忙，否则我们完不成这个项目。"
+  },
+  {
+    "w": "unlike",
+    "ph": "ˌʌnˈlaɪk",
+    "pos": "prep.",
+    "zh": "不像；与…不同",
+    "ex": "Unlike her brother, she enjoys speaking in public.",
+    "exzh": "和她哥哥不同，她喜欢在公众场合讲话。"
+  },
+  {
+    "w": "unlikely",
+    "ph": "ʌnˈlaɪkli",
+    "pos": "adj.",
+    "zh": "不太可能的；未必的",
+    "ex": "It is unlikely that prices will fall before spring.",
+    "exzh": "春天之前价格不太可能下降。"
+  },
+  {
+    "w": "unlimited",
+    "ph": "ʌnˈlɪmɪtɪd",
+    "pos": "adj.",
+    "zh": "无限的；不受限制的",
+    "ex": "The ticket gives you unlimited travel for one month.",
+    "exzh": "这张票让你一个月内无限次乘车。"
+  },
+  {
+    "w": "unload",
+    "ph": "ˌʌnˈloʊd",
+    "pos": "v.",
+    "zh": "卸货；卸下",
+    "ex": "The workers began to unload the boxes from the truck.",
+    "exzh": "工人们开始从卡车上卸下箱子。"
+  },
+  {
+    "w": "unnecessary",
+    "ph": "ʌnˈnesəseri",
+    "pos": "adj.",
+    "zh": "不必要的；多余的",
+    "ex": "Try to avoid unnecessary words in your final report.",
+    "exzh": "尽量在最终报告中避免不必要的词。"
+  },
+  {
+    "w": "unpleasant",
+    "ph": "ʌnˈpleznt",
+    "pos": "adj.",
+    "zh": "令人不快的；讨厌的",
+    "ex": "The room had an unpleasant smell of old smoke.",
+    "exzh": "房间里有一股难闻的旧烟味。"
+  },
+  {
+    "w": "unusual",
+    "ph": "ʌnˈjuːʒuəl",
+    "pos": "adj.",
+    "zh": "不寻常的；罕见的",
+    "ex": "It is unusual for him to arrive so early.",
+    "exzh": "他这么早到很不寻常。"
+  },
+  {
+    "w": "unwilling",
+    "ph": "ʌnˈwɪlɪŋ",
+    "pos": "adj.",
+    "zh": "不愿意的；勉强的",
+    "ex": "She was unwilling to discuss the matter any further.",
+    "exzh": "她不愿再进一步讨论这件事。"
+  },
+  {
+    "w": "upbringing",
+    "ph": "ˈʌpbrɪŋɪŋ",
+    "pos": "n.",
+    "zh": "教养；养育",
+    "ex": "His strict upbringing taught him to respect older people.",
+    "exzh": "严格的家教教会他尊敬长辈。"
+  },
+  {
+    "w": "upgrade",
+    "ph": "ˈʌpɡreɪd",
+    "pos": "v.",
+    "zh": "升级；提升",
+    "ex": "The company plans to upgrade its computer systems next year.",
+    "exzh": "公司计划明年升级其计算机系统。"
+  },
+  {
+    "w": "uphold",
+    "ph": "ʌpˈhoʊld",
+    "pos": "v.",
+    "zh": "支持；维护",
+    "ex": "The court decided to uphold the earlier decision.",
+    "exzh": "法院决定维持先前的判决。"
+  },
+  {
+    "w": "upload",
+    "ph": "ˌʌpˈloʊd",
+    "pos": "v.",
+    "zh": "上传；上载",
+    "ex": "Please upload your photo before you submit the form.",
+    "exzh": "请在提交表格前上传你的照片。"
+  },
+  {
+    "w": "upon",
+    "ph": "əˈpɑːn",
+    "pos": "prep.",
+    "zh": "在…上；一…就",
+    "ex": "Upon arrival, guests were shown into the main hall.",
+    "exzh": "一到场，客人就被带进了大厅。"
+  },
+  {
+    "w": "upper",
+    "ph": "ˈʌpər",
+    "pos": "adj.",
+    "zh": "上部的；较高的",
+    "ex": "He injured his upper arm while playing basketball.",
+    "exzh": "他打篮球时伤了上臂。"
+  },
+  {
+    "w": "upright",
+    "ph": "ˈʌpraɪt",
+    "pos": "adj.",
+    "zh": "直立的；正直的",
+    "ex": "She sat upright in the chair, waiting for the doctor.",
+    "exzh": "她在椅子上坐直，等着医生。"
+  },
+  {
+    "w": "upset",
+    "ph": "ʌpˈset",
+    "pos": "adj.",
+    "zh": "心烦的；难过的",
+    "ex": "He was clearly upset by the news of the accident.",
+    "exzh": "他显然因事故的消息而心烦。"
+  },
+  {
+    "w": "upstairs",
+    "ph": "ˌʌpˈsterz",
+    "pos": "adv.",
+    "zh": "在楼上；往楼上",
+    "ex": "The children are playing upstairs in their bedroom.",
+    "exzh": "孩子们正在楼上的卧室里玩。"
+  },
+  {
+    "w": "upward",
+    "ph": "ˈʌpwərd",
+    "pos": "adj.",
+    "zh": "向上的；上升的",
+    "ex": "Prices have moved steadily upward since the beginning of the year.",
+    "exzh": "自年初以来价格稳步上涨。"
+  },
+  {
+    "w": "urgent",
+    "ph": "ˈɜːrdʒənt",
+    "pos": "adj.",
+    "zh": "紧急的；急迫的",
+    "ex": "I received an urgent message from the hospital this morning.",
+    "exzh": "今天早上我收到医院发来的一条紧急消息。"
+  },
+  {
+    "w": "usage",
+    "ph": "ˈjuːsɪdʒ",
+    "pos": "n.",
+    "zh": "使用；用法",
+    "ex": "This dictionary explains the usage of each new word.",
+    "exzh": "这本词典解释了每个新词的用法。"
+  },
+  {
+    "w": "useless",
+    "ph": "ˈjuːsləs",
+    "pos": "adj.",
+    "zh": "无用的；无效的",
+    "ex": "The old map was useless because the roads had changed.",
+    "exzh": "那张旧地图没用了，因为道路已经改变。"
+  },
+  {
+    "w": "utility",
+    "ph": "juːˈtɪləti",
+    "pos": "n.",
+    "zh": "效用；公用事业",
+    "ex": "The utility of this tool is limited to small repairs.",
+    "exzh": "这种工具的效用仅限于小修小补。"
+  },
+  {
+    "w": "utilize",
+    "ph": "ˈjuːtəlaɪz",
+    "pos": "v.",
+    "zh": "利用；使用",
+    "ex": "We should utilize every available resource to finish the work.",
+    "exzh": "我们应利用一切可用资源完成这项工作。"
+  },
+  {
+    "w": "utmost",
+    "ph": "ˈʌtmoʊst",
+    "pos": "adj.",
+    "zh": "极度的；最大的",
+    "ex": "She handled the difficult situation with the utmost care.",
+    "exzh": "她以极大的谨慎处理了这个困难的局面。"
+  },
+  {
+    "w": "utter",
+    "ph": "ˈʌtər",
+    "pos": "v.",
+    "zh": "说出；发出",
+    "ex": "He left the room without uttering a single word.",
+    "exzh": "他一句话也没说就离开了房间。"
+  },
+  {
+    "w": "utterly",
+    "ph": "ˈʌtərli",
+    "pos": "adv.",
+    "zh": "完全地；彻底地",
+    "ex": "The whole plan was utterly ruined by the storm.",
+    "exzh": "整个计划被暴风雨彻底毁了。"
+  },
+  {
+    "w": "vacant",
+    "ph": "ˈveɪkənt",
+    "pos": "adj.",
+    "zh": "空的；空缺的",
+    "ex": "The office next door has been vacant for months.",
+    "exzh": "隔壁的办公室已经空了好几个月。"
+  },
+  {
+    "w": "vacuum",
+    "ph": "ˈvækjuːm",
+    "pos": "n.",
+    "zh": "真空；空白",
+    "ex": "Sound cannot travel through a perfect vacuum.",
+    "exzh": "声音无法在完美的真空中传播。"
+  },
+  {
+    "w": "vague",
+    "ph": "veɪɡ",
+    "pos": "adj.",
+    "zh": "模糊的；含糊的",
+    "ex": "He gave only a vague answer to my question.",
+    "exzh": "他对我的问题只给了一个含糊的回答。"
+  },
+  {
+    "w": "vain",
+    "ph": "veɪn",
+    "pos": "adj.",
+    "zh": "徒劳的；自负的",
+    "ex": "She tried in vain to open the locked door.",
+    "exzh": "她徒劳地试图打开那扇锁着的门。"
+  },
+  {
+    "w": "valley",
+    "ph": "ˈvæli",
+    "pos": "n.",
+    "zh": "山谷；流域",
+    "ex": "A small river runs through the narrow valley.",
+    "exzh": "一条小河流经这个狭窄的山谷。"
+  },
+  {
+    "w": "valuable",
+    "ph": "ˈvæljuəbl",
+    "pos": "adj.",
+    "zh": "贵重的；有价值的",
+    "ex": "Her advice proved extremely valuable to the young team.",
+    "exzh": "她的建议对这支年轻的团队极有价值。"
+  },
+  {
+    "w": "vanish",
+    "ph": "ˈvænɪʃ",
+    "pos": "v.",
+    "zh": "消失；突然不见",
+    "ex": "The ship vanished into the thick morning fog.",
+    "exzh": "那艘船消失在浓浓的晨雾中。"
+  },
+  {
+    "w": "vapor",
+    "ph": "ˈveɪpər",
+    "pos": "n.",
+    "zh": "蒸汽；水汽",
+    "ex": "Hot vapor rose from the surface of the lake.",
+    "exzh": "热蒸汽从湖面升起。"
+  },
+  {
+    "w": "variable",
+    "ph": "ˈveriəbl",
+    "pos": "adj.",
+    "zh": "多变的；可变的",
+    "ex": "The weather here is highly variable in early spring.",
+    "exzh": "这里早春的天气变化很大。"
+  },
+  {
+    "w": "variation",
+    "ph": "ˌveriˈeɪʃn",
+    "pos": "n.",
+    "zh": "变化；变体",
+    "ex": "There is wide variation in prices between the two shops.",
+    "exzh": "这两家商店的价格差异很大。"
+  },
+  {
+    "w": "vase",
+    "ph": "veɪs",
+    "pos": "n.",
+    "zh": "花瓶；瓶",
+    "ex": "She put the fresh flowers in a tall glass vase.",
+    "exzh": "她把鲜花插进一个高玻璃花瓶里。"
+  },
+  {
+    "w": "vast",
+    "ph": "væst",
+    "pos": "adj.",
+    "zh": "巨大的；广阔的",
+    "ex": "A vast desert stretches across the northern part of the country.",
+    "exzh": "一片广袤的沙漠横贯该国北部。"
+  },
+  {
+    "w": "vegetation",
+    "ph": "ˌvedʒəˈteɪʃn",
+    "pos": "n.",
+    "zh": "植被；草木",
+    "ex": "Thick vegetation covers most of the island.",
+    "exzh": "茂密的植被覆盖了这座岛的大部分。"
+  },
+  {
+    "w": "venture",
+    "ph": "ˈventʃər",
+    "pos": "n.",
+    "zh": "冒险；企业",
+    "ex": "The joint venture proved successful within two years.",
+    "exzh": "这家合资企业在两年内就取得了成功。"
+  },
+  {
+    "w": "verbal",
+    "ph": "ˈvɜːrbl",
+    "pos": "adj.",
+    "zh": "口头的；言语的",
+    "ex": "They reached a verbal agreement but signed nothing.",
+    "exzh": "他们达成了口头协议，但没有签任何东西。"
+  },
+  {
+    "w": "verify",
+    "ph": "ˈverɪfaɪ",
+    "pos": "v.",
+    "zh": "核实；证实",
+    "ex": "Please verify these figures before the report is printed.",
+    "exzh": "请在报告打印前核实这些数字。"
+  },
+  {
+    "w": "verse",
+    "ph": "vɜːrs",
+    "pos": "n.",
+    "zh": "诗句；韵文",
+    "ex": "He wrote a short verse about his hometown.",
+    "exzh": "他写了一首关于家乡的短诗。"
+  },
+  {
+    "w": "versus",
+    "ph": "ˈvɜːrsəs",
+    "pos": "prep.",
+    "zh": "对；与…相对",
+    "ex": "The debate was about quality versus quantity.",
+    "exzh": "这场辩论是关于质量与数量的对比。"
+  },
+  {
+    "w": "vertical",
+    "ph": "ˈvɜːrtɪkl",
+    "pos": "adj.",
+    "zh": "垂直的；竖直的",
+    "ex": "The cliff rises in a nearly vertical line.",
+    "exzh": "那悬崖几乎垂直地耸立着。"
+  },
+  {
+    "w": "vessel",
+    "ph": "ˈvesl",
+    "pos": "n.",
+    "zh": "船；容器",
+    "ex": "A fishing vessel was reported missing near the coast.",
+    "exzh": "据报道一艘渔船在海岸附近失踪。"
+  },
+  {
+    "w": "veteran",
+    "ph": "ˈvetərən",
+    "pos": "n.",
+    "zh": "老兵；老手",
+    "ex": "The veteran teacher shared her experience with the newcomers.",
+    "exzh": "这位老教师与新人分享了她的经验。"
+  },
+  {
+    "w": "via",
+    "ph": "ˈvaɪə",
+    "pos": "prep.",
+    "zh": "经由；通过",
+    "ex": "We flew to Paris via London on a cold morning.",
+    "exzh": "我们在一个寒冷的早晨经伦敦飞往巴黎。"
+  },
+  {
+    "w": "vibrate",
+    "ph": "ˈvaɪbreɪt",
+    "pos": "v.",
+    "zh": "振动；颤动",
+    "ex": "The floor began to vibrate as the train passed.",
+    "exzh": "火车经过时地板开始震动。"
+  },
+  {
+    "w": "vice",
+    "ph": "vaɪs",
+    "pos": "n.",
+    "zh": "恶习；缺点",
+    "ex": "He admitted that his greatest vice was impatience.",
+    "exzh": "他承认自己最大的缺点是缺乏耐心。"
+  },
+  {
+    "w": "vicious",
+    "ph": "ˈvɪʃəs",
+    "pos": "adj.",
+    "zh": "凶恶的；恶毒的",
+    "ex": "The dog became vicious when strangers approached the gate.",
+    "exzh": "陌生人靠近大门时那条狗变得很凶。"
+  },
+  {
+    "w": "victory",
+    "ph": "ˈvɪktəri",
+    "pos": "n.",
+    "zh": "胜利；成功",
+    "ex": "The team celebrated their victory long after midnight.",
+    "exzh": "午夜过后很久队伍还在庆祝胜利。"
+  },
+  {
+    "w": "video",
+    "ph": "ˈvɪdioʊ",
+    "pos": "n.",
+    "zh": "视频；录像",
+    "ex": "She recorded a short video of the sunset.",
+    "exzh": "她录了一段日落的短视频。"
+  },
+  {
+    "w": "view",
+    "ph": "vjuː",
+    "pos": "n.",
+    "zh": "看法；景色",
+    "ex": "From the top floor there is a fine view.",
+    "exzh": "从顶楼望去景色很好。"
+  },
+  {
+    "w": "viewer",
+    "ph": "ˈvjuːər",
+    "pos": "n.",
+    "zh": "观众；观看者",
+    "ex": "The programme attracted millions of viewers across the country.",
+    "exzh": "这个节目吸引了全国数百万观众。"
+  },
+  {
+    "w": "viewpoint",
+    "ph": "ˈvjuːpɔɪnt",
+    "pos": "n.",
+    "zh": "观点；视角",
+    "ex": "Try to see the problem from her viewpoint.",
+    "exzh": "试着从她的角度看这个问题。"
+  },
+  {
+    "w": "vigorous",
+    "ph": "ˈvɪɡərəs",
+    "pos": "adj.",
+    "zh": "有力的；精力充沛的",
+    "ex": "He took a vigorous walk before breakfast each day.",
+    "exzh": "他每天早饭前都进行快步走。"
+  },
+  {
+    "w": "violate",
+    "ph": "ˈvaɪəleɪt",
+    "pos": "v.",
+    "zh": "违反；侵犯",
+    "ex": "Anyone who violates these rules will be fined.",
+    "exzh": "任何违反这些规定的人都会被罚款。"
+  },
+  {
+    "w": "violence",
+    "ph": "ˈvaɪələns",
+    "pos": "n.",
+    "zh": "暴力；猛烈",
+    "ex": "The film was criticized for its unnecessary violence.",
+    "exzh": "这部电影因不必要的暴力场面受到批评。"
+  },
+  {
+    "w": "violin",
+    "ph": "ˌvaɪəˈlɪn",
+    "pos": "n.",
+    "zh": "小提琴",
+    "ex": "She has played the violin since she was six.",
+    "exzh": "她从六岁起就拉小提琴。"
+  },
+  {
+    "w": "virtual",
+    "ph": "ˈvɜːrtʃuəl",
+    "pos": "adj.",
+    "zh": "虚拟的；实际上的",
+    "ex": "Students can visit the museum through a virtual tour.",
+    "exzh": "学生可以通过虚拟导览参观博物馆。"
+  },
+  {
+    "w": "virtue",
+    "ph": "ˈvɜːrtʃuː",
+    "pos": "n.",
+    "zh": "美德；优点",
+    "ex": "Patience is a virtue that every teacher needs.",
+    "exzh": "耐心是每位教师都需要的美德。"
+  },
+  {
+    "w": "virus",
+    "ph": "ˈvaɪrəs",
+    "pos": "n.",
+    "zh": "病毒",
+    "ex": "A new virus spread quickly through the crowded city.",
+    "exzh": "一种新病毒在拥挤的城市里迅速传播。"
+  },
+  {
+    "w": "visa",
+    "ph": "ˈviːzə",
+    "pos": "n.",
+    "zh": "签证",
+    "ex": "He applied for a student visa at the embassy.",
+    "exzh": "他在大使馆申请了学生签证。"
+  },
+  {
+    "w": "visible",
+    "ph": "ˈvɪzəbl",
+    "pos": "adj.",
+    "zh": "可见的；明显的",
+    "ex": "The mountain is visible from our kitchen window.",
+    "exzh": "从我们厨房的窗户可以看到那座山。"
+  },
+  {
+    "w": "vision",
+    "ph": "ˈvɪʒn",
+    "pos": "n.",
+    "zh": "视力；远见",
+    "ex": "The accident left him with poor vision in one eye.",
+    "exzh": "那场事故使他一只眼睛视力很差。"
+  },
+  {
+    "w": "visitor",
+    "ph": "ˈvɪzɪtər",
+    "pos": "n.",
+    "zh": "参观者；访客",
+    "ex": "Visitors must sign in at the front desk.",
+    "exzh": "来访者必须在前台登记。"
+  },
+  {
+    "w": "visual",
+    "ph": "ˈvɪʒuəl",
+    "pos": "adj.",
+    "zh": "视觉的；看得见的",
+    "ex": "The film uses striking visual effects throughout.",
+    "exzh": "这部电影全片使用了引人注目的视觉效果。"
+  },
+  {
+    "w": "vitamin",
+    "ph": "ˈvaɪtəmɪn",
+    "pos": "n.",
+    "zh": "维生素",
+    "ex": "Oranges are rich in vitamin C and fiber.",
+    "exzh": "橙子富含维生素C和纤维。"
+  },
+  {
+    "w": "vivid",
+    "ph": "ˈvɪvɪd",
+    "pos": "adj.",
+    "zh": "生动的；鲜艳的",
+    "ex": "She gave a vivid description of the mountain village.",
+    "exzh": "她生动地描述了那个山村。"
+  },
+  {
+    "w": "vocabulary",
+    "ph": "vəˈkæbjəleri",
+    "pos": "n.",
+    "zh": "词汇；词汇量",
+    "ex": "Reading widely is the best way to expand your vocabulary.",
+    "exzh": "广泛阅读是扩大词汇量的最佳途径。"
+  },
+  {
+    "w": "vocal",
+    "ph": "ˈvoʊkl",
+    "pos": "adj.",
+    "zh": "嗓音的；直言的",
+    "ex": "She was vocal in her support for the new plan.",
+    "exzh": "她直言支持这项新计划。"
+  },
+  {
+    "w": "vocation",
+    "ph": "voʊˈkeɪʃn",
+    "pos": "n.",
+    "zh": "职业；使命感",
+    "ex": "Teaching was not just a job but a vocation for her.",
+    "exzh": "对她来说教书不只是工作，而是一种使命。"
+  },
+  {
+    "w": "voice",
+    "ph": "vɔɪs",
+    "pos": "n.",
+    "zh": "声音；嗓音",
+    "ex": "His voice sounded tired over the telephone.",
+    "exzh": "他在电话里的声音听起来很疲惫。"
+  },
+  {
+    "w": "volcano",
+    "ph": "vɑːlˈkeɪnoʊ",
+    "pos": "n.",
+    "zh": "火山",
+    "ex": "The volcano has not erupted for over a century.",
+    "exzh": "这座火山已有一个多世纪没有喷发。"
+  },
+  {
+    "w": "volume",
+    "ph": "ˈvɑːljuːm",
+    "pos": "n.",
+    "zh": "体积；音量",
+    "ex": "Please turn down the volume of the television.",
+    "exzh": "请把电视的音量调低。"
+  },
+  {
+    "w": "voluntary",
+    "ph": "ˈvɑːlənteri",
+    "pos": "adj.",
+    "zh": "自愿的；志愿的",
+    "ex": "Attendance at the evening class is entirely voluntary.",
+    "exzh": "参加晚课完全是自愿的。"
+  },
+  {
+    "w": "volunteer",
+    "ph": "ˌvɑːlənˈtɪr",
+    "pos": "n.",
+    "zh": "志愿者；自愿者",
+    "ex": "A hundred volunteers helped clean the river bank.",
+    "exzh": "一百名志愿者帮助清理河岸。"
+  },
+  {
+    "w": "vote",
+    "ph": "voʊt",
+    "pos": "v.",
+    "zh": "投票；表决",
+    "ex": "Members will vote on the proposal next Friday.",
+    "exzh": "成员们下周五将对这项提案投票。"
+  },
+  {
+    "w": "voyage",
+    "ph": "ˈvɔɪɪdʒ",
+    "pos": "n.",
+    "zh": "航行；航海",
+    "ex": "The voyage across the Pacific took three weeks.",
+    "exzh": "横渡太平洋的航行花了三周时间。"
+  },
+  {
+    "w": "vulnerable",
+    "ph": "ˈvʌlnərəbl",
+    "pos": "adj.",
+    "zh": "易受伤害的；脆弱的",
+    "ex": "Young trees are vulnerable to strong winds.",
+    "exzh": "幼树容易受到强风的伤害。"
+  },
+  {
+    "w": "wagon",
+    "ph": "ˈwæɡən",
+    "pos": "n.",
+    "zh": "四轮马车；货车",
+    "ex": "A farmer loaded the hay onto the wooden wagon.",
+    "exzh": "一位农民把干草装到木车上。"
+  },
+  {
+    "w": "waist",
+    "ph": "weɪst",
+    "pos": "n.",
+    "zh": "腰；腰部",
+    "ex": "The dress was too tight around her waist.",
+    "exzh": "这条连衣裙腰部对她来说太紧了。"
+  },
+  {
+    "w": "waken",
+    "ph": "ˈweɪkən",
+    "pos": "v.",
+    "zh": "唤醒；醒来",
+    "ex": "The noise outside began to waken the sleeping child.",
+    "exzh": "外面的噪音开始唤醒熟睡的孩子。"
+  },
+  {
+    "w": "wallet",
+    "ph": "ˈwɑːlɪt",
+    "pos": "n.",
+    "zh": "钱包；皮夹",
+    "ex": "He lost his wallet on the crowded bus.",
+    "exzh": "他在拥挤的公交车上丢了钱包。"
+  },
+  {
+    "w": "wander",
+    "ph": "ˈwɑːndər",
+    "pos": "v.",
+    "zh": "漫步；走神",
+    "ex": "We wandered through the old streets for hours.",
+    "exzh": "我们在老街里漫步了好几个小时。"
+  },
+  {
+    "w": "warehouse",
+    "ph": "ˈwerhaʊs",
+    "pos": "n.",
+    "zh": "仓库；货栈",
+    "ex": "The goods are stored in a warehouse near the port.",
+    "exzh": "货物存放在港口附近的一个仓库里。"
+  },
+  {
+    "w": "warmth",
+    "ph": "wɔːrmθ",
+    "pos": "n.",
+    "zh": "温暖；热情",
+    "ex": "She greeted us with the warmth of an old friend.",
+    "exzh": "她像老朋友一样热情地迎接我们。"
+  },
+  {
+    "w": "warn",
+    "ph": "wɔːrn",
+    "pos": "v.",
+    "zh": "警告；提醒",
+    "ex": "Doctors warn people to drink less strong coffee.",
+    "exzh": "医生警告人们少喝浓咖啡。"
+  },
+  {
+    "w": "warning",
+    "ph": "ˈwɔːrnɪŋ",
+    "pos": "n.",
+    "zh": "警告；警报",
+    "ex": "A storm warning was issued for the whole coast.",
+    "exzh": "整个海岸地区发布了风暴警报。"
+  },
+  {
+    "w": "waterfall",
+    "ph": "ˈwɔːtərfɔːl",
+    "pos": "n.",
+    "zh": "瀑布",
+    "ex": "A small waterfall fell into the pool below.",
+    "exzh": "一道小瀑布落入下面的水潭。"
+  },
+  {
+    "w": "waterproof",
+    "ph": "ˈwɔːtərpruːf",
+    "pos": "adj.",
+    "zh": "防水的；不透水的",
+    "ex": "You need a waterproof jacket for walking in the rain.",
+    "exzh": "雨天散步你需要一件防水夹克。"
+  },
+  {
+    "w": "wave",
+    "ph": "weɪv",
+    "pos": "n.",
+    "zh": "波浪；挥手",
+    "ex": "A huge wave washed over the small boat.",
+    "exzh": "一个巨浪冲过那条小船。"
+  },
+  {
+    "w": "wax",
+    "ph": "wæks",
+    "pos": "n.",
+    "zh": "蜡；蜂蜡",
+    "ex": "The candle was made of pure white wax.",
+    "exzh": "那支蜡烛是用纯白蜡做的。"
+  },
+  {
+    "w": "weaken",
+    "ph": "ˈwiːkən",
+    "pos": "v.",
+    "zh": "削弱；减弱",
+    "ex": "The long illness had weakened his whole body.",
+    "exzh": "久病使他的整个身体都虚弱了。"
+  },
+  {
+    "w": "weakness",
+    "ph": "ˈwiːknəs",
+    "pos": "n.",
+    "zh": "弱点；虚弱",
+    "ex": "Impatience is his only real weakness as a teacher.",
+    "exzh": "缺乏耐心是他作为教师唯一的真正弱点。"
+  },
+  {
+    "w": "wealthy",
+    "ph": "ˈwelθi",
+    "pos": "adj.",
+    "zh": "富有的；富裕的",
+    "ex": "The wealthy family owned three houses in the city.",
+    "exzh": "那个富裕的家庭在城里拥有三栋房子。"
+  },
+  {
+    "w": "weave",
+    "ph": "wiːv",
+    "pos": "v.",
+    "zh": "编织；编造",
+    "ex": "Women in the village weave baskets from dry grass.",
+    "exzh": "村里的妇女用干草编织篮子。"
+  },
+  {
+    "w": "web",
+    "ph": "web",
+    "pos": "n.",
+    "zh": "网；网络",
+    "ex": "A spider had built a web across the window.",
+    "exzh": "一只蜘蛛在窗户上结了一张网。"
+  },
+  {
+    "w": "wedding",
+    "ph": "ˈwedɪŋ",
+    "pos": "n.",
+    "zh": "婚礼；结婚",
+    "ex": "Their wedding took place in a small country church.",
+    "exzh": "他们的婚礼在一个乡村小教堂举行。"
+  },
+  {
+    "w": "weed",
+    "ph": "wiːd",
+    "pos": "n.",
+    "zh": "杂草；野草",
+    "ex": "Tall weeds had grown along the garden path.",
+    "exzh": "花园小径旁长满了高高的杂草。"
+  },
+  {
+    "w": "weekday",
+    "ph": "ˈwiːkdeɪ",
+    "pos": "n.",
+    "zh": "工作日；平日",
+    "ex": "The library opens at eight on every weekday.",
+    "exzh": "图书馆每个工作日八点开门。"
+  },
+  {
+    "w": "weekend",
+    "ph": "ˌwiːkˈend",
+    "pos": "n.",
+    "zh": "周末",
+    "ex": "We spent the weekend repairing the garden fence.",
+    "exzh": "我们周末修理了花园的栅栏。"
+  },
+  {
+    "w": "weekly",
+    "ph": "ˈwiːkli",
+    "pos": "adj.",
+    "zh": "每周的；一周的",
+    "ex": "She writes a weekly column for the local newspaper.",
+    "exzh": "她为当地报纸写每周专栏。"
+  },
+  {
+    "w": "weigh",
+    "ph": "weɪ",
+    "pos": "v.",
+    "zh": "称重；权衡",
+    "ex": "Please weigh the parcel before you post it.",
+    "exzh": "寄包裹前请称一下重量。"
+  },
+  {
+    "w": "weight",
+    "ph": "weɪt",
+    "pos": "n.",
+    "zh": "重量；负担",
+    "ex": "The doctor asked him to lose some weight.",
+    "exzh": "医生让他减轻一些体重。"
+  },
+  {
+    "w": "weird",
+    "ph": "wɪrd",
+    "pos": "adj.",
+    "zh": "古怪的；怪异的",
+    "ex": "That was a weird noise coming from the attic.",
+    "exzh": "阁楼里传来一种奇怪的声响。"
+  },
+  {
+    "w": "western",
+    "ph": "ˈwestərn",
+    "pos": "adj.",
+    "zh": "西方的；西部的",
+    "ex": "The western part of the country is very dry.",
+    "exzh": "该国西部非常干燥。"
+  },
+  {
+    "w": "whale",
+    "ph": "weɪl",
+    "pos": "n.",
+    "zh": "鲸；鲸鱼",
+    "ex": "A blue whale can grow longer than a bus.",
+    "exzh": "蓝鲸可以长得比一辆公交车还长。"
+  },
+  {
+    "w": "whatever",
+    "ph": "wətˈevər",
+    "pos": "pron.",
+    "zh": "无论什么；任何",
+    "ex": "You can order whatever you like from the menu.",
+    "exzh": "菜单上你想点什么都可以。"
+  },
+  {
+    "w": "wheat",
+    "ph": "wiːt",
+    "pos": "n.",
+    "zh": "小麦",
+    "ex": "The fields were full of golden wheat in July.",
+    "exzh": "七月田野里满是金黄的小麦。"
+  },
+  {
+    "w": "wheel",
+    "ph": "wiːl",
+    "pos": "n.",
+    "zh": "轮子；车轮",
+    "ex": "One wheel of the bicycle came off on the hill.",
+    "exzh": "自行车的一个轮子在山坡上掉了下来。"
+  },
+  {
+    "w": "whenever",
+    "ph": "wenˈevər",
+    "pos": "conj.",
+    "zh": "每当；无论何时",
+    "ex": "She calls her mother whenever she feels lonely.",
+    "exzh": "每当感到孤独时她就给母亲打电话。"
+  },
+  {
+    "w": "whereas",
+    "ph": "ˌwerˈæz",
+    "pos": "conj.",
+    "zh": "然而；尽管",
+    "ex": "He loves city life, whereas his wife prefers the countryside.",
+    "exzh": "他喜欢城市生活，而他妻子更喜欢乡下。"
+  },
+  {
+    "w": "wherever",
+    "ph": "werˈevər",
+    "pos": "conj.",
+    "zh": "无论哪里",
+    "ex": "Wherever he goes, he carries a small notebook.",
+    "exzh": "无论他去哪里，都带着一个小笔记本。"
+  },
+  {
+    "w": "whichever",
+    "ph": "wɪtʃˈevər",
+    "pos": "pron.",
+    "zh": "无论哪个",
+    "ex": "Choose whichever seat you find most comfortable.",
+    "exzh": "你觉得哪个座位最舒服就选哪个。"
+  },
+  {
+    "w": "whip",
+    "ph": "wɪp",
+    "pos": "n.",
+    "zh": "鞭子；抽打",
+    "ex": "The rider raised his whip and the horse started.",
+    "exzh": "骑手举起鞭子，马开始跑起来。"
+  },
+  {
+    "w": "whisper",
+    "ph": "ˈwɪspər",
+    "pos": "v.",
+    "zh": "低语；耳语",
+    "ex": "She had to whisper so the baby would not wake.",
+    "exzh": "她不得不低声说话，以免吵醒婴儿。"
+  },
+  {
+    "w": "whistle",
+    "ph": "ˈwɪsl",
+    "pos": "n.",
+    "zh": "哨子；口哨声",
+    "ex": "The referee blew his whistle to stop the game.",
+    "exzh": "裁判吹哨停止了比赛。"
+  },
+  {
+    "w": "wholesale",
+    "ph": "ˈhoʊlseɪl",
+    "pos": "adj.",
+    "zh": "批发的；大规模的",
+    "ex": "He buys fruit at wholesale prices and sells it locally.",
+    "exzh": "他以批发价买进水果，然后在当地出售。"
+  },
+  {
+    "w": "wholly",
+    "ph": "ˈhoʊlli",
+    "pos": "adv.",
+    "zh": "完全地；全部地",
+    "ex": "I am wholly responsible for the mistake.",
+    "exzh": "我对这个错误负全部责任。"
+  },
+  {
+    "w": "wicked",
+    "ph": "ˈwɪkɪd",
+    "pos": "adj.",
+    "zh": "邪恶的；恶劣的",
+    "ex": "The wicked stepmother in the story is finally punished.",
+    "exzh": "故事里邪恶的继母最终受到了惩罚。"
+  },
+  {
+    "w": "widen",
+    "ph": "ˈwaɪdn",
+    "pos": "v.",
+    "zh": "加宽；扩大",
+    "ex": "The council plans to widen the main road.",
+    "exzh": "议会计划拓宽主干道。"
+  },
+  {
+    "w": "widow",
+    "ph": "ˈwɪdoʊ",
+    "pos": "n.",
+    "zh": "寡妇；遗孀",
+    "ex": "The widow raised four children on her own.",
+    "exzh": "这位寡妇独自抚养了四个孩子。"
+  },
+  {
+    "w": "width",
+    "ph": "wɪdθ",
+    "pos": "n.",
+    "zh": "宽度；广度",
+    "ex": "Measure the width of the window before buying curtains.",
+    "exzh": "买窗帘前先量一下窗户的宽度。"
+  },
+  {
+    "w": "wild",
+    "ph": "waɪld",
+    "pos": "adj.",
+    "zh": "野生的；狂热的",
+    "ex": "Wild flowers grow along both sides of the track.",
+    "exzh": "小径两旁长着野花。"
+  },
+  {
+    "w": "wilderness",
+    "ph": "ˈwɪldərnəs",
+    "pos": "n.",
+    "zh": "荒野；荒地",
+    "ex": "They walked for days through the frozen wilderness.",
+    "exzh": "他们在冰封的荒野里走了好几天。"
+  },
+  {
+    "w": "wildlife",
+    "ph": "ˈwaɪldlaɪf",
+    "pos": "n.",
+    "zh": "野生动物；野生生物",
+    "ex": "The park protects the wildlife of the whole region.",
+    "exzh": "这个公园保护整个地区的野生动物。"
+  },
+  {
+    "w": "willingness",
+    "ph": "ˈwɪlɪŋnəs",
+    "pos": "n.",
+    "zh": "愿意；乐意",
+    "ex": "Her willingness to help surprised all of us.",
+    "exzh": "她乐于帮忙让我们都很惊讶。"
+  },
+  {
+    "w": "wine",
+    "ph": "waɪn",
+    "pos": "n.",
+    "zh": "葡萄酒；酒",
+    "ex": "They served red wine with the evening meal.",
+    "exzh": "晚餐时他们上了红葡萄酒。"
+  },
+  {
+    "w": "wing",
+    "ph": "wɪŋ",
+    "pos": "n.",
+    "zh": "翅膀；机翼",
+    "ex": "The bird broke one wing and could not fly.",
+    "exzh": "那只鸟折断了一只翅膀，无法飞行。"
+  },
+  {
+    "w": "winner",
+    "ph": "ˈwɪnər",
+    "pos": "n.",
+    "zh": "获胜者；赢家",
+    "ex": "The winner received a small silver cup.",
+    "exzh": "获胜者得到一个小银杯。"
+  },
+  {
+    "w": "wipe",
+    "ph": "waɪp",
+    "pos": "v.",
+    "zh": "擦拭；抹去",
+    "ex": "She wiped the table with a clean cloth.",
+    "exzh": "她用一块干净的布擦了桌子。"
+  },
+  {
+    "w": "wire",
+    "ph": "ˈwaɪər",
+    "pos": "n.",
+    "zh": "金属丝；电线",
+    "ex": "A loose wire caused the lights to go out.",
+    "exzh": "一根松动的电线导致灯灭了。"
+  },
+  {
+    "w": "wisdom",
+    "ph": "ˈwɪzdəm",
+    "pos": "n.",
+    "zh": "智慧；才智",
+    "ex": "We gained much wisdom from our grandfather's stories.",
+    "exzh": "我们从祖父的故事中获得了很多智慧。"
+  },
+  {
+    "w": "wise",
+    "ph": "waɪz",
+    "pos": "adj.",
+    "zh": "明智的；聪明的",
+    "ex": "It would be wise to leave before the storm.",
+    "exzh": "在暴风雨来临前离开是明智的。"
+  },
+  {
+    "w": "within",
+    "ph": "wɪˈðɪn",
+    "pos": "prep.",
+    "zh": "在…之内；不超过",
+    "ex": "Please reply within three days of receiving this letter.",
+    "exzh": "请在收到此信三天内回复。"
+  },
+  {
+    "w": "withstand",
+    "ph": "wɪðˈstænd",
+    "pos": "v.",
+    "zh": "经受住；抵挡",
+    "ex": "These houses can withstand very strong winds.",
+    "exzh": "这些房子能经受住非常强的风。"
+  },
+  {
+    "w": "wolf",
+    "ph": "wʊlf",
+    "pos": "n.",
+    "zh": "狼",
+    "ex": "A lone wolf was seen near the forest edge.",
+    "exzh": "有人在森林边缘看见一只孤狼。"
+  },
+  {
+    "w": "wonderful",
+    "ph": "ˈwʌndərfl",
+    "pos": "adj.",
+    "zh": "极好的；精彩的",
+    "ex": "We had a wonderful time at the seaside.",
+    "exzh": "我们在海边度过了美好的时光。"
+  },
+  {
+    "w": "wooden",
+    "ph": "ˈwʊdn",
+    "pos": "adj.",
+    "zh": "木制的；呆板的",
+    "ex": "They sat on a wooden bench under the tree.",
+    "exzh": "他们坐在树下的木凳上。"
+  },
+  {
+    "w": "wool",
+    "ph": "wʊl",
+    "pos": "n.",
+    "zh": "羊毛；毛线",
+    "ex": "This sweater is made of pure wool.",
+    "exzh": "这件毛衣是纯羊毛的。"
+  },
+  {
+    "w": "workforce",
+    "ph": "ˈwɜːrkfɔːrs",
+    "pos": "n.",
+    "zh": "劳动力；全体员工",
+    "ex": "The company plans to cut a tenth of its workforce.",
+    "exzh": "公司计划裁减十分之一的员工。"
+  },
+  {
+    "w": "workplace",
+    "ph": "ˈwɜːrkpleɪs",
+    "pos": "n.",
+    "zh": "工作场所",
+    "ex": "Safety rules must be followed in every workplace.",
+    "exzh": "每个工作场所都必须遵守安全规则。"
+  },
+  {
+    "w": "workshop",
+    "ph": "ˈwɜːrkʃɑːp",
+    "pos": "n.",
+    "zh": "车间；研讨会",
+    "ex": "The writing workshop meets every Thursday evening.",
+    "exzh": "写作研讨会每周四晚上举行。"
+  },
+  {
+    "w": "worldwide",
+    "ph": "ˌwɜːrldˈwaɪd",
+    "pos": "adj.",
+    "zh": "全世界的",
+    "ex": "The band has a worldwide audience of millions.",
+    "exzh": "这支乐队在全世界有数百万听众。"
+  },
+  {
+    "w": "worm",
+    "ph": "wɜːrm",
+    "pos": "n.",
+    "zh": "虫；蠕虫",
+    "ex": "A small worm crawled across the wet stone.",
+    "exzh": "一条小虫爬过湿漉漉的石头。"
+  },
+  {
+    "w": "worse",
+    "ph": "wɜːrs",
+    "pos": "adj.",
+    "zh": "更坏的；更差的",
+    "ex": "The weather grew worse as the day went on.",
+    "exzh": "随着时间推移，天气变得更糟。"
+  },
+  {
+    "w": "worship",
+    "ph": "ˈwɜːrʃɪp",
+    "pos": "v.",
+    "zh": "崇拜；敬奉",
+    "ex": "People come to this temple to worship in silence.",
+    "exzh": "人们来到这座寺庙静静地礼拜。"
+  },
+  {
+    "w": "worst",
+    "ph": "wɜːrst",
+    "pos": "adj.",
+    "zh": "最坏的；最差的",
+    "ex": "That was the worst meal I have ever eaten.",
+    "exzh": "那是我吃过的最糟的一顿饭。"
+  },
+  {
+    "w": "worth",
+    "ph": "wɜːrθ",
+    "pos": "adj.",
+    "zh": "值得的；有…价值",
+    "ex": "The old clock is worth far more than we thought.",
+    "exzh": "那座旧钟的价值远超我们的想象。"
+  },
+  {
+    "w": "worthless",
+    "ph": "ˈwɜːrθləs",
+    "pos": "adj.",
+    "zh": "无价值的；无用的",
+    "ex": "The old painting turned out to be completely worthless.",
+    "exzh": "那幅旧画原来毫无价值。"
+  },
+  {
+    "w": "worthwhile",
+    "ph": "ˌwɜːrθˈwaɪl",
+    "pos": "adj.",
+    "zh": "值得的；有价值的",
+    "ex": "Learning a second language is always worthwhile.",
+    "exzh": "学一门第二语言总是值得的。"
+  },
+  {
+    "w": "worthy",
+    "ph": "ˈwɜːrði",
+    "pos": "adj.",
+    "zh": "值得的；可敬的",
+    "ex": "His efforts are worthy of our respect.",
+    "exzh": "他的努力值得我们尊敬。"
+  },
+  {
+    "w": "wound",
+    "ph": "wuːnd",
+    "pos": "n.",
+    "zh": "伤口；创伤",
+    "ex": "The wound on his leg took weeks to heal.",
+    "exzh": "他腿上的伤口花了数周才愈合。"
+  },
+  {
+    "w": "wreck",
+    "ph": "rek",
+    "pos": "n.",
+    "zh": "残骸；失事",
+    "ex": "Divers explored the wreck of the old ship.",
+    "exzh": "潜水员探索了那艘旧船的残骸。"
+  },
+  {
+    "w": "wrist",
+    "ph": "rɪst",
+    "pos": "n.",
+    "zh": "手腕；腕关节",
+    "ex": "She wears a silver watch on her left wrist.",
+    "exzh": "她在左手腕上戴着一块银表。"
+  },
+  {
+    "w": "writer",
+    "ph": "ˈraɪtər",
+    "pos": "n.",
+    "zh": "作家；作者",
+    "ex": "The writer spent ten years on that single book.",
+    "exzh": "这位作家在那本书上花了十年时间。"
+  },
+  {
+    "w": "x-ray",
+    "ph": "ˈeksreɪ",
+    "pos": "n.",
+    "zh": "X射线；X光",
+    "ex": "The doctor took an x-ray of his injured shoulder.",
+    "exzh": "医生给他受伤的肩膀拍了一张X光片。"
+  },
+  {
+    "w": "yacht",
+    "ph": "jɑːt",
+    "pos": "n.",
+    "zh": "游艇；帆船",
+    "ex": "They sailed around the island in a small yacht.",
+    "exzh": "他们乘坐一艘小游艇环岛航行。"
+  },
+  {
+    "w": "yawn",
+    "ph": "jɔːn",
+    "pos": "v.",
+    "zh": "打哈欠",
+    "ex": "He yawned loudly during the long afternoon lecture.",
+    "exzh": "在漫长的下午讲座中他大声打了个哈欠。"
+  },
+  {
+    "w": "yearly",
+    "ph": "ˈjɪrli",
+    "pos": "adj.",
+    "zh": "每年的；一年一次的",
+    "ex": "The yearly meeting is held in the same hotel.",
+    "exzh": "年度会议在同一家酒店举行。"
+  },
+  {
+    "w": "yell",
+    "ph": "jel",
+    "pos": "v.",
+    "zh": "叫喊；喊叫",
+    "ex": "She yelled at the dog to stay off the road.",
+    "exzh": "她大声喊叫让狗别跑到路上。"
+  },
+  {
+    "w": "yogurt",
+    "ph": "ˈjoʊɡərt",
+    "pos": "n.",
+    "zh": "酸奶",
+    "ex": "She has yogurt and fruit for breakfast every morning.",
+    "exzh": "她每天早餐吃酸奶和水果。"
+  },
+  {
+    "w": "youngster",
+    "ph": "ˈjʌŋstər",
+    "pos": "n.",
+    "zh": "年轻人；少年",
+    "ex": "The youngster surprised everyone by winning the race.",
+    "exzh": "这个年轻人赢得比赛让所有人都很惊讶。"
+  },
+  {
+    "w": "youthful",
+    "ph": "ˈjuːθfl",
+    "pos": "adj.",
+    "zh": "年轻的；有朝气的",
+    "ex": "Her youthful energy made the whole team cheerful.",
+    "exzh": "她年轻的活力使整个团队都欢快起来。"
+  },
+  {
+    "w": "zeal",
+    "ph": "ziːl",
+    "pos": "n.",
+    "zh": "热情；热忱",
+    "ex": "He worked with great zeal on the new project.",
+    "exzh": "他以极大的热情投入新项目。"
+  },
+  {
+    "w": "zealous",
+    "ph": "ˈzeləs",
+    "pos": "adj.",
+    "zh": "热心的；狂热的",
+    "ex": "He is a zealous supporter of the local football club.",
+    "exzh": "他是当地足球俱乐部的热心支持者。"
+  },
+  {
+    "w": "zebra",
+    "ph": "ˈziːbrə",
+    "pos": "n.",
+    "zh": "斑马",
+    "ex": "A zebra crossed the road in front of our car.",
+    "exzh": "一匹斑马在我们的车前穿过马路。"
+  },
+  {
+    "w": "zigzag",
+    "ph": "ˈzɪɡzæɡ",
+    "pos": "n.",
+    "zh": "之字形",
+    "ex": "The path went up the hill in a zigzag.",
+    "exzh": "那条小路呈之字形上山。"
+  },
+  {
+    "w": "zip",
+    "ph": "zɪp",
+    "pos": "v.",
+    "zh": "拉上拉链；飞速移动",
+    "ex": "He zipped his jacket before stepping into the wind.",
+    "exzh": "他在走进风中前拉上了夹克的拉链。"
+  },
+  {
+    "w": "zipper",
+    "ph": "ˈzɪpər",
+    "pos": "n.",
+    "zh": "拉链",
+    "ex": "The zipper on my bag is stuck again.",
+    "exzh": "我包上的拉链又卡住了。"
+  },
+  {
+    "w": "zoom",
+    "ph": "zuːm",
+    "pos": "v.",
+    "zh": "快速移动；放大",
+    "ex": "The camera zoomed in on the distant tower.",
+    "exzh": "相机镜头拉近对准远处的塔。"
+  }
+]

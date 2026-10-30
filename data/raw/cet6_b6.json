@@ -1,0 +1,2698 @@
+[
+  {
+    "w": "quarantine",
+    "ph": "ˈkwɔːrəntiːn",
+    "pos": "n./v.",
+    "zh": "隔离；检疫",
+    "ex": "The travelers were kept in quarantine for two weeks.",
+    "exzh": "这些旅行者被隔离了两周。"
+  },
+  {
+    "w": "quarry",
+    "ph": "ˈkwɔːri",
+    "pos": "n.",
+    "zh": "采石场；猎物",
+    "ex": "The old quarry has been turned into a lake.",
+    "exzh": "那座旧采石场已变成一个湖。"
+  },
+  {
+    "w": "quart",
+    "ph": "kwɔːrt",
+    "pos": "n.",
+    "zh": "夸脱",
+    "ex": "She bought a quart of milk at the corner store.",
+    "exzh": "她在街角商店买了一夸脱牛奶。"
+  },
+  {
+    "w": "quell",
+    "ph": "kwel",
+    "pos": "v.",
+    "zh": "镇压；平息",
+    "ex": "The police quickly quelled the disturbance in the square.",
+    "exzh": "警察迅速平息了广场上的骚乱。"
+  },
+  {
+    "w": "questionable",
+    "ph": "ˈkwestʃənəbl",
+    "pos": "adj.",
+    "zh": "可疑的；有问题的",
+    "ex": "His motives for joining the club remain questionable.",
+    "exzh": "他加入俱乐部的动机仍然可疑。"
+  },
+  {
+    "w": "quilt",
+    "ph": "kwɪlt",
+    "pos": "n.",
+    "zh": "被子；棉被",
+    "ex": "Grandma sewed a colorful quilt for my new bed.",
+    "exzh": "奶奶为我的新床缝了一床彩色的被子。"
+  },
+  {
+    "w": "quirk",
+    "ph": "kwɜːrk",
+    "pos": "n.",
+    "zh": "怪癖；偶然事件",
+    "ex": "Everyone has a few quirks that make them unique.",
+    "exzh": "每个人都有几个使自己独特的怪癖。"
+  },
+  {
+    "w": "quorum",
+    "ph": "ˈkwɔːrəm",
+    "pos": "n.",
+    "zh": "法定人数",
+    "ex": "The meeting was delayed because no quorum was present.",
+    "exzh": "由于未达到法定人数，会议被推迟。"
+  },
+  {
+    "w": "quotient",
+    "ph": "ˈkwoʊʃnt",
+    "pos": "n.",
+    "zh": "商；比率",
+    "ex": "Divide forty by eight and the quotient is five.",
+    "exzh": "四十除以八，商是五。"
+  },
+  {
+    "w": "radiance",
+    "ph": "ˈreɪdiəns",
+    "pos": "n.",
+    "zh": "光辉；容光",
+    "ex": "The radiance of the sunset filled the whole valley.",
+    "exzh": "夕阳的光辉洒满了整个山谷。"
+  },
+  {
+    "w": "radiant",
+    "ph": "ˈreɪdiənt",
+    "pos": "adj.",
+    "zh": "光辉的；容光焕发的",
+    "ex": "She looked radiant in her simple white dress.",
+    "exzh": "她穿着简单的白裙子，看起来容光焕发。"
+  },
+  {
+    "w": "radiate",
+    "ph": "ˈreɪdieɪt",
+    "pos": "v.",
+    "zh": "辐射；散发",
+    "ex": "The old stove radiated heat across the small room.",
+    "exzh": "旧火炉向小房间散发出热量。"
+  },
+  {
+    "w": "ragged",
+    "ph": "ˈrægɪd",
+    "pos": "adj.",
+    "zh": "破烂的；参差不齐的",
+    "ex": "The beggar wore a ragged coat and torn shoes.",
+    "exzh": "那乞丐穿着一件破烂的外套和破鞋。"
+  },
+  {
+    "w": "rake",
+    "ph": "reɪk",
+    "pos": "n./v.",
+    "zh": "耙子；耙平",
+    "ex": "He used a rake to gather the fallen leaves.",
+    "exzh": "他用耙子把落叶聚拢起来。"
+  },
+  {
+    "w": "ramble",
+    "ph": "ˈræmbl",
+    "pos": "v./n.",
+    "zh": "漫步；漫谈",
+    "ex": "We rambled through the woods for two hours.",
+    "exzh": "我们在树林里漫步了两个小时。"
+  },
+  {
+    "w": "ramp",
+    "ph": "ræmp",
+    "pos": "n.",
+    "zh": "斜坡；坡道",
+    "ex": "A wooden ramp leads to the museum entrance.",
+    "exzh": "一条木制坡道通向博物馆入口。"
+  },
+  {
+    "w": "rampant",
+    "ph": "ˈræmpənt",
+    "pos": "adj.",
+    "zh": "猖獗的；蔓延的",
+    "ex": "Corruption was rampant in the local government then.",
+    "exzh": "当时地方政府腐败猖獗。"
+  },
+  {
+    "w": "ranch",
+    "ph": "ræntʃ",
+    "pos": "n.",
+    "zh": "大牧场；农场",
+    "ex": "My uncle runs a cattle ranch in Texas.",
+    "exzh": "我叔叔在得克萨斯经营一个养牛牧场。"
+  },
+  {
+    "w": "ransom",
+    "ph": "ˈrænsəm",
+    "pos": "n./v.",
+    "zh": "赎金；赎回",
+    "ex": "The kidnappers demanded a huge ransom for the boy.",
+    "exzh": "绑匪为那男孩索要巨额赎金。"
+  },
+  {
+    "w": "rap",
+    "ph": "ræp",
+    "pos": "n./v.",
+    "zh": "轻敲；说唱",
+    "ex": "She gave a sharp rap on the wooden door.",
+    "exzh": "她在木门上重重敲了一下。"
+  },
+  {
+    "w": "rapture",
+    "ph": "ˈræptʃər",
+    "pos": "n.",
+    "zh": "狂喜；着迷",
+    "ex": "The children listened to the story with rapture.",
+    "exzh": "孩子们着迷地听着故事。"
+  },
+  {
+    "w": "rash",
+    "ph": "ræʃ",
+    "pos": "adj./n.",
+    "zh": "轻率的；皮疹",
+    "ex": "It was rash of him to quit his job.",
+    "exzh": "他辞掉工作太轻率了。"
+  },
+  {
+    "w": "ratify",
+    "ph": "ˈrætɪfaɪ",
+    "pos": "v.",
+    "zh": "批准；正式签署",
+    "ex": "The senate refused to ratify the new treaty.",
+    "exzh": "参议院拒绝批准这项新条约。"
+  },
+  {
+    "w": "ration",
+    "ph": "ˈræʃn",
+    "pos": "n./v.",
+    "zh": "定量；配给",
+    "ex": "During the war, sugar was strictly rationed.",
+    "exzh": "战争期间，糖被严格定量配给。"
+  },
+  {
+    "w": "rationale",
+    "ph": "ˌræʃəˈnæl",
+    "pos": "n.",
+    "zh": "理由；根本原因",
+    "ex": "The report explains the rationale behind the decision.",
+    "exzh": "这份报告解释了该决定背后的理由。"
+  },
+  {
+    "w": "rattle",
+    "ph": "ˈrætl",
+    "pos": "v./n.",
+    "zh": "使发出咔嗒声；使慌乱",
+    "ex": "The strong wind rattled the windows all night.",
+    "exzh": "大风整夜把窗户吹得咔嗒作响。"
+  },
+  {
+    "w": "ravage",
+    "ph": "ˈrævɪdʒ",
+    "pos": "v./n.",
+    "zh": "毁坏；蹂躏",
+    "ex": "The storm ravaged the coastal villages last night.",
+    "exzh": "昨晚风暴摧毁了沿海的村庄。"
+  },
+  {
+    "w": "rave",
+    "ph": "reɪv",
+    "pos": "v./n.",
+    "zh": "狂热地谈论；咆哮",
+    "ex": "Critics raved about her performance in the play.",
+    "exzh": "评论家对她在剧中的表演赞不绝口。"
+  },
+  {
+    "w": "rebate",
+    "ph": "ˈriːbeɪt",
+    "pos": "n.",
+    "zh": "折扣；退款",
+    "ex": "Customers can claim a rebate on the old device.",
+    "exzh": "顾客可以就旧设备申请退款。"
+  },
+  {
+    "w": "rebuke",
+    "ph": "rɪˈbjuːk",
+    "pos": "v./n.",
+    "zh": "指责；斥责",
+    "ex": "The teacher rebuked him for being late again.",
+    "exzh": "老师斥责他又迟到了。"
+  },
+  {
+    "w": "recede",
+    "ph": "rɪˈsiːd",
+    "pos": "v.",
+    "zh": "后退；减弱",
+    "ex": "The floodwater slowly receded from the streets.",
+    "exzh": "洪水慢慢从街道上退去。"
+  },
+  {
+    "w": "receptive",
+    "ph": "rɪˈseptɪv",
+    "pos": "adj.",
+    "zh": "乐于接受的；善于接受的",
+    "ex": "The audience was receptive to the new proposal.",
+    "exzh": "听众乐于接受这项新提议。"
+  },
+  {
+    "w": "recess",
+    "ph": "ˈriːses",
+    "pos": "n./v.",
+    "zh": "休息；凹处",
+    "ex": "The children played outside during the morning recess.",
+    "exzh": "孩子们在上午休息时到外面玩。"
+  },
+  {
+    "w": "recipient",
+    "ph": "rɪˈsɪpiənt",
+    "pos": "n.",
+    "zh": "接受者；收件人",
+    "ex": "The recipient of the award gave a short speech.",
+    "exzh": "获奖者作了简短的发言。"
+  },
+  {
+    "w": "reciprocal",
+    "ph": "rɪˈsɪprəkl",
+    "pos": "adj.",
+    "zh": "相互的；互惠的",
+    "ex": "The two countries signed a reciprocal trade agreement.",
+    "exzh": "两国签署了一项互惠贸易协定。"
+  },
+  {
+    "w": "recital",
+    "ph": "rɪˈsaɪtl",
+    "pos": "n.",
+    "zh": "独奏会；朗诵",
+    "ex": "She gave a piano recital in the town hall.",
+    "exzh": "她在市政厅举办了一场钢琴独奏会。"
+  },
+  {
+    "w": "reckless",
+    "ph": "ˈrekləs",
+    "pos": "adj.",
+    "zh": "鲁莽的；不顾后果的",
+    "ex": "Reckless driving causes many accidents every year.",
+    "exzh": "鲁莽驾驶每年造成许多事故。"
+  },
+  {
+    "w": "recline",
+    "ph": "rɪˈklaɪn",
+    "pos": "v.",
+    "zh": "斜倚；躺下",
+    "ex": "He reclined on the sofa and closed his eyes.",
+    "exzh": "他斜靠在沙发上闭上了眼睛。"
+  },
+  {
+    "w": "recollect",
+    "ph": "ˌrekəˈlekt",
+    "pos": "v.",
+    "zh": "回忆；想起",
+    "ex": "I cannot recollect where I put the keys.",
+    "exzh": "我想不起把钥匙放在哪里了。"
+  },
+  {
+    "w": "recompense",
+    "ph": "ˈrekəmpens",
+    "pos": "n./v.",
+    "zh": "报酬；补偿",
+    "ex": "He received little recompense for all his hard work.",
+    "exzh": "他辛苦工作却几乎没有得到报酬。"
+  },
+  {
+    "w": "reconciliation",
+    "ph": "ˌrekənsɪliˈeɪʃn",
+    "pos": "n.",
+    "zh": "和解；调和",
+    "ex": "The two countries finally reached a reconciliation.",
+    "exzh": "两国最终达成了和解。"
+  },
+  {
+    "w": "recount",
+    "ph": "rɪˈkaʊnt",
+    "pos": "v.",
+    "zh": "叙述；重新计数",
+    "ex": "She recounted her journey across the desert.",
+    "exzh": "她讲述了自己穿越沙漠的旅程。"
+  },
+  {
+    "w": "rectify",
+    "ph": "ˈrektɪfaɪ",
+    "pos": "v.",
+    "zh": "纠正；矫正",
+    "ex": "We must rectify these errors before the report is printed.",
+    "exzh": "我们必须在这份报告付印前纠正这些错误。"
+  },
+  {
+    "w": "redeem",
+    "ph": "rɪˈdiːm",
+    "pos": "v.",
+    "zh": "赎回；弥补",
+    "ex": "He worked hard to redeem his reputation after the scandal.",
+    "exzh": "丑闻之后他努力工作以挽回声誉。"
+  },
+  {
+    "w": "redundant",
+    "ph": "rɪˈdʌndənt",
+    "pos": "adj.",
+    "zh": "多余的；被裁减的",
+    "ex": "The editor deleted several redundant words from the text.",
+    "exzh": "编辑删去了文中几个多余的词。"
+  },
+  {
+    "w": "reek",
+    "ph": "riːk",
+    "pos": "v./n.",
+    "zh": "散发恶臭；恶臭",
+    "ex": "The whole kitchen reeked of burnt fish.",
+    "exzh": "整个厨房散发着烧焦的鱼腥味。"
+  },
+  {
+    "w": "reel",
+    "ph": "riːl",
+    "pos": "n./v.",
+    "zh": "卷轴；蹒跚",
+    "ex": "The fisherman turned the reel slowly and carefully.",
+    "exzh": "渔夫缓慢而小心地转动卷线轴。"
+  },
+  {
+    "w": "refinery",
+    "ph": "rɪˈfaɪnəri",
+    "pos": "n.",
+    "zh": "炼油厂；精炼厂",
+    "ex": "A fire broke out at the oil refinery yesterday.",
+    "exzh": "昨天那家炼油厂发生了火灾。"
+  },
+  {
+    "w": "refrain",
+    "ph": "rɪˈfreɪn",
+    "pos": "v./n.",
+    "zh": "克制；副歌",
+    "ex": "Please refrain from smoking inside the building.",
+    "exzh": "请勿在楼内吸烟。"
+  },
+  {
+    "w": "refurbish",
+    "ph": "ˌriːˈfɜːrbɪʃ",
+    "pos": "v.",
+    "zh": "翻新；整修",
+    "ex": "The council plans to refurbish the old library.",
+    "exzh": "委员会计划翻新那座旧图书馆。"
+  },
+  {
+    "w": "regiment",
+    "ph": "ˈredʒɪmənt",
+    "pos": "n./v.",
+    "zh": "团；严格管制",
+    "ex": "He served in an infantry regiment for five years.",
+    "exzh": "他在一个步兵团服役了五年。"
+  },
+  {
+    "w": "rehabilitate",
+    "ph": "ˌriːəˈbɪlɪteɪt",
+    "pos": "v.",
+    "zh": "使康复；使恢复名誉",
+    "ex": "The clinic helps patients rehabilitate after serious injuries.",
+    "exzh": "该诊所帮助病人从重伤中康复。"
+  },
+  {
+    "w": "reimburse",
+    "ph": "ˌriːɪmˈbɜːrs",
+    "pos": "v.",
+    "zh": "偿还；报销",
+    "ex": "The company will reimburse you for travel expenses.",
+    "exzh": "公司会为你报销差旅费用。"
+  },
+  {
+    "w": "reiterate",
+    "ph": "riːˈɪtəreɪt",
+    "pos": "v.",
+    "zh": "重申；反复说",
+    "ex": "Let me reiterate that safety remains our first priority.",
+    "exzh": "让我重申，安全始终是我们的首要任务。"
+  },
+  {
+    "w": "relativity",
+    "ph": "ˌreləˈtɪvəti",
+    "pos": "n.",
+    "zh": "相对性；相对论",
+    "ex": "Einstein's theory of relativity changed modern physics.",
+    "exzh": "爱因斯坦的相对论改变了现代物理学。"
+  },
+  {
+    "w": "relegate",
+    "ph": "ˈrelɪgeɪt",
+    "pos": "v.",
+    "zh": "贬低；降级",
+    "ex": "The team was relegated to the second division.",
+    "exzh": "该队被降级到乙级联赛。"
+  },
+  {
+    "w": "relentless",
+    "ph": "rɪˈlentləs",
+    "pos": "adj.",
+    "zh": "无情的；不间断的",
+    "ex": "Her relentless efforts finally won the committee's support.",
+    "exzh": "她不懈的努力最终赢得了委员会的支持。"
+  },
+  {
+    "w": "reliant",
+    "ph": "rɪˈlaɪənt",
+    "pos": "adj.",
+    "zh": "依赖的；依靠的",
+    "ex": "The village is heavily reliant on well water.",
+    "exzh": "这个村庄严重依赖井水。"
+  },
+  {
+    "w": "relic",
+    "ph": "ˈrelɪk",
+    "pos": "n.",
+    "zh": "遗迹；遗物",
+    "ex": "The museum displays relics from the ancient city.",
+    "exzh": "博物馆展出这座古城的遗物。"
+  },
+  {
+    "w": "relinquish",
+    "ph": "rɪˈlɪŋkwɪʃ",
+    "pos": "v.",
+    "zh": "放弃；交出",
+    "ex": "He refused to relinquish control of the family business.",
+    "exzh": "他拒绝交出家族企业的控制权。"
+  },
+  {
+    "w": "reminiscent",
+    "ph": "ˌremɪˈnɪsnt",
+    "pos": "adj.",
+    "zh": "使人想起的",
+    "ex": "The smell of bread is reminiscent of my childhood.",
+    "exzh": "面包的香味使我回想起童年。"
+  },
+  {
+    "w": "remnant",
+    "ph": "ˈremnənt",
+    "pos": "n.",
+    "zh": "残余；剩余部分",
+    "ex": "Only a remnant of the original forest survives today.",
+    "exzh": "如今只剩下一小片原始森林的残余。"
+  },
+  {
+    "w": "remorse",
+    "ph": "rɪˈmɔːrs",
+    "pos": "n.",
+    "zh": "悔恨；自责",
+    "ex": "He felt deep remorse for his cruel words.",
+    "exzh": "他为自己刻薄的话深感悔恨。"
+  },
+  {
+    "w": "renounce",
+    "ph": "rɪˈnaʊns",
+    "pos": "v.",
+    "zh": "放弃；声明放弃",
+    "ex": "She renounced her claim to the family estate.",
+    "exzh": "她放弃了对家族财产的要求。"
+  },
+  {
+    "w": "renovate",
+    "ph": "ˈrenəveɪt",
+    "pos": "v.",
+    "zh": "翻新；修复",
+    "ex": "They plan to renovate the old theater this spring.",
+    "exzh": "他们计划今年春天翻新这座旧剧院。"
+  },
+  {
+    "w": "renown",
+    "ph": "rɪˈnaʊn",
+    "pos": "n.",
+    "zh": "名望；声誉",
+    "ex": "The scientist won worldwide renown for her research.",
+    "exzh": "这位科学家因其研究赢得了世界性的声誉。"
+  },
+  {
+    "w": "repeal",
+    "ph": "rɪˈpiːl",
+    "pos": "v./n.",
+    "zh": "废除；撤销",
+    "ex": "Parliament voted to repeal the outdated law.",
+    "exzh": "议会投票废除了那条过时的法律。"
+  },
+  {
+    "w": "repel",
+    "ph": "rɪˈpel",
+    "pos": "v.",
+    "zh": "击退；排斥",
+    "ex": "This spray repels mosquitoes for several hours.",
+    "exzh": "这种喷雾剂能驱蚊数小时。"
+  },
+  {
+    "w": "repercussion",
+    "ph": "ˌriːpərˈkʌʃn",
+    "pos": "n.",
+    "zh": "反响；影响",
+    "ex": "The decision had serious repercussions for small businesses.",
+    "exzh": "这项决定对小企业产生了严重影响。"
+  },
+  {
+    "w": "repertoire",
+    "ph": "ˈrepərtwɑːr",
+    "pos": "n.",
+    "zh": "全部剧目；全部技能",
+    "ex": "The pianist added two new pieces to her repertoire.",
+    "exzh": "这位钢琴家在她的曲目中增加了两首新作品。"
+  },
+  {
+    "w": "repetitive",
+    "ph": "rɪˈpetətɪv",
+    "pos": "adj.",
+    "zh": "重复的；乏味的",
+    "ex": "His job involves repetitive tasks on a computer.",
+    "exzh": "他的工作包括在电脑上重复性的任务。"
+  },
+  {
+    "w": "replenish",
+    "ph": "rɪˈplenɪʃ",
+    "pos": "v.",
+    "zh": "补充；重新装满",
+    "ex": "We stopped at a village to replenish our water.",
+    "exzh": "我们在一个村庄停下来补充饮用水。"
+  },
+  {
+    "w": "replica",
+    "ph": "ˈreplɪkə",
+    "pos": "n.",
+    "zh": "复制品；仿制品",
+    "ex": "The gallery sells replicas of famous paintings.",
+    "exzh": "这家画廊出售名画的复制品。"
+  },
+  {
+    "w": "repress",
+    "ph": "rɪˈpres",
+    "pos": "v.",
+    "zh": "压制；抑制",
+    "ex": "He could not repress a smile at the news.",
+    "exzh": "听到这个消息，他忍不住笑了。"
+  },
+  {
+    "w": "reprimand",
+    "ph": "ˈreprɪmænd",
+    "pos": "v./n.",
+    "zh": "训斥；谴责",
+    "ex": "The manager reprimanded him for missing the deadline.",
+    "exzh": "经理因他错过截止日期而训斥了他。"
+  },
+  {
+    "w": "reproach",
+    "ph": "rɪˈproʊtʃ",
+    "pos": "v./n.",
+    "zh": "责备；耻辱",
+    "ex": "She reproached him for forgetting their anniversary again.",
+    "exzh": "她责备他又忘了他们的纪念日。"
+  },
+  {
+    "w": "repudiate",
+    "ph": "rɪˈpjuːdieɪt",
+    "pos": "v.",
+    "zh": "拒绝；否认",
+    "ex": "The government repudiated the claims in the newspaper.",
+    "exzh": "政府否认了报纸上的说法。"
+  },
+  {
+    "w": "repulsive",
+    "ph": "rɪˈpʌlsɪv",
+    "pos": "adj.",
+    "zh": "令人厌恶的；排斥的",
+    "ex": "The smell from the dump was truly repulsive.",
+    "exzh": "垃圾场的气味实在令人作呕。"
+  },
+  {
+    "w": "repute",
+    "ph": "rɪˈpjuːt",
+    "pos": "n./v.",
+    "zh": "名声；认为",
+    "ex": "This hotel is held in high repute by travelers.",
+    "exzh": "这家旅馆深受旅客好评。"
+  },
+  {
+    "w": "reputed",
+    "ph": "rɪˈpjuːtɪd",
+    "pos": "adj.",
+    "zh": "据说的；有名的",
+    "ex": "He is reputed to be the best doctor here.",
+    "exzh": "据说是这里最好的医生。"
+  },
+  {
+    "w": "requisite",
+    "ph": "ˈrekwəzɪt",
+    "pos": "adj./n.",
+    "zh": "必需的；必需品",
+    "ex": "He lacked the requisite skills for the position.",
+    "exzh": "他缺乏该职位所需的技能。"
+  },
+  {
+    "w": "rescind",
+    "ph": "rɪˈsɪnd",
+    "pos": "v.",
+    "zh": "撤销；废止",
+    "ex": "The company rescinded its offer the next morning.",
+    "exzh": "公司第二天早上撤销了它的报价。"
+  },
+  {
+    "w": "residue",
+    "ph": "ˈrezɪduː",
+    "pos": "n.",
+    "zh": "残余物；剩余",
+    "ex": "A sticky residue remained on the surface of the table.",
+    "exzh": "桌面上留下了一层黏黏的残余物。"
+  },
+  {
+    "w": "resolute",
+    "ph": "ˈrezəluːt",
+    "pos": "adj.",
+    "zh": "坚决的；果断的",
+    "ex": "She was resolute in her refusal to apologize.",
+    "exzh": "她坚决拒绝道歉。"
+  },
+  {
+    "w": "resonance",
+    "ph": "ˈrezənəns",
+    "pos": "n.",
+    "zh": "共鸣；共振",
+    "ex": "His speech struck a deep resonance with young listeners.",
+    "exzh": "他的演讲引起了年轻听众的强烈共鸣。"
+  },
+  {
+    "w": "resourceful",
+    "ph": "rɪˈsɔːrsfl",
+    "pos": "adj.",
+    "zh": "足智多谋的；资源丰富的",
+    "ex": "A resourceful guide can solve almost any problem.",
+    "exzh": "一位足智多谋的向导几乎能解决任何问题。"
+  },
+  {
+    "w": "respiration",
+    "ph": "ˌrespəˈreɪʃn",
+    "pos": "n.",
+    "zh": "呼吸",
+    "ex": "Deep respiration helps you relax before the exam.",
+    "exzh": "深呼吸有助于你在考试前放松。"
+  },
+  {
+    "w": "respite",
+    "ph": "ˈrespɪt",
+    "pos": "n.",
+    "zh": "暂缓；休息",
+    "ex": "The rain gave us a brief respite from the heat.",
+    "exzh": "这场雨让我们暂时摆脱了炎热。"
+  },
+  {
+    "w": "resurgence",
+    "ph": "rɪˈsɜːrdʒəns",
+    "pos": "n.",
+    "zh": "复苏；再起",
+    "ex": "The city has seen a resurgence of traditional music.",
+    "exzh": "这座城市见证了传统音乐的复兴。"
+  },
+  {
+    "w": "resurrect",
+    "ph": "ˌrezəˈrekt",
+    "pos": "v.",
+    "zh": "使复活；复兴",
+    "ex": "The director tried to resurrect an old film project.",
+    "exzh": "这位导演试图重启一个旧的电影项目。"
+  },
+  {
+    "w": "retaliate",
+    "ph": "rɪˈtælieɪt",
+    "pos": "v.",
+    "zh": "报复；反击",
+    "ex": "The army retaliated against the border attack at dawn.",
+    "exzh": "军队在黎明时对边境袭击进行了报复。"
+  },
+  {
+    "w": "retention",
+    "ph": "rɪˈtenʃn",
+    "pos": "n.",
+    "zh": "保留；记忆力",
+    "ex": "The school improved student retention by offering more support.",
+    "exzh": "学校通过提供更多支持提高了学生的留存率。"
+  },
+  {
+    "w": "reticent",
+    "ph": "ˈretɪsnt",
+    "pos": "adj.",
+    "zh": "沉默寡言的；有保留的",
+    "ex": "He was reticent about his past and family.",
+    "exzh": "他对自己的过去和家庭讳莫如深。"
+  },
+  {
+    "w": "retort",
+    "ph": "rɪˈtɔːrt",
+    "pos": "v./n.",
+    "zh": "反驳；回嘴",
+    "ex": "She retorted that the plan was never her idea.",
+    "exzh": "她反驳说这个计划从来不是她的主意。"
+  },
+  {
+    "w": "retract",
+    "ph": "rɪˈtrækt",
+    "pos": "v.",
+    "zh": "撤回；缩回",
+    "ex": "The newspaper retracted the story two days later.",
+    "exzh": "该报两天后撤回了那篇报道。"
+  },
+  {
+    "w": "retrospect",
+    "ph": "ˈretrəspekt",
+    "pos": "n.",
+    "zh": "回顾；回想",
+    "ex": "In retrospect, that decision was a serious mistake.",
+    "exzh": "回顾起来，那个决定是个严重的错误。"
+  },
+  {
+    "w": "revere",
+    "ph": "rɪˈvɪr",
+    "pos": "v.",
+    "zh": "敬重；尊崇",
+    "ex": "Students revere the old professor for his kindness.",
+    "exzh": "学生们因这位老教授的善良而敬重他。"
+  },
+  {
+    "w": "reverence",
+    "ph": "ˈrevərəns",
+    "pos": "n.",
+    "zh": "敬意；崇敬",
+    "ex": "The villagers treat the ancient tree with reverence.",
+    "exzh": "村民们对那棵古树怀有敬意。"
+  },
+  {
+    "w": "revert",
+    "ph": "rɪˈvɜːrt",
+    "pos": "v.",
+    "zh": "恢复；归还",
+    "ex": "The garden soon reverted to its wild state.",
+    "exzh": "花园很快恢复了野生的状态。"
+  },
+  {
+    "w": "revoke",
+    "ph": "rɪˈvoʊk",
+    "pos": "v.",
+    "zh": "撤销；吊销",
+    "ex": "The court revoked his license after the accident.",
+    "exzh": "事故后法院吊销了他的执照。"
+  },
+  {
+    "w": "rhetoric",
+    "ph": "ˈretərɪk",
+    "pos": "n.",
+    "zh": "修辞；花言巧语",
+    "ex": "We need action, not empty political rhetoric.",
+    "exzh": "我们需要行动，而不是空洞的政治辞令。"
+  },
+  {
+    "w": "ridicule",
+    "ph": "ˈrɪdɪkjuːl",
+    "pos": "v./n.",
+    "zh": "嘲笑；奚落",
+    "ex": "His classmates ridiculed him for his strange accent.",
+    "exzh": "同学们因他奇怪的口音而嘲笑他。"
+  },
+  {
+    "w": "rife",
+    "ph": "raɪf",
+    "pos": "adj.",
+    "zh": "流行的；普遍的",
+    "ex": "Rumors were rife after the manager suddenly resigned.",
+    "exzh": "经理突然辞职后，谣言四起。"
+  },
+  {
+    "w": "rift",
+    "ph": "rɪft",
+    "pos": "n.",
+    "zh": "裂缝；分歧",
+    "ex": "A deep rift has opened between the two brothers.",
+    "exzh": "两兄弟之间出现了深深的裂痕。"
+  },
+  {
+    "w": "righteous",
+    "ph": "ˈraɪtʃəs",
+    "pos": "adj.",
+    "zh": "正义的；正直的",
+    "ex": "She was filled with righteous anger at the injustice.",
+    "exzh": "她对这不公充满了义愤。"
+  },
+  {
+    "w": "rigor",
+    "ph": "ˈrɪgər",
+    "pos": "n.",
+    "zh": "严格；严酷",
+    "ex": "The course is known for its academic rigor.",
+    "exzh": "这门课程以学术严谨而闻名。"
+  },
+  {
+    "w": "rigorous",
+    "ph": "ˈrɪgərəs",
+    "pos": "adj.",
+    "zh": "严格的；严密的",
+    "ex": "The new drug must pass rigorous safety tests.",
+    "exzh": "这种新药必须通过严格的安全测试。"
+  },
+  {
+    "w": "rite",
+    "ph": "raɪt",
+    "pos": "n.",
+    "zh": "仪式；典礼",
+    "ex": "The wedding rite lasted for nearly two hours.",
+    "exzh": "婚礼仪式持续了将近两个小时。"
+  },
+  {
+    "w": "rivalry",
+    "ph": "ˈraɪvlri",
+    "pos": "n.",
+    "zh": "竞争；对抗",
+    "ex": "The rivalry between the two teams lasted decades.",
+    "exzh": "两队之间的对抗持续了几十年。"
+  },
+  {
+    "w": "rodent",
+    "ph": "ˈroʊdnt",
+    "pos": "n.",
+    "zh": "啮齿动物",
+    "ex": "Rats and mice are the most common rodent pests.",
+    "exzh": "大鼠和小鼠是最常见的啮齿类害虫。"
+  },
+  {
+    "w": "rogue",
+    "ph": "roʊg",
+    "pos": "n./adj.",
+    "zh": "流氓；离群的",
+    "ex": "The rogue elephant wandered away from the herd.",
+    "exzh": "那头离群的公象离开了象群。"
+  },
+  {
+    "w": "roost",
+    "ph": "ruːst",
+    "pos": "n./v.",
+    "zh": "栖息处；栖息",
+    "ex": "Hundreds of birds roost in these trees at night.",
+    "exzh": "夜里成百上千只鸟在这些树上栖息。"
+  },
+  {
+    "w": "roster",
+    "ph": "ˈrɑːstər",
+    "pos": "n.",
+    "zh": "名册；名单",
+    "ex": "Her name was added to the duty roster.",
+    "exzh": "她的名字被加进了值班名单。"
+  },
+  {
+    "w": "rubble",
+    "ph": "ˈrʌbl",
+    "pos": "n.",
+    "zh": "碎石；瓦砾",
+    "ex": "Rescue workers searched the rubble for survivors.",
+    "exzh": "救援人员在瓦砾中搜寻生还者。"
+  },
+  {
+    "w": "rudimentary",
+    "ph": "ˌruːdɪˈmentri",
+    "pos": "adj.",
+    "zh": "基本的；初步的",
+    "ex": "He has only a rudimentary knowledge of French.",
+    "exzh": "他只懂一点基础的法语。"
+  },
+  {
+    "w": "ruffle",
+    "ph": "ˈrʌfl",
+    "pos": "v./n.",
+    "zh": "弄皱；使慌乱",
+    "ex": "The wind ruffled the surface of the quiet lake.",
+    "exzh": "风儿吹皱了平静的湖面。"
+  },
+  {
+    "w": "rugged",
+    "ph": "ˈrʌgɪd",
+    "pos": "adj.",
+    "zh": "崎岖的；粗犷的",
+    "ex": "They hiked across rugged mountains for three days.",
+    "exzh": "他们徒步穿越崎岖的山脉三天。"
+  },
+  {
+    "w": "rummage",
+    "ph": "ˈrʌmɪdʒ",
+    "pos": "v./n.",
+    "zh": "翻找；搜查",
+    "ex": "She rummaged through the drawer for her passport.",
+    "exzh": "她在抽屉里翻找她的护照。"
+  },
+  {
+    "w": "rupture",
+    "ph": "ˈrʌptʃər",
+    "pos": "n./v.",
+    "zh": "破裂；断裂",
+    "ex": "The pipeline ruptured and flooded the nearby field.",
+    "exzh": "管道破裂，淹没了附近的田地。"
+  },
+  {
+    "w": "rustle",
+    "ph": "ˈrʌsl",
+    "pos": "v./n.",
+    "zh": "沙沙作响；沙沙声",
+    "ex": "Dry leaves rustled under our feet in the dark.",
+    "exzh": "黑暗中干树叶在我们脚下沙沙作响。"
+  },
+  {
+    "w": "ruthless",
+    "ph": "ˈruːθləs",
+    "pos": "adj.",
+    "zh": "无情的；残忍的",
+    "ex": "The dictator was ruthless in crushing all opposition.",
+    "exzh": "那个独裁者在镇压反对派时毫不留情。"
+  },
+  {
+    "w": "sabotage",
+    "ph": "ˈsæbətɑːʒ",
+    "pos": "n./v.",
+    "zh": "破坏；蓄意破坏",
+    "ex": "Rebels sabotaged the railway line near the capital.",
+    "exzh": "叛乱者破坏了首都附近的铁路线。"
+  },
+  {
+    "w": "sag",
+    "ph": "sæg",
+    "pos": "v./n.",
+    "zh": "下垂；松弛",
+    "ex": "The old mattress sagged in the middle.",
+    "exzh": "这张旧床垫中间下陷了。"
+  },
+  {
+    "w": "salient",
+    "ph": "ˈseɪliənt",
+    "pos": "adj.",
+    "zh": "显著的；突出的",
+    "ex": "The report lists the salient points of the plan.",
+    "exzh": "报告列出了这项计划的要点。"
+  },
+  {
+    "w": "salvage",
+    "ph": "ˈsælvɪdʒ",
+    "pos": "v./n.",
+    "zh": "抢救；打捞",
+    "ex": "Divers salvaged several boxes from the sunken ship.",
+    "exzh": "潜水员从沉船中打捞出几个箱子。"
+  },
+  {
+    "w": "sanction",
+    "ph": "ˈsæŋkʃn",
+    "pos": "n./v.",
+    "zh": "制裁；批准",
+    "ex": "The government imposed economic sanctions on its neighbor.",
+    "exzh": "政府对邻国实施了经济制裁。"
+  },
+  {
+    "w": "sanctuary",
+    "ph": "ˈsæŋktʃueri",
+    "pos": "n.",
+    "zh": "避难所；保护区",
+    "ex": "The birds find sanctuary in this quiet wetland.",
+    "exzh": "鸟儿在这片安静的湿地中找到了庇护所。"
+  },
+  {
+    "w": "sane",
+    "ph": "seɪn",
+    "pos": "adj.",
+    "zh": "神志清醒的；理智的",
+    "ex": "No sane person would drive in this weather.",
+    "exzh": "没有理智的人会在这种天气里开车。"
+  },
+  {
+    "w": "sanity",
+    "ph": "ˈsænəti",
+    "pos": "n.",
+    "zh": "理智；神志正常",
+    "ex": "The long isolation nearly cost him his sanity.",
+    "exzh": "长期的孤立几乎让他失去理智。"
+  },
+  {
+    "w": "sarcasm",
+    "ph": "ˈsɑːrkæzəm",
+    "pos": "n.",
+    "zh": "讽刺；嘲讽",
+    "ex": "His sarcasm hurt her more than he realized.",
+    "exzh": "他的讥讽对她的伤害超出他的想象。"
+  },
+  {
+    "w": "sarcastic",
+    "ph": "sɑːrˈkæstɪk",
+    "pos": "adj.",
+    "zh": "讽刺的；嘲讽的",
+    "ex": "She gave a sarcastic reply and left the room.",
+    "exzh": "她讽刺地回了一句就离开了房间。"
+  },
+  {
+    "w": "satire",
+    "ph": "ˈsætaɪər",
+    "pos": "n.",
+    "zh": "讽刺；讽刺作品",
+    "ex": "The novel is a sharp satire on modern politics.",
+    "exzh": "这部小说是对现代政治的尖锐讽刺。"
+  },
+  {
+    "w": "satirical",
+    "ph": "səˈtɪrɪkl",
+    "pos": "adj.",
+    "zh": "讽刺的；讥讽的",
+    "ex": "The play offers a satirical view of city life.",
+    "exzh": "这部戏以讽刺的视角看待城市生活。"
+  },
+  {
+    "w": "saturate",
+    "ph": "ˈsætʃəreɪt",
+    "pos": "v.",
+    "zh": "使饱和；浸透",
+    "ex": "Heavy rain saturated the soil within an hour.",
+    "exzh": "大雨在一小时内浸透了土壤。"
+  },
+  {
+    "w": "savory",
+    "ph": "ˈseɪvəri",
+    "pos": "adj.",
+    "zh": "咸香的；令人愉快的",
+    "ex": "The bakery sells savory pies and fresh bread.",
+    "exzh": "这家面包店卖咸味馅饼和新鲜面包。"
+  },
+  {
+    "w": "scaffold",
+    "ph": "ˈskæfoʊld",
+    "pos": "n.",
+    "zh": "脚手架；支架",
+    "ex": "Workers erected a scaffold around the damaged tower.",
+    "exzh": "工人们在受损的塔周围搭起了脚手架。"
+  },
+  {
+    "w": "scam",
+    "ph": "skæm",
+    "pos": "n./v.",
+    "zh": "骗局；诈骗",
+    "ex": "The investment turned out to be an online scam.",
+    "exzh": "那项投资原来是个网络骗局。"
+  },
+  {
+    "w": "scant",
+    "ph": "skænt",
+    "pos": "adj.",
+    "zh": "缺乏的；不足的",
+    "ex": "There is scant evidence to support his theory.",
+    "exzh": "支持他理论的证据很不足。"
+  },
+  {
+    "w": "scapegoat",
+    "ph": "ˈskeɪpgoʊt",
+    "pos": "n.",
+    "zh": "替罪羊",
+    "ex": "He was made the scapegoat for the project's failure.",
+    "exzh": "他成了项目失败的替罪羊。"
+  },
+  {
+    "w": "scatter",
+    "ph": "ˈskætər",
+    "pos": "v.",
+    "zh": "散开；撒",
+    "ex": "The wind scattered the papers across the yard.",
+    "exzh": "风把文件吹散到院子各处。"
+  },
+  {
+    "w": "scoff",
+    "ph": "skɔːf",
+    "pos": "v.",
+    "zh": "嘲笑；藐视",
+    "ex": "Critics scoffed at the idea of a paperless office.",
+    "exzh": "批评者嘲笑无纸化办公的想法。"
+  },
+  {
+    "w": "scorch",
+    "ph": "skɔːrtʃ",
+    "pos": "v.",
+    "zh": "烤焦；灼伤",
+    "ex": "The hot sun scorched the grass in the garden.",
+    "exzh": "烈日把花园里的草烤焦了。"
+  },
+  {
+    "w": "scorn",
+    "ph": "skɔːrn",
+    "pos": "n./v.",
+    "zh": "轻蔑；鄙视",
+    "ex": "She looked at the offer with obvious scorn.",
+    "exzh": "她明显轻蔑地看着那份提议。"
+  },
+  {
+    "w": "scorpion",
+    "ph": "ˈskɔːrpiən",
+    "pos": "n.",
+    "zh": "蝎子",
+    "ex": "A scorpion crawled out from under the rock.",
+    "exzh": "一只蝎子从岩石下爬了出来。"
+  },
+  {
+    "w": "scoundrel",
+    "ph": "ˈskaʊndrəl",
+    "pos": "n.",
+    "zh": "恶棍；无赖",
+    "ex": "The old merchant called him a lying scoundrel.",
+    "exzh": "那位老商人称他是个撒谎的无赖。"
+  },
+  {
+    "w": "scour",
+    "ph": "ˈskaʊər",
+    "pos": "v.",
+    "zh": "擦洗；搜寻",
+    "ex": "They scoured the beach for the missing ring.",
+    "exzh": "他们在海滩上搜寻那枚丢失的戒指。"
+  },
+  {
+    "w": "scowl",
+    "ph": "skaʊl",
+    "pos": "v./n.",
+    "zh": "皱眉；怒容",
+    "ex": "He scowled at the noisy students in the library.",
+    "exzh": "他在图书馆对吵闹的学生皱眉。"
+  },
+  {
+    "w": "scribble",
+    "ph": "ˈskrɪbl",
+    "pos": "v./n.",
+    "zh": "乱写；涂鸦",
+    "ex": "She scribbled her phone number on a napkin.",
+    "exzh": "她把电话号码草草写在餐巾纸上。"
+  },
+  {
+    "w": "scrupulous",
+    "ph": "ˈskruːpjələs",
+    "pos": "adj.",
+    "zh": "一丝不苟的；审慎的",
+    "ex": "A scrupulous editor checks every fact carefully.",
+    "exzh": "一丝不苟的编辑会仔细核查每个事实。"
+  },
+  {
+    "w": "scrutinize",
+    "ph": "ˈskruːtənaɪz",
+    "pos": "v.",
+    "zh": "仔细检查；细看",
+    "ex": "Lawyers scrutinized the contract before it was signed.",
+    "exzh": "律师在签署前仔细审查了合同。"
+  },
+  {
+    "w": "scuffle",
+    "ph": "ˈskʌfl",
+    "pos": "v./n.",
+    "zh": "扭打；混战",
+    "ex": "A brief scuffle broke out near the ticket office.",
+    "exzh": "售票处附近发生了一阵短暂的扭打。"
+  },
+  {
+    "w": "sedative",
+    "ph": "ˈsedətɪv",
+    "pos": "n./adj.",
+    "zh": "镇静剂；使人镇静的",
+    "ex": "The doctor gave him a mild sedative to sleep.",
+    "exzh": "医生给他服了温和的镇静剂以便入睡。"
+  },
+  {
+    "w": "sediment",
+    "ph": "ˈsedɪmənt",
+    "pos": "n.",
+    "zh": "沉淀物；沉积物",
+    "ex": "A layer of sediment covered the bottom of the pond.",
+    "exzh": "一层沉积物覆盖着池塘底部。"
+  },
+  {
+    "w": "seduce",
+    "ph": "sɪˈduːs",
+    "pos": "v.",
+    "zh": "引诱；诱惑",
+    "ex": "Low prices seduced many buyers into the store.",
+    "exzh": "低价吸引了许多顾客进店。"
+  },
+  {
+    "w": "seedling",
+    "ph": "ˈsiːdlɪŋ",
+    "pos": "n.",
+    "zh": "幼苗；秧苗",
+    "ex": "The farmer planted seedlings in neat straight rows.",
+    "exzh": "农民把幼苗种成整齐的一排排。"
+  },
+  {
+    "w": "seep",
+    "ph": "siːp",
+    "pos": "v.",
+    "zh": "渗出；渗漏",
+    "ex": "Water seeped through the cracks in the wall.",
+    "exzh": "水从墙上的裂缝渗了出来。"
+  },
+  {
+    "w": "seethe",
+    "ph": "siːð",
+    "pos": "v.",
+    "zh": "沸腾；愤怒",
+    "ex": "He was seething with anger after the meeting.",
+    "exzh": "会议结束后他怒火中烧。"
+  },
+  {
+    "w": "segment",
+    "ph": "ˈsegmənt",
+    "pos": "n./v.",
+    "zh": "部分；分割",
+    "ex": "This segment of the market is growing rapidly.",
+    "exzh": "这一部分市场正在迅速增长。"
+  },
+  {
+    "w": "segregate",
+    "ph": "ˈsegrɪgeɪt",
+    "pos": "v.",
+    "zh": "隔离；分开",
+    "ex": "The law once segregated students by skin color.",
+    "exzh": "法律曾按肤色对学生实行隔离。"
+  },
+  {
+    "w": "seismic",
+    "ph": "ˈsaɪzmɪk",
+    "pos": "adj.",
+    "zh": "地震的；影响巨大的",
+    "ex": "The region lies in a highly active seismic zone.",
+    "exzh": "该地区位于一个高度活跃的地震带。"
+  },
+  {
+    "w": "selfless",
+    "ph": "ˈselfləs",
+    "pos": "adj.",
+    "zh": "无私的；忘我的",
+    "ex": "Her selfless work saved hundreds of lives.",
+    "exzh": "她无私的工作拯救了数百条生命。"
+  },
+  {
+    "w": "semantics",
+    "ph": "sɪˈmæntɪks",
+    "pos": "n.",
+    "zh": "语义学；语义",
+    "ex": "The argument was really about semantics, not policy.",
+    "exzh": "这场争论实际上是关于语义，而非政策。"
+  },
+  {
+    "w": "semblance",
+    "ph": "ˈsembləns",
+    "pos": "n.",
+    "zh": "外表；相似",
+    "ex": "They restored a semblance of order after the storm.",
+    "exzh": "风暴过后他们恢复了表面上的秩序。"
+  },
+  {
+    "w": "senile",
+    "ph": "ˈsiːnaɪl",
+    "pos": "adj.",
+    "zh": "衰老的；老糊涂的",
+    "ex": "His senile grandfather often forgets the family names.",
+    "exzh": "他年迈的祖父常常忘记家人的名字。"
+  },
+  {
+    "w": "sensational",
+    "ph": "senˈseɪʃənl",
+    "pos": "adj.",
+    "zh": "轰动的；极好的",
+    "ex": "The paper published a sensational story about the mayor.",
+    "exzh": "报纸刊登了一则关于市长的轰动性报道。"
+  },
+  {
+    "w": "sensory",
+    "ph": "ˈsensəri",
+    "pos": "adj.",
+    "zh": "感官的；感觉的",
+    "ex": "Children learn through sensory experience and play.",
+    "exzh": "儿童通过感官体验和游戏学习。"
+  },
+  {
+    "w": "sentinel",
+    "ph": "ˈsentɪnl",
+    "pos": "n.",
+    "zh": "哨兵；守卫",
+    "ex": "A sentinel stood at the gate all night.",
+    "exzh": "一名哨兵整夜守在大门口。"
+  },
+  {
+    "w": "sequel",
+    "ph": "ˈsiːkwəl",
+    "pos": "n.",
+    "zh": "续集；结果",
+    "ex": "The sequel was far less popular than the original.",
+    "exzh": "续集远不如原作受欢迎。"
+  },
+  {
+    "w": "serene",
+    "ph": "səˈriːn",
+    "pos": "adj.",
+    "zh": "宁静的；安详的",
+    "ex": "The lake looked serene in the early morning light.",
+    "exzh": "清晨的光线下湖面显得宁静。"
+  },
+  {
+    "w": "sergeant",
+    "ph": "ˈsɑːrdʒənt",
+    "pos": "n.",
+    "zh": "中士；警官",
+    "ex": "The sergeant ordered his men to stand at attention.",
+    "exzh": "中士命令士兵们立正。"
+  },
+  {
+    "w": "sermon",
+    "ph": "ˈsɜːrmən",
+    "pos": "n.",
+    "zh": "布道；说教",
+    "ex": "The priest delivered a short sermon about forgiveness.",
+    "exzh": "牧师作了一个关于宽恕的简短布道。"
+  },
+  {
+    "w": "serpent",
+    "ph": "ˈsɜːrpənt",
+    "pos": "n.",
+    "zh": "蛇；阴险的人",
+    "ex": "A green serpent slid silently through the tall grass.",
+    "exzh": "一条绿蛇无声地滑过高草。"
+  },
+  {
+    "w": "sever",
+    "ph": "ˈsevər",
+    "pos": "v.",
+    "zh": "切断；断绝",
+    "ex": "He severed all ties with his former partners.",
+    "exzh": "他断绝了与从前合伙人的所有关系。"
+  },
+  {
+    "w": "sewage",
+    "ph": "ˈsuːɪdʒ",
+    "pos": "n.",
+    "zh": "污水；污物",
+    "ex": "Untreated sewage flowed directly into the river.",
+    "exzh": "未经处理的污水直接流入河中。"
+  },
+  {
+    "w": "shack",
+    "ph": "ʃæk",
+    "pos": "n.",
+    "zh": "棚屋；简陋小屋",
+    "ex": "The old man lived in a wooden shack.",
+    "exzh": "那位老人住在一间木棚里。"
+  },
+  {
+    "w": "shackle",
+    "ph": "ˈʃækl",
+    "pos": "v./n.",
+    "zh": "束缚；镣铐",
+    "ex": "Fear of failure shackled his creative spirit.",
+    "exzh": "对失败的恐惧束缚了他的创造精神。"
+  },
+  {
+    "w": "shady",
+    "ph": "ˈʃeɪdi",
+    "pos": "adj.",
+    "zh": "阴凉的；可疑的",
+    "ex": "They met under a shady tree near the river.",
+    "exzh": "他们在河边一棵阴凉的树下见面。"
+  },
+  {
+    "w": "sham",
+    "ph": "ʃæm",
+    "pos": "n./adj.",
+    "zh": "假货；虚假的",
+    "ex": "The election was widely described as a sham.",
+    "exzh": "那次选举被普遍形容为一场骗局。"
+  },
+  {
+    "w": "shambles",
+    "ph": "ˈʃæmblz",
+    "pos": "n.",
+    "zh": "混乱；一团糟",
+    "ex": "The room was a shambles after the party.",
+    "exzh": "聚会之后房间一片狼藉。"
+  },
+  {
+    "w": "shard",
+    "ph": "ʃɑːrd",
+    "pos": "n.",
+    "zh": "碎片；尖片",
+    "ex": "Shards of glass covered the kitchen floor.",
+    "exzh": "厨房地板上满是玻璃碎片。"
+  },
+  {
+    "w": "shatter",
+    "ph": "ˈʃætər",
+    "pos": "v.",
+    "zh": "粉碎；使破碎",
+    "ex": "The explosion shattered windows across the street.",
+    "exzh": "爆炸震碎了整条街的窗户。"
+  },
+  {
+    "w": "shear",
+    "ph": "ʃɪr",
+    "pos": "v.",
+    "zh": "剪；修剪",
+    "ex": "They shear the sheep twice every summer.",
+    "exzh": "他们每年夏天剪两次羊毛。"
+  },
+  {
+    "w": "sheen",
+    "ph": "ʃiːn",
+    "pos": "n.",
+    "zh": "光泽；光辉",
+    "ex": "The silk curtains had a soft silvery sheen.",
+    "exzh": "丝绸窗帘泛着柔和的银光。"
+  },
+  {
+    "w": "sheriff",
+    "ph": "ˈʃerɪf",
+    "pos": "n.",
+    "zh": "治安官；警长",
+    "ex": "The sheriff warned residents about the escaped prisoner.",
+    "exzh": "治安官警告居民注意逃犯。"
+  },
+  {
+    "w": "shimmer",
+    "ph": "ˈʃɪmər",
+    "pos": "v./n.",
+    "zh": "闪烁；微光",
+    "ex": "Heat shimmered above the empty desert road.",
+    "exzh": "热浪在空荡的沙漠公路上闪烁。"
+  },
+  {
+    "w": "shirk",
+    "ph": "ʃɜːrk",
+    "pos": "v.",
+    "zh": "逃避；推卸",
+    "ex": "He never shirks his responsibilities at work.",
+    "exzh": "他在工作中从不逃避责任。"
+  },
+  {
+    "w": "shove",
+    "ph": "ʃʌv",
+    "pos": "v./n.",
+    "zh": "推；猛推",
+    "ex": "Someone shoved him roughly into the crowded train.",
+    "exzh": "有人粗暴地把他推进拥挤的火车。"
+  },
+  {
+    "w": "shred",
+    "ph": "ʃred",
+    "pos": "n./v.",
+    "zh": "碎片；切碎",
+    "ex": "She shredded the old documents before the move.",
+    "exzh": "搬家前她把旧文件都碎掉了。"
+  },
+  {
+    "w": "shriek",
+    "ph": "ʃriːk",
+    "pos": "v./n.",
+    "zh": "尖叫；尖声说",
+    "ex": "The girls shrieked with delight at the sight.",
+    "exzh": "姑娘们看到这一幕高兴地尖叫起来。"
+  },
+  {
+    "w": "shrill",
+    "ph": "ʃrɪl",
+    "pos": "adj.",
+    "zh": "刺耳的；尖声的",
+    "ex": "The shrill whistle hurt my ears badly.",
+    "exzh": "那刺耳的哨声把我的耳朵刺痛了。"
+  },
+  {
+    "w": "shrine",
+    "ph": "ʃraɪn",
+    "pos": "n.",
+    "zh": "圣地；神龛",
+    "ex": "Visitors leave flowers at the mountain shrine.",
+    "exzh": "游客在山中神龛前献花。"
+  },
+  {
+    "w": "shroud",
+    "ph": "ʃraʊd",
+    "pos": "v./n.",
+    "zh": "遮蔽；裹尸布",
+    "ex": "Thick fog shrouded the harbor at dawn.",
+    "exzh": "黎明时浓雾笼罩着港口。"
+  },
+  {
+    "w": "shudder",
+    "ph": "ˈʃʌdər",
+    "pos": "v./n.",
+    "zh": "颤抖；战栗",
+    "ex": "I shudder to think what might have happened.",
+    "exzh": "想到可能发生的事我就不寒而栗。"
+  },
+  {
+    "w": "shuffle",
+    "ph": "ˈʃʌfl",
+    "pos": "v./n.",
+    "zh": "拖着脚走；洗牌",
+    "ex": "The old man shuffled slowly across the room.",
+    "exzh": "老人拖着脚慢慢穿过房间。"
+  },
+  {
+    "w": "shun",
+    "ph": "ʃʌn",
+    "pos": "v.",
+    "zh": "避开；回避",
+    "ex": "After the scandal, friends began to shun him.",
+    "exzh": "丑闻之后，朋友们开始回避他。"
+  },
+  {
+    "w": "siege",
+    "ph": "siːdʒ",
+    "pos": "n.",
+    "zh": "围攻；包围",
+    "ex": "The city survived a long siege by the enemy.",
+    "exzh": "这座城市经受了敌人的长期围困。"
+  },
+  {
+    "w": "sieve",
+    "ph": "sɪv",
+    "pos": "n./v.",
+    "zh": "筛子；筛",
+    "ex": "Pour the flour through a sieve before baking.",
+    "exzh": "烘烤前把面粉过一下筛。"
+  },
+  {
+    "w": "sift",
+    "ph": "sɪft",
+    "pos": "v.",
+    "zh": "筛选；筛",
+    "ex": "Investigators sifted through hundreds of old files.",
+    "exzh": "调查人员仔细筛查了数百份旧档案。"
+  },
+  {
+    "w": "silhouette",
+    "ph": "ˌsɪluˈet",
+    "pos": "n./v.",
+    "zh": "剪影；轮廓",
+    "ex": "The mountains stood as dark silhouettes against the sky.",
+    "exzh": "群山以黑色的剪影映衬着天空。"
+  },
+  {
+    "w": "simmer",
+    "ph": "ˈsɪmər",
+    "pos": "v.",
+    "zh": "煨；炖",
+    "ex": "Let the soup simmer for twenty minutes on low heat.",
+    "exzh": "让汤用小火煨二十分钟。"
+  },
+  {
+    "w": "simplistic",
+    "ph": "sɪmˈplɪstɪk",
+    "pos": "adj.",
+    "zh": "简单化的；过分简化的",
+    "ex": "His simplistic view ignores the real complexity of poverty.",
+    "exzh": "他简单化的观点忽略了贫困的真正复杂性。"
+  },
+  {
+    "w": "simulate",
+    "ph": "ˈsɪmjuleɪt",
+    "pos": "v.",
+    "zh": "模拟；假装",
+    "ex": "The software can simulate weather conditions over decades.",
+    "exzh": "该软件能模拟几十年间的天气状况。"
+  },
+  {
+    "w": "simultaneous",
+    "ph": "ˌsaɪmlˈteɪniəs",
+    "pos": "adj.",
+    "zh": "同时发生的",
+    "ex": "The two events were almost simultaneous in time.",
+    "exzh": "这两件事在时间上几乎是同时发生的。"
+  },
+  {
+    "w": "singe",
+    "ph": "sɪndʒ",
+    "pos": "v.",
+    "zh": "烧焦；燎",
+    "ex": "The iron singed the collar of my best shirt.",
+    "exzh": "熨斗把我最好衬衫的领子烫焦了。"
+  },
+  {
+    "w": "sinister",
+    "ph": "ˈsɪnɪstər",
+    "pos": "adj.",
+    "zh": "邪恶的；不祥的",
+    "ex": "There was something sinister about his quiet smile.",
+    "exzh": "他安静的微笑里有种邪恶的东西。"
+  },
+  {
+    "w": "siren",
+    "ph": "ˈsaɪrən",
+    "pos": "n.",
+    "zh": "警报器；妖妇",
+    "ex": "An ambulance siren woke the whole street.",
+    "exzh": "救护车的警报声吵醒了整条街。"
+  },
+  {
+    "w": "skeptical",
+    "ph": "ˈskeptɪkl",
+    "pos": "adj.",
+    "zh": "怀疑的",
+    "ex": "Many scientists remain skeptical about the new claim.",
+    "exzh": "许多科学家仍对这项新说法持怀疑态度。"
+  },
+  {
+    "w": "skirmish",
+    "ph": "ˈskɜːrmɪʃ",
+    "pos": "n./v.",
+    "zh": "小冲突；小规模战斗",
+    "ex": "A brief skirmish broke out along the border.",
+    "exzh": "边境沿线爆发了一场小规模冲突。"
+  },
+  {
+    "w": "slacken",
+    "ph": "ˈslækən",
+    "pos": "v.",
+    "zh": "放松；减缓",
+    "ex": "The rain slackened as evening approached.",
+    "exzh": "傍晚临近时雨势减弱了。"
+  },
+  {
+    "w": "slander",
+    "ph": "ˈslændər",
+    "pos": "n./v.",
+    "zh": "诽谤；中伤",
+    "ex": "He sued the magazine for slander last year.",
+    "exzh": "他去年以诽谤罪起诉了那家杂志。"
+  },
+  {
+    "w": "slant",
+    "ph": "slænt",
+    "pos": "v./n.",
+    "zh": "倾斜；倾向",
+    "ex": "The roof slants steeply toward the garden.",
+    "exzh": "屋顶陡峭地向花园方向倾斜。"
+  },
+  {
+    "w": "slash",
+    "ph": "slæʃ",
+    "pos": "v./n.",
+    "zh": "砍；大幅削减",
+    "ex": "The company slashed prices to attract new customers.",
+    "exzh": "公司大幅降价以吸引新客户。"
+  },
+  {
+    "w": "slaughter",
+    "ph": "ˈslɔːtər",
+    "pos": "n./v.",
+    "zh": "屠杀；宰杀",
+    "ex": "The soldiers were accused of slaughtering innocent civilians.",
+    "exzh": "士兵被指控屠杀无辜平民。"
+  },
+  {
+    "w": "slay",
+    "ph": "sleɪ",
+    "pos": "v.",
+    "zh": "杀死；谋杀",
+    "ex": "The hero slays the dragon and saves the village.",
+    "exzh": "英雄杀死巨龙，拯救了村庄。"
+  },
+  {
+    "w": "sleek",
+    "ph": "sliːk",
+    "pos": "adj.",
+    "zh": "光滑的；时髦的",
+    "ex": "She drove a sleek black car into the driveway.",
+    "exzh": "她开着一辆锃亮的黑色汽车驶入车道。"
+  },
+  {
+    "w": "sleet",
+    "ph": "sliːt",
+    "pos": "n./v.",
+    "zh": "雨夹雪；下冻雨",
+    "ex": "Freezing sleet made the roads dangerously slippery.",
+    "exzh": "冻雨使道路变得危险地滑。"
+  },
+  {
+    "w": "slick",
+    "ph": "slɪk",
+    "pos": "adj.",
+    "zh": "光滑的；熟练的",
+    "ex": "The floor was slick with water near the pool.",
+    "exzh": "泳池附近的地板被水弄得湿滑。"
+  },
+  {
+    "w": "sling",
+    "ph": "slɪŋ",
+    "pos": "v./n.",
+    "zh": "投掷；吊带",
+    "ex": "He likes to sling his bag over one shoulder.",
+    "exzh": "他喜欢把包甩在一侧肩上。"
+  },
+  {
+    "w": "slit",
+    "ph": "slɪt",
+    "pos": "v./n.",
+    "zh": "切开；狭缝",
+    "ex": "Cut a small slit in the lid before heating.",
+    "exzh": "加热前在盖子上切一个小口。"
+  },
+  {
+    "w": "slither",
+    "ph": "ˈslɪðər",
+    "pos": "v.",
+    "zh": "滑行；蜿蜒爬行",
+    "ex": "A snake slithered across the dusty path.",
+    "exzh": "一条蛇滑过满是尘土的小路。"
+  },
+  {
+    "w": "sliver",
+    "ph": "ˈslɪvər",
+    "pos": "n.",
+    "zh": "薄片；小片",
+    "ex": "Only a sliver of moon showed above the clouds.",
+    "exzh": "云层上方只露出一弯细月。"
+  },
+  {
+    "w": "sloth",
+    "ph": "slɔːθ",
+    "pos": "n.",
+    "zh": "懒惰；树懒",
+    "ex": "His sloth cost him the scholarship he wanted.",
+    "exzh": "他的懒惰使他失去了想要的奖学金。"
+  },
+  {
+    "w": "slouch",
+    "ph": "slaʊtʃ",
+    "pos": "v./n.",
+    "zh": "没精打采地坐；驼背",
+    "ex": "Do not slouch when you sit at the desk.",
+    "exzh": "坐在书桌前时不要弯腰驼背。"
+  },
+  {
+    "w": "sluggish",
+    "ph": "ˈslʌgɪʃ",
+    "pos": "adj.",
+    "zh": "缓慢的；迟钝的",
+    "ex": "The economy remains sluggish after the long recession.",
+    "exzh": "长期衰退后经济依然疲软。"
+  },
+  {
+    "w": "slumber",
+    "ph": "ˈslʌmbər",
+    "pos": "v./n.",
+    "zh": "睡眠；沉睡",
+    "ex": "The baby slumbered peacefully in her mother's arms.",
+    "exzh": "婴儿在母亲怀里安睡。"
+  },
+  {
+    "w": "slump",
+    "ph": "slʌmp",
+    "pos": "v./n.",
+    "zh": "暴跌；衰退",
+    "ex": "Sales slumped sharply during the winter months.",
+    "exzh": "冬季几个月销售量急剧下滑。"
+  },
+  {
+    "w": "slur",
+    "ph": "slɜːr",
+    "pos": "v./n.",
+    "zh": "含糊地说；诽谤",
+    "ex": "He was tired and his words began to slur.",
+    "exzh": "他累了，说话开始含糊不清。"
+  },
+  {
+    "w": "smack",
+    "ph": "smæk",
+    "pos": "v./n.",
+    "zh": "拍击；啪的一声",
+    "ex": "She smacked the table angrily with her hand.",
+    "exzh": "她生气地用手拍桌子。"
+  },
+  {
+    "w": "smear",
+    "ph": "smɪr",
+    "pos": "v./n.",
+    "zh": "涂抹；诽谤",
+    "ex": "The child smeared jam all over his face.",
+    "exzh": "孩子把果酱抹了一脸。"
+  },
+  {
+    "w": "smirk",
+    "ph": "smɜːrk",
+    "pos": "v./n.",
+    "zh": "得意地笑；傻笑",
+    "ex": "He smirked when the teacher praised his answer.",
+    "exzh": "老师表扬他的答案时，他得意地笑了。"
+  },
+  {
+    "w": "smog",
+    "ph": "smɑːg",
+    "pos": "n.",
+    "zh": "烟雾；雾霾",
+    "ex": "Thick smog covered the city for three days.",
+    "exzh": "浓重的雾霾笼罩了这座城市三天。"
+  },
+  {
+    "w": "smolder",
+    "ph": "ˈsmoʊldər",
+    "pos": "v.",
+    "zh": "闷烧；郁积",
+    "ex": "The fire continued to smolder under the ash.",
+    "exzh": "火在灰烬下继续闷烧。"
+  },
+  {
+    "w": "smother",
+    "ph": "ˈsmʌðər",
+    "pos": "v.",
+    "zh": "使窒息；抑制",
+    "ex": "She smothered a laugh during the serious meeting.",
+    "exzh": "在严肃的会议上她忍住没笑出声。"
+  },
+  {
+    "w": "smudge",
+    "ph": "smʌdʒ",
+    "pos": "v./n.",
+    "zh": "弄脏；污迹",
+    "ex": "The ink smudged when I touched the page.",
+    "exzh": "我碰到纸时墨水弄脏了。"
+  },
+  {
+    "w": "smug",
+    "ph": "smʌg",
+    "pos": "adj.",
+    "zh": "自满的；自鸣得意的",
+    "ex": "He gave a smug smile after winning the bet.",
+    "exzh": "打赌赢了之后他露出自满的微笑。"
+  },
+  {
+    "w": "snag",
+    "ph": "snæg",
+    "pos": "n./v.",
+    "zh": "障碍；钩住",
+    "ex": "We hit a small snag in the travel plans.",
+    "exzh": "我们的旅行计划遇到了一个小障碍。"
+  },
+  {
+    "w": "snail",
+    "ph": "sneɪl",
+    "pos": "n.",
+    "zh": "蜗牛",
+    "ex": "A snail left a silver trail across the path.",
+    "exzh": "一只蜗牛在小路上留下了银色痕迹。"
+  },
+  {
+    "w": "snare",
+    "ph": "sner",
+    "pos": "n./v.",
+    "zh": "陷阱；诱捕",
+    "ex": "The hunter set a snare beside the rabbit path.",
+    "exzh": "猎人在兔子小径旁设了个陷阱。"
+  },
+  {
+    "w": "snarl",
+    "ph": "snɑːrl",
+    "pos": "v./n.",
+    "zh": "咆哮；缠结",
+    "ex": "The dog snarled at anyone who came near.",
+    "exzh": "那只狗对任何靠近的人咆哮。"
+  },
+  {
+    "w": "snatch",
+    "ph": "snætʃ",
+    "pos": "v./n.",
+    "zh": "抢走；片段",
+    "ex": "A thief snatched her bag on the crowded street.",
+    "exzh": "一个贼在拥挤的街上抢走了她的包。"
+  },
+  {
+    "w": "sneer",
+    "ph": "snɪr",
+    "pos": "v./n.",
+    "zh": "嘲笑；冷笑",
+    "ex": "He sneered at her simple country clothes.",
+    "exzh": "他嘲笑她朴素的乡下衣服。"
+  },
+  {
+    "w": "sneeze",
+    "ph": "sniːz",
+    "pos": "v./n.",
+    "zh": "打喷嚏",
+    "ex": "Dust always makes me sneeze in the morning.",
+    "exzh": "灰尘总让我早上打喷嚏。"
+  },
+  {
+    "w": "snicker",
+    "ph": "ˈsnɪkər",
+    "pos": "v./n.",
+    "zh": "窃笑；暗笑",
+    "ex": "The boys snickered at the teacher's mistake.",
+    "exzh": "男孩们对老师的错误窃笑。"
+  },
+  {
+    "w": "snippet",
+    "ph": "ˈsnɪpɪt",
+    "pos": "n.",
+    "zh": "片段；摘录",
+    "ex": "The article includes a snippet of their conversation.",
+    "exzh": "文章包括他们谈话的一小段摘录。"
+  },
+  {
+    "w": "snob",
+    "ph": "snɑːb",
+    "pos": "n.",
+    "zh": "势利眼；自命不凡者",
+    "ex": "He is too much of a snob to eat here.",
+    "exzh": "他太势利，不愿在这里吃饭。"
+  },
+  {
+    "w": "snobbish",
+    "ph": "ˈsnɑːbɪʃ",
+    "pos": "adj.",
+    "zh": "势利的；自命不凡的",
+    "ex": "Her snobbish attitude annoyed the whole team.",
+    "exzh": "她势利的态度让整个团队反感。"
+  },
+  {
+    "w": "snoop",
+    "ph": "snuːp",
+    "pos": "v.",
+    "zh": "窥探；打探",
+    "ex": "Someone had been snooping around my desk.",
+    "exzh": "有人一直在我的桌子周围窥探。"
+  },
+  {
+    "w": "snore",
+    "ph": "snɔːr",
+    "pos": "v./n.",
+    "zh": "打鼾；鼾声",
+    "ex": "He snores loudly whenever he sleeps on his back.",
+    "exzh": "他仰睡时总是鼾声大作。"
+  },
+  {
+    "w": "snort",
+    "ph": "snɔːrt",
+    "pos": "v./n.",
+    "zh": "哼鼻子；喷鼻息",
+    "ex": "The horse snorted and stamped its heavy feet.",
+    "exzh": "那匹马喷着鼻息，重重地跺脚。"
+  },
+  {
+    "w": "snout",
+    "ph": "snaʊt",
+    "pos": "n.",
+    "zh": "口鼻部；猪鼻",
+    "ex": "The pig pushed its snout into the soft earth.",
+    "exzh": "猪把鼻子拱进松软的泥土里。"
+  },
+  {
+    "w": "snub",
+    "ph": "snʌb",
+    "pos": "v./n.",
+    "zh": "冷落；怠慢",
+    "ex": "She snubbed his invitation without a word.",
+    "exzh": "她一句话没说就拒绝了他的邀请。"
+  },
+  {
+    "w": "snug",
+    "ph": "snʌg",
+    "pos": "adj.",
+    "zh": "舒适的；紧身的",
+    "ex": "The cat curled up in a snug little corner.",
+    "exzh": "猫蜷缩在一个舒适的小角落里。"
+  },
+  {
+    "w": "soar",
+    "ph": "sɔːr",
+    "pos": "v.",
+    "zh": "高飞；猛增",
+    "ex": "House prices soared again in the second half.",
+    "exzh": "下半年房价再次飙升。"
+  },
+  {
+    "w": "sociable",
+    "ph": "ˈsoʊʃəbl",
+    "pos": "adj.",
+    "zh": "好交际的；友好的",
+    "ex": "She is sociable and quickly makes new friends.",
+    "exzh": "她善于交际，很快就交到新朋友。"
+  },
+  {
+    "w": "societal",
+    "ph": "səˈsaɪətl",
+    "pos": "adj.",
+    "zh": "社会的",
+    "ex": "The film explores deep societal changes in rural China.",
+    "exzh": "这部影片探讨了中国农村深刻的社会变革。"
+  },
+  {
+    "w": "sodium",
+    "ph": "ˈsoʊdiəm",
+    "pos": "n.",
+    "zh": "钠",
+    "ex": "Too much sodium in your diet raises blood pressure.",
+    "exzh": "饮食中钠过多会使血压升高。"
+  },
+  {
+    "w": "soggy",
+    "ph": "ˈsɑːgi",
+    "pos": "adj.",
+    "zh": "湿透的；湿软的",
+    "ex": "The bread became soggy after sitting in the rain.",
+    "exzh": "面包在雨中放过后变得湿软。"
+  },
+  {
+    "w": "sojourn",
+    "ph": "ˈsoʊdʒɜːrn",
+    "pos": "n./v.",
+    "zh": "逗留；旅居",
+    "ex": "He enjoyed a short sojourn in the mountains.",
+    "exzh": "他在山中愉快地小住了一段。"
+  },
+  {
+    "w": "solace",
+    "ph": "ˈsɑːləs",
+    "pos": "n./v.",
+    "zh": "安慰；慰藉",
+    "ex": "She found solace in music after the loss.",
+    "exzh": "失去亲人后她在音乐中寻找安慰。"
+  },
+  {
+    "w": "solicit",
+    "ph": "səˈlɪsɪt",
+    "pos": "v.",
+    "zh": "请求；征求",
+    "ex": "The charity solicited donations outside the station.",
+    "exzh": "慈善机构在车站外募捐。"
+  },
+  {
+    "w": "solidarity",
+    "ph": "ˌsɑːlɪˈdærəti",
+    "pos": "n.",
+    "zh": "团结；一致",
+    "ex": "Workers marched to show solidarity with the strikers.",
+    "exzh": "工人们游行以声援罢工者。"
+  },
+  {
+    "w": "solitary",
+    "ph": "ˈsɑːləteri",
+    "pos": "adj.",
+    "zh": "孤独的；单独的",
+    "ex": "A solitary figure walked along the empty beach.",
+    "exzh": "一个孤独的身影沿着空荡的海滩行走。"
+  },
+  {
+    "w": "solitude",
+    "ph": "ˈsɑːlətuːd",
+    "pos": "n.",
+    "zh": "独处；孤独",
+    "ex": "He needs long periods of solitude to write.",
+    "exzh": "他需要长时间的独处来写作。"
+  },
+  {
+    "w": "soluble",
+    "ph": "ˈsɑːljəbl",
+    "pos": "adj.",
+    "zh": "可溶的；可解决的",
+    "ex": "This powder is soluble in warm water.",
+    "exzh": "这种粉末可溶于温水。"
+  },
+  {
+    "w": "somber",
+    "ph": "ˈsɑːmbər",
+    "pos": "adj.",
+    "zh": "阴沉的；忧郁的",
+    "ex": "The room had a somber gray color scheme.",
+    "exzh": "房间采用阴沉的灰色调。"
+  },
+  {
+    "w": "soot",
+    "ph": "sʊt",
+    "pos": "n.",
+    "zh": "煤烟；烟灰",
+    "ex": "Black soot covered the walls above the stove.",
+    "exzh": "炉子上方的墙壁沾满了黑烟灰。"
+  },
+  {
+    "w": "soothe",
+    "ph": "suːð",
+    "pos": "v.",
+    "zh": "安慰；缓解",
+    "ex": "Soft music helped soothe the crying baby.",
+    "exzh": "轻柔的音乐帮助安抚了哭闹的婴儿。"
+  },
+  {
+    "w": "sordid",
+    "ph": "ˈsɔːrdɪd",
+    "pos": "adj.",
+    "zh": "肮脏的；卑鄙的",
+    "ex": "The newspaper revealed the sordid details of the deal.",
+    "exzh": "报纸披露了这笔交易肮脏的细节。"
+  },
+  {
+    "w": "sovereign",
+    "ph": "ˈsɑːvrɪn",
+    "pos": "adj./n.",
+    "zh": "主权的；君主",
+    "ex": "Each state remains sovereign under the agreement.",
+    "exzh": "根据该协议，各州仍保有主权。"
+  },
+  {
+    "w": "spacious",
+    "ph": "ˈspeɪʃəs",
+    "pos": "adj.",
+    "zh": "宽敞的",
+    "ex": "They moved into a spacious apartment near the park.",
+    "exzh": "他们搬进了公园附近一套宽敞的公寓。"
+  },
+  {
+    "w": "spade",
+    "ph": "speɪd",
+    "pos": "n.",
+    "zh": "铲子；铁锹",
+    "ex": "He dug the garden with an old spade.",
+    "exzh": "他用一把旧铁锹翻整花园。"
+  },
+  {
+    "w": "spasm",
+    "ph": "ˈspæzəm",
+    "pos": "n.",
+    "zh": "痉挛；一阵发作",
+    "ex": "A sudden spasm in his back stopped him.",
+    "exzh": "背部突然的痉挛使他停了下来。"
+  },
+  {
+    "w": "spatial",
+    "ph": "ˈspeɪʃl",
+    "pos": "adj.",
+    "zh": "空间的",
+    "ex": "Children develop spatial awareness through block play.",
+    "exzh": "儿童通过玩积木发展空间意识。"
+  },
+  {
+    "w": "spawn",
+    "ph": "spɔːn",
+    "pos": "v./n.",
+    "zh": "产卵；产生",
+    "ex": "The internet has spawned many new businesses.",
+    "exzh": "互联网催生了许多新企业。"
+  },
+  {
+    "w": "specify",
+    "ph": "ˈspesɪfaɪ",
+    "pos": "v.",
+    "zh": "明确说明；指定",
+    "ex": "Please specify the size and color when ordering.",
+    "exzh": "订购时请注明尺寸和颜色。"
+  },
+  {
+    "w": "speck",
+    "ph": "spek",
+    "pos": "n.",
+    "zh": "斑点；微粒",
+    "ex": "A tiny speck of dust fell into my eye.",
+    "exzh": "一小粒灰尘掉进了我的眼睛。"
+  },
+  {
+    "w": "sphere",
+    "ph": "sfɪr",
+    "pos": "n.",
+    "zh": "球体；领域",
+    "ex": "She has great influence in the cultural sphere.",
+    "exzh": "她在文化领域有很大的影响力。"
+  },
+  {
+    "w": "spike",
+    "ph": "spaɪk",
+    "pos": "n./v.",
+    "zh": "尖刺；猛增",
+    "ex": "A sudden spike in demand raised prices.",
+    "exzh": "需求突然猛增抬高了价格。"
+  },
+  {
+    "w": "splinter",
+    "ph": "ˈsplɪntər",
+    "pos": "n./v.",
+    "zh": "碎片；裂开",
+    "ex": "A splinter of wood lodged in his finger.",
+    "exzh": "一小块木片扎进了他的手指。"
+  },
+  {
+    "w": "sporadic",
+    "ph": "spəˈrædɪk",
+    "pos": "adj.",
+    "zh": "零星的；偶尔的",
+    "ex": "Sporadic gunfire could still be heard at night.",
+    "exzh": "夜间仍能听到零星的枪声。"
+  },
+  {
+    "w": "spotlight",
+    "ph": "ˈspɑːtlaɪt",
+    "pos": "n./v.",
+    "zh": "聚光灯；关注",
+    "ex": "The scandal put the company in the spotlight.",
+    "exzh": "丑闻使这家公司成为关注焦点。"
+  },
+  {
+    "w": "sprawl",
+    "ph": "sprɔːl",
+    "pos": "v./n.",
+    "zh": "伸展；蔓延",
+    "ex": "The city sprawls for miles along the coast.",
+    "exzh": "这座城市沿海岸绵延数英里。"
+  },
+  {
+    "w": "sprout",
+    "ph": "spraʊt",
+    "pos": "v./n.",
+    "zh": "发芽；嫩芽",
+    "ex": "Green shoots sprouted from the wet soil.",
+    "exzh": "绿芽从湿润的土壤中冒了出来。"
+  },
+  {
+    "w": "squander",
+    "ph": "ˈskwɑːndər",
+    "pos": "v.",
+    "zh": "浪费；挥霍",
+    "ex": "He squandered his savings on useless gadgets.",
+    "exzh": "他把积蓄挥霍在没用的玩意儿上。"
+  },
+  {
+    "w": "squash",
+    "ph": "skwɑːʃ",
+    "pos": "v./n.",
+    "zh": "压扁；南瓜",
+    "ex": "The crowd squashed us against the metal barrier.",
+    "exzh": "人群把我们挤在金属护栏上。"
+  },
+  {
+    "w": "squat",
+    "ph": "skwɑːt",
+    "pos": "v./adj.",
+    "zh": "蹲；矮胖的",
+    "ex": "The children squatted around the small fire.",
+    "exzh": "孩子们围着小火堆蹲着。"
+  },
+  {
+    "w": "squeak",
+    "ph": "skwiːk",
+    "pos": "v./n.",
+    "zh": "吱吱叫；尖叫声",
+    "ex": "The old door squeaked whenever someone opened it.",
+    "exzh": "旧门每次被打开都吱吱作响。"
+  },
+  {
+    "w": "squeal",
+    "ph": "skwiːl",
+    "pos": "v./n.",
+    "zh": "尖叫；告密",
+    "ex": "The pigs squealed loudly when the farmer arrived.",
+    "exzh": "农夫来时猪大声尖叫。"
+  },
+  {
+    "w": "squirrel",
+    "ph": "ˈskwɜːrəl",
+    "pos": "n.",
+    "zh": "松鼠",
+    "ex": "A squirrel buried nuts under the tall oak.",
+    "exzh": "一只松鼠在高大的橡树下埋坚果。"
+  },
+  {
+    "w": "stabilize",
+    "ph": "ˈsteɪbəlaɪz",
+    "pos": "v.",
+    "zh": "使稳定；稳定",
+    "ex": "The government took steps to stabilize the currency.",
+    "exzh": "政府采取措施稳定货币。"
+  },
+  {
+    "w": "stalk",
+    "ph": "stɔːk",
+    "pos": "n./v.",
+    "zh": "茎；潜行跟踪",
+    "ex": "A lion stalked a young deer through the grass.",
+    "exzh": "一头狮子在草丛中潜行跟踪一只小鹿。"
+  },
+  {
+    "w": "stammer",
+    "ph": "ˈstæmər",
+    "pos": "v./n.",
+    "zh": "结巴地说；口吃",
+    "ex": "He stammered an apology and hurried away.",
+    "exzh": "他结结巴巴地道了歉就匆匆走了。"
+  },
+  {
+    "w": "stance",
+    "ph": "stæns",
+    "pos": "n.",
+    "zh": "立场；姿态",
+    "ex": "The party changed its stance on the tax issue.",
+    "exzh": "该党改变了在税收问题上的立场。"
+  },
+  {
+    "w": "staple",
+    "ph": "ˈsteɪpl",
+    "pos": "adj./n.",
+    "zh": "主要的；主食",
+    "ex": "Rice is a staple food in many Asian countries.",
+    "exzh": "大米是许多亚洲国家的主食。"
+  },
+  {
+    "w": "starch",
+    "ph": "stɑːrtʃ",
+    "pos": "n.",
+    "zh": "淀粉；浆粉",
+    "ex": "Potatoes and rice are rich in starch.",
+    "exzh": "土豆和大米富含淀粉。"
+  },
+  {
+    "w": "statute",
+    "ph": "ˈstætʃuːt",
+    "pos": "n.",
+    "zh": "法规；章程",
+    "ex": "The new statute limits the use of plastic bags.",
+    "exzh": "新法规限制了塑料袋的使用。"
+  },
+  {
+    "w": "steadfast",
+    "ph": "ˈstedfæst",
+    "pos": "adj.",
+    "zh": "坚定的；不动摇的",
+    "ex": "She remained steadfast in her support for him.",
+    "exzh": "她对他的支持始终坚定不渝。"
+  },
+  {
+    "w": "stealth",
+    "ph": "stelθ",
+    "pos": "n.",
+    "zh": "秘密行动；隐蔽",
+    "ex": "The cat approached the bird with great stealth.",
+    "exzh": "猫偷偷摸摸地接近那只鸟。"
+  },
+  {
+    "w": "stew",
+    "ph": "stuː",
+    "pos": "n./v.",
+    "zh": "炖菜；炖",
+    "ex": "Mother cooked a rich beef stew for dinner.",
+    "exzh": "妈妈做了浓香的炖牛肉当晚饭。"
+  },
+  {
+    "w": "stifle",
+    "ph": "ˈstaɪfl",
+    "pos": "v.",
+    "zh": "抑制；使窒息",
+    "ex": "He stifled a yawn during the long lecture.",
+    "exzh": "在冗长的讲座中他忍住了一个哈欠。"
+  },
+  {
+    "w": "stigma",
+    "ph": "ˈstɪgmə",
+    "pos": "n.",
+    "zh": "耻辱；污名",
+    "ex": "There is still a stigma attached to mental illness.",
+    "exzh": "精神疾病仍然带有污名。"
+  },
+  {
+    "w": "stipulate",
+    "ph": "ˈstɪpjuleɪt",
+    "pos": "v.",
+    "zh": "规定；约定",
+    "ex": "The contract stipulates a two-week notice period.",
+    "exzh": "合同规定两周的通知期。"
+  },
+  {
+    "w": "stout",
+    "ph": "staʊt",
+    "pos": "adj.",
+    "zh": "肥胖的；结实的",
+    "ex": "A stout wooden door protected the old cellar.",
+    "exzh": "一扇结实的木门保护着旧地窖。"
+  },
+  {
+    "w": "strand",
+    "ph": "strænd",
+    "pos": "n./v.",
+    "zh": "股；搁浅",
+    "ex": "The ship was stranded on a sandbank overnight.",
+    "exzh": "那艘船在沙洲上搁浅了一夜。"
+  },
+  {
+    "w": "stray",
+    "ph": "streɪ",
+    "pos": "v./adj.",
+    "zh": "走失；流浪的",
+    "ex": "A stray dog followed us all the way home.",
+    "exzh": "一只流浪狗一路跟着我们回家。"
+  },
+  {
+    "w": "streak",
+    "ph": "striːk",
+    "pos": "n./v.",
+    "zh": "条纹；飞跑",
+    "ex": "A streak of lightning lit the dark sky.",
+    "exzh": "一道闪电照亮了黑暗的天空。"
+  },
+  {
+    "w": "streamline",
+    "ph": "ˈstriːmlaɪn",
+    "pos": "v.",
+    "zh": "使简化；使呈流线型",
+    "ex": "They streamlined the approval process to save time.",
+    "exzh": "他们简化了审批流程以节省时间。"
+  },
+  {
+    "w": "strenuous",
+    "ph": "ˈstrenjuəs",
+    "pos": "adj.",
+    "zh": "费力的；艰苦的",
+    "ex": "Strenuous exercise is not recommended after surgery.",
+    "exzh": "手术后不建议进行剧烈运动。"
+  },
+  {
+    "w": "strife",
+    "ph": "straɪf",
+    "pos": "n.",
+    "zh": "冲突；争斗",
+    "ex": "Years of strife divided the small community.",
+    "exzh": "多年的冲突使这个小社区分裂。"
+  },
+  {
+    "w": "stringent",
+    "ph": "ˈstrɪndʒənt",
+    "pos": "adj.",
+    "zh": "严格的；紧缩的",
+    "ex": "The laboratory follows stringent safety rules.",
+    "exzh": "实验室遵循严格的安全规则。"
+  },
+  {
+    "w": "stunt",
+    "ph": "stʌnt",
+    "pos": "n./v.",
+    "zh": "特技；阻碍生长",
+    "ex": "The actor performed a dangerous stunt on the roof.",
+    "exzh": "那位演员在屋顶上表演了危险特技。"
+  },
+  {
+    "w": "subdue",
+    "ph": "səbˈduː",
+    "pos": "v.",
+    "zh": "征服；压制",
+    "ex": "The police quickly subdued the violent suspect.",
+    "exzh": "警察迅速制服了那名暴力嫌犯。"
+  },
+  {
+    "w": "subjective",
+    "ph": "səbˈdʒektɪv",
+    "pos": "adj.",
+    "zh": "主观的",
+    "ex": "Beauty is a highly subjective judgment.",
+    "exzh": "美是一种高度主观的判断。"
+  },
+  {
+    "w": "submerge",
+    "ph": "səbˈmɜːrdʒ",
+    "pos": "v.",
+    "zh": "淹没；潜入水中",
+    "ex": "Rising water submerged the lower streets of the town.",
+    "exzh": "上涨的洪水淹没了小镇的低处街道。"
+  },
+  {
+    "w": "subsequent",
+    "ph": "ˈsʌbsɪkwənt",
+    "pos": "adj.",
+    "zh": "随后的；后来的",
+    "ex": "The subsequent investigation found no evidence of fraud.",
+    "exzh": "随后的调查没有发现欺诈的证据。"
+  },
+  {
+    "w": "subside",
+    "ph": "səbˈsaɪd",
+    "pos": "v.",
+    "zh": "减弱；下沉",
+    "ex": "The storm subsided before midnight and the stars appeared.",
+    "exzh": "风暴在午夜前减弱，星星出现了。"
+  },
+  {
+    "w": "subsidy",
+    "ph": "ˈsʌbsədi",
+    "pos": "n.",
+    "zh": "补贴；津贴",
+    "ex": "Farmers depend on government subsidies to survive.",
+    "exzh": "农民依靠政府补贴维持生计。"
+  },
+  {
+    "w": "substantiate",
+    "ph": "səbˈstænʃieɪt",
+    "pos": "v.",
+    "zh": "证实；证明",
+    "ex": "No one could substantiate the rumor about the merger.",
+    "exzh": "没有人能证实关于合并的传闻。"
+  },
+  {
+    "w": "subvert",
+    "ph": "səbˈvɜːrt",
+    "pos": "v.",
+    "zh": "颠覆；破坏",
+    "ex": "They were accused of trying to subvert the government.",
+    "exzh": "他们被指控试图颠覆政府。"
+  },
+  {
+    "w": "suffice",
+    "ph": "səˈfaɪs",
+    "pos": "v.",
+    "zh": "足够；满足",
+    "ex": "A brief note should suffice for this application.",
+    "exzh": "这份申请写一份简短说明就够了。"
+  },
+  {
+    "w": "suffocate",
+    "ph": "ˈsʌfəkeɪt",
+    "pos": "v.",
+    "zh": "使窒息；闷死",
+    "ex": "The plastic bag could suffocate a small child.",
+    "exzh": "那个塑料袋会使小孩窒息。"
+  },
+  {
+    "w": "sullen",
+    "ph": "ˈsʌlən",
+    "pos": "adj.",
+    "zh": "闷闷不乐的；阴沉的",
+    "ex": "He sat in sullen silence for the whole meal.",
+    "exzh": "整顿饭他都闷闷不乐地沉默着。"
+  },
+  {
+    "w": "sumptuous",
+    "ph": "ˈsʌmptʃuəs",
+    "pos": "adj.",
+    "zh": "奢华的；豪华的",
+    "ex": "The hotel serves a sumptuous breakfast every morning.",
+    "exzh": "这家酒店每天早上提供丰盛的早餐。"
+  },
+  {
+    "w": "superfluous",
+    "ph": "suːˈpɜːrfluəs",
+    "pos": "adj.",
+    "zh": "多余的；过剩的",
+    "ex": "The last paragraph is completely superfluous to the argument.",
+    "exzh": "最后一段对论证完全多余。"
+  },
+  {
+    "w": "superstition",
+    "ph": "ˌsuːpərˈstɪʃn",
+    "pos": "n.",
+    "zh": "迷信",
+    "ex": "Old superstitions still influence life in the village.",
+    "exzh": "古老的迷信仍影响着村庄生活。"
+  },
+  {
+    "w": "surge",
+    "ph": "sɜːrdʒ",
+    "pos": "v./n.",
+    "zh": "激增；涌动",
+    "ex": "Demand for electric cars surged last year.",
+    "exzh": "去年对电动汽车的需求激增。"
+  },
+  {
+    "w": "surmise",
+    "ph": "sərˈmaɪz",
+    "pos": "v./n.",
+    "zh": "推测；猜测",
+    "ex": "I can only surmise why she left so early.",
+    "exzh": "我只能猜测她为什么这么早离开。"
+  },
+  {
+    "w": "surmount",
+    "ph": "sərˈmaʊnt",
+    "pos": "v.",
+    "zh": "克服；战胜",
+    "ex": "She surmounted many obstacles to finish the race.",
+    "exzh": "她克服了许多障碍完成了比赛。"
+  },
+  {
+    "w": "surveillance",
+    "ph": "sərˈveɪləns",
+    "pos": "n.",
+    "zh": "监视；监督",
+    "ex": "The building is under constant video surveillance.",
+    "exzh": "这栋楼处于持续的录像监控之下。"
+  },
+  {
+    "w": "susceptible",
+    "ph": "səˈseptəbl",
+    "pos": "adj.",
+    "zh": "易受影响的；易感的",
+    "ex": "Young trees are susceptible to frost and drought.",
+    "exzh": "幼树易受霜冻和干旱影响。"
+  },
+  {
+    "w": "suspense",
+    "ph": "səˈspens",
+    "pos": "n.",
+    "zh": "悬念；焦虑",
+    "ex": "The film kept us in suspense until the end.",
+    "exzh": "这部电影让我们悬着心直到最后。"
+  },
+  {
+    "w": "swerve",
+    "ph": "swɜːrv",
+    "pos": "v./n.",
+    "zh": "突然转向",
+    "ex": "The driver swerved to avoid a dog on the road.",
+    "exzh": "司机急转以避开路上的狗。"
+  },
+  {
+    "w": "swindle",
+    "ph": "ˈswɪndl",
+    "pos": "v./n.",
+    "zh": "诈骗；骗取",
+    "ex": "They swindled hundreds of tourists out of their money.",
+    "exzh": "他们骗走了数百名游客的钱。"
+  },
+  {
+    "w": "symbolize",
+    "ph": "ˈsɪmbəlaɪz",
+    "pos": "v.",
+    "zh": "象征；代表",
+    "ex": "The white dove symbolizes peace in many cultures.",
+    "exzh": "在许多文化中白鸽象征和平。"
+  },
+  {
+    "w": "symmetry",
+    "ph": "ˈsɪmətri",
+    "pos": "n.",
+    "zh": "对称；匀称",
+    "ex": "The garden was designed with perfect symmetry.",
+    "exzh": "花园被设计得完全对称。"
+  },
+  {
+    "w": "synonym",
+    "ph": "ˈsɪnənɪm",
+    "pos": "n.",
+    "zh": "同义词",
+    "ex": "Quick is a common synonym for fast.",
+    "exzh": "quick是fast常用的同义词。"
+  },
+  {
+    "w": "synthesis",
+    "ph": "ˈsɪnθəsɪs",
+    "pos": "n.",
+    "zh": "综合；合成",
+    "ex": "The book is a synthesis of many research findings.",
+    "exzh": "这本书是许多研究成果的综合。"
+  }
+]

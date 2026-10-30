@@ -1,0 +1,1682 @@
+[
+  {
+    "w": "magma",
+    "ph": "ˈmæɡmə",
+    "pos": "n.",
+    "zh": "岩浆",
+    "ex": "Molten magma slowly rose toward the surface through cracks in the crust.",
+    "exzh": "熔融的岩浆通过地壳中的裂隙缓慢上升到地表。"
+  },
+  {
+    "w": "malaria",
+    "ph": "məˈlɛriə",
+    "pos": "n.",
+    "zh": "疟疾",
+    "ex": "Malaria spreads through mosquitoes that breed in warm, stagnant water.",
+    "exzh": "疟疾通过在温暖死水中繁殖的蚊子传播。"
+  },
+  {
+    "w": "mandible",
+    "ph": "ˈmændɪbəl",
+    "pos": "n.",
+    "zh": "下颌骨；下颚",
+    "ex": "The fossil's lower mandible revealed the animal's powerful jaw muscles.",
+    "exzh": "这块化石的下颌骨显示出该动物强壮的颌部肌肉。"
+  },
+  {
+    "w": "mangrove",
+    "ph": "ˈmæŋɡroʊv",
+    "pos": "n.",
+    "zh": "红树林；红树",
+    "ex": "Dense mangrove forests protect the coastline from storms and erosion.",
+    "exzh": "茂密的红树林保护海岸线免受风暴和侵蚀。"
+  },
+  {
+    "w": "marsupial",
+    "ph": "mɑrˈsuːpiəl",
+    "pos": "n.",
+    "zh": "有袋动物",
+    "ex": "Kangaroos and koalas are marsupials that carry young in a pouch.",
+    "exzh": "袋鼠和考拉都是把幼崽装在育儿袋里的有袋动物。"
+  },
+  {
+    "w": "masonry",
+    "ph": "ˈmeɪsənri",
+    "pos": "n.",
+    "zh": "砖石建筑；砌体",
+    "ex": "The ancient masonry survived earthquakes that destroyed later structures.",
+    "exzh": "这座古老的砖石建筑经受住了摧毁后来建筑的地震。"
+  },
+  {
+    "w": "mastodon",
+    "ph": "ˈmæstədɑːn",
+    "pos": "n.",
+    "zh": "乳齿象",
+    "ex": "Mastodon bones found in the bog suggest a much colder climate.",
+    "exzh": "在沼泽中发现的乳齿象骨骼表明当时气候寒冷得多。"
+  },
+  {
+    "w": "mating",
+    "ph": "ˈmeɪtɪŋ",
+    "pos": "n.",
+    "zh": "交配；求偶",
+    "ex": "Mating calls of male frogs attract females across the pond.",
+    "exzh": "雄蛙的求偶鸣叫吸引着池塘对岸的雌蛙。"
+  },
+  {
+    "w": "matriarchal",
+    "ph": "ˌmeɪtriˈɑːrkəl",
+    "pos": "adj.",
+    "zh": "母系的；母权制的",
+    "ex": "Some elephant herds form matriarchal societies led by the oldest female.",
+    "exzh": "有些象群形成由最年长雌象领导的母系社会。"
+  },
+  {
+    "w": "median",
+    "ph": "ˈmiːdiən",
+    "pos": "adj.",
+    "zh": "中位数的；中间的",
+    "ex": "The median income of the region rose slightly last year.",
+    "exzh": "该地区的中位数收入去年略有上升。"
+  },
+  {
+    "w": "meridian",
+    "ph": "məˈrɪdiən",
+    "pos": "n.",
+    "zh": "子午线；经线",
+    "ex": "Sailors measured longitude by comparing local time with a reference meridian.",
+    "exzh": "水手通过将当地时间与参考子午线比较来测量经度。"
+  },
+  {
+    "w": "metallurgy",
+    "ph": "ˈmɛtəlɜːrdʒi",
+    "pos": "n.",
+    "zh": "冶金学；冶金术",
+    "ex": "Early metallurgy transformed copper into tools and ceremonial ornaments.",
+    "exzh": "早期冶金术把铜制成工具和礼仪装饰品。"
+  },
+  {
+    "w": "metamorphic",
+    "ph": "ˌmɛtəˈmɔːrfɪk",
+    "pos": "adj.",
+    "zh": "变质的；变形的",
+    "ex": "Heat and pressure turned the limestone into hard metamorphic rock.",
+    "exzh": "高温和压力把石灰岩变成了坚硬的变质岩。"
+  },
+  {
+    "w": "meteorite",
+    "ph": "ˈmiːtiəraɪt",
+    "pos": "n.",
+    "zh": "陨石",
+    "ex": "A meteorite impact may have wiped out the dinosaurs.",
+    "exzh": "一次陨石撞击可能消灭了恐龙。"
+  },
+  {
+    "w": "meteoroid",
+    "ph": "ˈmiːtiərɔɪd",
+    "pos": "n.",
+    "zh": "流星体",
+    "ex": "A tiny meteoroid burned up brightly as it entered the atmosphere.",
+    "exzh": "一颗微小的流星体进入大气层时明亮地燃烧殆尽。"
+  },
+  {
+    "w": "meteorological",
+    "ph": "ˌmiːtiərəˈlɑːdʒɪkəl",
+    "pos": "adj.",
+    "zh": "气象的；气象学的",
+    "ex": "Meteorological records show a steady decline in annual rainfall.",
+    "exzh": "气象记录显示年降水量持续下降。"
+  },
+  {
+    "w": "methane",
+    "ph": "ˈmɛθeɪn",
+    "pos": "n.",
+    "zh": "甲烷；沼气",
+    "ex": "Methane released by melting permafrost accelerates global warming.",
+    "exzh": "融化的永久冻土释放的甲烷会加速全球变暖。"
+  },
+  {
+    "w": "microclimate",
+    "ph": "ˈmaɪkroʊˌklaɪmət",
+    "pos": "n.",
+    "zh": "微气候；小气候",
+    "ex": "The valley's microclimate supports plants found nowhere else nearby.",
+    "exzh": "这个山谷的微气候养育着附近别处没有的植物。"
+  },
+  {
+    "w": "microscopic",
+    "ph": "ˌmaɪkrəˈskɑːpɪk",
+    "pos": "adj.",
+    "zh": "微小的；显微镜下的",
+    "ex": "Microscopic algae form the base of the ocean food chain.",
+    "exzh": "微小的藻类构成海洋食物链的基础。"
+  },
+  {
+    "w": "midden",
+    "ph": "ˈmɪdən",
+    "pos": "n.",
+    "zh": "贝丘；垃圾堆",
+    "ex": "Shell midden deposits show what prehistoric families ate.",
+    "exzh": "贝丘中的贝壳沉积物显示了史前家庭的食物。"
+  },
+  {
+    "w": "migraine",
+    "ph": "ˈmaɪɡreɪn",
+    "pos": "n.",
+    "zh": "偏头痛",
+    "ex": "Bright light can trigger a severe migraine in sensitive patients.",
+    "exzh": "强光会使敏感患者发作严重的偏头痛。"
+  },
+  {
+    "w": "mimicry",
+    "ph": "ˈmɪmɪkri",
+    "pos": "n.",
+    "zh": "拟态；模仿",
+    "ex": "Butterflies use mimicry to resemble toxic species and avoid predators.",
+    "exzh": "蝴蝶利用拟态模仿有毒物种以躲避捕食者。"
+  },
+  {
+    "w": "mineralogy",
+    "ph": "ˌmɪnəˈrɑːlədʒi",
+    "pos": "n.",
+    "zh": "矿物学",
+    "ex": "Mineralogy classes examine how crystals form under different conditions.",
+    "exzh": "矿物学课程研究晶体如何在不同条件下形成。"
+  },
+  {
+    "w": "mitosis",
+    "ph": "maɪˈtoʊsɪs",
+    "pos": "n.",
+    "zh": "有丝分裂",
+    "ex": "During mitosis, one cell divides into two identical daughter cells.",
+    "exzh": "在有丝分裂过程中，一个细胞分裂成两个相同的子细胞。"
+  },
+  {
+    "w": "molecular",
+    "ph": "məˈlɛkjələr",
+    "pos": "adj.",
+    "zh": "分子的",
+    "ex": "Molecular evidence suggests the two species diverged quite recently.",
+    "exzh": "分子证据表明这两个物种是相当近期才分化开的。"
+  },
+  {
+    "w": "mollusk",
+    "ph": "ˈmɑːləsk",
+    "pos": "n.",
+    "zh": "软体动物",
+    "ex": "The shell of this mollusk records seasonal changes in seawater.",
+    "exzh": "这种软体动物的壳记录了海水的季节变化。"
+  },
+  {
+    "w": "molt",
+    "ph": "moʊlt",
+    "pos": "v.",
+    "zh": "蜕皮；换羽",
+    "ex": "Birds molt their feathers before the long autumn migration.",
+    "exzh": "鸟类在漫长的秋季迁徙前会换羽。"
+  },
+  {
+    "w": "monogamy",
+    "ph": "məˈnɑːɡəmi",
+    "pos": "n.",
+    "zh": "单配制；一夫一妻制",
+    "ex": "Some bird species practice monogamy for many breeding seasons.",
+    "exzh": "有些鸟类会连续多个繁殖季保持单配制。"
+  },
+  {
+    "w": "monomer",
+    "ph": "ˈmɑːnəmər",
+    "pos": "n.",
+    "zh": "单体",
+    "ex": "Long chains of monomers form the structure of most plastics.",
+    "exzh": "单体的长链构成了大多数塑料的结构。"
+  },
+  {
+    "w": "montane",
+    "ph": "ˈmɑːnteɪn",
+    "pos": "adj.",
+    "zh": "山地的；山区的",
+    "ex": "Montane forests give way to bare rock above the tree line.",
+    "exzh": "在树线以上，山地森林让位于裸露的岩石。"
+  },
+  {
+    "w": "moraine",
+    "ph": "məˈreɪn",
+    "pos": "n.",
+    "zh": "冰碛；冰碛物",
+    "ex": "A terminal moraine marks how far the glacier once advanced.",
+    "exzh": "终碛标出了冰川曾经推进到的位置。"
+  },
+  {
+    "w": "moratorium",
+    "ph": "ˌmɔːrəˈtɔːriəm",
+    "pos": "n.",
+    "zh": "暂停；禁令",
+    "ex": "The city imposed a moratorium on drilling near the aquifer.",
+    "exzh": "该市对含水层附近的钻探实施了暂停令。"
+  },
+  {
+    "w": "morphology",
+    "ph": "mɔːrˈfɑːlədʒi",
+    "pos": "n.",
+    "zh": "形态学；形态",
+    "ex": "The morphology of the skull suggests a plant-eating diet.",
+    "exzh": "头骨的形态表明其饮食以植物为主。"
+  },
+  {
+    "w": "mudflat",
+    "ph": "ˈmʌdflæt",
+    "pos": "n.",
+    "zh": "泥滩；潮滩",
+    "ex": "Migrating shorebirds feed on worms exposed across the mudflat.",
+    "exzh": "迁徙的滨鸟在泥滩上觅食暴露出来的蠕虫。"
+  },
+  {
+    "w": "mummify",
+    "ph": "ˈmʌmɪfaɪ",
+    "pos": "v.",
+    "zh": "制成木乃伊；使干瘪",
+    "ex": "Priests mummified the body using salts and resin-soaked linen.",
+    "exzh": "祭司用盐和浸过树脂的亚麻布把尸体制成木乃伊。"
+  },
+  {
+    "w": "mutation",
+    "ph": "mjuːˈteɪʃən",
+    "pos": "n.",
+    "zh": "突变；变异",
+    "ex": "A single mutation gave the moths darker wings in sooty cities.",
+    "exzh": "一个突变让这些蛾子在烟尘弥漫的城市中长出更深的翅膀。"
+  },
+  {
+    "w": "mutualism",
+    "ph": "ˈmjuːtʃuəlɪzəm",
+    "pos": "n.",
+    "zh": "互利共生",
+    "ex": "The mutualism between bees and flowers benefits both species.",
+    "exzh": "蜜蜂与花朵之间的互利共生对双方都有好处。"
+  },
+  {
+    "w": "mycorrhiza",
+    "ph": "ˌmaɪkəˈraɪzə",
+    "pos": "n.",
+    "zh": "菌根",
+    "ex": "A mycorrhiza helps the tree absorb water and dissolved minerals.",
+    "exzh": "菌根帮助树木吸收水分和溶解的矿物质。"
+  },
+  {
+    "w": "naturalist",
+    "ph": "ˈnætʃrəlɪst",
+    "pos": "n.",
+    "zh": "博物学家",
+    "ex": "Nineteenth-century naturalists catalogued thousands of new species by hand.",
+    "exzh": "十九世纪的博物学家手工编目了数千个新物种。"
+  },
+  {
+    "w": "nebula",
+    "ph": "ˈnɛbjələ",
+    "pos": "n.",
+    "zh": "星云",
+    "ex": "The Orion nebula is a cloud of gas where stars form.",
+    "exzh": "猎户座星云是一团恒星在其中形成的气体云。"
+  },
+  {
+    "w": "nectar",
+    "ph": "ˈnɛktər",
+    "pos": "n.",
+    "zh": "花蜜",
+    "ex": "Hummingbirds hover to drink nectar from tubular flowers.",
+    "exzh": "蜂鸟悬停着从管状花中吸食花蜜。"
+  },
+  {
+    "w": "neoclassical",
+    "ph": "ˌniːoʊˈklæsɪkəl",
+    "pos": "adj.",
+    "zh": "新古典主义的",
+    "ex": "The neoclassical courthouse features columns copied from ancient temples.",
+    "exzh": "这座新古典主义法院大楼以仿自古庙的立柱为特色。"
+  },
+  {
+    "w": "neolithic",
+    "ph": "ˌniːəˈlɪθɪk",
+    "pos": "adj.",
+    "zh": "新石器时代的",
+    "ex": "Neolithic farmers domesticated wheat and built permanent villages.",
+    "exzh": "新石器时代的农民驯化了小麦并建立了永久村落。"
+  },
+  {
+    "w": "neurotransmitter",
+    "ph": "ˌnʊroʊtrænzˈmɪtər",
+    "pos": "n.",
+    "zh": "神经递质",
+    "ex": "Dopamine is a neurotransmitter that influences motivation and reward.",
+    "exzh": "多巴胺是一种影响动机和奖赏的神经递质。"
+  },
+  {
+    "w": "normative",
+    "ph": "ˈnɔːrmətɪv",
+    "pos": "adj.",
+    "zh": "规范的；规范性的",
+    "ex": "The study questions the normative assumption that everyone desires privacy.",
+    "exzh": "这项研究质疑了人人渴望隐私这一规范性假设。"
+  },
+  {
+    "w": "obelisk",
+    "ph": "ˈɑːbəlɪsk",
+    "pos": "n.",
+    "zh": "方尖碑",
+    "ex": "An obelisk carved with hieroglyphs stood before the temple gate.",
+    "exzh": "一座刻有象形文字的方尖碑矗立在神庙门前。"
+  },
+  {
+    "w": "obsidian",
+    "ph": "əbˈsɪdiən",
+    "pos": "n.",
+    "zh": "黑曜石",
+    "ex": "Obsidian blades found here were traded hundreds of kilometers away.",
+    "exzh": "这里发现的黑曜石刀片曾被交易到数百公里之外。"
+  },
+  {
+    "w": "occupant",
+    "ph": "ˈɑːkjəpənt",
+    "pos": "n.",
+    "zh": "居住者；占有者",
+    "ex": "The cave's earliest occupants left tools and animal bones behind.",
+    "exzh": "洞穴最早的居住者留下了工具和动物骨骼。"
+  },
+  {
+    "w": "oceanography",
+    "ph": "ˌoʊʃəˈnɑːɡrəfi",
+    "pos": "n.",
+    "zh": "海洋学",
+    "ex": "Oceanography students measure salinity along the coastal shelf.",
+    "exzh": "海洋学专业的学生测量沿岸陆架上的盐度。"
+  },
+  {
+    "w": "oligarchy",
+    "ph": "ˈɑːlɪɡɑːrki",
+    "pos": "n.",
+    "zh": "寡头政治；寡头集团",
+    "ex": "Wealthy merchants formed an oligarchy that controlled the city's trade.",
+    "exzh": "富商形成了一个控制该城贸易的寡头集团。"
+  },
+  {
+    "w": "omnivore",
+    "ph": "ˈɑːmnɪvɔːr",
+    "pos": "n.",
+    "zh": "杂食动物",
+    "ex": "As an omnivore, the bear eats berries, roots, and fish.",
+    "exzh": "作为杂食动物，熊吃浆果、根茎和鱼。"
+  },
+  {
+    "w": "opportunistic",
+    "ph": "ˌɑːpərtuːˈnɪstɪk",
+    "pos": "adj.",
+    "zh": "机会主义的；投机的",
+    "ex": "Gulls are opportunistic feeders that follow fishing boats.",
+    "exzh": "海鸥是跟随渔船的投机取食者。"
+  },
+  {
+    "w": "orbital",
+    "ph": "ˈɔːrbɪtəl",
+    "pos": "adj.",
+    "zh": "轨道的",
+    "ex": "Orbital calculations predicted the comet's return within fifty years.",
+    "exzh": "轨道计算预测这颗彗星将在五十年内回归。"
+  },
+  {
+    "w": "outcrop",
+    "ph": "ˈaʊtkrɑːp",
+    "pos": "n.",
+    "zh": "露头；岩层露头",
+    "ex": "The road cut exposed an outcrop of fossil-rich limestone.",
+    "exzh": "公路切面露出了一处富含化石的石灰岩露头。"
+  },
+  {
+    "w": "outcropping",
+    "ph": "ˈaʊtkrɑːpɪŋ",
+    "pos": "n.",
+    "zh": "岩石露头",
+    "ex": "A rocky outcropping sheltered the camp from strong winds.",
+    "exzh": "一处岩石露头为营地挡住了强风。"
+  },
+  {
+    "w": "outwash",
+    "ph": "ˈaʊtwɑːʃ",
+    "pos": "n.",
+    "zh": "冰水沉积物",
+    "ex": "Meltwater carried sand across the outwash plain beyond the ice.",
+    "exzh": "融水把沙子带到了冰体之外的冰水沉积平原。"
+  },
+  {
+    "w": "outweigh",
+    "ph": "ˌaʊtˈweɪ",
+    "pos": "v.",
+    "zh": "超过；比……更重要",
+    "ex": "In this habitat, the benefits of cooperation outweigh the costs.",
+    "exzh": "在这种栖息地中，合作的好处超过其代价。"
+  },
+  {
+    "w": "oviparous",
+    "ph": "oʊˈvɪpərəs",
+    "pos": "adj.",
+    "zh": "卵生的",
+    "ex": "Most reptiles and birds are oviparous, laying eggs on land.",
+    "exzh": "大多数爬行动物和鸟类都是卵生的，在陆地上产卵。"
+  },
+  {
+    "w": "ovulation",
+    "ph": "ˌɑːvjəˈleɪʃən",
+    "pos": "n.",
+    "zh": "排卵",
+    "ex": "Hormone levels rise sharply just before ovulation in most mammals.",
+    "exzh": "大多数哺乳动物在排卵前激素水平急剧上升。"
+  },
+  {
+    "w": "paleolithic",
+    "ph": "ˌpeɪliəˈlɪθɪk",
+    "pos": "adj.",
+    "zh": "旧石器时代的",
+    "ex": "Paleolithic hunters carved small figures from mammoth ivory.",
+    "exzh": "旧石器时代的猎人用猛犸象牙雕刻小雕像。"
+  },
+  {
+    "w": "paleontology",
+    "ph": "ˌpeɪliɑːnˈtɑːlədʒi",
+    "pos": "n.",
+    "zh": "古生物学",
+    "ex": "Paleontology relies on fossils to reconstruct ancient ecosystems.",
+    "exzh": "古生物学依靠化石重建古代生态系统。"
+  },
+  {
+    "w": "palette",
+    "ph": "ˈpælət",
+    "pos": "n.",
+    "zh": "调色板；色彩范围",
+    "ex": "The painter mixed ochre and blue on a wooden palette.",
+    "exzh": "画家在木质调色板上调和赭石与蓝色。"
+  },
+  {
+    "w": "pandemic",
+    "ph": "pænˈdɛmɪk",
+    "pos": "n.",
+    "zh": "大流行病",
+    "ex": "The pandemic reduced trade across the entire Mediterranean region.",
+    "exzh": "这场大流行病减少了整个地中海地区的贸易。"
+  },
+  {
+    "w": "parallax",
+    "ph": "ˈpærəlæks",
+    "pos": "n.",
+    "zh": "视差",
+    "ex": "Astronomers measure parallax to calculate distances to nearby stars.",
+    "exzh": "天文学家通过测量视差来计算到附近恒星的距离。"
+  },
+  {
+    "w": "parchment",
+    "ph": "ˈpɑːrtʃmənt",
+    "pos": "n.",
+    "zh": "羊皮纸；羊皮文稿",
+    "ex": "Medieval scribes copied texts onto parchment made from animal skin.",
+    "exzh": "中世纪的抄写员把文本抄在兽皮制成的羊皮纸上。"
+  },
+  {
+    "w": "pastoral",
+    "ph": "ˈpæstərəl",
+    "pos": "adj.",
+    "zh": "田园的；牧歌式的",
+    "ex": "Pastoral poetry idealizes shepherds living simply in the countryside.",
+    "exzh": "田园诗把乡间简朴生活的牧羊人理想化。"
+  },
+  {
+    "w": "paternal",
+    "ph": "pəˈtɜːrnəl",
+    "pos": "adj.",
+    "zh": "父亲的；父系的",
+    "ex": "Paternal care is rare among mammals but common in some birds.",
+    "exzh": "父方抚育在哺乳动物中少见，但在一些鸟类中很常见。"
+  },
+  {
+    "w": "pathogen",
+    "ph": "ˈpæθədʒən",
+    "pos": "n.",
+    "zh": "病原体",
+    "ex": "A new pathogen can spread rapidly through dense animal populations.",
+    "exzh": "新的病原体能在密集的动物种群中迅速传播。"
+  },
+  {
+    "w": "pathology",
+    "ph": "pəˈθɑːlədʒi",
+    "pos": "n.",
+    "zh": "病理学；病变",
+    "ex": "Plant pathology studies how fungi damage commercial crops.",
+    "exzh": "植物病理学研究真菌如何损害经济作物。"
+  },
+  {
+    "w": "patronage",
+    "ph": "ˈpætrənɪdʒ",
+    "pos": "n.",
+    "zh": "赞助；庇护",
+    "ex": "Renaissance artists depended on the patronage of wealthy families.",
+    "exzh": "文艺复兴时期的艺术家依靠富裕家族的赞助。"
+  },
+  {
+    "w": "penumbra",
+    "ph": "pəˈnʌmbrə",
+    "pos": "n.",
+    "zh": "半影",
+    "ex": "During a partial eclipse, observers stand within the moon's penumbra.",
+    "exzh": "在月偏食期间，观测者处于月球的半影之中。"
+  },
+  {
+    "w": "perihelion",
+    "ph": "ˌpɛrɪˈhiːliən",
+    "pos": "n.",
+    "zh": "近日点",
+    "ex": "The comet moves fastest at perihelion, closest to the sun.",
+    "exzh": "彗星在近日点运动最快，此时离太阳最近。"
+  },
+  {
+    "w": "permafrost",
+    "ph": "ˈpɜːrməfrɔːst",
+    "pos": "n.",
+    "zh": "永久冻土",
+    "ex": "Thawing permafrost releases carbon stored for thousands of years.",
+    "exzh": "融化的永久冻土释放出储存了数千年的碳。"
+  },
+  {
+    "w": "persecution",
+    "ph": "ˌpɜːrsɪˈkjuːʃən",
+    "pos": "n.",
+    "zh": "迫害",
+    "ex": "Religious persecution forced many families to flee the region.",
+    "exzh": "宗教迫害迫使许多家庭逃离该地区。"
+  },
+  {
+    "w": "petrify",
+    "ph": "ˈpɛtrəfaɪ",
+    "pos": "v.",
+    "zh": "使石化；使惊呆",
+    "ex": "Mineral-rich water can petrify wood in a few thousand years.",
+    "exzh": "富含矿物质的水能在几千年内使木材石化。"
+  },
+  {
+    "w": "petroglyph",
+    "ph": "ˈpɛtroʊɡlɪf",
+    "pos": "n.",
+    "zh": "岩刻；岩石画",
+    "ex": "Hunters carved petroglyphs of bison on the canyon walls.",
+    "exzh": "猎人把野牛的岩刻画刻在峡谷岩壁上。"
+  },
+  {
+    "w": "pharaoh",
+    "ph": "ˈfæroʊ",
+    "pos": "n.",
+    "zh": "法老",
+    "ex": "The pharaoh commissioned a tomb larger than any built before.",
+    "exzh": "这位法老下令修建了一座比以往任何都大的陵墓。"
+  },
+  {
+    "w": "pheromone",
+    "ph": "ˈfɛrəmoʊn",
+    "pos": "n.",
+    "zh": "信息素",
+    "ex": "Ants follow pheromone trails left by earlier foragers.",
+    "exzh": "蚂蚁沿着先前觅食者留下的信息素路径行进。"
+  },
+  {
+    "w": "philology",
+    "ph": "fɪˈlɑːlədʒi",
+    "pos": "n.",
+    "zh": "语文学；文献学",
+    "ex": "Philology compares ancient manuscripts to trace how words changed.",
+    "exzh": "语文学通过比较古代手稿来追溯词语的变化。"
+  },
+  {
+    "w": "phoneme",
+    "ph": "ˈfoʊniːm",
+    "pos": "n.",
+    "zh": "音素",
+    "ex": "English uses about forty-four phonemes, depending on the dialect.",
+    "exzh": "英语大约使用四十四个音素，具体取决于方言。"
+  },
+  {
+    "w": "phonetics",
+    "ph": "fəˈnɛtɪks",
+    "pos": "n.",
+    "zh": "语音学",
+    "ex": "Phonetics describes how air moves through the mouth during speech.",
+    "exzh": "语音学描述说话时气流如何通过口腔。"
+  },
+  {
+    "w": "phylum",
+    "ph": "ˈfaɪləm",
+    "pos": "n.",
+    "zh": "门（生物分类阶元）",
+    "ex": "Arthropods form the largest phylum of animals on Earth.",
+    "exzh": "节肢动物构成地球上最大的动物门。"
+  },
+  {
+    "w": "planetesimal",
+    "ph": "ˌplænɪˈtɛsɪməl",
+    "pos": "n.",
+    "zh": "星子",
+    "ex": "Planetesimals collided and gradually assembled into full-sized planets.",
+    "exzh": "星子相互碰撞，逐渐聚合成完整的行星。"
+  },
+  {
+    "w": "plankton",
+    "ph": "ˈplæŋktən",
+    "pos": "n.",
+    "zh": "浮游生物",
+    "ex": "Plankton drift with currents and feed nearly every ocean fish.",
+    "exzh": "浮游生物随水流漂移，供养几乎每一种海洋鱼类。"
+  },
+  {
+    "w": "plasma",
+    "ph": "ˈplæzmə",
+    "pos": "n.",
+    "zh": "等离子体；血浆",
+    "ex": "The sun's core consists of extremely hot, electrically charged plasma.",
+    "exzh": "太阳的核心由极热且带电的等离子体组成。"
+  },
+  {
+    "w": "pollination",
+    "ph": "ˌpɑːləˈneɪʃən",
+    "pos": "n.",
+    "zh": "授粉",
+    "ex": "Wind pollination is common among grasses and many forest trees.",
+    "exzh": "风媒授粉在禾草和许多林木中很常见。"
+  },
+  {
+    "w": "precipitation",
+    "ph": "prɪˌsɪpɪˈteɪʃən",
+    "pos": "n.",
+    "zh": "降水；沉淀物",
+    "ex": "Annual precipitation in the desert rarely exceeds ten centimeters.",
+    "exzh": "沙漠的年降水量很少超过十厘米。"
+  },
+  {
+    "w": "predominate",
+    "ph": "prɪˈdɑːmɪneɪt",
+    "pos": "v.",
+    "zh": "占主导；占优势",
+    "ex": "Grasses predominate in regions with frequent fires and little rain.",
+    "exzh": "在火灾频繁、降雨稀少的地区，禾草占优势。"
+  },
+  {
+    "w": "prehistoric",
+    "ph": "ˌpriːhɪˈstɔːrɪk",
+    "pos": "adj.",
+    "zh": "史前的",
+    "ex": "Prehistoric humans used fire to harden wooden spear tips.",
+    "exzh": "史前人类用火使木制矛尖变硬。"
+  },
+  {
+    "w": "primate",
+    "ph": "ˈpraɪmeɪt",
+    "pos": "n.",
+    "zh": "灵长类动物",
+    "ex": "Primates have forward-facing eyes and unusually flexible hands.",
+    "exzh": "灵长类动物有朝前的眼睛和异常灵活的手。"
+  },
+  {
+    "w": "primordial",
+    "ph": "praɪˈmɔːrdiəl",
+    "pos": "adj.",
+    "zh": "原始的；最初的",
+    "ex": "The planet's primordial atmosphere contained almost no free oxygen.",
+    "exzh": "这颗行星原始的大气中几乎不含游离氧。"
+  },
+  {
+    "w": "proboscis",
+    "ph": "proʊˈbɑːsɪs",
+    "pos": "n.",
+    "zh": "长鼻；吻部",
+    "ex": "The butterfly extends its proboscis to sip sugar-rich nectar.",
+    "exzh": "蝴蝶伸出喙管吸食含糖丰富的花蜜。"
+  },
+  {
+    "w": "prokaryote",
+    "ph": "proʊˈkærioʊt",
+    "pos": "n.",
+    "zh": "原核生物",
+    "ex": "A prokaryote lacks a nucleus and other membrane-bound organelles.",
+    "exzh": "原核生物没有细胞核及其他膜结合细胞器。"
+  },
+  {
+    "w": "prominence",
+    "ph": "ˈprɑːmɪnəns",
+    "pos": "n.",
+    "zh": "显著；日珥",
+    "ex": "Solar prominences arch above the sun's surface for days.",
+    "exzh": "太阳日珥会在太阳表面上方拱起数日。"
+  },
+  {
+    "w": "propagate",
+    "ph": "ˈprɑːpəɡeɪt",
+    "pos": "v.",
+    "zh": "传播；繁殖",
+    "ex": "Ocean currents help propagate coral larvae across vast distances.",
+    "exzh": "洋流帮助珊瑚幼虫传播到遥远的地方。"
+  },
+  {
+    "w": "prophet",
+    "ph": "ˈprɑːfɪt",
+    "pos": "n.",
+    "zh": "先知",
+    "ex": "The prophet's teachings spread quickly among the desert tribes.",
+    "exzh": "这位先知的教义在沙漠部落中迅速传播。"
+  },
+  {
+    "w": "propulsion",
+    "ph": "prəˈpʌlʃən",
+    "pos": "n.",
+    "zh": "推进；推进力",
+    "ex": "Rocket propulsion depends on expelling gas at enormous speed.",
+    "exzh": "火箭推进依靠以极高速度排出气体。"
+  },
+  {
+    "w": "protozoa",
+    "ph": "ˌproʊtəˈzoʊə",
+    "pos": "n.",
+    "zh": "原生动物",
+    "ex": "Protozoa live in ponds, soil, and inside the guts of animals.",
+    "exzh": "原生动物生活在池塘、土壤和动物肠道内。"
+  },
+  {
+    "w": "provenance",
+    "ph": "ˈprɑːvənəns",
+    "pos": "n.",
+    "zh": "来源；出处",
+    "ex": "Museum curators trace the provenance of every ancient artifact.",
+    "exzh": "博物馆策展人追溯每件古代文物的来源。"
+  },
+  {
+    "w": "psyche",
+    "ph": "ˈsaɪki",
+    "pos": "n.",
+    "zh": "心灵；心理",
+    "ex": "The myth explores the human psyche through dreams and symbols.",
+    "exzh": "这个神话通过梦境和象征探索人类心灵。"
+  },
+  {
+    "w": "psychiatry",
+    "ph": "saɪˈkaɪətri",
+    "pos": "n.",
+    "zh": "精神病学",
+    "ex": "Modern psychiatry treats depression with therapy and medication together.",
+    "exzh": "现代精神病学把心理治疗与药物结合来治疗抑郁症。"
+  },
+  {
+    "w": "psychic",
+    "ph": "ˈsaɪkɪk",
+    "pos": "adj.",
+    "zh": "精神的；心理的",
+    "ex": "Psychic stress can weaken the immune system over time.",
+    "exzh": "心理压力会随时间削弱免疫系统。"
+  },
+  {
+    "w": "psychoanalysis",
+    "ph": "ˌsaɪkoʊəˈnæləsɪs",
+    "pos": "n.",
+    "zh": "精神分析",
+    "ex": "Freud developed psychoanalysis to explain unconscious conflicts and desires.",
+    "exzh": "弗洛伊德创立精神分析来解释无意识的冲突与欲望。"
+  },
+  {
+    "w": "psychosis",
+    "ph": "saɪˈkoʊsɪs",
+    "pos": "n.",
+    "zh": "精神病；精神错乱",
+    "ex": "Severe sleep loss can trigger a temporary psychosis in healthy people.",
+    "exzh": "严重睡眠不足可在健康人中引发暂时性精神错乱。"
+  },
+  {
+    "w": "pulsar",
+    "ph": "ˈpʌlsɑːr",
+    "pos": "n.",
+    "zh": "脉冲星",
+    "ex": "A pulsar emits radio waves at remarkably regular intervals.",
+    "exzh": "脉冲星以非常规律的间隔发出无线电波。"
+  },
+  {
+    "w": "pupa",
+    "ph": "ˈpjuːpə",
+    "pos": "n.",
+    "zh": "蛹",
+    "ex": "The caterpillar forms a pupa before becoming a moth.",
+    "exzh": "毛虫在变成蛾之前会形成蛹。"
+  },
+  {
+    "w": "quadrant",
+    "ph": "ˈkwɑːdrənt",
+    "pos": "n.",
+    "zh": "象限；四分之一圆",
+    "ex": "The star chart divides the sky into four quadrants.",
+    "exzh": "这张星图把天空划分为四个象限。"
+  },
+  {
+    "w": "quartz",
+    "ph": "kwɔːrts",
+    "pos": "n.",
+    "zh": "石英",
+    "ex": "Quartz crystals in the granite sparkle under bright sunlight.",
+    "exzh": "花岗岩中的石英晶体在强烈阳光下闪闪发光。"
+  },
+  {
+    "w": "quasar",
+    "ph": "ˈkweɪzɑːr",
+    "pos": "n.",
+    "zh": "类星体",
+    "ex": "A quasar shines brighter than an entire galaxy of stars.",
+    "exzh": "一个类星体比整个星系的所有恒星都亮。"
+  },
+  {
+    "w": "quill",
+    "ph": "kwɪl",
+    "pos": "n.",
+    "zh": "羽毛笔；羽轴",
+    "ex": "Scribes wrote with goose quills sharpened into fine points.",
+    "exzh": "抄写员用削成细尖的鹅毛笔书写。"
+  },
+  {
+    "w": "rampart",
+    "ph": "ˈræmpɑːrt",
+    "pos": "n.",
+    "zh": "城墙；防御土墙",
+    "ex": "Stone ramparts encircled the ancient city for over two miles.",
+    "exzh": "石制城墙环绕这座古城超过两英里。"
+  },
+  {
+    "w": "raptor",
+    "ph": "ˈræptər",
+    "pos": "n.",
+    "zh": "猛禽；捕食性恐龙",
+    "ex": "Raptors have sharp talons for seizing prey in flight.",
+    "exzh": "猛禽有锋利的爪，用来在空中抓住猎物。"
+  },
+  {
+    "w": "ratification",
+    "ph": "ˌrætəfɪˈkeɪʃən",
+    "pos": "n.",
+    "zh": "批准；认可",
+    "ex": "Ratification of the treaty required approval from every member state.",
+    "exzh": "该条约的批准需要每个成员国的同意。"
+  },
+  {
+    "w": "reclamation",
+    "ph": "ˌrɛkləˈmeɪʃən",
+    "pos": "n.",
+    "zh": "开垦；回收利用",
+    "ex": "Land reclamation turned tidal marsh into farmland within a decade.",
+    "exzh": "土地开垦在十年内把潮汐沼泽变成了农田。"
+  },
+  {
+    "w": "recluse",
+    "ph": "ˈrɛkluːs",
+    "pos": "n.",
+    "zh": "隐士；遁世者",
+    "ex": "The painter lived as a recluse, rarely leaving his studio.",
+    "exzh": "这位画家过着隐士般的生活，很少离开画室。"
+  },
+  {
+    "w": "redwood",
+    "ph": "ˈrɛdwʊd",
+    "pos": "n.",
+    "zh": "红杉",
+    "ex": "Coastal redwoods store more carbon per hectare than tropical forests.",
+    "exzh": "海岸红杉每公顷储存的碳比热带森林更多。"
+  },
+  {
+    "w": "refraction",
+    "ph": "rɪˈfrækʃən",
+    "pos": "n.",
+    "zh": "折射",
+    "ex": "Refraction bends light as it passes from air into water.",
+    "exzh": "光从空气进入水中时会发生折射而弯折。"
+  },
+  {
+    "w": "repression",
+    "ph": "rɪˈprɛʃən",
+    "pos": "n.",
+    "zh": "压抑；镇压",
+    "ex": "Psychologists disagree about how emotional repression affects memory.",
+    "exzh": "心理学家对情绪压抑如何影响记忆意见不一。"
+  },
+  {
+    "w": "resilience",
+    "ph": "rɪˈzɪliəns",
+    "pos": "n.",
+    "zh": "韧性；复原力",
+    "ex": "Coral reefs show surprising resilience after mild bleaching events.",
+    "exzh": "珊瑚礁在轻度白化事件后表现出惊人的复原力。"
+  },
+  {
+    "w": "retina",
+    "ph": "ˈrɛtɪnə",
+    "pos": "n.",
+    "zh": "视网膜",
+    "ex": "The retina converts incoming light into electrical nerve signals.",
+    "exzh": "视网膜把入射光转化为电神经信号。"
+  },
+  {
+    "w": "retrieval",
+    "ph": "rɪˈtriːvəl",
+    "pos": "n.",
+    "zh": "检索；取回",
+    "ex": "Memory retrieval improves when students test themselves repeatedly.",
+    "exzh": "当学生反复自测时，记忆提取会改善。"
+  },
+  {
+    "w": "rhinoceros",
+    "ph": "raɪˈnɑːsərəs",
+    "pos": "n.",
+    "zh": "犀牛",
+    "ex": "Poaching has pushed the northern rhinoceros close to extinction.",
+    "exzh": "偷猎已把北方犀牛推向灭绝边缘。"
+  },
+  {
+    "w": "rhizome",
+    "ph": "ˈraɪzoʊm",
+    "pos": "n.",
+    "zh": "根状茎",
+    "ex": "The plant spreads underground through a thick, woody rhizome.",
+    "exzh": "这种植物通过粗壮的木质根状茎在地下蔓延。"
+  },
+  {
+    "w": "riparian",
+    "ph": "rɪˈpɛriən",
+    "pos": "adj.",
+    "zh": "河岸的",
+    "ex": "Riparian trees shade the stream and stabilize its banks.",
+    "exzh": "河岸树木为溪流遮荫并稳固河岸。"
+  },
+  {
+    "w": "rivulet",
+    "ph": "ˈrɪvjələt",
+    "pos": "n.",
+    "zh": "小溪；细流",
+    "ex": "A thin rivulet ran down the cliff after the storm.",
+    "exzh": "暴风雨过后，一道细流顺着峭壁流下。"
+  },
+  {
+    "w": "runoff",
+    "ph": "ˈrʌnɔːf",
+    "pos": "n.",
+    "zh": "径流；地表径流",
+    "ex": "Farm runoff carried fertilizer into the lake and spurred algae growth.",
+    "exzh": "农田径流把肥料带入湖中，促进了藻类生长。"
+  },
+  {
+    "w": "salinity",
+    "ph": "səˈlɪnəti",
+    "pos": "n.",
+    "zh": "盐度；含盐量",
+    "ex": "Salinity in the estuary rises sharply during dry summer months.",
+    "exzh": "夏季干旱月份河口湾的盐度急剧上升。"
+  },
+  {
+    "w": "sandstone",
+    "ph": "ˈsændstoʊn",
+    "pos": "n.",
+    "zh": "砂岩",
+    "ex": "Wind carved the soft sandstone into arches and narrow canyons.",
+    "exzh": "风把松软的砂岩刻蚀成拱门和狭窄的峡谷。"
+  },
+  {
+    "w": "sapling",
+    "ph": "ˈsæplɪŋ",
+    "pos": "n.",
+    "zh": "树苗；幼树",
+    "ex": "Deer browse tender saplings before they can grow above reach.",
+    "exzh": "鹿在柔嫩的树苗长到够不着之前就把它们啃食掉。"
+  },
+  {
+    "w": "sarcophagus",
+    "ph": "sɑːrˈkɑːfəɡəs",
+    "pos": "n.",
+    "zh": "石棺",
+    "ex": "The sarcophagus was carved from a single block of granite.",
+    "exzh": "这具石棺由一整块花岗岩雕凿而成。"
+  },
+  {
+    "w": "savanna",
+    "ph": "səˈvænə",
+    "pos": "n.",
+    "zh": "稀树草原",
+    "ex": "Fire and grazing maintain the open savanna by killing young trees.",
+    "exzh": "火与放牧通过消灭幼树来维持开阔的稀树草原。"
+  },
+  {
+    "w": "scavenger",
+    "ph": "ˈskævɪndʒər",
+    "pos": "n.",
+    "zh": "食腐动物；拾荒者",
+    "ex": "Vultures act as scavengers that remove carcasses from the plain.",
+    "exzh": "秃鹫充当食腐者，把平原上的尸体清除掉。"
+  },
+  {
+    "w": "schema",
+    "ph": "ˈskiːmə",
+    "pos": "n.",
+    "zh": "图式；模式",
+    "ex": "Children revise their mental schema as they encounter new evidence.",
+    "exzh": "儿童在遇到新证据时会修正自己的心理图式。"
+  },
+  {
+    "w": "sculpt",
+    "ph": "skʌlpt",
+    "pos": "v.",
+    "zh": "雕刻；塑造",
+    "ex": "Wind and water sculpt the cliffs into strange, layered shapes.",
+    "exzh": "风和水把崖壁雕刻成奇特而层叠的形状。"
+  },
+  {
+    "w": "seafaring",
+    "ph": "ˈsiːfɛrɪŋ",
+    "pos": "adj.",
+    "zh": "航海的",
+    "ex": "Seafaring peoples spread goods and languages across the Pacific.",
+    "exzh": "航海民族把货物和语言传播到整个太平洋。"
+  },
+  {
+    "w": "seam",
+    "ph": "siːm",
+    "pos": "n.",
+    "zh": "煤层；接缝",
+    "ex": "Miners followed a thick coal seam deep into the hillside.",
+    "exzh": "矿工沿着一条厚煤层深入山体内部。"
+  },
+  {
+    "w": "secrete",
+    "ph": "sɪˈkriːt",
+    "pos": "v.",
+    "zh": "分泌",
+    "ex": "Glands in the frog's skin secrete a sticky protective mucus.",
+    "exzh": "青蛙皮肤里的腺体分泌黏性的保护性黏液。"
+  },
+  {
+    "w": "secular",
+    "ph": "ˈsɛkjələr",
+    "pos": "adj.",
+    "zh": "世俗的；非宗教的",
+    "ex": "Secular schools replaced religious institutions in the new republic.",
+    "exzh": "在这个新共和国里，世俗学校取代了宗教机构。"
+  },
+  {
+    "w": "sedimentary",
+    "ph": "ˌsɛdɪˈmɛntəri",
+    "pos": "adj.",
+    "zh": "沉积的；沉积形成的",
+    "ex": "Sedimentary layers record millions of years of environmental change.",
+    "exzh": "沉积层记录了数百万年的环境变化。"
+  },
+  {
+    "w": "seismograph",
+    "ph": "ˈsaɪzməɡræf",
+    "pos": "n.",
+    "zh": "地震仪",
+    "ex": "The seismograph recorded tremors too faint for people to feel.",
+    "exzh": "地震仪记录下了人感觉不到的微弱震动。"
+  },
+  {
+    "w": "senescence",
+    "ph": "sɪˈnɛsəns",
+    "pos": "n.",
+    "zh": "衰老",
+    "ex": "Senescence in plants is marked by yellowing and falling leaves.",
+    "exzh": "植物的衰老表现为叶片变黄和脱落。"
+  },
+  {
+    "w": "sequoia",
+    "ph": "sɪˈkwɔɪə",
+    "pos": "n.",
+    "zh": "巨杉；红杉",
+    "ex": "A single sequoia can live for more than two thousand years.",
+    "exzh": "一棵巨杉可以存活两千多年。"
+  },
+  {
+    "w": "serf",
+    "ph": "sɜːrf",
+    "pos": "n.",
+    "zh": "农奴",
+    "ex": "Serfs worked the lord's fields in exchange for protection.",
+    "exzh": "农奴为领主耕种田地以换取保护。"
+  },
+  {
+    "w": "shale",
+    "ph": "ʃeɪl",
+    "pos": "n.",
+    "zh": "页岩",
+    "ex": "Layers of black shale preserve fossilized fish and plant leaves.",
+    "exzh": "黑色页岩层保存着鱼类和植物叶片的化石。"
+  },
+  {
+    "w": "silt",
+    "ph": "sɪlt",
+    "pos": "n.",
+    "zh": "粉砂；淤泥",
+    "ex": "Fine silt settled on the riverbed after the flood receded.",
+    "exzh": "洪水退去后，细粉砂沉积在河床上。"
+  },
+  {
+    "w": "simian",
+    "ph": "ˈsɪmiən",
+    "pos": "adj.",
+    "zh": "猴的；类人猿的",
+    "ex": "The skull shows simian features, including a projecting jaw.",
+    "exzh": "这个头骨显示出猿猴类的特征，包括突出的下颌。"
+  },
+  {
+    "w": "sinew",
+    "ph": "ˈsɪnjuː",
+    "pos": "n.",
+    "zh": "肌腱；筋",
+    "ex": "Ancient archers reinforced their bows with animal sinew.",
+    "exzh": "古代弓箭手用动物筋腱加固他们的弓。"
+  },
+  {
+    "w": "skeletal",
+    "ph": "ˈskɛlətəl",
+    "pos": "adj.",
+    "zh": "骨骼的；骨架的",
+    "ex": "Skeletal remains indicate the animal walked on four legs.",
+    "exzh": "骨骼遗存表明这种动物用四条腿行走。"
+  },
+  {
+    "w": "slab",
+    "ph": "slæb",
+    "pos": "n.",
+    "zh": "厚板；石板",
+    "ex": "Workers lifted each stone slab onto the temple floor.",
+    "exzh": "工人们把每块石板抬到神庙地面上。"
+  },
+  {
+    "w": "slate",
+    "ph": "sleɪt",
+    "pos": "n.",
+    "zh": "板岩；石板",
+    "ex": "Roofs of local slate survived a century of harsh weather.",
+    "exzh": "当地板岩铺成的屋顶经受住了一个世纪的恶劣天气。"
+  },
+  {
+    "w": "smelt",
+    "ph": "smɛlt",
+    "pos": "v.",
+    "zh": "冶炼；熔炼",
+    "ex": "Ancient peoples smelted copper ore in small clay furnaces.",
+    "exzh": "古代人在小黏土炉中冶炼铜矿石。"
+  },
+  {
+    "w": "smith",
+    "ph": "smɪθ",
+    "pos": "n.",
+    "zh": "铁匠；金属工匠",
+    "ex": "The village smith repaired iron tools for neighboring farmers.",
+    "exzh": "村里的铁匠为邻近的农民修补铁制工具。"
+  },
+  {
+    "w": "solstice",
+    "ph": "ˈsɑːlstɪs",
+    "pos": "n.",
+    "zh": "至点；冬至或夏至",
+    "ex": "The monument aligns with the sun on the summer solstice.",
+    "exzh": "这座纪念物在夏至时与太阳成一直线。"
+  },
+  {
+    "w": "sonar",
+    "ph": "ˈsoʊnɑːr",
+    "pos": "n.",
+    "zh": "声纳",
+    "ex": "Sonar maps the seafloor by timing echoes of sound pulses.",
+    "exzh": "声纳通过为声脉冲的回声计时来绘制海底地图。"
+  },
+  {
+    "w": "sovereignty",
+    "ph": "ˈsɑːvrənti",
+    "pos": "n.",
+    "zh": "主权；统治权",
+    "ex": "The treaty recognized the tribe's sovereignty over coastal waters.",
+    "exzh": "该条约承认该部落对沿海水域的主权。"
+  },
+  {
+    "w": "speleothem",
+    "ph": "ˈspiːliəθɛm",
+    "pos": "n.",
+    "zh": "洞穴沉积物",
+    "ex": "Speleothems such as stalagmites preserve detailed climate records.",
+    "exzh": "石笋等洞穴沉积物保存了详细的气候记录。"
+  },
+  {
+    "w": "spindle",
+    "ph": "ˈspɪndəl",
+    "pos": "n.",
+    "zh": "纺锤；轴",
+    "ex": "Weavers twisted wool into thread with a wooden spindle.",
+    "exzh": "织工用木纺锤把羊毛捻成线。"
+  },
+  {
+    "w": "spire",
+    "ph": "ˈspaɪər",
+    "pos": "n.",
+    "zh": "尖顶；塔尖",
+    "ex": "The cathedral's spire rises above the surrounding rooftops.",
+    "exzh": "大教堂的尖顶高耸于周围屋顶之上。"
+  },
+  {
+    "w": "spore",
+    "ph": "spɔːr",
+    "pos": "n.",
+    "zh": "孢子",
+    "ex": "Ferns release spores that drift on the wind and germinate elsewhere.",
+    "exzh": "蕨类释放孢子，孢子随风飘散并在别处萌发。"
+  },
+  {
+    "w": "stalactite",
+    "ph": "stəˈlæktaɪt",
+    "pos": "n.",
+    "zh": "钟乳石",
+    "ex": "A stalactite grows downward as dripping water deposits calcite.",
+    "exzh": "滴水沉积方解石时，钟乳石便向下生长。"
+  },
+  {
+    "w": "stalagmite",
+    "ph": "stəˈlæɡmaɪt",
+    "pos": "n.",
+    "zh": "石笋",
+    "ex": "Each stalagmite rises from the cave floor where droplets land.",
+    "exzh": "每根石笋都从水滴落下的洞底向上生长。"
+  },
+  {
+    "w": "stamina",
+    "ph": "ˈstæmənə",
+    "pos": "n.",
+    "zh": "耐力；持久力",
+    "ex": "Migrating birds need enormous stamina to cross open ocean.",
+    "exzh": "迁徙的鸟需要极强的耐力才能飞越开阔的海洋。"
+  },
+  {
+    "w": "stellar",
+    "ph": "ˈstɛlər",
+    "pos": "adj.",
+    "zh": "恒星的；星的",
+    "ex": "Stellar winds blow gas outward from the surface of massive stars.",
+    "exzh": "恒星风把气体从大质量恒星表面向外吹出。"
+  },
+  {
+    "w": "steppe",
+    "ph": "stɛp",
+    "pos": "n.",
+    "zh": "干草原；草原",
+    "ex": "Herds of antelope once crossed the vast Central Asian steppe.",
+    "exzh": "成群的羚羊曾穿越广袤的中亚草原。"
+  },
+  {
+    "w": "striation",
+    "ph": "straɪˈeɪʃən",
+    "pos": "n.",
+    "zh": "条纹；冰川擦痕",
+    "ex": "Glacial striations show the direction the ice sheet moved.",
+    "exzh": "冰川擦痕显示出冰盖移动的方向。"
+  },
+  {
+    "w": "subduction",
+    "ph": "səbˈdʌkʃən",
+    "pos": "n.",
+    "zh": "俯冲；消减作用",
+    "ex": "Subduction beneath the coast generates frequent powerful earthquakes.",
+    "exzh": "海岸下方的板块俯冲引发频繁的强震。"
+  },
+  {
+    "w": "subsistence",
+    "ph": "səbˈsɪstəns",
+    "pos": "n.",
+    "zh": "生计；维持生存",
+    "ex": "These villagers depend on subsistence farming and seasonal fishing.",
+    "exzh": "这些村民依靠自给农业和季节性捕鱼为生。"
+  },
+  {
+    "w": "substratum",
+    "ph": "səbˈstrætəm",
+    "pos": "n.",
+    "zh": "下层；基底",
+    "ex": "Roots anchor the tree in a shallow substratum of broken rock.",
+    "exzh": "树根把树固定在破碎岩石构成的浅层基底中。"
+  },
+  {
+    "w": "subterranean",
+    "ph": "ˌsʌbtəˈreɪniən",
+    "pos": "adj.",
+    "zh": "地下的",
+    "ex": "Subterranean rivers cut long tunnels through the limestone plateau.",
+    "exzh": "地下河在石灰岩高原中切出长长的隧道。"
+  },
+  {
+    "w": "sulfur",
+    "ph": "ˈsʌlfər",
+    "pos": "n.",
+    "zh": "硫；硫磺",
+    "ex": "Volcanic vents release sulfur compounds that yellow the surrounding rocks.",
+    "exzh": "火山喷气孔释放的硫化合物把周围岩石染成黄色。"
+  },
+  {
+    "w": "sundial",
+    "ph": "ˈsʌndaɪəl",
+    "pos": "n.",
+    "zh": "日晷",
+    "ex": "A stone sundial cast a sharp shadow across the courtyard.",
+    "exzh": "一座石制日晷在庭院里投下清晰的影子。"
+  },
+  {
+    "w": "supernova",
+    "ph": "ˌsuːpərˈnoʊvə",
+    "pos": "n.",
+    "zh": "超新星",
+    "ex": "A supernova briefly outshines every other star in its galaxy.",
+    "exzh": "一颗超新星会短暂地比其星系中其他所有恒星都亮。"
+  },
+  {
+    "w": "symbiosis",
+    "ph": "ˌsɪmbaɪˈoʊsɪs",
+    "pos": "n.",
+    "zh": "共生",
+    "ex": "Symbiosis allows both partners to access resources neither could use alone.",
+    "exzh": "共生使双方都能获得各自单独无法利用的资源。"
+  },
+  {
+    "w": "synapse",
+    "ph": "ˈsaɪnæps",
+    "pos": "n.",
+    "zh": "突触",
+    "ex": "Repeated use strengthens the synapse between two connected neurons.",
+    "exzh": "反复使用会加强两个相连神经元之间的突触。"
+  },
+  {
+    "w": "tactile",
+    "ph": "ˈtæktɪl",
+    "pos": "adj.",
+    "zh": "触觉的；可触摸的",
+    "ex": "Tactile sensors let the robot grip fragile objects gently.",
+    "exzh": "触觉传感器让机器人能轻柔地抓住易碎物品。"
+  },
+  {
+    "w": "taxonomy",
+    "ph": "tækˈsɑːnəmi",
+    "pos": "n.",
+    "zh": "分类学；分类法",
+    "ex": "Modern taxonomy groups organisms by shared genetic material.",
+    "exzh": "现代分类学依据共有的遗传物质对生物分组。"
+  },
+  {
+    "w": "tenement",
+    "ph": "ˈtɛnəmənt",
+    "pos": "n.",
+    "zh": "廉租公寓；租住房",
+    "ex": "Crowded tenements housed factory workers near the waterfront.",
+    "exzh": "拥挤的廉租公寓里住着码头附近的工厂工人。"
+  },
+  {
+    "w": "tenure",
+    "ph": "ˈtɛnjər",
+    "pos": "n.",
+    "zh": "任期；终身职位",
+    "ex": "She received tenure after publishing two influential studies.",
+    "exzh": "她在发表两项有影响力的研究后获得了终身职位。"
+  },
+  {
+    "w": "terracotta",
+    "ph": "ˌtɛrəˈkɑːtə",
+    "pos": "n.",
+    "zh": "赤陶；陶俑",
+    "ex": "Terracotta soldiers guard the tomb of the first emperor.",
+    "exzh": "陶俑守卫着第一位皇帝的陵墓。"
+  },
+  {
+    "w": "topography",
+    "ph": "təˈpɑːɡrəfi",
+    "pos": "n.",
+    "zh": "地形；地势",
+    "ex": "Rough topography made transporting supplies into the valley difficult.",
+    "exzh": "崎岖的地形使把物资运进山谷变得困难。"
+  },
+  {
+    "w": "totem",
+    "ph": "ˈtoʊtəm",
+    "pos": "n.",
+    "zh": "图腾",
+    "ex": "Each clan carved its totem on poles and house beams.",
+    "exzh": "每个氏族都把图腾刻在立柱和房梁上。"
+  },
+  {
+    "w": "transcribe",
+    "ph": "trænˈskraɪb",
+    "pos": "v.",
+    "zh": "转录；抄写",
+    "ex": "Researchers transcribed the interviews and coded recurring themes.",
+    "exzh": "研究人员转写了访谈内容并标记反复出现的主题。"
+  },
+  {
+    "w": "transect",
+    "ph": "ˈtrænsɛkt",
+    "pos": "n.",
+    "zh": "样带；横断剖面",
+    "ex": "Ecologists sampled plants along a transect from shore to forest.",
+    "exzh": "生态学家沿从海岸到森林的样带采集植物样本。"
+  },
+  {
+    "w": "transpiration",
+    "ph": "ˌtrænspɪˈreɪʃən",
+    "pos": "n.",
+    "zh": "蒸腾作用",
+    "ex": "Transpiration pulls water from roots up to the highest leaves.",
+    "exzh": "蒸腾作用把水从根部拉到最高处的叶片。"
+  },
+  {
+    "w": "tropism",
+    "ph": "ˈtroʊpɪzəm",
+    "pos": "n.",
+    "zh": "向性",
+    "ex": "Phototropism is a tropism that bends stems toward light.",
+    "exzh": "向光性是一种使茎朝向光弯曲的向性。"
+  },
+  {
+    "w": "troposphere",
+    "ph": "ˈtrɑːpəsfɪr",
+    "pos": "n.",
+    "zh": "对流层",
+    "ex": "Almost all weather occurs within the lowest layer, the troposphere.",
+    "exzh": "几乎所有天气现象都发生在最低的一层，即对流层。"
+  },
+  {
+    "w": "tsunami",
+    "ph": "tsuːˈnɑːmi",
+    "pos": "n.",
+    "zh": "海啸",
+    "ex": "The tsunami flooded coastal villages within twenty minutes of the quake.",
+    "exzh": "地震发生后二十分钟内，海啸就淹没了沿海村庄。"
+  },
+  {
+    "w": "tundra",
+    "ph": "ˈtʌndrə",
+    "pos": "n.",
+    "zh": "冻原；苔原",
+    "ex": "Only mosses and low shrubs survive on the windswept tundra.",
+    "exzh": "只有苔藓和低矮灌木能在狂风肆虐的冻原上存活。"
+  },
+  {
+    "w": "turbulence",
+    "ph": "ˈtɜːrbjələns",
+    "pos": "n.",
+    "zh": "湍流；骚动",
+    "ex": "Strong turbulence mixes warm surface water with colder deep layers.",
+    "exzh": "强烈的湍流把温暖的表层水与较冷的深层水混合。"
+  },
+  {
+    "w": "turquoise",
+    "ph": "ˈtɜːrkwɔɪz",
+    "pos": "n.",
+    "zh": "绿松石",
+    "ex": "Turquoise beads traded northward from mines in the desert.",
+    "exzh": "绿松石珠子从沙漠中的矿场向北交易。"
+  },
+  {
+    "w": "tusk",
+    "ph": "tʌsk",
+    "pos": "n.",
+    "zh": "长牙；獠牙",
+    "ex": "Walrus tusks help the animal haul itself onto the ice.",
+    "exzh": "海象的长牙帮助它把自己拖上冰面。"
+  },
+  {
+    "w": "umbra",
+    "ph": "ˈʌmbrə",
+    "pos": "n.",
+    "zh": "本影",
+    "ex": "Within the umbra, the eclipse appears total and the sky darkens.",
+    "exzh": "在本影内，食显得是全食，天空也变暗。"
+  },
+  {
+    "w": "unconformity",
+    "ph": "ˌʌnkənˈfɔːrməti",
+    "pos": "n.",
+    "zh": "不整合（地层）",
+    "ex": "An unconformity marks a long gap in the rock record.",
+    "exzh": "不整合标志着岩石记录中一段漫长的缺失。"
+  },
+  {
+    "w": "understory",
+    "ph": "ˈʌndərstɔːri",
+    "pos": "n.",
+    "zh": "林下植被层",
+    "ex": "Ferns dominate the understory where little sunlight reaches the forest floor.",
+    "exzh": "在阳光难以到达林地的林下，蕨类占主导地位。"
+  },
+  {
+    "w": "ungulate",
+    "ph": "ˈʌŋɡjələt",
+    "pos": "n.",
+    "zh": "有蹄类动物",
+    "ex": "Large ungulates migrate long distances to reach seasonal water.",
+    "exzh": "大型有蹄类动物迁徙很远的距离去寻找季节性水源。"
+  },
+  {
+    "w": "urbanize",
+    "ph": "ˈɜːrbənaɪz",
+    "pos": "v.",
+    "zh": "使城市化",
+    "ex": "The valley urbanized rapidly after the railway reached the coast.",
+    "exzh": "铁路通到海岸后，这个山谷迅速城市化了。"
+  },
+  {
+    "w": "utopia",
+    "ph": "juːˈtoʊpiə",
+    "pos": "n.",
+    "zh": "乌托邦",
+    "ex": "Early settlers imagined the colony as a social utopia.",
+    "exzh": "早期定居者把这个殖民地想象成一个社会乌托邦。"
+  },
+  {
+    "w": "varve",
+    "ph": "vɑːrv",
+    "pos": "n.",
+    "zh": "纹泥；季候泥",
+    "ex": "Each varve pair records one summer and one winter of sediment.",
+    "exzh": "每一对纹泥记录了一个夏季和一个冬季的沉积。"
+  },
+  {
+    "w": "vascular",
+    "ph": "ˈvæskjələr",
+    "pos": "adj.",
+    "zh": "血管的；维管的",
+    "ex": "Vascular plants transport water through specialized conducting tissue.",
+    "exzh": "维管植物通过专门的输导组织运输水分。"
+  },
+  {
+    "w": "veneer",
+    "ph": "vəˈnɪr",
+    "pos": "n.",
+    "zh": "饰面；虚饰",
+    "ex": "A thin marble veneer covered the cheaper brick wall.",
+    "exzh": "一层薄薄的大理石饰面覆盖着较廉价的砖墙。"
+  },
+  {
+    "w": "ventilation",
+    "ph": "ˌvɛntɪˈleɪʃən",
+    "pos": "n.",
+    "zh": "通风；通风系统",
+    "ex": "Good ventilation keeps humidity low inside the cave museum.",
+    "exzh": "良好的通风使洞窟博物馆内的湿度保持在低水平。"
+  },
+  {
+    "w": "viscosity",
+    "ph": "vɪˈskɑːsəti",
+    "pos": "n.",
+    "zh": "黏性；黏度",
+    "ex": "High viscosity makes the lava flow slowly down the slope.",
+    "exzh": "高黏度使熔岩缓慢地顺着山坡流动。"
+  },
+  {
+    "w": "volcanism",
+    "ph": "ˈvɑːlkənɪzəm",
+    "pos": "n.",
+    "zh": "火山活动",
+    "ex": "Ancient volcanism created the island chain now covered by forest.",
+    "exzh": "古老的火山活动造就了如今被森林覆盖的岛链。"
+  },
+  {
+    "w": "votive",
+    "ph": "ˈvoʊtɪv",
+    "pos": "adj.",
+    "zh": "许愿的；还愿的",
+    "ex": "Pilgrims left votive offerings beside the sacred spring.",
+    "exzh": "朝圣者在圣泉旁留下了还愿的供品。"
+  },
+  {
+    "w": "weathering",
+    "ph": "ˈwɛðərɪŋ",
+    "pos": "n.",
+    "zh": "风化作用",
+    "ex": "Chemical weathering slowly dissolves limestone and enlarges underground caves.",
+    "exzh": "化学风化缓慢溶解石灰岩，使地下洞穴不断扩大。"
+  },
+  {
+    "w": "weir",
+    "ph": "wɪr",
+    "pos": "n.",
+    "zh": "拦河堰；鱼梁",
+    "ex": "A wooden weir diverted river water into the irrigation channel.",
+    "exzh": "一道木制拦河堰把河水引入灌溉渠。"
+  },
+  {
+    "w": "windbreak",
+    "ph": "ˈwɪndbreɪk",
+    "pos": "n.",
+    "zh": "防风林；挡风屏障",
+    "ex": "Farmers planted a windbreak to protect seedlings from blown sand.",
+    "exzh": "农民种下防风林带，保护幼苗免受风沙侵袭。"
+  },
+  {
+    "w": "ziggurat",
+    "ph": "ˈzɪɡəræt",
+    "pos": "n.",
+    "zh": "通灵塔；金字形神塔",
+    "ex": "The ziggurat's terraces once supported a shrine at the summit.",
+    "exzh": "这座通灵塔的台地顶端曾建有一座神龛。"
+  },
+  {
+    "w": "zodiac",
+    "ph": "ˈzoʊdiæk",
+    "pos": "n.",
+    "zh": "黄道带",
+    "ex": "Babylonian astronomers divided the zodiac into twelve equal parts.",
+    "exzh": "巴比伦天文学家把黄道带分成十二等份。"
+  },
+  {
+    "w": "zygote",
+    "ph": "ˈzaɪɡoʊt",
+    "pos": "n.",
+    "zh": "受精卵；合子",
+    "ex": "The zygote divides repeatedly to form an embryo.",
+    "exzh": "受精卵反复分裂形成一个胚胎。"
+  }
+]

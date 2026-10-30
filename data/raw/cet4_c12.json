@@ -1,0 +1,2754 @@
+[
+  {
+    "w": "pace",
+    "ph": "peɪs",
+    "pos": "n.",
+    "zh": "步速；节奏",
+    "ex": "He walked at a steady pace along the river.",
+    "exzh": "他沿着河边以平稳的步伐走着。"
+  },
+  {
+    "w": "pack",
+    "ph": "pæk",
+    "pos": "v.",
+    "zh": "打包；塞满",
+    "ex": "She packed all her clothes into one small suitcase.",
+    "exzh": "她把所有衣服都塞进了一个小手提箱里。"
+  },
+  {
+    "w": "package",
+    "ph": "ˈpækɪdʒ",
+    "pos": "n.",
+    "zh": "包裹；一揽子计划",
+    "ex": "A large package arrived for you this morning.",
+    "exzh": "今天上午有一个大包裹送给你。"
+  },
+  {
+    "w": "packet",
+    "ph": "ˈpækɪt",
+    "pos": "n.",
+    "zh": "小包；小袋",
+    "ex": "He bought a packet of biscuits on the way home.",
+    "exzh": "他在回家路上买了一小包饼干。"
+  },
+  {
+    "w": "pact",
+    "ph": "pækt",
+    "pos": "n.",
+    "zh": "协定；条约",
+    "ex": "The two companies signed a pact on sharing technology.",
+    "exzh": "两家公司签署了一项技术共享协定。"
+  },
+  {
+    "w": "pad",
+    "ph": "pæd",
+    "pos": "n.",
+    "zh": "垫子；便签本",
+    "ex": "She wrote the phone number on a small pad.",
+    "exzh": "她把电话号码写在一个小便签本上。"
+  },
+  {
+    "w": "paddle",
+    "ph": "ˈpædl",
+    "pos": "v.",
+    "zh": "划桨；用桨划",
+    "ex": "She paddled the small boat slowly across the lake.",
+    "exzh": "她划着小船慢慢穿过湖面。"
+  },
+  {
+    "w": "painful",
+    "ph": "ˈpeɪnfl",
+    "pos": "adj.",
+    "zh": "疼痛的；令人痛苦的",
+    "ex": "Losing his old dog was a painful experience for him.",
+    "exzh": "失去那只老狗对他来说是一次痛苦的经历。"
+  },
+  {
+    "w": "painter",
+    "ph": "ˈpeɪntər",
+    "pos": "n.",
+    "zh": "画家；油漆工",
+    "ex": "The painter spent three years on that huge wall.",
+    "exzh": "那位画家在那面巨大的墙上花了三年时间。"
+  },
+  {
+    "w": "painting",
+    "ph": "ˈpeɪntɪŋ",
+    "pos": "n.",
+    "zh": "绘画；油画",
+    "ex": "This painting is the most famous work in the hall.",
+    "exzh": "这幅画是展厅里最著名的作品。"
+  },
+  {
+    "w": "palace",
+    "ph": "ˈpæləs",
+    "pos": "n.",
+    "zh": "宫殿；豪华住宅",
+    "ex": "Thousands of tourists visit the old palace every summer.",
+    "exzh": "每年夏天都有成千上万的游客参观这座古老的宫殿。"
+  },
+  {
+    "w": "pale",
+    "ph": "peɪl",
+    "pos": "adj.",
+    "zh": "苍白的；暗淡的",
+    "ex": "You look pale and tired after the long journey.",
+    "exzh": "长途旅行之后你看起来脸色苍白又疲惫。"
+  },
+  {
+    "w": "palm",
+    "ph": "pɑːm",
+    "pos": "n.",
+    "zh": "手掌；棕榈树",
+    "ex": "He held the small stone in the palm of his hand.",
+    "exzh": "他把那块小石头握在手掌心里。"
+  },
+  {
+    "w": "pan",
+    "ph": "pæn",
+    "pos": "n.",
+    "zh": "平底锅",
+    "ex": "Heat some oil in the pan before adding the eggs.",
+    "exzh": "加鸡蛋之前先在平底锅里热一点油。"
+  },
+  {
+    "w": "panel",
+    "ph": "ˈpænl",
+    "pos": "n.",
+    "zh": "面板；专家小组",
+    "ex": "A panel of experts will answer questions from the audience.",
+    "exzh": "一个专家小组将回答观众的提问。"
+  },
+  {
+    "w": "panic",
+    "ph": "ˈpænɪk",
+    "pos": "n.",
+    "zh": "恐慌；惊慌",
+    "ex": "Please do not panic when the alarm rings suddenly.",
+    "exzh": "警报突然响起时请不要惊慌。"
+  },
+  {
+    "w": "pants",
+    "ph": "pænts",
+    "pos": "n.",
+    "zh": "裤子",
+    "ex": "These black pants are too long for me to wear.",
+    "exzh": "这条黑裤子我穿太长了。"
+  },
+  {
+    "w": "paperback",
+    "ph": "ˈpeɪpərbæk",
+    "pos": "n.",
+    "zh": "平装书",
+    "ex": "I bought a cheap paperback for the long train ride.",
+    "exzh": "我买了一本便宜的平装书用于长途火车旅行。"
+  },
+  {
+    "w": "paperwork",
+    "ph": "ˈpeɪpərwɜːrk",
+    "pos": "n.",
+    "zh": "文书工作；文件",
+    "ex": "There is a lot of paperwork before you can travel.",
+    "exzh": "出国旅行之前有大量的文书工作。"
+  },
+  {
+    "w": "parade",
+    "ph": "pəˈreɪd",
+    "pos": "n.",
+    "zh": "游行；阅兵",
+    "ex": "A big parade marched through the city center yesterday.",
+    "exzh": "昨天一场盛大的游行穿过市中心。"
+  },
+  {
+    "w": "paradise",
+    "ph": "ˈpærədaɪs",
+    "pos": "n.",
+    "zh": "天堂；乐园",
+    "ex": "For a bird watcher, this island is a paradise.",
+    "exzh": "对观鸟者来说，这座岛是个乐园。"
+  },
+  {
+    "w": "paradox",
+    "ph": "ˈpærədɑːks",
+    "pos": "n.",
+    "zh": "悖论；矛盾的事",
+    "ex": "It is a paradox that such a rich man feels unhappy.",
+    "exzh": "这么富有的人却不快乐，真是个矛盾的现象。"
+  },
+  {
+    "w": "paragraph",
+    "ph": "ˈpærəɡræf",
+    "pos": "n.",
+    "zh": "段落",
+    "ex": "Read the first paragraph and tell me its main idea.",
+    "exzh": "读一读第一段，告诉我它的主旨。"
+  },
+  {
+    "w": "parallel",
+    "ph": "ˈpærəlel",
+    "pos": "adj.",
+    "zh": "平行的；类似的",
+    "ex": "The two roads run parallel to the railway line.",
+    "exzh": "这两条路与铁路线平行。"
+  },
+  {
+    "w": "paralyze",
+    "ph": "ˈpærəlaɪz",
+    "pos": "v.",
+    "zh": "使瘫痪；使停顿",
+    "ex": "Heavy snow paralyzed traffic across the whole city.",
+    "exzh": "大雪使全城交通陷入瘫痪。"
+  },
+  {
+    "w": "parameter",
+    "ph": "pəˈræmɪtər",
+    "pos": "n.",
+    "zh": "参数；界限",
+    "ex": "The engineers set clear parameters for the new design.",
+    "exzh": "工程师们为这项新设计设定了明确的参数。"
+  },
+  {
+    "w": "parcel",
+    "ph": "ˈpɑːrsl",
+    "pos": "n.",
+    "zh": "包裹；小包",
+    "ex": "The postman left a heavy parcel at my door.",
+    "exzh": "邮递员把一个沉重的包裹放在我家门口。"
+  },
+  {
+    "w": "pardon",
+    "ph": "ˈpɑːrdn",
+    "pos": "v.",
+    "zh": "原谅；宽恕",
+    "ex": "I beg your pardon for interrupting your meeting.",
+    "exzh": "打扰了您的会议，请您原谅。"
+  },
+  {
+    "w": "parental",
+    "ph": "pəˈrentl",
+    "pos": "adj.",
+    "zh": "父母的；亲代的",
+    "ex": "Parental support matters a lot during a child's early years.",
+    "exzh": "在孩子的早年时期，父母的支持非常重要。"
+  },
+  {
+    "w": "parking",
+    "ph": "ˈpɑːrkɪŋ",
+    "pos": "n.",
+    "zh": "停车；停车场",
+    "ex": "Parking is free for customers on Sunday mornings.",
+    "exzh": "周日早上顾客停车免费。"
+  },
+  {
+    "w": "parliament",
+    "ph": "ˈpɑːrləmənt",
+    "pos": "n.",
+    "zh": "议会；国会",
+    "ex": "The new law was passed by parliament last week.",
+    "exzh": "这项新法律上周由议会通过。"
+  },
+  {
+    "w": "parrot",
+    "ph": "ˈpærət",
+    "pos": "n.",
+    "zh": "鹦鹉",
+    "ex": "Their parrot can repeat several short English sentences.",
+    "exzh": "他们家的鹦鹉能重复好几个简短的英语句子。"
+  },
+  {
+    "w": "partial",
+    "ph": "ˈpɑːrʃl",
+    "pos": "adj.",
+    "zh": "部分的；偏袒的",
+    "ex": "We only have partial information about the accident.",
+    "exzh": "关于这场事故我们只有部分信息。"
+  },
+  {
+    "w": "participant",
+    "ph": "pɑːrˈtɪsɪpənt",
+    "pos": "n.",
+    "zh": "参与者；参加者",
+    "ex": "Every participant received a small gift after the race.",
+    "exzh": "比赛结束后每位参与者都收到了一份小礼物。"
+  },
+  {
+    "w": "participation",
+    "ph": "pɑːrˌtɪsɪˈpeɪʃn",
+    "pos": "n.",
+    "zh": "参与；参加",
+    "ex": "Active participation in class helps you learn faster.",
+    "exzh": "积极参与课堂活动能帮助你学得更快。"
+  },
+  {
+    "w": "particle",
+    "ph": "ˈpɑːrtɪkl",
+    "pos": "n.",
+    "zh": "微粒；粒子",
+    "ex": "Tiny dust particles floated in the afternoon sunlight.",
+    "exzh": "细小的尘埃微粒在午后的阳光中飘浮。"
+  },
+  {
+    "w": "particularly",
+    "ph": "pərˈtɪkjələrli",
+    "pos": "adv.",
+    "zh": "尤其；特别",
+    "ex": "I particularly enjoy reading history books in the evening.",
+    "exzh": "我尤其喜欢在晚上读历史书。"
+  },
+  {
+    "w": "partly",
+    "ph": "ˈpɑːrtli",
+    "pos": "adv.",
+    "zh": "部分地；一定程度上",
+    "ex": "The delay was partly caused by the heavy snow.",
+    "exzh": "这次延误部分是由大雪造成的。"
+  },
+  {
+    "w": "partner",
+    "ph": "ˈpɑːrtnər",
+    "pos": "n.",
+    "zh": "伙伴；合伙人",
+    "ex": "She works with a business partner in Shanghai.",
+    "exzh": "她和一位生意伙伴在上海一起工作。"
+  },
+  {
+    "w": "partnership",
+    "ph": "ˈpɑːrtnərʃɪp",
+    "pos": "n.",
+    "zh": "合作；伙伴关系",
+    "ex": "The two schools formed a partnership last September.",
+    "exzh": "这两所学校去年九月建立了合作关系。"
+  },
+  {
+    "w": "passage",
+    "ph": "ˈpæsɪdʒ",
+    "pos": "n.",
+    "zh": "通道；段落",
+    "ex": "A narrow passage leads to the back garden.",
+    "exzh": "一条狭窄的通道通向后面的花园。"
+  },
+  {
+    "w": "passenger",
+    "ph": "ˈpæsɪndʒər",
+    "pos": "n.",
+    "zh": "乘客；旅客",
+    "ex": "Every passenger must show a ticket before boarding.",
+    "exzh": "每位乘客登车前都必须出示车票。"
+  },
+  {
+    "w": "passerby",
+    "ph": "ˌpæsərˈbaɪ",
+    "pos": "n.",
+    "zh": "过路人",
+    "ex": "A passerby helped us push the car off the road.",
+    "exzh": "一位过路人帮我们把车推离了道路。"
+  },
+  {
+    "w": "passing",
+    "ph": "ˈpæsɪŋ",
+    "pos": "adj.",
+    "zh": "经过的；短暂的",
+    "ex": "He mentioned the plan only in a passing remark.",
+    "exzh": "他只是在随口一提中提到了这个计划。"
+  },
+  {
+    "w": "passionate",
+    "ph": "ˈpæʃənət",
+    "pos": "adj.",
+    "zh": "热情的；充满激情的",
+    "ex": "She is passionate about protecting wild animals.",
+    "exzh": "她对保护野生动物充满热情。"
+  },
+  {
+    "w": "passive",
+    "ph": "ˈpæsɪv",
+    "pos": "adj.",
+    "zh": "被动的；消极的",
+    "ex": "Do not be passive in class; ask questions bravely.",
+    "exzh": "上课不要消极被动，要勇敢提问。"
+  },
+  {
+    "w": "passport",
+    "ph": "ˈpæspɔːrt",
+    "pos": "n.",
+    "zh": "护照",
+    "ex": "My passport will expire at the end of next month.",
+    "exzh": "我的护照下个月底就要到期了。"
+  },
+  {
+    "w": "password",
+    "ph": "ˈpæswɜːrd",
+    "pos": "n.",
+    "zh": "密码；口令",
+    "ex": "Please change your password every three months.",
+    "exzh": "请每三个月更换一次你的密码。"
+  },
+  {
+    "w": "paste",
+    "ph": "peɪst",
+    "pos": "v.",
+    "zh": "粘贴；涂",
+    "ex": "Copy the sentence and paste it into the box.",
+    "exzh": "复制这个句子并把它粘贴到方框里。"
+  },
+  {
+    "w": "pastime",
+    "ph": "ˈpæstaɪm",
+    "pos": "n.",
+    "zh": "消遣；娱乐",
+    "ex": "Fishing is his favorite pastime on summer weekends.",
+    "exzh": "钓鱼是他夏天周末最喜欢的消遣。"
+  },
+  {
+    "w": "pasture",
+    "ph": "ˈpæstʃər",
+    "pos": "n.",
+    "zh": "牧场；草地",
+    "ex": "Cows were eating grass in the green pasture.",
+    "exzh": "牛群在绿色的牧场上吃草。"
+  },
+  {
+    "w": "pat",
+    "ph": "pæt",
+    "pos": "v.",
+    "zh": "轻拍；轻抚",
+    "ex": "The old man patted the dog on the head.",
+    "exzh": "老人轻轻拍了拍那只狗的头。"
+  },
+  {
+    "w": "patch",
+    "ph": "pætʃ",
+    "pos": "n.",
+    "zh": "补丁；小块",
+    "ex": "There is a small patch of ice on the road.",
+    "exzh": "路上有一小块冰。"
+  },
+  {
+    "w": "patent",
+    "ph": "ˈpætnt",
+    "pos": "n.",
+    "zh": "专利；专利权",
+    "ex": "The company applied for a patent on the new design.",
+    "exzh": "公司为这项新设计申请了专利。"
+  },
+  {
+    "w": "path",
+    "ph": "pæθ",
+    "pos": "n.",
+    "zh": "小路；路径",
+    "ex": "A stone path leads through the quiet forest.",
+    "exzh": "一条石板小路穿过安静的森林。"
+  },
+  {
+    "w": "pathway",
+    "ph": "ˈpæθweɪ",
+    "pos": "n.",
+    "zh": "路径；途径",
+    "ex": "Education is a pathway out of poverty for many.",
+    "exzh": "教育对许多人来说是摆脱贫困的途径。"
+  },
+  {
+    "w": "patience",
+    "ph": "ˈpeɪʃns",
+    "pos": "n.",
+    "zh": "耐心；忍耐",
+    "ex": "Learning a language requires time and great patience.",
+    "exzh": "学一门语言需要时间和极大的耐心。"
+  },
+  {
+    "w": "patriot",
+    "ph": "ˈpeɪtriət",
+    "pos": "n.",
+    "zh": "爱国者",
+    "ex": "He was remembered as a true patriot of his country.",
+    "exzh": "他被人们铭记为国家的真正爱国者。"
+  },
+  {
+    "w": "patriotic",
+    "ph": "ˌpeɪtriˈɑːtɪk",
+    "pos": "adj.",
+    "zh": "爱国的",
+    "ex": "Many patriotic songs were sung at the ceremony.",
+    "exzh": "仪式上演唱了许多爱国歌曲。"
+  },
+  {
+    "w": "patrol",
+    "ph": "pəˈtroʊl",
+    "pos": "v.",
+    "zh": "巡逻；巡查",
+    "ex": "Two guards patrol the museum every two hours.",
+    "exzh": "两名保安每两小时巡逻一次博物馆。"
+  },
+  {
+    "w": "patron",
+    "ph": "ˈpeɪtrən",
+    "pos": "n.",
+    "zh": "赞助人；老主顾",
+    "ex": "An unknown patron paid for the young artist's study.",
+    "exzh": "一位不知名的赞助人资助了这位年轻艺术家的学习。"
+  },
+  {
+    "w": "pause",
+    "ph": "pɔːz",
+    "pos": "v.",
+    "zh": "暂停；停顿",
+    "ex": "He paused for a moment before answering my question.",
+    "exzh": "他停顿了一下才回答我的问题。"
+  },
+  {
+    "w": "pave",
+    "ph": "peɪv",
+    "pos": "v.",
+    "zh": "铺路；为…铺平道路",
+    "ex": "Hard work can pave the way for a better future.",
+    "exzh": "努力能为更美好的未来铺平道路。"
+  },
+  {
+    "w": "pavement",
+    "ph": "ˈpeɪvmənt",
+    "pos": "n.",
+    "zh": "人行道",
+    "ex": "Bicycles should not be ridden on the pavement.",
+    "exzh": "自行车不应该在人行道上骑。"
+  },
+  {
+    "w": "pavilion",
+    "ph": "pəˈvɪliən",
+    "pos": "n.",
+    "zh": "亭子；展馆",
+    "ex": "We rested in a wooden pavilion near the lake.",
+    "exzh": "我们在湖边的一座木亭里休息。"
+  },
+  {
+    "w": "payment",
+    "ph": "ˈpeɪmənt",
+    "pos": "n.",
+    "zh": "付款；报酬",
+    "ex": "You can make the payment by phone or online.",
+    "exzh": "你可以通过电话或网上付款。"
+  },
+  {
+    "w": "peace",
+    "ph": "piːs",
+    "pos": "n.",
+    "zh": "和平；安宁",
+    "ex": "The two countries have lived in peace for decades.",
+    "exzh": "这两个国家几十年来一直和平相处。"
+  },
+  {
+    "w": "peaceful",
+    "ph": "ˈpiːsfl",
+    "pos": "adj.",
+    "zh": "和平的；平静的",
+    "ex": "We spent a peaceful afternoon by the lake.",
+    "exzh": "我们在湖边度过了一个平静的下午。"
+  },
+  {
+    "w": "peak",
+    "ph": "piːk",
+    "pos": "n.",
+    "zh": "山峰；顶峰",
+    "ex": "Snow covered the peak of the mountain all year.",
+    "exzh": "山峰一年到头都被积雪覆盖。"
+  },
+  {
+    "w": "pearl",
+    "ph": "pɜːrl",
+    "pos": "n.",
+    "zh": "珍珠",
+    "ex": "She wore a simple necklace of white pearls.",
+    "exzh": "她戴着一条简单的白珍珠项链。"
+  },
+  {
+    "w": "peasant",
+    "ph": "ˈpeznt",
+    "pos": "n.",
+    "zh": "农民；农夫",
+    "ex": "The old peasant worked in the fields all his life.",
+    "exzh": "那位老农民一生都在田里劳作。"
+  },
+  {
+    "w": "peculiar",
+    "ph": "pɪˈkjuːliər",
+    "pos": "adj.",
+    "zh": "奇怪的；独特的",
+    "ex": "There was a peculiar smell coming from the kitchen.",
+    "exzh": "厨房里传来一股奇怪的气味。"
+  },
+  {
+    "w": "pedal",
+    "ph": "ˈpedl",
+    "pos": "n.",
+    "zh": "踏板；脚蹬",
+    "ex": "He put his foot on the pedal and drove away.",
+    "exzh": "他把脚放在踏板上，然后把车开走了。"
+  },
+  {
+    "w": "pedestrian",
+    "ph": "pəˈdestriən",
+    "pos": "n.",
+    "zh": "行人",
+    "ex": "Drivers must give way to pedestrians at this crossing.",
+    "exzh": "在这个路口司机必须让行人先行。"
+  },
+  {
+    "w": "peel",
+    "ph": "piːl",
+    "pos": "v.",
+    "zh": "剥皮；去皮",
+    "ex": "Please peel the potatoes before you cook them.",
+    "exzh": "煮土豆之前请先把皮削掉。"
+  },
+  {
+    "w": "peer",
+    "ph": "pɪr",
+    "pos": "n.",
+    "zh": "同龄人；同辈",
+    "ex": "Teenagers often care a lot about their peers' opinions.",
+    "exzh": "青少年往往很在意同龄人的看法。"
+  },
+  {
+    "w": "penalty",
+    "ph": "ˈpenəlti",
+    "pos": "n.",
+    "zh": "处罚；罚款",
+    "ex": "There is a heavy penalty for driving without a license.",
+    "exzh": "无证驾驶会受到重罚。"
+  },
+  {
+    "w": "penetrate",
+    "ph": "ˈpenətreɪt",
+    "pos": "v.",
+    "zh": "穿透；渗入",
+    "ex": "The morning sun could not penetrate the thick fog.",
+    "exzh": "晨光无法穿透浓雾。"
+  },
+  {
+    "w": "penny",
+    "ph": "ˈpeni",
+    "pos": "n.",
+    "zh": "便士；一分钱",
+    "ex": "He saved every penny to buy his mother a gift.",
+    "exzh": "他省下每一分钱给母亲买礼物。"
+  },
+  {
+    "w": "pension",
+    "ph": "ˈpenʃn",
+    "pos": "n.",
+    "zh": "养老金；退休金",
+    "ex": "My grandfather lives on a small monthly pension.",
+    "exzh": "我祖父靠一份微薄的月养老金生活。"
+  },
+  {
+    "w": "pepper",
+    "ph": "ˈpepər",
+    "pos": "n.",
+    "zh": "胡椒；辣椒",
+    "ex": "Add a little salt and pepper to the soup.",
+    "exzh": "往汤里加一点盐和胡椒。"
+  },
+  {
+    "w": "perceive",
+    "ph": "pərˈsiːv",
+    "pos": "v.",
+    "zh": "察觉；认为",
+    "ex": "Many people perceive him as a quiet and honest man.",
+    "exzh": "许多人认为他是个安静诚实的人。"
+  },
+  {
+    "w": "percent",
+    "ph": "pərˈsent",
+    "pos": "n.",
+    "zh": "百分之…",
+    "ex": "About sixty percent of the students passed the exam.",
+    "exzh": "大约百分之六十的学生通过了考试。"
+  },
+  {
+    "w": "percentage",
+    "ph": "pərˈsentɪdʒ",
+    "pos": "n.",
+    "zh": "百分比；比例",
+    "ex": "A high percentage of workers support the new plan.",
+    "exzh": "很高比例的工人支持这项新计划。"
+  },
+  {
+    "w": "perception",
+    "ph": "pərˈsepʃn",
+    "pos": "n.",
+    "zh": "知觉；看法",
+    "ex": "Public perception of the issue has changed greatly.",
+    "exzh": "公众对这个问题的看法发生了很大变化。"
+  },
+  {
+    "w": "perfect",
+    "ph": "ˈpɜːrfɪkt",
+    "pos": "adj.",
+    "zh": "完美的；完全的",
+    "ex": "The weather was perfect for a long walk outside.",
+    "exzh": "天气非常适合在户外长时间散步。"
+  },
+  {
+    "w": "perfection",
+    "ph": "pərˈfekʃn",
+    "pos": "n.",
+    "zh": "完美；完善",
+    "ex": "She practiced the song until it reached perfection.",
+    "exzh": "她把那首歌练到完美为止。"
+  },
+  {
+    "w": "performance",
+    "ph": "pərˈfɔːrməns",
+    "pos": "n.",
+    "zh": "表演；表现",
+    "ex": "Her performance in the school play surprised everyone.",
+    "exzh": "她在学校话剧中的表演让所有人惊讶。"
+  },
+  {
+    "w": "perfume",
+    "ph": "ˈpɜːrfjuːm",
+    "pos": "n.",
+    "zh": "香水；香味",
+    "ex": "The garden was full of the perfume of roses.",
+    "exzh": "花园里充满了玫瑰的香味。"
+  },
+  {
+    "w": "peril",
+    "ph": "ˈperəl",
+    "pos": "n.",
+    "zh": "危险；险情",
+    "ex": "The sailors were in great peril during the storm.",
+    "exzh": "水手们在暴风雨中处境十分危险。"
+  },
+  {
+    "w": "period",
+    "ph": "ˈpɪriəd",
+    "pos": "n.",
+    "zh": "时期；一段时间",
+    "ex": "He lived in Beijing for a short period in 2010.",
+    "exzh": "2010年他曾在北京短暂居住过一段时间。"
+  },
+  {
+    "w": "periodic",
+    "ph": "ˌpɪriˈɑːdɪk",
+    "pos": "adj.",
+    "zh": "周期性的；定期的",
+    "ex": "The machines need periodic checks to stay safe.",
+    "exzh": "这些机器需要定期检查以确保安全。"
+  },
+  {
+    "w": "perish",
+    "ph": "ˈperɪʃ",
+    "pos": "v.",
+    "zh": "死亡；毁灭",
+    "ex": "Hundreds of animals perished in the forest fire.",
+    "exzh": "数百只动物在森林大火中丧生。"
+  },
+  {
+    "w": "permission",
+    "ph": "pərˈmɪʃn",
+    "pos": "n.",
+    "zh": "许可；允许",
+    "ex": "You need permission to use these photos in class.",
+    "exzh": "在课堂上使用这些照片需要得到许可。"
+  },
+  {
+    "w": "persevere",
+    "ph": "ˌpɜːrsəˈvɪr",
+    "pos": "v.",
+    "zh": "坚持不懈；坚持",
+    "ex": "If you persevere, you will finally master the language.",
+    "exzh": "如果你坚持下去，最终会掌握这门语言。"
+  },
+  {
+    "w": "persistence",
+    "ph": "pərˈsɪstəns",
+    "pos": "n.",
+    "zh": "坚持；执着",
+    "ex": "Her persistence finally convinced the manager to agree.",
+    "exzh": "她的坚持最终说服了经理同意。"
+  },
+  {
+    "w": "personality",
+    "ph": "ˌpɜːrsəˈnæləti",
+    "pos": "n.",
+    "zh": "个性；人格",
+    "ex": "Her warm personality makes her popular with children.",
+    "exzh": "她温暖的个性使她深受孩子们喜爱。"
+  },
+  {
+    "w": "personnel",
+    "ph": "ˌpɜːrsəˈnel",
+    "pos": "n.",
+    "zh": "人员；全体员工",
+    "ex": "The company hired more personnel during the busy season.",
+    "exzh": "公司在旺季雇用了更多员工。"
+  },
+  {
+    "w": "perspective",
+    "ph": "pərˈspektɪv",
+    "pos": "n.",
+    "zh": "视角；观点",
+    "ex": "Travel gives you a different perspective on daily life.",
+    "exzh": "旅行让你以不同的视角看待日常生活。"
+  },
+  {
+    "w": "persuasive",
+    "ph": "pərˈsweɪsɪv",
+    "pos": "adj.",
+    "zh": "有说服力的",
+    "ex": "His arguments were clear and highly persuasive.",
+    "exzh": "他的论据清晰且非常有说服力。"
+  },
+  {
+    "w": "pessimistic",
+    "ph": "ˌpesɪˈmɪstɪk",
+    "pos": "adj.",
+    "zh": "悲观的；消极的",
+    "ex": "Do not be so pessimistic about the exam results.",
+    "exzh": "不要对考试结果这么悲观。"
+  },
+  {
+    "w": "petal",
+    "ph": "ˈpetl",
+    "pos": "n.",
+    "zh": "花瓣",
+    "ex": "A few pink petals had fallen onto the table.",
+    "exzh": "几片粉色的花瓣落到了桌子上。"
+  },
+  {
+    "w": "petition",
+    "ph": "pəˈtɪʃn",
+    "pos": "n.",
+    "zh": "请愿书；申请",
+    "ex": "Hundreds of residents signed the petition against the plan.",
+    "exzh": "数百名居民签署了反对该计划的请愿书。"
+  },
+  {
+    "w": "petrol",
+    "ph": "ˈpetrəl",
+    "pos": "n.",
+    "zh": "汽油",
+    "ex": "The car ran out of petrol on the highway.",
+    "exzh": "汽车在高速公路上没油了。"
+  },
+  {
+    "w": "petroleum",
+    "ph": "pəˈtroʊliəm",
+    "pos": "n.",
+    "zh": "石油",
+    "ex": "This country's economy depends heavily on petroleum exports.",
+    "exzh": "这个国家的经济严重依赖石油出口。"
+  },
+  {
+    "w": "phase",
+    "ph": "feɪz",
+    "pos": "n.",
+    "zh": "阶段；时期",
+    "ex": "The project has entered its final phase.",
+    "exzh": "这个项目已经进入最后阶段。"
+  },
+  {
+    "w": "philosopher",
+    "ph": "fəˈlɑːsəfər",
+    "pos": "n.",
+    "zh": "哲学家",
+    "ex": "The ancient philosopher wrote about friendship and happiness.",
+    "exzh": "这位古代哲学家写过关于友谊和幸福的著作。"
+  },
+  {
+    "w": "philosophy",
+    "ph": "fəˈlɑːsəfi",
+    "pos": "n.",
+    "zh": "哲学；人生观",
+    "ex": "He studied philosophy at a famous university in Europe.",
+    "exzh": "他在欧洲一所著名大学学习哲学。"
+  },
+  {
+    "w": "photograph",
+    "ph": "ˈfoʊtəɡræf",
+    "pos": "n.",
+    "zh": "照片",
+    "ex": "He took a photograph of the old bridge at sunset.",
+    "exzh": "日落时他给那座老桥拍了一张照片。"
+  },
+  {
+    "w": "photographer",
+    "ph": "fəˈtɑːɡrəfər",
+    "pos": "n.",
+    "zh": "摄影师",
+    "ex": "A professional photographer came to our wedding.",
+    "exzh": "一位专业摄影师来参加了我们的婚礼。"
+  },
+  {
+    "w": "phrase",
+    "ph": "freɪz",
+    "pos": "n.",
+    "zh": "短语；措辞",
+    "ex": "This phrase is often used in everyday conversation.",
+    "exzh": "这个短语常用于日常对话中。"
+  },
+  {
+    "w": "physician",
+    "ph": "fɪˈzɪʃn",
+    "pos": "n.",
+    "zh": "内科医生",
+    "ex": "Her family physician advised her to rest for a week.",
+    "exzh": "她的家庭医生建议她休息一周。"
+  },
+  {
+    "w": "physicist",
+    "ph": "ˈfɪzɪsɪst",
+    "pos": "n.",
+    "zh": "物理学家",
+    "ex": "Her dream is to become a famous physicist.",
+    "exzh": "她的梦想是成为一名著名的物理学家。"
+  },
+  {
+    "w": "physics",
+    "ph": "ˈfɪzɪks",
+    "pos": "n.",
+    "zh": "物理学",
+    "ex": "Physics was my hardest subject in high school.",
+    "exzh": "物理是我高中时最难学的科目。"
+  },
+  {
+    "w": "pianist",
+    "ph": "ˈpiənɪst",
+    "pos": "n.",
+    "zh": "钢琴家",
+    "ex": "The young pianist played beautifully at the concert.",
+    "exzh": "这位年轻钢琴家在音乐会上演奏得很动听。"
+  },
+  {
+    "w": "piano",
+    "ph": "piˈænoʊ",
+    "pos": "n.",
+    "zh": "钢琴",
+    "ex": "She practices the piano for an hour every evening.",
+    "exzh": "她每天晚上练一小时钢琴。"
+  },
+  {
+    "w": "picnic",
+    "ph": "ˈpɪknɪk",
+    "pos": "n.",
+    "zh": "野餐",
+    "ex": "We had a picnic under the big trees by the river.",
+    "exzh": "我们在河边的大树下野餐。"
+  },
+  {
+    "w": "pierce",
+    "ph": "pɪrs",
+    "pos": "v.",
+    "zh": "刺穿；穿透",
+    "ex": "A sharp nail pierced the tire of my bike.",
+    "exzh": "一颗尖钉子刺穿了我自行车的轮胎。"
+  },
+  {
+    "w": "pigeon",
+    "ph": "ˈpɪdʒɪn",
+    "pos": "n.",
+    "zh": "鸽子",
+    "ex": "A gray pigeon landed quietly on the windowsill.",
+    "exzh": "一只灰鸽子悄悄落在窗台上。"
+  },
+  {
+    "w": "pile",
+    "ph": "paɪl",
+    "pos": "n.",
+    "zh": "一堆；堆",
+    "ex": "A pile of newspapers stood beside the old chair.",
+    "exzh": "旧椅子旁边放着一堆报纸。"
+  },
+  {
+    "w": "pilgrim",
+    "ph": "ˈpɪlɡrɪm",
+    "pos": "n.",
+    "zh": "朝圣者；香客",
+    "ex": "Thousands of pilgrims visit the temple every spring.",
+    "exzh": "每年春天成千上万的朝圣者来这座寺庙。"
+  },
+  {
+    "w": "pill",
+    "ph": "pɪl",
+    "pos": "n.",
+    "zh": "药丸；药片",
+    "ex": "Take one pill after meals twice a day.",
+    "exzh": "每天两次，每次饭后服一片药。"
+  },
+  {
+    "w": "pillow",
+    "ph": "ˈpɪloʊ",
+    "pos": "n.",
+    "zh": "枕头",
+    "ex": "He put a soft pillow behind his aching back.",
+    "exzh": "他在酸痛的背后放了一个软枕头。"
+  },
+  {
+    "w": "pilot",
+    "ph": "ˈpaɪlət",
+    "pos": "n.",
+    "zh": "飞行员",
+    "ex": "The pilot announced that we would land soon.",
+    "exzh": "飞行员宣布我们很快就要降落了。"
+  },
+  {
+    "w": "pin",
+    "ph": "pɪn",
+    "pos": "n.",
+    "zh": "别针；大头针",
+    "ex": "She fixed the note to the board with a pin.",
+    "exzh": "她用一枚大头针把便条钉在板上。"
+  },
+  {
+    "w": "pinch",
+    "ph": "pɪntʃ",
+    "pos": "v.",
+    "zh": "捏；掐",
+    "ex": "He pinched his arm to make sure he was awake.",
+    "exzh": "他掐了一下手臂，确认自己是醒着的。"
+  },
+  {
+    "w": "pine",
+    "ph": "paɪn",
+    "pos": "n.",
+    "zh": "松树",
+    "ex": "Tall pine trees covered the whole hillside.",
+    "exzh": "高大的松树覆盖了整个山坡。"
+  },
+  {
+    "w": "pioneer",
+    "ph": "ˌpaɪəˈnɪr",
+    "pos": "n.",
+    "zh": "先驱；开拓者",
+    "ex": "She was a pioneer in the study of ocean life.",
+    "exzh": "她是海洋生物研究领域的先驱。"
+  },
+  {
+    "w": "pipe",
+    "ph": "paɪp",
+    "pos": "n.",
+    "zh": "管道；管子",
+    "ex": "A water pipe burst under the street last night.",
+    "exzh": "昨晚街上的一条水管爆裂了。"
+  },
+  {
+    "w": "pipeline",
+    "ph": "ˈpaɪplaɪn",
+    "pos": "n.",
+    "zh": "管道；输油管",
+    "ex": "A new pipeline will carry gas to the coast.",
+    "exzh": "一条新管道将把天然气输送到海边。"
+  },
+  {
+    "w": "pirate",
+    "ph": "ˈpaɪrət",
+    "pos": "n.",
+    "zh": "海盗；盗版者",
+    "ex": "The old story tells of a pirate and his treasure.",
+    "exzh": "这个古老的故事讲的是一名海盗和他的宝藏。"
+  },
+  {
+    "w": "pistol",
+    "ph": "ˈpɪstl",
+    "pos": "n.",
+    "zh": "手枪",
+    "ex": "The police found a pistol hidden under the bed.",
+    "exzh": "警方发现床下藏着一把手枪。"
+  },
+  {
+    "w": "pit",
+    "ph": "pɪt",
+    "pos": "n.",
+    "zh": "坑；深洞",
+    "ex": "Workers dug a deep pit for the new foundation.",
+    "exzh": "工人们为新地基挖了一个深坑。"
+  },
+  {
+    "w": "pitch",
+    "ph": "pɪtʃ",
+    "pos": "n.",
+    "zh": "球场；音高",
+    "ex": "The players ran onto the pitch before the match.",
+    "exzh": "比赛前球员们跑上了球场。"
+  },
+  {
+    "w": "pity",
+    "ph": "ˈpɪti",
+    "pos": "n.",
+    "zh": "遗憾；同情",
+    "ex": "It is a pity that you missed the concert.",
+    "exzh": "你错过了那场音乐会，真遗憾。"
+  },
+  {
+    "w": "pizza",
+    "ph": "ˈpiːtsə",
+    "pos": "n.",
+    "zh": "比萨饼",
+    "ex": "We ordered a large pizza and two bottles of juice.",
+    "exzh": "我们订了一个大比萨饼和两瓶果汁。"
+  },
+  {
+    "w": "plague",
+    "ph": "pleɪɡ",
+    "pos": "n.",
+    "zh": "瘟疫；灾害",
+    "ex": "The city was hit by a terrible plague long ago.",
+    "exzh": "很久以前这座城市遭受了一场可怕的瘟疫。"
+  },
+  {
+    "w": "plain",
+    "ph": "pleɪn",
+    "pos": "adj.",
+    "zh": "简单的；朴素的",
+    "ex": "She wore a plain white dress to the party.",
+    "exzh": "她穿了一条朴素的白裙子去参加聚会。"
+  },
+  {
+    "w": "planet",
+    "ph": "ˈplænɪt",
+    "pos": "n.",
+    "zh": "行星；地球",
+    "ex": "Scientists are still searching for life on other planets.",
+    "exzh": "科学家们仍在寻找其他行星上的生命。"
+  },
+  {
+    "w": "plank",
+    "ph": "plæŋk",
+    "pos": "n.",
+    "zh": "木板；厚板",
+    "ex": "He replaced the broken plank in the wooden floor.",
+    "exzh": "他换掉了木地板上的那块破木板。"
+  },
+  {
+    "w": "plant",
+    "ph": "plænt",
+    "pos": "v.",
+    "zh": "种植；栽种",
+    "ex": "They plan to plant trees along this road.",
+    "exzh": "他们打算沿这条路种树。"
+  },
+  {
+    "w": "plantation",
+    "ph": "plænˈteɪʃn",
+    "pos": "n.",
+    "zh": "种植园；林场",
+    "ex": "Workers on the tea plantation start before sunrise.",
+    "exzh": "茶园里的工人天不亮就开始干活。"
+  },
+  {
+    "w": "plaster",
+    "ph": "ˈplæstər",
+    "pos": "n.",
+    "zh": "灰泥；石膏",
+    "ex": "The plaster on the old wall is falling off.",
+    "exzh": "旧墙上的灰泥正在剥落。"
+  },
+  {
+    "w": "plastic",
+    "ph": "ˈplæstɪk",
+    "pos": "n.",
+    "zh": "塑料",
+    "ex": "Too much plastic waste ends up in the ocean.",
+    "exzh": "过多的塑料垃圾最终流入海洋。"
+  },
+  {
+    "w": "plate",
+    "ph": "pleɪt",
+    "pos": "n.",
+    "zh": "盘子；板",
+    "ex": "He put the hot soup on a clean plate.",
+    "exzh": "他把热汤倒在干净的盘子上。"
+  },
+  {
+    "w": "plateau",
+    "ph": "plæˈtoʊ",
+    "pos": "n.",
+    "zh": "高原；稳定期",
+    "ex": "The train climbed slowly onto the dry plateau.",
+    "exzh": "火车缓慢地爬上干燥的高原。"
+  },
+  {
+    "w": "platform",
+    "ph": "ˈplætfɔːrm",
+    "pos": "n.",
+    "zh": "站台；平台",
+    "ex": "The train to Hangzhou leaves from platform three.",
+    "exzh": "开往杭州的火车从三号站台出发。"
+  },
+  {
+    "w": "player",
+    "ph": "ˈpleɪər",
+    "pos": "n.",
+    "zh": "运动员；演奏者",
+    "ex": "Their best player scored twice in the second half.",
+    "exzh": "他们最好的球员在下半场进了两球。"
+  },
+  {
+    "w": "playground",
+    "ph": "ˈpleɪɡraʊnd",
+    "pos": "n.",
+    "zh": "操场；游乐场",
+    "ex": "Children were laughing and running in the playground.",
+    "exzh": "孩子们在操场上笑着奔跑。"
+  },
+  {
+    "w": "plea",
+    "ph": "pliː",
+    "pos": "n.",
+    "zh": "恳求；辩解",
+    "ex": "She made a plea for help on the radio.",
+    "exzh": "她在广播中恳求帮助。"
+  },
+  {
+    "w": "plead",
+    "ph": "pliːd",
+    "pos": "v.",
+    "zh": "恳求；辩护",
+    "ex": "The boy pleaded with his parents to let him stay.",
+    "exzh": "男孩恳求父母让他留下来。"
+  },
+  {
+    "w": "pleasant",
+    "ph": "ˈpleznt",
+    "pos": "adj.",
+    "zh": "令人愉快的；宜人的",
+    "ex": "We had a pleasant conversation over afternoon tea.",
+    "exzh": "我们在下午茶时聊得很愉快。"
+  },
+  {
+    "w": "pleasure",
+    "ph": "ˈpleʒər",
+    "pos": "n.",
+    "zh": "愉快；乐趣",
+    "ex": "Reading in the garden gives her great pleasure.",
+    "exzh": "在花园里读书给她带来很大乐趣。"
+  },
+  {
+    "w": "pledge",
+    "ph": "pledʒ",
+    "pos": "v.",
+    "zh": "保证；承诺",
+    "ex": "The company pledged to reduce its water use.",
+    "exzh": "这家公司承诺减少用水量。"
+  },
+  {
+    "w": "plenty",
+    "ph": "ˈplenti",
+    "pos": "n.",
+    "zh": "大量；充足",
+    "ex": "There is plenty of time before the train leaves.",
+    "exzh": "火车出发前还有充足的时间。"
+  },
+  {
+    "w": "plot",
+    "ph": "plɑːt",
+    "pos": "n.",
+    "zh": "情节；小块地",
+    "ex": "The plot of the novel is quite simple.",
+    "exzh": "这部小说的情节相当简单。"
+  },
+  {
+    "w": "plow",
+    "ph": "plaʊ",
+    "pos": "v.",
+    "zh": "犁地；耕地",
+    "ex": "Farmers plow the fields before the spring rains come.",
+    "exzh": "农民在春雨来临前犁地。"
+  },
+  {
+    "w": "plug",
+    "ph": "plʌɡ",
+    "pos": "n.",
+    "zh": "插头；塞子",
+    "ex": "He pulled the plug out of the wall socket.",
+    "exzh": "他把插头从墙壁插座里拔了出来。"
+  },
+  {
+    "w": "plumber",
+    "ph": "ˈplʌmər",
+    "pos": "n.",
+    "zh": "水管工",
+    "ex": "We called a plumber to fix the leaking pipe.",
+    "exzh": "我们叫了一名水管工来修漏水的管子。"
+  },
+  {
+    "w": "plunge",
+    "ph": "plʌndʒ",
+    "pos": "v.",
+    "zh": "骤降；猛冲",
+    "ex": "Temperatures plunged to minus ten degrees last night.",
+    "exzh": "昨晚气温骤降到零下十度。"
+  },
+  {
+    "w": "plural",
+    "ph": "ˈplʊrəl",
+    "pos": "adj.",
+    "zh": "复数的",
+    "ex": "Put the verb into its plural form here.",
+    "exzh": "在这里把这个动词变成复数形式。"
+  },
+  {
+    "w": "plus",
+    "ph": "plʌs",
+    "pos": "prep.",
+    "zh": "加上；除…之外",
+    "ex": "Three plus four equals seven, as everyone knows.",
+    "exzh": "众所周知，三加四等于七。"
+  },
+  {
+    "w": "pocket",
+    "ph": "ˈpɑːkɪt",
+    "pos": "n.",
+    "zh": "口袋；衣袋",
+    "ex": "He put the keys back into his coat pocket.",
+    "exzh": "他把钥匙放回外套口袋里。"
+  },
+  {
+    "w": "poem",
+    "ph": "ˈpoʊəm",
+    "pos": "n.",
+    "zh": "诗；诗歌",
+    "ex": "She wrote a short poem about her hometown.",
+    "exzh": "她写了一首关于家乡的短诗。"
+  },
+  {
+    "w": "poet",
+    "ph": "ˈpoʊət",
+    "pos": "n.",
+    "zh": "诗人",
+    "ex": "The poet read his new work at the library.",
+    "exzh": "那位诗人在图书馆朗读了他的新作。"
+  },
+  {
+    "w": "poetry",
+    "ph": "ˈpoʊətri",
+    "pos": "n.",
+    "zh": "诗歌；诗",
+    "ex": "Chinese poetry has a history of thousands of years.",
+    "exzh": "中国诗歌有数千年的历史。"
+  },
+  {
+    "w": "point",
+    "ph": "pɔɪnt",
+    "pos": "n.",
+    "zh": "要点；分数",
+    "ex": "The main point of his speech was very clear.",
+    "exzh": "他讲话的要点非常清楚。"
+  },
+  {
+    "w": "poison",
+    "ph": "ˈpɔɪzn",
+    "pos": "n.",
+    "zh": "毒药；毒物",
+    "ex": "Some wild mushrooms contain a dangerous poison.",
+    "exzh": "有些野蘑菇含有危险的毒素。"
+  },
+  {
+    "w": "polar",
+    "ph": "ˈpoʊlər",
+    "pos": "adj.",
+    "zh": "极地的；两极的",
+    "ex": "Polar bears depend on sea ice to hunt seals.",
+    "exzh": "北极熊依靠海冰捕食海豹。"
+  },
+  {
+    "w": "pole",
+    "ph": "poʊl",
+    "pos": "n.",
+    "zh": "杆；极点",
+    "ex": "A flag was flying from the top of the pole.",
+    "exzh": "一面旗子从杆顶飘扬着。"
+  },
+  {
+    "w": "police",
+    "ph": "pəˈliːs",
+    "pos": "n.",
+    "zh": "警察；警方",
+    "ex": "The police arrived at the scene within five minutes.",
+    "exzh": "警察在五分钟内赶到了现场。"
+  },
+  {
+    "w": "policeman",
+    "ph": "pəˈliːsmən",
+    "pos": "n.",
+    "zh": "男警察",
+    "ex": "A policeman helped the lost child find his mother.",
+    "exzh": "一名警察帮助走失的孩子找到了母亲。"
+  },
+  {
+    "w": "polish",
+    "ph": "ˈpɑːlɪʃ",
+    "pos": "v.",
+    "zh": "擦亮；润色",
+    "ex": "He polished his shoes carefully before the interview.",
+    "exzh": "面试前他仔细擦亮了皮鞋。"
+  },
+  {
+    "w": "polite",
+    "ph": "pəˈlaɪt",
+    "pos": "adj.",
+    "zh": "有礼貌的；客气的",
+    "ex": "It is polite to say thank you when you leave.",
+    "exzh": "离开时说声谢谢是有礼貌的。"
+  },
+  {
+    "w": "political",
+    "ph": "pəˈlɪtɪkl",
+    "pos": "adj.",
+    "zh": "政治的",
+    "ex": "They discussed the political situation in the region.",
+    "exzh": "他们讨论了该地区的政治局势。"
+  },
+  {
+    "w": "politician",
+    "ph": "ˌpɑːləˈtɪʃn",
+    "pos": "n.",
+    "zh": "政治家；政客",
+    "ex": "The politician promised to improve public transport.",
+    "exzh": "这位政治家承诺改善公共交通。"
+  },
+  {
+    "w": "politics",
+    "ph": "ˈpɑːlətɪks",
+    "pos": "n.",
+    "zh": "政治；政治学",
+    "ex": "My brother studies politics at a university in London.",
+    "exzh": "我哥哥在伦敦的一所大学学习政治学。"
+  },
+  {
+    "w": "poll",
+    "ph": "poʊl",
+    "pos": "n.",
+    "zh": "民意调查；投票",
+    "ex": "A recent poll shows most people support the plan.",
+    "exzh": "最近的一项民意调查显示大多数人支持该计划。"
+  },
+  {
+    "w": "pollutant",
+    "ph": "pəˈluːtənt",
+    "pos": "n.",
+    "zh": "污染物",
+    "ex": "The factory released harmful pollutants into the river.",
+    "exzh": "这家工厂向河里排放了有害污染物。"
+  },
+  {
+    "w": "pollute",
+    "ph": "pəˈluːt",
+    "pos": "v.",
+    "zh": "污染；弄脏",
+    "ex": "Factories must not pollute the river with waste water.",
+    "exzh": "工厂不得用废水污染这条河。"
+  },
+  {
+    "w": "pollution",
+    "ph": "pəˈluːʃn",
+    "pos": "n.",
+    "zh": "污染",
+    "ex": "Air pollution has become a serious problem in cities.",
+    "exzh": "空气污染已成为城市里的一个严重问题。"
+  },
+  {
+    "w": "pond",
+    "ph": "pɑːnd",
+    "pos": "n.",
+    "zh": "池塘",
+    "ex": "Ducks were swimming slowly across the small pond.",
+    "exzh": "鸭子在小池塘里慢慢游着。"
+  },
+  {
+    "w": "pool",
+    "ph": "puːl",
+    "pos": "n.",
+    "zh": "水池；游泳池",
+    "ex": "The children spent the afternoon in the swimming pool.",
+    "exzh": "孩子们在游泳池里度过了一个下午。"
+  },
+  {
+    "w": "pop",
+    "ph": "pɑːp",
+    "pos": "adj.",
+    "zh": "流行的；通俗的",
+    "ex": "She listens to pop music while doing homework.",
+    "exzh": "她一边做作业一边听流行音乐。"
+  },
+  {
+    "w": "popularity",
+    "ph": "ˌpɑːpjuˈlærəti",
+    "pos": "n.",
+    "zh": "流行；受欢迎",
+    "ex": "Online courses have gained popularity among workers.",
+    "exzh": "网络课程在上班族中越来越受欢迎。"
+  },
+  {
+    "w": "population",
+    "ph": "ˌpɑːpjuˈleɪʃn",
+    "pos": "n.",
+    "zh": "人口",
+    "ex": "The population of this city has doubled in ten years.",
+    "exzh": "这座城市的人口在十年间翻了一番。"
+  },
+  {
+    "w": "porcelain",
+    "ph": "ˈpɔːrsəlɪn",
+    "pos": "n.",
+    "zh": "瓷器；瓷",
+    "ex": "This thin porcelain cup came from a famous workshop.",
+    "exzh": "这只薄瓷杯来自一家著名工坊。"
+  },
+  {
+    "w": "porch",
+    "ph": "pɔːrtʃ",
+    "pos": "n.",
+    "zh": "门廊；走廊",
+    "ex": "They sat on the porch and watched the rain.",
+    "exzh": "他们坐在门廊上看着雨。"
+  },
+  {
+    "w": "pork",
+    "ph": "pɔːrk",
+    "pos": "n.",
+    "zh": "猪肉",
+    "ex": "My mother cooked pork with green peppers for dinner.",
+    "exzh": "我妈妈晚饭做了青椒炒猪肉。"
+  },
+  {
+    "w": "port",
+    "ph": "pɔːrt",
+    "pos": "n.",
+    "zh": "港口；码头",
+    "ex": "Several large ships are waiting outside the port.",
+    "exzh": "几艘大船正在港口外等候。"
+  },
+  {
+    "w": "portable",
+    "ph": "ˈpɔːrtəbl",
+    "pos": "adj.",
+    "zh": "便携的；手提式的",
+    "ex": "This portable radio works well in the mountains.",
+    "exzh": "这台便携式收音机在山里效果很好。"
+  },
+  {
+    "w": "porter",
+    "ph": "ˈpɔːrtər",
+    "pos": "n.",
+    "zh": "搬运工；门房",
+    "ex": "A porter carried our heavy bags to the room.",
+    "exzh": "一位搬运工把我们沉重的包搬到了房间。"
+  },
+  {
+    "w": "portion",
+    "ph": "ˈpɔːrʃn",
+    "pos": "n.",
+    "zh": "部分；一份",
+    "ex": "A large portion of the land is used for farming.",
+    "exzh": "这片土地的很大一部分用于农业。"
+  },
+  {
+    "w": "portrait",
+    "ph": "ˈpɔːrtrət",
+    "pos": "n.",
+    "zh": "肖像；画像",
+    "ex": "An old portrait of the founder hangs in the hall.",
+    "exzh": "创始人的一幅旧肖像挂在大厅里。"
+  },
+  {
+    "w": "portray",
+    "ph": "pɔːrˈtreɪ",
+    "pos": "v.",
+    "zh": "描绘；扮演",
+    "ex": "The novel portrays village life in the 1980s.",
+    "exzh": "这部小说描绘了二十世纪八十年代的乡村生活。"
+  },
+  {
+    "w": "pose",
+    "ph": "poʊz",
+    "pos": "v.",
+    "zh": "造成；摆姿势",
+    "ex": "The heavy rain may pose a danger to drivers.",
+    "exzh": "大雨可能给司机带来危险。"
+  },
+  {
+    "w": "possession",
+    "ph": "pəˈzeʃn",
+    "pos": "n.",
+    "zh": "拥有；财产",
+    "ex": "The house came into his possession last year.",
+    "exzh": "这所房子去年归他所有。"
+  },
+  {
+    "w": "possibility",
+    "ph": "ˌpɑːsəˈbɪləti",
+    "pos": "n.",
+    "zh": "可能性",
+    "ex": "There is a real possibility that he will win.",
+    "exzh": "他获胜有实实在在的可能性。"
+  },
+  {
+    "w": "post",
+    "ph": "poʊst",
+    "pos": "v.",
+    "zh": "邮寄；发布",
+    "ex": "She posted the letter on her way to work.",
+    "exzh": "她在上班路上把信寄了出去。"
+  },
+  {
+    "w": "postage",
+    "ph": "ˈpoʊstɪdʒ",
+    "pos": "n.",
+    "zh": "邮费；邮资",
+    "ex": "Postage for this parcel is twelve yuan.",
+    "exzh": "这个包裹的邮费是十二元。"
+  },
+  {
+    "w": "postcard",
+    "ph": "ˈpoʊstkɑːrd",
+    "pos": "n.",
+    "zh": "明信片",
+    "ex": "He sent me a postcard from the seaside town.",
+    "exzh": "他从那个海滨小镇给我寄了一张明信片。"
+  },
+  {
+    "w": "poster",
+    "ph": "ˈpoʊstər",
+    "pos": "n.",
+    "zh": "海报；招贴",
+    "ex": "A colorful poster announced the school concert.",
+    "exzh": "一张色彩鲜艳的海报宣传了学校音乐会。"
+  },
+  {
+    "w": "postpone",
+    "ph": "poʊˈspoʊn",
+    "pos": "v.",
+    "zh": "推迟；延期",
+    "ex": "They had to postpone the match because of rain.",
+    "exzh": "由于下雨他们不得不推迟比赛。"
+  },
+  {
+    "w": "posture",
+    "ph": "ˈpɑːstʃər",
+    "pos": "n.",
+    "zh": "姿势；态度",
+    "ex": "Sitting with good posture protects your back.",
+    "exzh": "保持良好姿势坐着能保护你的背部。"
+  },
+  {
+    "w": "pot",
+    "ph": "pɑːt",
+    "pos": "n.",
+    "zh": "锅；罐",
+    "ex": "Boil the water in a large pot first.",
+    "exzh": "先在一个大锅里把水烧开。"
+  },
+  {
+    "w": "potato",
+    "ph": "pəˈteɪtoʊ",
+    "pos": "n.",
+    "zh": "土豆；马铃薯",
+    "ex": "She added some potatoes and carrots to the soup.",
+    "exzh": "她往汤里加了些土豆和胡萝卜。"
+  },
+  {
+    "w": "poultry",
+    "ph": "ˈpoʊltri",
+    "pos": "n.",
+    "zh": "家禽",
+    "ex": "The farm raises poultry and a few goats.",
+    "exzh": "这个农场养家禽和几只山羊。"
+  },
+  {
+    "w": "pound",
+    "ph": "paʊnd",
+    "pos": "n.",
+    "zh": "英镑；磅",
+    "ex": "The book costs about ten pounds in London.",
+    "exzh": "这本书在伦敦大约卖十英镑。"
+  },
+  {
+    "w": "pour",
+    "ph": "pɔːr",
+    "pos": "v.",
+    "zh": "倒；倾泻",
+    "ex": "Please pour the milk into a clean glass.",
+    "exzh": "请把牛奶倒进一个干净的玻璃杯里。"
+  },
+  {
+    "w": "poverty",
+    "ph": "ˈpɑːvərti",
+    "pos": "n.",
+    "zh": "贫穷；贫困",
+    "ex": "Many families still live in serious poverty.",
+    "exzh": "许多家庭仍然生活在严重的贫困之中。"
+  },
+  {
+    "w": "powder",
+    "ph": "ˈpaʊdər",
+    "pos": "n.",
+    "zh": "粉末；粉",
+    "ex": "Mix the powder with warm water and stir well.",
+    "exzh": "把粉末与温水混合并搅拌均匀。"
+  },
+  {
+    "w": "power",
+    "ph": "ˈpaʊər",
+    "pos": "n.",
+    "zh": "力量；电力",
+    "ex": "The storm cut off the power to the whole village.",
+    "exzh": "暴风雨切断了整个村子的电力供应。"
+  },
+  {
+    "w": "powerful",
+    "ph": "ˈpaʊərfl",
+    "pos": "adj.",
+    "zh": "强大的；有力的",
+    "ex": "The car has a powerful engine and runs smoothly.",
+    "exzh": "这辆车有强劲的发动机，行驶平稳。"
+  },
+  {
+    "w": "practically",
+    "ph": "ˈpræktɪkli",
+    "pos": "adv.",
+    "zh": "几乎；实际上",
+    "ex": "The room was practically empty after the lecture.",
+    "exzh": "讲座结束后房间几乎空了。"
+  },
+  {
+    "w": "prairie",
+    "ph": "ˈpreri",
+    "pos": "n.",
+    "zh": "大草原",
+    "ex": "Wild horses once ran freely across the prairie.",
+    "exzh": "野马曾在大草原上自由奔跑。"
+  },
+  {
+    "w": "praise",
+    "ph": "preɪz",
+    "pos": "v.",
+    "zh": "赞扬；称赞",
+    "ex": "The teacher praised her for the excellent report.",
+    "exzh": "老师因为那份出色的报告表扬了她。"
+  },
+  {
+    "w": "pray",
+    "ph": "preɪ",
+    "pos": "v.",
+    "zh": "祈祷；祈求",
+    "ex": "They prayed silently before the long journey began.",
+    "exzh": "长途旅程开始前他们默默祈祷。"
+  },
+  {
+    "w": "prayer",
+    "ph": "prer",
+    "pos": "n.",
+    "zh": "祈祷；祷文",
+    "ex": "She said a short prayer before going to bed.",
+    "exzh": "她睡前做了简短的祷告。"
+  },
+  {
+    "w": "preach",
+    "ph": "priːtʃ",
+    "pos": "v.",
+    "zh": "布道；说教",
+    "ex": "The old man preached kindness to everyone he met.",
+    "exzh": "那位老人对所有遇到的人宣讲友善。"
+  },
+  {
+    "w": "precaution",
+    "ph": "prɪˈkɔːʃn",
+    "pos": "n.",
+    "zh": "预防措施；防备",
+    "ex": "Take the necessary precautions before climbing that mountain.",
+    "exzh": "爬那座山之前要采取必要的预防措施。"
+  },
+  {
+    "w": "precede",
+    "ph": "prɪˈsiːd",
+    "pos": "v.",
+    "zh": "先于；在…之前",
+    "ex": "A short speech preceded the main ceremony.",
+    "exzh": "简短讲话先于主仪式进行。"
+  },
+  {
+    "w": "precedent",
+    "ph": "ˈpresɪdənt",
+    "pos": "n.",
+    "zh": "先例；惯例",
+    "ex": "This court decision set an important precedent for others.",
+    "exzh": "这一法院判决为其他案件树立了重要先例。"
+  },
+  {
+    "w": "precious",
+    "ph": "ˈpreʃəs",
+    "pos": "adj.",
+    "zh": "珍贵的；宝贵的",
+    "ex": "Water is precious in this dry desert region.",
+    "exzh": "在这片干旱的沙漠地区，水很珍贵。"
+  },
+  {
+    "w": "precisely",
+    "ph": "prɪˈsaɪsli",
+    "pos": "adv.",
+    "zh": "精确地；恰好",
+    "ex": "The meeting began at precisely nine o'clock.",
+    "exzh": "会议正好在九点开始。"
+  },
+  {
+    "w": "precision",
+    "ph": "prɪˈsɪʒn",
+    "pos": "n.",
+    "zh": "精确；精密",
+    "ex": "The machine cuts metal with great precision.",
+    "exzh": "这台机器能非常精确地切割金属。"
+  },
+  {
+    "w": "predecessor",
+    "ph": "ˈpredəsesər",
+    "pos": "n.",
+    "zh": "前任；前辈",
+    "ex": "Her predecessor left careful notes about every project.",
+    "exzh": "她的前任为每个项目都留下了详细的记录。"
+  },
+  {
+    "w": "predictable",
+    "ph": "prɪˈdɪktəbl",
+    "pos": "adj.",
+    "zh": "可预测的；意料之中的",
+    "ex": "The ending of the film was rather predictable.",
+    "exzh": "这部电影的结局相当容易预料。"
+  },
+  {
+    "w": "prediction",
+    "ph": "prɪˈdɪkʃn",
+    "pos": "n.",
+    "zh": "预言；预测",
+    "ex": "His prediction about the election turned out correct.",
+    "exzh": "他对选举的预测被证明是正确的。"
+  },
+  {
+    "w": "preface",
+    "ph": "ˈprefəs",
+    "pos": "n.",
+    "zh": "前言；序言",
+    "ex": "The author explains her purpose in the preface.",
+    "exzh": "作者在前言中说明了她的写作目的。"
+  },
+  {
+    "w": "preference",
+    "ph": "ˈprefrəns",
+    "pos": "n.",
+    "zh": "偏爱；偏好",
+    "ex": "Do you have any preference for the meeting time?",
+    "exzh": "你对会议时间有什么偏好吗？"
+  },
+  {
+    "w": "pregnancy",
+    "ph": "ˈpreɡnənsi",
+    "pos": "n.",
+    "zh": "怀孕；孕期",
+    "ex": "She took extra care of her health during pregnancy.",
+    "exzh": "她在怀孕期间格外注意自己的健康。"
+  },
+  {
+    "w": "pregnant",
+    "ph": "ˈpreɡnənt",
+    "pos": "adj.",
+    "zh": "怀孕的；意味深长的",
+    "ex": "My sister was pregnant with her second child.",
+    "exzh": "我姐姐当时怀着她的第二个孩子。"
+  },
+  {
+    "w": "prejudice",
+    "ph": "ˈpredʒudɪs",
+    "pos": "n.",
+    "zh": "偏见；成见",
+    "ex": "We should judge people without prejudice or anger.",
+    "exzh": "我们应当不带偏见和怒气地评价他人。"
+  },
+  {
+    "w": "preliminary",
+    "ph": "prɪˈlɪmɪneri",
+    "pos": "adj.",
+    "zh": "初步的；预备的",
+    "ex": "Preliminary results suggest the treatment works well.",
+    "exzh": "初步结果表明这种治疗效果良好。"
+  },
+  {
+    "w": "preparation",
+    "ph": "ˌprepəˈreɪʃn",
+    "pos": "n.",
+    "zh": "准备；预备",
+    "ex": "Careful preparation is the key to a good speech.",
+    "exzh": "充分的准备是做好演讲的关键。"
+  },
+  {
+    "w": "preposition",
+    "ph": "ˌprepəˈzɪʃn",
+    "pos": "n.",
+    "zh": "介词",
+    "ex": "Fill in each blank with a suitable preposition.",
+    "exzh": "在每个空格处填入一个合适的介词。"
+  },
+  {
+    "w": "prescribe",
+    "ph": "prɪˈskraɪb",
+    "pos": "v.",
+    "zh": "开药方；规定",
+    "ex": "The doctor prescribed some medicine for my cough.",
+    "exzh": "医生为我的咳嗽开了一些药。"
+  },
+  {
+    "w": "prescription",
+    "ph": "prɪˈskrɪpʃn",
+    "pos": "n.",
+    "zh": "处方；药方",
+    "ex": "You cannot buy this drug without a prescription.",
+    "exzh": "没有处方你买不到这种药。"
+  },
+  {
+    "w": "presence",
+    "ph": "ˈprezns",
+    "pos": "n.",
+    "zh": "出席；存在",
+    "ex": "Your presence at the meeting is very important.",
+    "exzh": "你出席这次会议非常重要。"
+  },
+  {
+    "w": "present",
+    "ph": "ˈpreznt",
+    "pos": "n.",
+    "zh": "礼物；现在",
+    "ex": "She gave me a lovely present for my birthday.",
+    "exzh": "她送了我一份可爱的生日礼物。"
+  },
+  {
+    "w": "presentation",
+    "ph": "ˌpriːzenˈteɪʃn",
+    "pos": "n.",
+    "zh": "演示；报告",
+    "ex": "His presentation on climate change lasted twenty minutes.",
+    "exzh": "他关于气候变化的报告持续了二十分钟。"
+  },
+  {
+    "w": "president",
+    "ph": "ˈprezɪdənt",
+    "pos": "n.",
+    "zh": "总统；校长",
+    "ex": "The president will visit our school next Monday.",
+    "exzh": "校长下周一将来我们学校访问。"
+  },
+  {
+    "w": "press",
+    "ph": "pres",
+    "pos": "v.",
+    "zh": "按；压",
+    "ex": "Press this button to start the machine.",
+    "exzh": "按下这个按钮启动机器。"
+  },
+  {
+    "w": "prestige",
+    "ph": "preˈstiːʒ",
+    "pos": "n.",
+    "zh": "威望；声望",
+    "ex": "The university enjoys great prestige around the world.",
+    "exzh": "这所大学在全世界享有很高的声望。"
+  },
+  {
+    "w": "presumably",
+    "ph": "prɪˈzuːməbli",
+    "pos": "adv.",
+    "zh": "大概；可能",
+    "ex": "He is not here, presumably because of the traffic.",
+    "exzh": "他不在这儿，大概是因为交通拥堵。"
+  },
+  {
+    "w": "presume",
+    "ph": "prɪˈzuːm",
+    "pos": "v.",
+    "zh": "推测；假定",
+    "ex": "I presume you have already read the notice.",
+    "exzh": "我猜你已经读过那份通知了。"
+  },
+  {
+    "w": "pretend",
+    "ph": "prɪˈtend",
+    "pos": "v.",
+    "zh": "假装；装作",
+    "ex": "He pretended not to hear my question.",
+    "exzh": "他假装没听见我的问题。"
+  },
+  {
+    "w": "pretty",
+    "ph": "ˈprɪti",
+    "pos": "adv.",
+    "zh": "相当；非常",
+    "ex": "The test was pretty easy for most students.",
+    "exzh": "这次考试对大多数学生来说相当容易。"
+  },
+  {
+    "w": "prevail",
+    "ph": "prɪˈveɪl",
+    "pos": "v.",
+    "zh": "盛行；占优势",
+    "ex": "Good sense finally prevailed in the discussion.",
+    "exzh": "讨论中理智最终占了上风。"
+  },
+  {
+    "w": "prevention",
+    "ph": "prɪˈvenʃn",
+    "pos": "n.",
+    "zh": "预防；防止",
+    "ex": "Fire prevention is everyone's responsibility in the building.",
+    "exzh": "在这栋楼里防火是每个人的责任。"
+  },
+  {
+    "w": "prey",
+    "ph": "preɪ",
+    "pos": "n.",
+    "zh": "猎物；捕获物",
+    "ex": "Owls hunt their prey silently at night.",
+    "exzh": "猫头鹰在夜间悄无声息地捕食。"
+  },
+  {
+    "w": "price",
+    "ph": "praɪs",
+    "pos": "n.",
+    "zh": "价格；代价",
+    "ex": "The price of vegetables has risen this month.",
+    "exzh": "这个月蔬菜的价格上涨了。"
+  },
+  {
+    "w": "pride",
+    "ph": "praɪd",
+    "pos": "n.",
+    "zh": "自豪；骄傲",
+    "ex": "She takes great pride in her students' progress.",
+    "exzh": "她为学生们的进步感到非常自豪。"
+  },
+  {
+    "w": "priest",
+    "ph": "priːst",
+    "pos": "n.",
+    "zh": "神父；牧师",
+    "ex": "The priest spoke quietly with the worried family.",
+    "exzh": "牧师与那家忧心的人轻声交谈。"
+  },
+  {
+    "w": "primarily",
+    "ph": "praɪˈmerəli",
+    "pos": "adv.",
+    "zh": "主要地；首先",
+    "ex": "The course is designed primarily for first-year students.",
+    "exzh": "这门课程主要为一二年级学生设计。"
+  },
+  {
+    "w": "primary",
+    "ph": "ˈpraɪmeri",
+    "pos": "adj.",
+    "zh": "主要的；初级的",
+    "ex": "Our primary goal is to finish the work on time.",
+    "exzh": "我们的主要目标是按时完成工作。"
+  },
+  {
+    "w": "prime",
+    "ph": "praɪm",
+    "pos": "adj.",
+    "zh": "首要的；最好的",
+    "ex": "Safety is the prime concern at this factory.",
+    "exzh": "安全是这家工厂的首要问题。"
+  },
+  {
+    "w": "primitive",
+    "ph": "ˈprɪmətɪv",
+    "pos": "adj.",
+    "zh": "原始的；简陋的",
+    "ex": "They lived in a primitive hut without electricity.",
+    "exzh": "他们住在一间没有电的简陋小屋里。"
+  },
+  {
+    "w": "prince",
+    "ph": "prɪns",
+    "pos": "n.",
+    "zh": "王子；亲王",
+    "ex": "The young prince loved riding in the forest.",
+    "exzh": "年轻的王子喜欢在森林里骑马。"
+  },
+  {
+    "w": "princess",
+    "ph": "ˈprɪnses",
+    "pos": "n.",
+    "zh": "公主",
+    "ex": "The princess waved to the crowd from the balcony.",
+    "exzh": "公主从阳台上向人群挥手。"
+  },
+  {
+    "w": "principal",
+    "ph": "ˈprɪnsəpl",
+    "pos": "adj.",
+    "zh": "主要的；最重要的",
+    "ex": "Coffee is the principal export of that country.",
+    "exzh": "咖啡是那个国家的主要出口产品。"
+  },
+  {
+    "w": "print",
+    "ph": "prɪnt",
+    "pos": "v.",
+    "zh": "打印；印刷",
+    "ex": "Could you print two copies of this document?",
+    "exzh": "你能把这份文件打印两份吗？"
+  },
+  {
+    "w": "printer",
+    "ph": "ˈprɪntər",
+    "pos": "n.",
+    "zh": "打印机；印刷工",
+    "ex": "The printer in our office has run out of paper.",
+    "exzh": "我们办公室的打印机没纸了。"
+  },
+  {
+    "w": "prior",
+    "ph": "ˈpraɪər",
+    "pos": "adj.",
+    "zh": "先前的；优先的",
+    "ex": "You need prior approval before using this equipment.",
+    "exzh": "使用这台设备之前你需要事先获得批准。"
+  },
+  {
+    "w": "prison",
+    "ph": "ˈprɪzn",
+    "pos": "n.",
+    "zh": "监狱；监禁",
+    "ex": "He spent three years in prison for theft.",
+    "exzh": "他因盗窃在监狱里待了三年。"
+  },
+  {
+    "w": "prisoner",
+    "ph": "ˈprɪznər",
+    "pos": "n.",
+    "zh": "囚犯；俘虏",
+    "ex": "The prisoner was released after serving his sentence.",
+    "exzh": "那名囚犯服刑期满后获释。"
+  },
+  {
+    "w": "privacy",
+    "ph": "ˈpraɪvəsi",
+    "pos": "n.",
+    "zh": "隐私；私密",
+    "ex": "Everyone has the right to protect his own privacy.",
+    "exzh": "每个人都有权保护自己的隐私。"
+  },
+  {
+    "w": "privilege",
+    "ph": "ˈprɪvəlɪdʒ",
+    "pos": "n.",
+    "zh": "特权；优待",
+    "ex": "It is a privilege to work with such talented people.",
+    "exzh": "能与如此有才华的人共事是一种荣幸。"
+  },
+  {
+    "w": "prize",
+    "ph": "praɪz",
+    "pos": "n.",
+    "zh": "奖品；奖金",
+    "ex": "She won first prize in the speech contest.",
+    "exzh": "她在演讲比赛中获得了一等奖。"
+  },
+  {
+    "w": "probability",
+    "ph": "ˌprɑːbəˈbɪləti",
+    "pos": "n.",
+    "zh": "可能性；概率",
+    "ex": "There is a high probability of rain tomorrow.",
+    "exzh": "明天下雨的可能性很大。"
+  },
+  {
+    "w": "probable",
+    "ph": "ˈprɑːbəbl",
+    "pos": "adj.",
+    "zh": "很可能的",
+    "ex": "A probable cause of the fire was an old wire.",
+    "exzh": "火灾的一个可能原因是一根旧电线。"
+  },
+  {
+    "w": "probably",
+    "ph": "ˈprɑːbəbli",
+    "pos": "adv.",
+    "zh": "很可能；大概",
+    "ex": "He will probably arrive before eight tonight.",
+    "exzh": "他今晚很可能八点前到。"
+  },
+  {
+    "w": "problem",
+    "ph": "ˈprɑːbləm",
+    "pos": "n.",
+    "zh": "问题；难题",
+    "ex": "We must solve this problem before the deadline.",
+    "exzh": "我们必须在截止日期前解决这个问题。"
+  },
+  {
+    "w": "proceed",
+    "ph": "prəˈsiːd",
+    "pos": "v.",
+    "zh": "继续进行；前进",
+    "ex": "After a short break, we proceeded with the meeting.",
+    "exzh": "短暂休息后，我们继续开会。"
+  },
+  {
+    "w": "process",
+    "ph": "ˈprɑːses",
+    "pos": "n.",
+    "zh": "过程；进程",
+    "ex": "Learning a new skill is a slow process.",
+    "exzh": "学习一项新技能是一个缓慢的过程。"
+  },
+  {
+    "w": "procession",
+    "ph": "prəˈseʃn",
+    "pos": "n.",
+    "zh": "队伍；行列",
+    "ex": "A long procession moved slowly through the streets.",
+    "exzh": "一支长长的队伍缓慢地穿过街道。"
+  },
+  {
+    "w": "producer",
+    "ph": "prəˈduːsər",
+    "pos": "n.",
+    "zh": "生产者；制片人",
+    "ex": "This country is a major producer of rice.",
+    "exzh": "这个国家是大米的主要生产国。"
+  },
+  {
+    "w": "product",
+    "ph": "ˈprɑːdʌkt",
+    "pos": "n.",
+    "zh": "产品；产物",
+    "ex": "Their new product sells well in foreign markets.",
+    "exzh": "他们的新产品在国外市场很畅销。"
+  },
+  {
+    "w": "production",
+    "ph": "prəˈdʌkʃn",
+    "pos": "n.",
+    "zh": "生产；产量",
+    "ex": "The factory increased production by twenty percent.",
+    "exzh": "这家工厂把产量提高了百分之二十。"
+  },
+  {
+    "w": "productive",
+    "ph": "prəˈdʌktɪv",
+    "pos": "adj.",
+    "zh": "多产的；富有成效的",
+    "ex": "We had a productive discussion about the new plan.",
+    "exzh": "我们就新计划进行了富有成效的讨论。"
+  },
+  {
+    "w": "professional",
+    "ph": "prəˈfeʃənl",
+    "pos": "adj.",
+    "zh": "专业的；职业的",
+    "ex": "You should ask a professional for advice on this.",
+    "exzh": "这件事你应该向专业人士寻求建议。"
+  },
+  {
+    "w": "professor",
+    "ph": "prəˈfesər",
+    "pos": "n.",
+    "zh": "教授",
+    "ex": "The professor explained the theory in simple words.",
+    "exzh": "教授用简单的语言解释了这个理论。"
+  },
+  {
+    "w": "proficiency",
+    "ph": "prəˈfɪʃnsi",
+    "pos": "n.",
+    "zh": "熟练；精通",
+    "ex": "He passed the test of English proficiency last year.",
+    "exzh": "他去年通过了英语水平考试。"
+  },
+  {
+    "w": "proficient",
+    "ph": "prəˈfɪʃnt",
+    "pos": "adj.",
+    "zh": "熟练的；精通的",
+    "ex": "She is proficient in both English and Japanese.",
+    "exzh": "她精通英语和日语。"
+  },
+  {
+    "w": "profile",
+    "ph": "ˈproʊfaɪl",
+    "pos": "n.",
+    "zh": "简介；侧面",
+    "ex": "Please complete your profile before posting messages.",
+    "exzh": "发布消息之前请完善你的个人资料。"
+  },
+  {
+    "w": "profitable",
+    "ph": "ˈprɑːfɪtəbl",
+    "pos": "adj.",
+    "zh": "有利可图的；有益的",
+    "ex": "The small shop became profitable within one year.",
+    "exzh": "这家小店在一年内就开始盈利了。"
+  },
+  {
+    "w": "profound",
+    "ph": "prəˈfaʊnd",
+    "pos": "adj.",
+    "zh": "深刻的；深远的",
+    "ex": "The book had a profound influence on my thinking.",
+    "exzh": "这本书对我的思想有深远的影响。"
+  },
+  {
+    "w": "program",
+    "ph": "ˈproʊɡræm",
+    "pos": "n.",
+    "zh": "节目；计划",
+    "ex": "There is an interesting program about birds tonight.",
+    "exzh": "今晚有一个关于鸟类的有趣节目。"
+  },
+  {
+    "w": "progressive",
+    "ph": "prəˈɡresɪv",
+    "pos": "adj.",
+    "zh": "进步的；逐渐的",
+    "ex": "The school is known for its progressive teaching methods.",
+    "exzh": "这所学校以其先进的教学方法而闻名。"
+  },
+  {
+    "w": "prohibit",
+    "ph": "prəˈhɪbɪt",
+    "pos": "v.",
+    "zh": "禁止；阻止",
+    "ex": "The rules prohibit smoking anywhere in the building.",
+    "exzh": "规定禁止在这栋楼内任何地方吸烟。"
+  },
+  {
+    "w": "prohibition",
+    "ph": "ˌproʊəˈbɪʃn",
+    "pos": "n.",
+    "zh": "禁止；禁令",
+    "ex": "There is a strict prohibition on smoking in hospitals.",
+    "exzh": "医院里严禁吸烟。"
+  },
+  {
+    "w": "projection",
+    "ph": "prəˈdʒekʃn",
+    "pos": "n.",
+    "zh": "预测；投影",
+    "ex": "The company's sales projection for next year looks hopeful.",
+    "exzh": "公司对明年的销售预测看起来很有希望。"
+  },
+  {
+    "w": "prolong",
+    "ph": "prəˈlɔːŋ",
+    "pos": "v.",
+    "zh": "延长；拖延",
+    "ex": "Regular exercise may prolong your healthy years.",
+    "exzh": "经常锻炼可能延长你的健康岁月。"
+  },
+  {
+    "w": "prominent",
+    "ph": "ˈprɑːmɪnənt",
+    "pos": "adj.",
+    "zh": "著名的；突出的",
+    "ex": "He is a prominent figure in modern Chinese art.",
+    "exzh": "他是中国现代艺术界的著名人物。"
+  },
+  {
+    "w": "promise",
+    "ph": "ˈprɑːmɪs",
+    "pos": "v.",
+    "zh": "承诺；答应",
+    "ex": "He promised to call me as soon as he arrived.",
+    "exzh": "他答应一到就给我打电话。"
+  },
+  {
+    "w": "promotion",
+    "ph": "prəˈmoʊʃn",
+    "pos": "n.",
+    "zh": "晋升；促销",
+    "ex": "She got a promotion after three years of hard work.",
+    "exzh": "努力工作三年后她获得了晋升。"
+  },
+  {
+    "w": "prompt",
+    "ph": "prɑːmpt",
+    "pos": "adj.",
+    "zh": "迅速的；及时的",
+    "ex": "Thank you for your prompt reply to my email.",
+    "exzh": "感谢你及时回复我的邮件。"
+  },
+  {
+    "w": "pronounce",
+    "ph": "prəˈnaʊns",
+    "pos": "v.",
+    "zh": "发音；宣布",
+    "ex": "Can you pronounce this word for me slowly?",
+    "exzh": "你能慢慢帮我读一下这个单词吗？"
+  },
+  {
+    "w": "pronunciation",
+    "ph": "prəˌnʌnsiˈeɪʃn",
+    "pos": "n.",
+    "zh": "发音；读法",
+    "ex": "Her English pronunciation is clear and easy to follow.",
+    "exzh": "她的英语发音清晰易懂。"
+  },
+  {
+    "w": "proof",
+    "ph": "pruːf",
+    "pos": "n.",
+    "zh": "证据；证明",
+    "ex": "The police found no proof that he was there.",
+    "exzh": "警方没有找到他在那里的证据。"
+  },
+  {
+    "w": "propaganda",
+    "ph": "ˌprɑːpəˈɡændə",
+    "pos": "n.",
+    "zh": "宣传；鼓吹",
+    "ex": "We should read the news carefully and avoid propaganda.",
+    "exzh": "我们应当谨慎阅读新闻，避免受宣传影响。"
+  },
+  {
+    "w": "proper",
+    "ph": "ˈprɑːpər",
+    "pos": "adj.",
+    "zh": "适当的；正确的",
+    "ex": "Put the tools back in their proper places.",
+    "exzh": "把工具放回它们该放的地方。"
+  },
+  {
+    "w": "property",
+    "ph": "ˈprɑːpərti",
+    "pos": "n.",
+    "zh": "财产；房产",
+    "ex": "He owns several properties in the city center.",
+    "exzh": "他在市中心拥有几处房产。"
+  },
+  {
+    "w": "proportion",
+    "ph": "prəˈpɔːrʃn",
+    "pos": "n.",
+    "zh": "比例；部分",
+    "ex": "A large proportion of the students live on campus.",
+    "exzh": "很大一部分学生住在校内。"
+  },
+  {
+    "w": "proportional",
+    "ph": "prəˈpɔːrʃənl",
+    "pos": "adj.",
+    "zh": "成比例的；相称的",
+    "ex": "Your pay will be proportional to the hours worked.",
+    "exzh": "你的报酬将与工作时长成比例。"
+  },
+  {
+    "w": "proposal",
+    "ph": "prəˈpoʊzl",
+    "pos": "n.",
+    "zh": "提议；方案",
+    "ex": "The committee accepted her proposal without argument.",
+    "exzh": "委员会毫无争议地接受了她的提议。"
+  },
+  {
+    "w": "propose",
+    "ph": "prəˈpoʊz",
+    "pos": "v.",
+    "zh": "提议；打算",
+    "ex": "I propose that we meet again next Friday.",
+    "exzh": "我提议我们下周五再见面。"
+  },
+  {
+    "w": "prospect",
+    "ph": "ˈprɑːspekt",
+    "pos": "n.",
+    "zh": "前景；可能性",
+    "ex": "The prospect of studying abroad excites her.",
+    "exzh": "出国留学的前景让她很兴奋。"
+  },
+  {
+    "w": "prosper",
+    "ph": "ˈprɑːspər",
+    "pos": "v.",
+    "zh": "繁荣；兴旺",
+    "ex": "Small businesses prosper when the local economy grows.",
+    "exzh": "当地经济增长时小企业就会兴旺。"
+  },
+  {
+    "w": "prosperity",
+    "ph": "prɑːˈsperəti",
+    "pos": "n.",
+    "zh": "繁荣；兴旺",
+    "ex": "Peace is necessary for the prosperity of any nation.",
+    "exzh": "和平是任何国家繁荣的必要条件。"
+  },
+  {
+    "w": "prosperous",
+    "ph": "ˈprɑːspərəs",
+    "pos": "adj.",
+    "zh": "繁荣的；富裕的",
+    "ex": "They moved to a prosperous coastal city last spring.",
+    "exzh": "去年春天他们搬到了一座繁荣的沿海城市。"
+  },
+  {
+    "w": "protect",
+    "ph": "prəˈtekt",
+    "pos": "v.",
+    "zh": "保护；防护",
+    "ex": "We must protect these old trees from being cut.",
+    "exzh": "我们必须保护这些老树不被砍伐。"
+  },
+  {
+    "w": "protection",
+    "ph": "prəˈtekʃn",
+    "pos": "n.",
+    "zh": "保护；防护",
+    "ex": "This cream offers good protection against sunburn.",
+    "exzh": "这种面霜能很好地防晒。"
+  },
+  {
+    "w": "protective",
+    "ph": "prəˈtektɪv",
+    "pos": "adj.",
+    "zh": "保护的；防护的",
+    "ex": "Workers must wear protective clothing in this workshop.",
+    "exzh": "工人在这间车间必须穿防护服。"
+  },
+  {
+    "w": "protein",
+    "ph": "ˈproʊtiːn",
+    "pos": "n.",
+    "zh": "蛋白质",
+    "ex": "Beans and eggs are good sources of protein.",
+    "exzh": "豆类和鸡蛋是很好的蛋白质来源。"
+  },
+  {
+    "w": "protest",
+    "ph": "prəˈtest",
+    "pos": "v.",
+    "zh": "抗议；反对",
+    "ex": "Local farmers protested against the new road plan.",
+    "exzh": "当地农民抗议新的修路计划。"
+  },
+  {
+    "w": "proud",
+    "ph": "praʊd",
+    "pos": "adj.",
+    "zh": "自豪的；骄傲的",
+    "ex": "My parents are proud of my progress in English.",
+    "exzh": "我父母为我英语的进步感到自豪。"
+  },
+  {
+    "w": "prove",
+    "ph": "pruːv",
+    "pos": "v.",
+    "zh": "证明；证实",
+    "ex": "These facts prove that the plan can work.",
+    "exzh": "这些事实证明这个计划是可行的。"
+  },
+  {
+    "w": "proverb",
+    "ph": "ˈprɑːvɜːrb",
+    "pos": "n.",
+    "zh": "谚语；格言",
+    "ex": "This old proverb still teaches us something useful today.",
+    "exzh": "这句古老的谚语今天仍然教给我们有用的道理。"
+  },
+  {
+    "w": "province",
+    "ph": "ˈprɑːvɪns",
+    "pos": "n.",
+    "zh": "省；领域",
+    "ex": "He grew up in a small village in this province.",
+    "exzh": "他在这个省的一个小村庄长大。"
+  },
+  {
+    "w": "provision",
+    "ph": "prəˈvɪʒn",
+    "pos": "n.",
+    "zh": "供给；条款",
+    "ex": "The school makes provision for students with special needs.",
+    "exzh": "学校为有特殊需要的学生提供保障。"
+  },
+  {
+    "w": "prudent",
+    "ph": "ˈpruːdnt",
+    "pos": "adj.",
+    "zh": "谨慎的；精明的",
+    "ex": "It is prudent to save some money every month.",
+    "exzh": "每个月存一些钱是明智的做法。"
+  },
+  {
+    "w": "psychological",
+    "ph": "ˌsaɪkəˈlɑːdʒɪkl",
+    "pos": "adj.",
+    "zh": "心理的；心理学的",
+    "ex": "The injury caused him long-term psychological stress.",
+    "exzh": "那次受伤给他造成了长期的心理压力。"
+  },
+  {
+    "w": "psychology",
+    "ph": "saɪˈkɑːlədʒi",
+    "pos": "n.",
+    "zh": "心理学；心理",
+    "ex": "She studies psychology because she wants to help people.",
+    "exzh": "她学习心理学是因为她想帮助别人。"
+  },
+  {
+    "w": "pub",
+    "ph": "pʌb",
+    "pos": "n.",
+    "zh": "酒吧；酒馆",
+    "ex": "They met in a quiet pub near the station.",
+    "exzh": "他们在车站附近一家安静的酒吧见面。"
+  },
+  {
+    "w": "public",
+    "ph": "ˈpʌblɪk",
+    "pos": "adj.",
+    "zh": "公共的；公开的",
+    "ex": "The public library opens at nine every morning.",
+    "exzh": "公共图书馆每天早上九点开门。"
+  },
+  {
+    "w": "publication",
+    "ph": "ˌpʌblɪˈkeɪʃn",
+    "pos": "n.",
+    "zh": "出版；出版物",
+    "ex": "The publication of her novel made her famous.",
+    "exzh": "她小说的出版使她出了名。"
+  },
+  {
+    "w": "publicity",
+    "ph": "pʌbˈlɪsəti",
+    "pos": "n.",
+    "zh": "宣传；名声",
+    "ex": "The concert received a lot of publicity in local papers.",
+    "exzh": "这场音乐会在当地报纸上得到了大量宣传。"
+  },
+  {
+    "w": "publish",
+    "ph": "ˈpʌblɪʃ",
+    "pos": "v.",
+    "zh": "出版；发表",
+    "ex": "The magazine will publish his story next month.",
+    "exzh": "这本杂志下个月将发表他的故事。"
+  },
+  {
+    "w": "pulse",
+    "ph": "pʌls",
+    "pos": "n.",
+    "zh": "脉搏；脉冲",
+    "ex": "The nurse checked the patient's pulse and temperature.",
+    "exzh": "护士检查了病人的脉搏和体温。"
+  },
+  {
+    "w": "pump",
+    "ph": "pʌmp",
+    "pos": "n.",
+    "zh": "泵；抽水机",
+    "ex": "The old pump in the garden no longer works.",
+    "exzh": "花园里的旧抽水泵已经不能用了。"
+  },
+  {
+    "w": "punch",
+    "ph": "pʌntʃ",
+    "pos": "v.",
+    "zh": "用拳猛击；打孔",
+    "ex": "He punched a hole in the ticket before returning it.",
+    "exzh": "他还票之前在票上打了个孔。"
+  },
+  {
+    "w": "punctual",
+    "ph": "ˈpʌŋktʃuəl",
+    "pos": "adj.",
+    "zh": "准时的；守时的",
+    "ex": "Please be punctual for the interview tomorrow morning.",
+    "exzh": "明天上午面试请准时到场。"
+  },
+  {
+    "w": "punish",
+    "ph": "ˈpʌnɪʃ",
+    "pos": "v.",
+    "zh": "惩罚；处罚",
+    "ex": "The school will punish students who cheat in exams.",
+    "exzh": "学校将处罚考试作弊的学生。"
+  },
+  {
+    "w": "punishment",
+    "ph": "ˈpʌnɪʃmənt",
+    "pos": "n.",
+    "zh": "惩罚；处罚",
+    "ex": "The punishment for breaking the rule is a small fine.",
+    "exzh": "违反规定的处罚是一笔小额罚款。"
+  },
+  {
+    "w": "pupil",
+    "ph": "ˈpjuːpɪl",
+    "pos": "n.",
+    "zh": "小学生；瞳孔",
+    "ex": "Every pupil in the class received a new book.",
+    "exzh": "班上每个学生都收到了一本新书。"
+  },
+  {
+    "w": "pure",
+    "ph": "pjʊr",
+    "pos": "adj.",
+    "zh": "纯净的；纯粹的",
+    "ex": "The mountain village has clean air and pure water.",
+    "exzh": "这个山村有清新的空气和纯净的水。"
+  },
+  {
+    "w": "purify",
+    "ph": "ˈpjʊrɪfaɪ",
+    "pos": "v.",
+    "zh": "净化；提纯",
+    "ex": "These plants help purify the air in the room.",
+    "exzh": "这些植物有助于净化室内的空气。"
+  },
+  {
+    "w": "purple",
+    "ph": "ˈpɜːrpl",
+    "pos": "adj.",
+    "zh": "紫色的",
+    "ex": "She planted purple flowers along the garden wall.",
+    "exzh": "她沿着花园的墙种了紫色的花。"
+  },
+  {
+    "w": "purse",
+    "ph": "pɜːrs",
+    "pos": "n.",
+    "zh": "钱包；手提包",
+    "ex": "My purse was in the bag beside the door.",
+    "exzh": "我的钱包在门边的包里。"
+  },
+  {
+    "w": "pursue",
+    "ph": "pərˈsuː",
+    "pos": "v.",
+    "zh": "追求；追赶",
+    "ex": "He decided to pursue a career in medicine.",
+    "exzh": "他决定从事医学方面的职业。"
+  },
+  {
+    "w": "pursuit",
+    "ph": "pərˈsuːt",
+    "pos": "n.",
+    "zh": "追求；追赶",
+    "ex": "Her pursuit of knowledge never stopped after graduation.",
+    "exzh": "毕业后她对知识的追求从未停止。"
+  },
+  {
+    "w": "puzzle",
+    "ph": "ˈpʌzl",
+    "pos": "n.",
+    "zh": "谜；难题",
+    "ex": "This word puzzle took me nearly an hour.",
+    "exzh": "这个单词谜题花了我将近一个小时。"
+  },
+  {
+    "w": "pyramid",
+    "ph": "ˈpɪrəmɪd",
+    "pos": "n.",
+    "zh": "金字塔；锥体",
+    "ex": "The children built a pyramid with wooden blocks.",
+    "exzh": "孩子们用木块搭了一个金字塔。"
+  }
+]

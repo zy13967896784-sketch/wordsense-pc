@@ -1,0 +1,1642 @@
+[
+  {
+    "w": "bachelor",
+    "ph": "ˈbætʃələr",
+    "pos": "n.",
+    "zh": "单身汉；学士",
+    "ex": "He earned a bachelor degree in economics last June.",
+    "exzh": "他去年六月获得了经济学学士学位。"
+  },
+  {
+    "w": "backache",
+    "ph": "ˈbækeɪk",
+    "pos": "n.",
+    "zh": "背痛",
+    "ex": "Sitting too long at the desk gave him a bad backache.",
+    "exzh": "长时间坐在书桌前使他背痛得厉害。"
+  },
+  {
+    "w": "background",
+    "ph": "ˈbækɡraʊnd",
+    "pos": "n.",
+    "zh": "背景；经历",
+    "ex": "The photo shows a quiet village with mountains in the background.",
+    "exzh": "这张照片展示了一个安静的村庄，背景是群山。"
+  },
+  {
+    "w": "backpack",
+    "ph": "ˈbækpæk",
+    "pos": "n.",
+    "zh": "背包",
+    "ex": "He carried a heavy backpack during the three-day hike.",
+    "exzh": "在为期三天的徒步中，他背着一个沉重的背包。"
+  },
+  {
+    "w": "backup",
+    "ph": "ˈbækʌp",
+    "pos": "n.",
+    "zh": "备份；后备",
+    "ex": "Always keep a backup of your important files.",
+    "exzh": "请始终为你的重要文件保留备份。"
+  },
+  {
+    "w": "backward",
+    "ph": "ˈbækwərd",
+    "pos": "adj./adv.",
+    "zh": "向后的；落后的",
+    "ex": "He took a backward step and almost fell down.",
+    "exzh": "他向后退了一步，差点摔倒。"
+  },
+  {
+    "w": "backyard",
+    "ph": "ˌbækˈjɑːrd",
+    "pos": "n.",
+    "zh": "后院",
+    "ex": "The children built a small snowman in the backyard.",
+    "exzh": "孩子们在后院堆了一个小雪人。"
+  },
+  {
+    "w": "bacon",
+    "ph": "ˈbeɪkən",
+    "pos": "n.",
+    "zh": "熏肉；培根",
+    "ex": "She fried some bacon and eggs for breakfast.",
+    "exzh": "她煎了一些培根和鸡蛋当早餐。"
+  },
+  {
+    "w": "bacteria",
+    "ph": "bækˈtɪriə",
+    "pos": "n.",
+    "zh": "细菌",
+    "ex": "Some bacteria can cause serious illness in young children.",
+    "exzh": "有些细菌会使幼儿患上严重疾病。"
+  },
+  {
+    "w": "badge",
+    "ph": "bædʒ",
+    "pos": "n.",
+    "zh": "徽章；标记",
+    "ex": "Every visitor must wear a badge inside the building.",
+    "exzh": "每位访客在大楼内都必须佩戴徽章。"
+  },
+  {
+    "w": "badminton",
+    "ph": "ˈbædmɪntən",
+    "pos": "n.",
+    "zh": "羽毛球",
+    "ex": "They play badminton in the gym every Tuesday evening.",
+    "exzh": "他们每周二晚上在体育馆打羽毛球。"
+  },
+  {
+    "w": "baggage",
+    "ph": "ˈbæɡɪdʒ",
+    "pos": "n.",
+    "zh": "行李",
+    "ex": "Please keep your baggage with you at all times.",
+    "exzh": "请随时把行李带在身边。"
+  },
+  {
+    "w": "baker",
+    "ph": "ˈbeɪkər",
+    "pos": "n.",
+    "zh": "面包师",
+    "ex": "The baker starts work at four every morning.",
+    "exzh": "这位面包师每天早上四点开始工作。"
+  },
+  {
+    "w": "bakery",
+    "ph": "ˈbeɪkəri",
+    "pos": "n.",
+    "zh": "面包店",
+    "ex": "She buys fresh bread from the bakery every morning.",
+    "exzh": "她每天早上从这家面包店买新鲜面包。"
+  },
+  {
+    "w": "balcony",
+    "ph": "ˈbælkəni",
+    "pos": "n.",
+    "zh": "阳台；楼座",
+    "ex": "They grow tomatoes and flowers on the small balcony.",
+    "exzh": "他们在小阳台上种西红柿和花。"
+  },
+  {
+    "w": "bald",
+    "ph": "bɔːld",
+    "pos": "adj.",
+    "zh": "秃头的；无毛的",
+    "ex": "The old man has been bald since his early thirties.",
+    "exzh": "这位老人从三十出头就开始秃头了。"
+  },
+  {
+    "w": "ballet",
+    "ph": "bæˈleɪ",
+    "pos": "n.",
+    "zh": "芭蕾舞",
+    "ex": "She has studied ballet since she was six years old.",
+    "exzh": "她从六岁起就学习芭蕾舞。"
+  },
+  {
+    "w": "balloon",
+    "ph": "bəˈluːn",
+    "pos": "n.",
+    "zh": "气球",
+    "ex": "The child let go of the balloon and it floated away.",
+    "exzh": "孩子松开了气球，它飘走了。"
+  },
+  {
+    "w": "ballot",
+    "ph": "ˈbælət",
+    "pos": "n./v.",
+    "zh": "选票；投票",
+    "ex": "Voters placed their ballots in the box quietly.",
+    "exzh": "选民们安静地把选票放进箱子里。"
+  },
+  {
+    "w": "bamboo",
+    "ph": "ˌbæmˈbuː",
+    "pos": "n.",
+    "zh": "竹子",
+    "ex": "The chair is made of light and strong bamboo.",
+    "exzh": "这把椅子由轻而结实的竹子制成。"
+  },
+  {
+    "w": "band",
+    "ph": "bænd",
+    "pos": "n.",
+    "zh": "乐队；带子",
+    "ex": "The band played three songs at the school party.",
+    "exzh": "乐队在学校聚会上演奏了三首歌。"
+  },
+  {
+    "w": "bandage",
+    "ph": "ˈbændɪdʒ",
+    "pos": "n./v.",
+    "zh": "绷带；包扎",
+    "ex": "The nurse put a clean bandage on his injured arm.",
+    "exzh": "护士在他受伤的手臂上包了干净的绷带。"
+  },
+  {
+    "w": "bandit",
+    "ph": "ˈbændɪt",
+    "pos": "n.",
+    "zh": "强盗",
+    "ex": "The bandits escaped before the police arrived.",
+    "exzh": "强盗在警察到达之前逃走了。"
+  },
+  {
+    "w": "banker",
+    "ph": "ˈbæŋkər",
+    "pos": "n.",
+    "zh": "银行家",
+    "ex": "Her father worked as a banker for thirty years.",
+    "exzh": "她父亲当了三十年银行家。"
+  },
+  {
+    "w": "bankrupt",
+    "ph": "ˈbæŋkrʌpt",
+    "pos": "adj./v.",
+    "zh": "破产的；使破产",
+    "ex": "The small company went bankrupt after two bad years.",
+    "exzh": "这家小公司经历两年亏损后破产了。"
+  },
+  {
+    "w": "banner",
+    "ph": "ˈbænər",
+    "pos": "n.",
+    "zh": "横幅；旗帜",
+    "ex": "Students hung a large banner above the school gate.",
+    "exzh": "学生们在校门上方挂了一条大横幅。"
+  },
+  {
+    "w": "banquet",
+    "ph": "ˈbæŋkwɪt",
+    "pos": "n.",
+    "zh": "宴会",
+    "ex": "A formal banquet was held for the visiting teachers.",
+    "exzh": "为来访的老师们举行了正式宴会。"
+  },
+  {
+    "w": "bar",
+    "ph": "bɑːr",
+    "pos": "n./v.",
+    "zh": "酒吧；条；阻挡",
+    "ex": "He ordered a drink at the bar near the hotel.",
+    "exzh": "他在酒店附近的酒吧点了一杯饮料。"
+  },
+  {
+    "w": "barbecue",
+    "ph": "ˈbɑːrbɪkjuː",
+    "pos": "n./v.",
+    "zh": "烧烤",
+    "ex": "We had a barbecue in the garden on Saturday.",
+    "exzh": "我们星期六在花园里烧烤。"
+  },
+  {
+    "w": "barber",
+    "ph": "ˈbɑːrbər",
+    "pos": "n.",
+    "zh": "理发师",
+    "ex": "The barber cut his hair short for the summer.",
+    "exzh": "理发师为他把头发剪短以便过夏天。"
+  },
+  {
+    "w": "bare",
+    "ph": "ber",
+    "pos": "adj.",
+    "zh": "赤裸的；空的；仅有的",
+    "ex": "She walked on the beach with bare feet.",
+    "exzh": "她光着脚在沙滩上走。"
+  },
+  {
+    "w": "barely",
+    "ph": "ˈberli",
+    "pos": "adv.",
+    "zh": "几乎不；仅仅",
+    "ex": "He could barely hear the teacher in the noisy room.",
+    "exzh": "在嘈杂的房间里他几乎听不见老师说话。"
+  },
+  {
+    "w": "bark",
+    "ph": "bɑːrk",
+    "pos": "v./n.",
+    "zh": "吠叫；树皮",
+    "ex": "The dog began to bark loudly at the stranger.",
+    "exzh": "狗开始对着陌生人狂吠。"
+  },
+  {
+    "w": "barn",
+    "ph": "bɑːrn",
+    "pos": "n.",
+    "zh": "谷仓",
+    "ex": "They stored hay and old tools in the wooden barn.",
+    "exzh": "他们把干草和旧工具存放在木制谷仓里。"
+  },
+  {
+    "w": "barrel",
+    "ph": "ˈbærəl",
+    "pos": "n.",
+    "zh": "桶",
+    "ex": "The workers rolled the heavy barrel into the truck.",
+    "exzh": "工人们把沉重的桶滚上卡车。"
+  },
+  {
+    "w": "base",
+    "ph": "beɪs",
+    "pos": "n./v.",
+    "zh": "基础；基地；以…为基础",
+    "ex": "The company moved its base to a larger city.",
+    "exzh": "公司把基地迁到了一座更大的城市。"
+  },
+  {
+    "w": "baseball",
+    "ph": "ˈbeɪsbɔːl",
+    "pos": "n.",
+    "zh": "棒球",
+    "ex": "He plays baseball with his friends every Saturday afternoon.",
+    "exzh": "他每周六下午和朋友们打棒球。"
+  },
+  {
+    "w": "basement",
+    "ph": "ˈbeɪsmənt",
+    "pos": "n.",
+    "zh": "地下室",
+    "ex": "They keep old furniture and tools in the basement.",
+    "exzh": "他们把旧家具和工具放在地下室。"
+  },
+  {
+    "w": "basic",
+    "ph": "ˈbeɪsɪk",
+    "pos": "adj.",
+    "zh": "基本的；基础的",
+    "ex": "Everyone should learn some basic first aid skills.",
+    "exzh": "每个人都应该学一些基本的急救技能。"
+  },
+  {
+    "w": "basin",
+    "ph": "ˈbeɪsən",
+    "pos": "n.",
+    "zh": "盆；流域",
+    "ex": "She washed the vegetables in a small plastic basin.",
+    "exzh": "她在小塑料盆里洗蔬菜。"
+  },
+  {
+    "w": "bat",
+    "ph": "bæt",
+    "pos": "n.",
+    "zh": "蝙蝠；球拍",
+    "ex": "A bat flew silently through the dark garden.",
+    "exzh": "一只蝙蝠无声地飞过黑暗的花园。"
+  },
+  {
+    "w": "batch",
+    "ph": "bætʃ",
+    "pos": "n.",
+    "zh": "一批；一炉",
+    "ex": "The first batch of bread came out at noon.",
+    "exzh": "第一批面包中午出炉。"
+  },
+  {
+    "w": "bathe",
+    "ph": "beɪð",
+    "pos": "v.",
+    "zh": "洗澡；沐浴",
+    "ex": "The children bathe in the river during hot summer days.",
+    "exzh": "炎热的夏天孩子们在河里洗澡。"
+  },
+  {
+    "w": "bathtub",
+    "ph": "ˈbæθtʌb",
+    "pos": "n.",
+    "zh": "浴缸",
+    "ex": "She filled the bathtub with warm water and soap.",
+    "exzh": "她把浴缸放满温水和肥皂。"
+  },
+  {
+    "w": "battery",
+    "ph": "ˈbætəri",
+    "pos": "n.",
+    "zh": "电池",
+    "ex": "My phone battery dies quickly when I play games.",
+    "exzh": "我玩游戏时手机电池很快就没电了。"
+  },
+  {
+    "w": "battle",
+    "ph": "ˈbætəl",
+    "pos": "n./v.",
+    "zh": "战斗；斗争",
+    "ex": "The soldiers won an important battle near the river.",
+    "exzh": "士兵们在河边赢得了一场重要的战斗。"
+  },
+  {
+    "w": "bay",
+    "ph": "beɪ",
+    "pos": "n.",
+    "zh": "海湾",
+    "ex": "Small boats were floating quietly in the blue bay.",
+    "exzh": "小船静静漂浮在蓝色的海湾里。"
+  },
+  {
+    "w": "bead",
+    "ph": "biːd",
+    "pos": "n.",
+    "zh": "珠子",
+    "ex": "She wore a string of glass beads around her neck.",
+    "exzh": "她脖子上戴着一串玻璃珠。"
+  },
+  {
+    "w": "beak",
+    "ph": "biːk",
+    "pos": "n.",
+    "zh": "鸟嘴；喙",
+    "ex": "The bird used its beak to break the hard seed.",
+    "exzh": "那只鸟用喙啄开坚硬的种子。"
+  },
+  {
+    "w": "beam",
+    "ph": "biːm",
+    "pos": "n./v.",
+    "zh": "梁；光束；照射",
+    "ex": "A beam of sunlight came through the narrow window.",
+    "exzh": "一束阳光透过窄窗照进来。"
+  },
+  {
+    "w": "bean",
+    "ph": "biːn",
+    "pos": "n.",
+    "zh": "豆；豆类",
+    "ex": "She added green beans and carrots to the soup.",
+    "exzh": "她在汤里加了青豆和胡萝卜。"
+  },
+  {
+    "w": "beard",
+    "ph": "bɪrd",
+    "pos": "n.",
+    "zh": "胡须",
+    "ex": "He has grown a short beard since last winter.",
+    "exzh": "自从去年冬天以来他留了短胡须。"
+  },
+  {
+    "w": "beast",
+    "ph": "biːst",
+    "pos": "n.",
+    "zh": "野兽；牲畜",
+    "ex": "The hunters followed the beast into the thick forest.",
+    "exzh": "猎人们跟着野兽进入密林。"
+  },
+  {
+    "w": "beauty",
+    "ph": "ˈbjuːti",
+    "pos": "n.",
+    "zh": "美；美人；美景",
+    "ex": "They stopped to admire the beauty of the lake.",
+    "exzh": "他们停下来欣赏湖的美景。"
+  },
+  {
+    "w": "bedtime",
+    "ph": "ˈbedtaɪm",
+    "pos": "n.",
+    "zh": "就寝时间",
+    "ex": "The little boy's bedtime is eight o'clock on school nights.",
+    "exzh": "上学期间小男孩的就寝时间是八点。"
+  },
+  {
+    "w": "beer",
+    "ph": "bɪr",
+    "pos": "n.",
+    "zh": "啤酒",
+    "ex": "He ordered a cold beer after the long walk.",
+    "exzh": "长途步行后他点了一杯冰啤酒。"
+  },
+  {
+    "w": "beetle",
+    "ph": "ˈbiːtəl",
+    "pos": "n.",
+    "zh": "甲虫",
+    "ex": "A black beetle crawled slowly across the garden path.",
+    "exzh": "一只黑色甲虫慢慢爬过花园小径。"
+  },
+  {
+    "w": "beg",
+    "ph": "beɡ",
+    "pos": "v.",
+    "zh": "乞求；恳求",
+    "ex": "The boy begged his mother for one more story.",
+    "exzh": "男孩恳求妈妈再讲一个故事。"
+  },
+  {
+    "w": "beggar",
+    "ph": "ˈbeɡər",
+    "pos": "n.",
+    "zh": "乞丐",
+    "ex": "An old beggar sat quietly at the corner of the street.",
+    "exzh": "一位老乞丐安静地坐在街角。"
+  },
+  {
+    "w": "beginner",
+    "ph": "bɪˈɡɪnər",
+    "pos": "n.",
+    "zh": "初学者",
+    "ex": "This book is written for beginners of English.",
+    "exzh": "这本书是为英语初学者写的。"
+  },
+  {
+    "w": "beginning",
+    "ph": "bɪˈɡɪnɪŋ",
+    "pos": "n.",
+    "zh": "开始；开端",
+    "ex": "The beginning of the film was slow but interesting.",
+    "exzh": "电影的开头节奏缓慢但很有趣。"
+  },
+  {
+    "w": "behalf",
+    "ph": "bɪˈhæf",
+    "pos": "n.",
+    "zh": "代表；利益",
+    "ex": "She accepted the prize on behalf of her team.",
+    "exzh": "她代表她的团队领奖。"
+  },
+  {
+    "w": "behavior",
+    "ph": "bɪˈheɪvjər",
+    "pos": "n.",
+    "zh": "行为；举止",
+    "ex": "His behavior in class has improved a lot this term.",
+    "exzh": "这学期他在课堂上的表现进步了很多。"
+  },
+  {
+    "w": "being",
+    "ph": "ˈbiːɪŋ",
+    "pos": "n.",
+    "zh": "存在；生物",
+    "ex": "Every living being needs water, air, and food.",
+    "exzh": "每一个生物都需要水、空气和食物。"
+  },
+  {
+    "w": "bell",
+    "ph": "bel",
+    "pos": "n.",
+    "zh": "铃；钟",
+    "ex": "The school bell rings at eight every morning.",
+    "exzh": "学校每天早上八点打铃。"
+  },
+  {
+    "w": "belly",
+    "ph": "ˈbeli",
+    "pos": "n.",
+    "zh": "腹部；肚子",
+    "ex": "He lay on his belly to look under the bed.",
+    "exzh": "他趴在地上往床底下看。"
+  },
+  {
+    "w": "belong",
+    "ph": "bɪˈlɔːŋ",
+    "pos": "v.",
+    "zh": "属于",
+    "ex": "These old books belong to my grandfather.",
+    "exzh": "这些旧书属于我祖父。"
+  },
+  {
+    "w": "beloved",
+    "ph": "bɪˈlʌvɪd",
+    "pos": "adj.",
+    "zh": "心爱的；挚爱的",
+    "ex": "He wrote a poem for his beloved grandmother.",
+    "exzh": "他为心爱的祖母写了一首诗。"
+  },
+  {
+    "w": "belt",
+    "ph": "belt",
+    "pos": "n.",
+    "zh": "腰带；地带",
+    "ex": "He tightened his belt and walked out of the door.",
+    "exzh": "他系紧腰带走出了门。"
+  },
+  {
+    "w": "bench",
+    "ph": "bentʃ",
+    "pos": "n.",
+    "zh": "长椅；工作台",
+    "ex": "They sat on a park bench and talked for hours.",
+    "exzh": "他们坐在公园长椅上聊了几个小时。"
+  },
+  {
+    "w": "bend",
+    "ph": "bend",
+    "pos": "v.",
+    "zh": "弯曲；屈服",
+    "ex": "Bend your knees slowly and keep your back straight.",
+    "exzh": "慢慢屈膝，保持背部挺直。"
+  },
+  {
+    "w": "beneath",
+    "ph": "bɪˈniːθ",
+    "pos": "prep.",
+    "zh": "在…下面",
+    "ex": "A small cat was hiding beneath the wooden table.",
+    "exzh": "一只小猫躲在木桌下面。"
+  },
+  {
+    "w": "beneficial",
+    "ph": "ˌbenɪˈfɪʃəl",
+    "pos": "adj.",
+    "zh": "有益的",
+    "ex": "Regular exercise is beneficial to both body and mind.",
+    "exzh": "经常锻炼对身心都有益。"
+  },
+  {
+    "w": "berry",
+    "ph": "ˈberi",
+    "pos": "n.",
+    "zh": "浆果",
+    "ex": "The children picked red berries along the forest path.",
+    "exzh": "孩子们沿着森林小路摘红色浆果。"
+  },
+  {
+    "w": "besides",
+    "ph": "bɪˈsaɪdz",
+    "pos": "prep./adv.",
+    "zh": "除…之外；而且",
+    "ex": "Besides English, she also studies French and Japanese.",
+    "exzh": "除了英语，她还学法语和日语。"
+  },
+  {
+    "w": "bet",
+    "ph": "bet",
+    "pos": "v./n.",
+    "zh": "打赌；赌注",
+    "ex": "I bet he will arrive late again this morning.",
+    "exzh": "我打赌他今天上午又会迟到。"
+  },
+  {
+    "w": "beverage",
+    "ph": "ˈbevərɪdʒ",
+    "pos": "n.",
+    "zh": "饮料",
+    "ex": "Coffee is the most popular beverage in this office.",
+    "exzh": "咖啡是这个办公室里最受欢迎的饮料。"
+  },
+  {
+    "w": "beware",
+    "ph": "bɪˈwer",
+    "pos": "v.",
+    "zh": "当心；谨防",
+    "ex": "Beware of the wet floor near the swimming pool.",
+    "exzh": "当心游泳池附近的湿地。"
+  },
+  {
+    "w": "bias",
+    "ph": "ˈbaɪəs",
+    "pos": "n./v.",
+    "zh": "偏见；偏向",
+    "ex": "The report showed a clear bias against small farmers.",
+    "exzh": "报告显示出对小农户明显的偏见。"
+  },
+  {
+    "w": "bid",
+    "ph": "bɪd",
+    "pos": "v./n.",
+    "zh": "出价；投标",
+    "ex": "Several companies bid for the new railway project.",
+    "exzh": "几家公司为新的铁路项目投标。"
+  },
+  {
+    "w": "bilingual",
+    "ph": "baɪˈlɪŋɡwəl",
+    "pos": "adj.",
+    "zh": "双语的",
+    "ex": "Children in bilingual schools learn two languages at once.",
+    "exzh": "双语学校的孩子同时学习两种语言。"
+  },
+  {
+    "w": "bill",
+    "ph": "bɪl",
+    "pos": "n.",
+    "zh": "账单；法案；钞票",
+    "ex": "The waiter brought the bill after we finished dinner.",
+    "exzh": "我们吃完晚饭后服务员送来了账单。"
+  },
+  {
+    "w": "billboard",
+    "ph": "ˈbɪlbɔːrd",
+    "pos": "n.",
+    "zh": "广告牌",
+    "ex": "A huge billboard for a new phone stands by the road.",
+    "exzh": "路边立着一块巨大的新手机广告牌。"
+  },
+  {
+    "w": "billion",
+    "ph": "ˈbɪljən",
+    "pos": "n.",
+    "zh": "十亿",
+    "ex": "The new bridge cost more than one billion dollars.",
+    "exzh": "这座新桥耗资超过十亿美元。"
+  },
+  {
+    "w": "billionaire",
+    "ph": "ˌbɪljəˈner",
+    "pos": "n.",
+    "zh": "亿万富翁",
+    "ex": "The billionaire gave most of his money to charity.",
+    "exzh": "这位亿万富翁把大部分钱捐给了慈善机构。"
+  },
+  {
+    "w": "biography",
+    "ph": "baɪˈɑːɡrəfi",
+    "pos": "n.",
+    "zh": "传记",
+    "ex": "She is reading a biography of a famous scientist.",
+    "exzh": "她正在读一位著名科学家的传记。"
+  },
+  {
+    "w": "biology",
+    "ph": "baɪˈɑːlədʒi",
+    "pos": "n.",
+    "zh": "生物学",
+    "ex": "She chose biology as her main subject at university.",
+    "exzh": "她在大学选择生物学作为主修专业。"
+  },
+  {
+    "w": "birthplace",
+    "ph": "ˈbɜːrθpleɪs",
+    "pos": "n.",
+    "zh": "出生地",
+    "ex": "The old town is the birthplace of many famous writers.",
+    "exzh": "这座古镇是许多著名作家的出生地。"
+  },
+  {
+    "w": "biscuit",
+    "ph": "ˈbɪskɪt",
+    "pos": "n.",
+    "zh": "饼干",
+    "ex": "He ate two biscuits with a cup of hot tea.",
+    "exzh": "他就着一杯热茶吃了两块饼干。"
+  },
+  {
+    "w": "bite",
+    "ph": "baɪt",
+    "pos": "v./n.",
+    "zh": "咬；一口",
+    "ex": "Be careful, that small dog may bite strangers.",
+    "exzh": "小心，那只小狗可能会咬陌生人。"
+  },
+  {
+    "w": "bitter",
+    "ph": "ˈbɪtər",
+    "pos": "adj.",
+    "zh": "苦的；痛苦的",
+    "ex": "The medicine tasted so bitter that he drank water quickly.",
+    "exzh": "药太苦了，他赶紧喝水。"
+  },
+  {
+    "w": "blacksmith",
+    "ph": "ˈblæksmɪθ",
+    "pos": "n.",
+    "zh": "铁匠",
+    "ex": "The village blacksmith repaired tools for local farmers.",
+    "exzh": "村里的铁匠为当地农民修理工具。"
+  },
+  {
+    "w": "blade",
+    "ph": "bleɪd",
+    "pos": "n.",
+    "zh": "刀刃；叶片",
+    "ex": "The knife blade was sharp and shiny in the light.",
+    "exzh": "刀刃在光线下又锋利又闪亮。"
+  },
+  {
+    "w": "blank",
+    "ph": "blæŋk",
+    "pos": "adj./n.",
+    "zh": "空白的；空白",
+    "ex": "He stared at the blank page for half an hour.",
+    "exzh": "他盯着空白页看了半个小时。"
+  },
+  {
+    "w": "blanket",
+    "ph": "ˈblæŋkɪt",
+    "pos": "n.",
+    "zh": "毯子",
+    "ex": "She pulled a warm blanket over the sleeping child.",
+    "exzh": "她把一条温暖的毯子盖在睡着的孩子身上。"
+  },
+  {
+    "w": "blast",
+    "ph": "blæst",
+    "pos": "n./v.",
+    "zh": "爆炸；一阵（风）",
+    "ex": "A sudden blast of wind blew the papers away.",
+    "exzh": "突然一阵风把纸吹走了。"
+  },
+  {
+    "w": "blaze",
+    "ph": "bleɪz",
+    "pos": "n./v.",
+    "zh": "火焰；燃烧",
+    "ex": "Firefighters worked all night to control the blaze.",
+    "exzh": "消防员工作了一整夜来控制火势。"
+  },
+  {
+    "w": "bleak",
+    "ph": "bliːk",
+    "pos": "adj.",
+    "zh": "荒凉的；凄凉的",
+    "ex": "The future looked bleak for the small factory.",
+    "exzh": "这家小工厂的前景看起来一片暗淡。"
+  },
+  {
+    "w": "bleed",
+    "ph": "bliːd",
+    "pos": "v.",
+    "zh": "流血",
+    "ex": "His hand began to bleed after the small cut.",
+    "exzh": "划了一道小口后他的手开始流血。"
+  },
+  {
+    "w": "blend",
+    "ph": "blend",
+    "pos": "v./n.",
+    "zh": "混合；混合物",
+    "ex": "Blend the eggs and sugar until the mixture is smooth.",
+    "exzh": "把鸡蛋和糖混合搅拌至顺滑。"
+  },
+  {
+    "w": "bless",
+    "ph": "bles",
+    "pos": "v.",
+    "zh": "祝福；保佑",
+    "ex": "The old priest blessed the couple before the ceremony.",
+    "exzh": "老神父在仪式前为这对夫妇祝福。"
+  },
+  {
+    "w": "blessing",
+    "ph": "ˈblesɪŋ",
+    "pos": "n.",
+    "zh": "祝福；幸事",
+    "ex": "Good health is a blessing that many people ignore.",
+    "exzh": "健康是许多人忽视的一种福气。"
+  },
+  {
+    "w": "blind",
+    "ph": "blaɪnd",
+    "pos": "adj./v.",
+    "zh": "失明的；使失明",
+    "ex": "The blind man crossed the road with his guide dog.",
+    "exzh": "那位盲人在导盲犬的陪伴下过马路。"
+  },
+  {
+    "w": "blink",
+    "ph": "blɪŋk",
+    "pos": "v./n.",
+    "zh": "眨眼；闪烁",
+    "ex": "He blinked several times when the bright light came on.",
+    "exzh": "明亮的灯亮起时他眨了好几下眼。"
+  },
+  {
+    "w": "block",
+    "ph": "blɑːk",
+    "pos": "n./v.",
+    "zh": "街区；阻塞",
+    "ex": "A fallen tree blocked the road for three hours.",
+    "exzh": "一棵倒下的树把路堵了三个小时。"
+  },
+  {
+    "w": "blond",
+    "ph": "blɑːnd",
+    "pos": "adj./n.",
+    "zh": "金发的",
+    "ex": "The little girl has long blond hair and blue eyes.",
+    "exzh": "那个小女孩有金色的长发和蓝色的眼睛。"
+  },
+  {
+    "w": "bloom",
+    "ph": "bluːm",
+    "pos": "v./n.",
+    "zh": "开花；花朵",
+    "ex": "These roses bloom beautifully at the end of May.",
+    "exzh": "这些玫瑰在五月底开得很美。"
+  },
+  {
+    "w": "blossom",
+    "ph": "ˈblɑːsəm",
+    "pos": "n./v.",
+    "zh": "花；开花",
+    "ex": "The cherry trees blossom early in this warm spring.",
+    "exzh": "在这个温暖的春天樱花树早早开花了。"
+  },
+  {
+    "w": "blouse",
+    "ph": "blaʊs",
+    "pos": "n.",
+    "zh": "女式衬衫",
+    "ex": "She wore a white blouse and a dark skirt.",
+    "exzh": "她穿着白色女式衬衫和深色裙子。"
+  },
+  {
+    "w": "blueprint",
+    "ph": "ˈbluːprɪnt",
+    "pos": "n.",
+    "zh": "蓝图；计划",
+    "ex": "The architect showed us the blueprint of the new library.",
+    "exzh": "建筑师给我们看了新图书馆的蓝图。"
+  },
+  {
+    "w": "blunt",
+    "ph": "blʌnt",
+    "pos": "adj.",
+    "zh": "钝的；直率的",
+    "ex": "The knife is too blunt to cut the bread.",
+    "exzh": "这把刀太钝了，切不了面包。"
+  },
+  {
+    "w": "blur",
+    "ph": "blɜːr",
+    "pos": "v./n.",
+    "zh": "模糊；模糊不清",
+    "ex": "Tears began to blur her eyes during the speech.",
+    "exzh": "演讲时泪水开始模糊了她的双眼。"
+  },
+  {
+    "w": "blush",
+    "ph": "blʌʃ",
+    "pos": "v./n.",
+    "zh": "脸红",
+    "ex": "She blushed when the teacher praised her essay.",
+    "exzh": "老师表扬她的作文时她脸红了。"
+  },
+  {
+    "w": "board",
+    "ph": "bɔːrd",
+    "pos": "n./v.",
+    "zh": "木板；董事会；登（机）",
+    "ex": "Passengers should board the plane ten minutes early.",
+    "exzh": "乘客应提前十分钟登机。"
+  },
+  {
+    "w": "boast",
+    "ph": "boʊst",
+    "pos": "v.",
+    "zh": "自夸；吹嘘",
+    "ex": "He often boasts about his son's exam results.",
+    "exzh": "他经常炫耀儿子的考试成绩。"
+  },
+  {
+    "w": "boil",
+    "ph": "bɔɪl",
+    "pos": "v.",
+    "zh": "煮沸；沸腾",
+    "ex": "Boil the water for three minutes before drinking it.",
+    "exzh": "水要煮三分钟再喝。"
+  },
+  {
+    "w": "bold",
+    "ph": "boʊld",
+    "pos": "adj.",
+    "zh": "大胆的；醒目的",
+    "ex": "It was a bold decision to change her career.",
+    "exzh": "改变职业对她来说是个大胆的决定。"
+  },
+  {
+    "w": "bolt",
+    "ph": "boʊlt",
+    "pos": "n./v.",
+    "zh": "螺栓；插销；猛冲",
+    "ex": "He locked the door with a heavy iron bolt.",
+    "exzh": "他用一根沉重的铁插销锁上了门。"
+  },
+  {
+    "w": "bomb",
+    "ph": "bɑːm",
+    "pos": "n./v.",
+    "zh": "炸弹；轰炸",
+    "ex": "The old bomb was found near the railway station.",
+    "exzh": "这枚旧炸弹是在火车站附近发现的。"
+  },
+  {
+    "w": "bond",
+    "ph": "bɑːnd",
+    "pos": "n./v.",
+    "zh": "纽带；债券；结合",
+    "ex": "The bond between the two sisters is very strong.",
+    "exzh": "两姐妹之间的纽带非常牢固。"
+  },
+  {
+    "w": "bonus",
+    "ph": "ˈboʊnəs",
+    "pos": "n.",
+    "zh": "奖金；额外好处",
+    "ex": "All the workers received a bonus at the year's end.",
+    "exzh": "所有工人在年底都收到了一笔奖金。"
+  },
+  {
+    "w": "boom",
+    "ph": "buːm",
+    "pos": "n./v.",
+    "zh": "繁荣；激增",
+    "ex": "The city saw a building boom during the past decade.",
+    "exzh": "过去十年这座城市经历了建设热潮。"
+  },
+  {
+    "w": "boot",
+    "ph": "buːt",
+    "pos": "n.",
+    "zh": "靴子",
+    "ex": "He put on his muddy boots before entering the garden.",
+    "exzh": "他进花园前穿上了沾满泥的靴子。"
+  },
+  {
+    "w": "booth",
+    "ph": "buːθ",
+    "pos": "n.",
+    "zh": "亭；摊位",
+    "ex": "We ordered coffee at a small booth near the station.",
+    "exzh": "我们在车站附近的小摊位买了咖啡。"
+  },
+  {
+    "w": "border",
+    "ph": "ˈbɔːrdər",
+    "pos": "n./v.",
+    "zh": "边界；边境",
+    "ex": "The two countries share a long and peaceful border.",
+    "exzh": "两国共享一条漫长而平静的边界。"
+  },
+  {
+    "w": "bore",
+    "ph": "bɔːr",
+    "pos": "v./n.",
+    "zh": "使厌烦；钻孔",
+    "ex": "Long speeches bore the students and they stop listening.",
+    "exzh": "冗长的演讲让学生感到厌烦，他们不再听。"
+  },
+  {
+    "w": "boring",
+    "ph": "ˈbɔːrɪŋ",
+    "pos": "adj.",
+    "zh": "无聊的；乏味的",
+    "ex": "The lecture was so boring that many people left early.",
+    "exzh": "讲座太无聊了，许多人提前离开。"
+  },
+  {
+    "w": "boss",
+    "ph": "bɔːs",
+    "pos": "n.",
+    "zh": "老板；上司",
+    "ex": "My boss asked me to finish the report by Friday.",
+    "exzh": "我的老板要求我在周五前完成报告。"
+  },
+  {
+    "w": "bother",
+    "ph": "ˈbɑːðər",
+    "pos": "v.",
+    "zh": "打扰；麻烦",
+    "ex": "Sorry to bother you, but I need some help.",
+    "exzh": "抱歉打扰你，但我需要一些帮助。"
+  },
+  {
+    "w": "bottom",
+    "ph": "ˈbɑːtəm",
+    "pos": "n.",
+    "zh": "底部；尽头",
+    "ex": "His name was written at the bottom of the page.",
+    "exzh": "他的名字写在页面底部。"
+  },
+  {
+    "w": "bounce",
+    "ph": "baʊns",
+    "pos": "v./n.",
+    "zh": "弹跳",
+    "ex": "The ball bounced twice and then rolled away.",
+    "exzh": "球弹了两下然后滚开了。"
+  },
+  {
+    "w": "bound",
+    "ph": "baʊnd",
+    "pos": "adj./v.",
+    "zh": "一定的；受约束的；跳跃",
+    "ex": "The train is bound for the coast in twenty minutes.",
+    "exzh": "这趟列车二十分钟后开往海岸。"
+  },
+  {
+    "w": "boundary",
+    "ph": "ˈbaʊndəri",
+    "pos": "n.",
+    "zh": "边界；界限",
+    "ex": "The river forms the natural boundary between the two villages.",
+    "exzh": "这条河构成两个村庄之间的天然边界。"
+  },
+  {
+    "w": "bow",
+    "ph": "boʊ",
+    "pos": "v./n.",
+    "zh": "鞠躬；弓",
+    "ex": "He bowed politely before the audience and left the stage.",
+    "exzh": "他向观众礼貌地鞠躬后离开了舞台。"
+  },
+  {
+    "w": "bowling",
+    "ph": "ˈboʊlɪŋ",
+    "pos": "n.",
+    "zh": "保龄球",
+    "ex": "We went bowling after dinner on Friday evening.",
+    "exzh": "星期五晚上吃完饭后我们去打保龄球。"
+  },
+  {
+    "w": "boxing",
+    "ph": "ˈbɑːksɪŋ",
+    "pos": "n.",
+    "zh": "拳击",
+    "ex": "Boxing is a popular sport in many countries.",
+    "exzh": "拳击在许多国家是一项受欢迎的运动。"
+  },
+  {
+    "w": "boycott",
+    "ph": "ˈbɔɪkɑːt",
+    "pos": "v./n.",
+    "zh": "抵制",
+    "ex": "Some customers decided to boycott the company's products.",
+    "exzh": "一些顾客决定抵制这家公司的产品。"
+  },
+  {
+    "w": "bracket",
+    "ph": "ˈbrækɪt",
+    "pos": "n.",
+    "zh": "括号；支架",
+    "ex": "Put the extra information in brackets at the end.",
+    "exzh": "把补充信息放在末尾的括号里。"
+  },
+  {
+    "w": "brake",
+    "ph": "breɪk",
+    "pos": "n./v.",
+    "zh": "刹车",
+    "ex": "The driver hit the brake to avoid a small dog.",
+    "exzh": "司机踩刹车以避开一只小狗。"
+  },
+  {
+    "w": "branch",
+    "ph": "bræntʃ",
+    "pos": "n.",
+    "zh": "树枝；分支；分部",
+    "ex": "The bank opened a new branch in the town center.",
+    "exzh": "这家银行在市中心开了一家新分行。"
+  },
+  {
+    "w": "brand",
+    "ph": "brænd",
+    "pos": "n./v.",
+    "zh": "品牌；商标",
+    "ex": "This brand of shoes is popular among college students.",
+    "exzh": "这个牌子的鞋在大学生中很受欢迎。"
+  },
+  {
+    "w": "brass",
+    "ph": "bræs",
+    "pos": "n.",
+    "zh": "黄铜",
+    "ex": "The door handle was made of polished brass.",
+    "exzh": "门把手是用抛光的黄铜做的。"
+  },
+  {
+    "w": "brave",
+    "ph": "breɪv",
+    "pos": "adj.",
+    "zh": "勇敢的",
+    "ex": "The brave firefighter saved two children from the fire.",
+    "exzh": "勇敢的消防员从火中救出了两个孩子。"
+  },
+  {
+    "w": "bravery",
+    "ph": "ˈbreɪvəri",
+    "pos": "n.",
+    "zh": "勇敢；勇气",
+    "ex": "He received a medal for bravery during the rescue.",
+    "exzh": "他因救援中的勇敢表现获得了一枚奖章。"
+  },
+  {
+    "w": "breadth",
+    "ph": "bredθ",
+    "pos": "n.",
+    "zh": "宽度；广度",
+    "ex": "The breadth of his knowledge surprised all the teachers.",
+    "exzh": "他知识的广度让所有老师都很惊讶。"
+  },
+  {
+    "w": "breakdown",
+    "ph": "ˈbreɪkdaʊn",
+    "pos": "n.",
+    "zh": "故障；崩溃",
+    "ex": "A car breakdown delayed us by almost two hours.",
+    "exzh": "汽车故障使我们耽搁了将近两个小时。"
+  },
+  {
+    "w": "breakthrough",
+    "ph": "ˈbreɪkθruː",
+    "pos": "n.",
+    "zh": "突破",
+    "ex": "The team made a major breakthrough in cancer research.",
+    "exzh": "该团队在癌症研究中取得了重大突破。"
+  },
+  {
+    "w": "breast",
+    "ph": "brest",
+    "pos": "n.",
+    "zh": "胸部；乳房",
+    "ex": "He held the injured bird gently against his breast.",
+    "exzh": "他把受伤的鸟轻轻抱在胸前。"
+  },
+  {
+    "w": "breath",
+    "ph": "breθ",
+    "pos": "n.",
+    "zh": "呼吸；气息",
+    "ex": "She took a deep breath before the difficult question.",
+    "exzh": "在回答难题前她深吸了一口气。"
+  },
+  {
+    "w": "breathe",
+    "ph": "briːð",
+    "pos": "v.",
+    "zh": "呼吸",
+    "ex": "It is hard to breathe in such polluted air.",
+    "exzh": "在这样污染的空气里很难呼吸。"
+  },
+  {
+    "w": "breed",
+    "ph": "briːd",
+    "pos": "v./n.",
+    "zh": "繁殖；品种",
+    "ex": "These birds breed near the lake every spring.",
+    "exzh": "这些鸟每年春天在湖边繁殖。"
+  },
+  {
+    "w": "breeze",
+    "ph": "briːz",
+    "pos": "n.",
+    "zh": "微风",
+    "ex": "A cool breeze came from the sea in the evening.",
+    "exzh": "傍晚一股凉爽的微风从海上吹来。"
+  },
+  {
+    "w": "brew",
+    "ph": "bruː",
+    "pos": "v.",
+    "zh": "冲泡；酿造",
+    "ex": "She brewed a fresh pot of tea for the guests.",
+    "exzh": "她为客人泡了一壶新茶。"
+  },
+  {
+    "w": "brick",
+    "ph": "brɪk",
+    "pos": "n.",
+    "zh": "砖",
+    "ex": "The old house was built of red brick.",
+    "exzh": "这座老房子是用红砖建的。"
+  },
+  {
+    "w": "bride",
+    "ph": "braɪd",
+    "pos": "n.",
+    "zh": "新娘",
+    "ex": "The bride wore a long white dress at the wedding.",
+    "exzh": "新娘在婚礼上穿着长长的白色礼服。"
+  },
+  {
+    "w": "bridegroom",
+    "ph": "ˈbraɪdɡruːm",
+    "pos": "n.",
+    "zh": "新郎",
+    "ex": "The bridegroom gave a short speech at the dinner.",
+    "exzh": "新郎在晚宴上做了简短的发言。"
+  },
+  {
+    "w": "briefcase",
+    "ph": "ˈbriːfkeɪs",
+    "pos": "n.",
+    "zh": "公文包",
+    "ex": "He left his briefcase on the train this morning.",
+    "exzh": "他今天上午把公文包落在了火车上。"
+  },
+  {
+    "w": "brighten",
+    "ph": "ˈbraɪtən",
+    "pos": "v.",
+    "zh": "使明亮；使愉快",
+    "ex": "Flowers can brighten even the dullest office room.",
+    "exzh": "鲜花能让最沉闷的办公室也亮起来。"
+  },
+  {
+    "w": "brilliant",
+    "ph": "ˈbrɪljənt",
+    "pos": "adj.",
+    "zh": "才华横溢的；明亮的",
+    "ex": "She had a brilliant idea for the school concert.",
+    "exzh": "她为学校音乐会想出了一个绝妙的主意。"
+  },
+  {
+    "w": "brim",
+    "ph": "brɪm",
+    "pos": "n.",
+    "zh": "边缘；帽檐",
+    "ex": "The glass was filled to the brim with cold water.",
+    "exzh": "杯子装满了凉水，满到杯口。"
+  },
+  {
+    "w": "brisk",
+    "ph": "brɪsk",
+    "pos": "adj.",
+    "zh": "轻快的；活跃的",
+    "ex": "He walked at a brisk pace to catch the bus.",
+    "exzh": "他快步走着去赶公交车。"
+  },
+  {
+    "w": "brittle",
+    "ph": "ˈbrɪtəl",
+    "pos": "adj.",
+    "zh": "易碎的；脆的",
+    "ex": "Old paper becomes brittle and breaks very easily.",
+    "exzh": "旧纸变得很脆，很容易破裂。"
+  },
+  {
+    "w": "broad",
+    "ph": "brɔːd",
+    "pos": "adj.",
+    "zh": "宽阔的；广泛的",
+    "ex": "The river is broad and deep near the old town.",
+    "exzh": "这条河在古镇附近又宽又深。"
+  },
+  {
+    "w": "broadcast",
+    "ph": "ˈbrɔːdkæst",
+    "pos": "v./n.",
+    "zh": "广播；播出",
+    "ex": "The station will broadcast the match live on Sunday.",
+    "exzh": "电台将在周日直播这场比赛。"
+  },
+  {
+    "w": "broaden",
+    "ph": "ˈbrɔːdən",
+    "pos": "v.",
+    "zh": "拓宽；扩大",
+    "ex": "Traveling abroad can broaden your view of the world.",
+    "exzh": "出国旅行能拓宽你对世界的看法。"
+  },
+  {
+    "w": "brochure",
+    "ph": "broʊˈʃʊr",
+    "pos": "n.",
+    "zh": "小册子；宣传册",
+    "ex": "She picked up a travel brochure at the airport.",
+    "exzh": "她在机场拿了一本旅游宣传册。"
+  },
+  {
+    "w": "broken",
+    "ph": "ˈbroʊkən",
+    "pos": "adj.",
+    "zh": "破碎的；损坏的",
+    "ex": "The broken window let cold air into the room.",
+    "exzh": "破了的窗户让冷空气进入房间。"
+  },
+  {
+    "w": "broker",
+    "ph": "ˈbroʊkər",
+    "pos": "n.",
+    "zh": "经纪人",
+    "ex": "An insurance broker explained the different plans to us.",
+    "exzh": "一位保险经纪人为我们讲解了不同的方案。"
+  },
+  {
+    "w": "bronze",
+    "ph": "brɑːnz",
+    "pos": "n.",
+    "zh": "青铜；铜牌",
+    "ex": "The statue was cast in bronze a hundred years ago.",
+    "exzh": "这座雕像是一百年前用青铜铸造的。"
+  },
+  {
+    "w": "brook",
+    "ph": "brʊk",
+    "pos": "n.",
+    "zh": "小溪",
+    "ex": "A clear brook runs through the meadow behind the farm.",
+    "exzh": "一条清澈的小溪流过农场后面的草地。"
+  },
+  {
+    "w": "broom",
+    "ph": "bruːm",
+    "pos": "n.",
+    "zh": "扫帚",
+    "ex": "He swept the leaves with an old bamboo broom.",
+    "exzh": "他用一把旧竹扫帚扫落叶。"
+  },
+  {
+    "w": "brow",
+    "ph": "braʊ",
+    "pos": "n.",
+    "zh": "眉毛；额",
+    "ex": "She wiped the sweat from her brow and continued.",
+    "exzh": "她擦掉额头的汗继续工作。"
+  },
+  {
+    "w": "browse",
+    "ph": "braʊz",
+    "pos": "v.",
+    "zh": "浏览；随便翻看",
+    "ex": "He likes to browse the shelves in small bookshops.",
+    "exzh": "他喜欢在小书店里浏览书架。"
+  },
+  {
+    "w": "bruise",
+    "ph": "bruːz",
+    "pos": "n./v.",
+    "zh": "淤伤；撞伤",
+    "ex": "She had a dark bruise on her left knee.",
+    "exzh": "她左膝上有一块深色的淤伤。"
+  },
+  {
+    "w": "brutal",
+    "ph": "ˈbruːtəl",
+    "pos": "adj.",
+    "zh": "残忍的；野蛮的",
+    "ex": "The film shows the brutal effects of the long war.",
+    "exzh": "这部影片展现了长期战争的残酷后果。"
+  },
+  {
+    "w": "bubble",
+    "ph": "ˈbʌbəl",
+    "pos": "n./v.",
+    "zh": "气泡；冒泡",
+    "ex": "Soap bubbles floated across the garden in the wind.",
+    "exzh": "肥皂泡随风飘过花园。"
+  },
+  {
+    "w": "bucket",
+    "ph": "ˈbʌkɪt",
+    "pos": "n.",
+    "zh": "桶",
+    "ex": "He carried a bucket of water to the garden.",
+    "exzh": "他提着一桶水到花园。"
+  },
+  {
+    "w": "bud",
+    "ph": "bʌd",
+    "pos": "n./v.",
+    "zh": "芽；发芽",
+    "ex": "Small green buds appeared on the trees in March.",
+    "exzh": "三月树上冒出了小小的绿芽。"
+  },
+  {
+    "w": "budget",
+    "ph": "ˈbʌdʒɪt",
+    "pos": "n./v.",
+    "zh": "预算",
+    "ex": "The city budget for public transport was increased.",
+    "exzh": "城市公共交通预算被提高了。"
+  },
+  {
+    "w": "buffet",
+    "ph": "bəˈfeɪ",
+    "pos": "n.",
+    "zh": "自助餐",
+    "ex": "Breakfast is served as a buffet from seven to ten.",
+    "exzh": "早餐以自助餐形式供应，从七点到十点。"
+  },
+  {
+    "w": "bug",
+    "ph": "bʌɡ",
+    "pos": "n.",
+    "zh": "虫子；故障",
+    "ex": "A tiny bug was crawling across the kitchen floor.",
+    "exzh": "一只小虫子在厨房地板上爬。"
+  },
+  {
+    "w": "bulb",
+    "ph": "bʌlb",
+    "pos": "n.",
+    "zh": "灯泡；球茎",
+    "ex": "Please change the light bulb in the hallway.",
+    "exzh": "请换一下走廊里的灯泡。"
+  },
+  {
+    "w": "bulk",
+    "ph": "bʌlk",
+    "pos": "n.",
+    "zh": "大部分；体积",
+    "ex": "The bulk of the money came from small donations.",
+    "exzh": "大部分钱来自小额捐款。"
+  },
+  {
+    "w": "bull",
+    "ph": "bʊl",
+    "pos": "n.",
+    "zh": "公牛",
+    "ex": "The farmer kept a strong black bull in the field.",
+    "exzh": "农民在田里养了一头强壮的黑公牛。"
+  },
+  {
+    "w": "bullet",
+    "ph": "ˈbʊlɪt",
+    "pos": "n.",
+    "zh": "子弹",
+    "ex": "A bullet was found near the empty building yesterday.",
+    "exzh": "昨天在空楼附近发现了一颗子弹。"
+  },
+  {
+    "w": "bulletin",
+    "ph": "ˈbʊlətɪn",
+    "pos": "n.",
+    "zh": "公告；简报",
+    "ex": "The weather bulletin warns of heavy snow tonight.",
+    "exzh": "天气简报警告今晚有大雪。"
+  },
+  {
+    "w": "bully",
+    "ph": "ˈbʊli",
+    "pos": "v./n.",
+    "zh": "欺凌；恶霸",
+    "ex": "Older students should never bully younger children.",
+    "exzh": "高年级学生绝不应该欺负低年级孩子。"
+  },
+  {
+    "w": "bump",
+    "ph": "bʌmp",
+    "pos": "v./n.",
+    "zh": "碰撞；肿块",
+    "ex": "He bumped his head on the low wooden door.",
+    "exzh": "他的头撞到了矮木门上。"
+  },
+  {
+    "w": "bumper",
+    "ph": "ˈbʌmpər",
+    "pos": "n.",
+    "zh": "保险杠",
+    "ex": "The front bumper of the car was slightly damaged.",
+    "exzh": "汽车的前保险杠有点损坏。"
+  },
+  {
+    "w": "bunch",
+    "ph": "bʌntʃ",
+    "pos": "n.",
+    "zh": "束；串；一群",
+    "ex": "She bought a bunch of yellow flowers after work.",
+    "exzh": "她下班后买了一束黄花。"
+  },
+  {
+    "w": "bundle",
+    "ph": "ˈbʌndəl",
+    "pos": "n./v.",
+    "zh": "捆；包",
+    "ex": "He carried a bundle of old newspapers to the bin.",
+    "exzh": "他把一捆旧报纸搬到垃圾桶。"
+  },
+  {
+    "w": "burden",
+    "ph": "ˈbɜːrdən",
+    "pos": "n./v.",
+    "zh": "负担；重担",
+    "ex": "The high rent is a heavy burden for young workers.",
+    "exzh": "高房租对年轻工人来说是个沉重负担。"
+  },
+  {
+    "w": "bureau",
+    "ph": "ˈbjʊroʊ",
+    "pos": "n.",
+    "zh": "局；办事处",
+    "ex": "She works at the travel bureau near the station.",
+    "exzh": "她在车站附近的旅行局工作。"
+  },
+  {
+    "w": "burger",
+    "ph": "ˈbɜːrɡər",
+    "pos": "n.",
+    "zh": "汉堡包",
+    "ex": "He ate a burger and fries for a quick lunch.",
+    "exzh": "他吃了一个汉堡和薯条，随便当午餐。"
+  },
+  {
+    "w": "burglar",
+    "ph": "ˈbɜːrɡlər",
+    "pos": "n.",
+    "zh": "窃贼",
+    "ex": "A burglar entered the house through an open window.",
+    "exzh": "一名窃贼从敞开的窗户进了屋。"
+  },
+  {
+    "w": "burial",
+    "ph": "ˈberiəl",
+    "pos": "n.",
+    "zh": "埋葬；葬礼",
+    "ex": "The burial took place in a quiet country cemetery.",
+    "exzh": "葬礼在一个安静的乡村墓地举行。"
+  },
+  {
+    "w": "burst",
+    "ph": "bɜːrst",
+    "pos": "v./n.",
+    "zh": "爆裂；突然发生",
+    "ex": "The water pipe burst and flooded the whole kitchen.",
+    "exzh": "水管爆裂，把整个厨房都淹了。"
+  },
+  {
+    "w": "bury",
+    "ph": "ˈberi",
+    "pos": "v.",
+    "zh": "埋葬；埋藏",
+    "ex": "The dog likes to bury bones in the garden.",
+    "exzh": "这只狗喜欢把骨头埋在花园里。"
+  },
+  {
+    "w": "bush",
+    "ph": "bʊʃ",
+    "pos": "n.",
+    "zh": "灌木；灌木丛",
+    "ex": "A small bird built its nest in the bush.",
+    "exzh": "一只小鸟在灌木丛里筑了巢。"
+  },
+  {
+    "w": "business",
+    "ph": "ˈbɪznəs",
+    "pos": "n.",
+    "zh": "生意；事务",
+    "ex": "He started a small online business after graduation.",
+    "exzh": "毕业后他开了一家小型网上商店。"
+  },
+  {
+    "w": "butcher",
+    "ph": "ˈbʊtʃər",
+    "pos": "n.",
+    "zh": "屠夫；肉店",
+    "ex": "The butcher cut the meat into thin slices.",
+    "exzh": "屠夫把肉切成薄片。"
+  },
+  {
+    "w": "button",
+    "ph": "ˈbʌtən",
+    "pos": "n./v.",
+    "zh": "纽扣；按钮",
+    "ex": "Press the red button to stop the machine.",
+    "exzh": "按红色按钮来停止机器。"
+  },
+  {
+    "w": "buzz",
+    "ph": "bʌz",
+    "pos": "v./n.",
+    "zh": "嗡嗡叫；喧闹",
+    "ex": "Bees buzzed around the flowers in the warm sun.",
+    "exzh": "蜜蜂在暖阳下绕着花丛嗡嗡飞。"
+  },
+  {
+    "w": "bypass",
+    "ph": "ˈbaɪpæs",
+    "pos": "n./v.",
+    "zh": "旁道；绕过",
+    "ex": "The new road bypasses the busy town center.",
+    "exzh": "这条新路绕过了繁忙的市中心。"
+  },
+  {
+    "w": "bystander",
+    "ph": "ˈbaɪstændər",
+    "pos": "n.",
+    "zh": "旁观者",
+    "ex": "A bystander called the police when the accident happened.",
+    "exzh": "事故发生时一名旁观者报了警。"
+  }
+]
