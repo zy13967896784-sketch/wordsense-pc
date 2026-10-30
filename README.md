@@ -1,10 +1,10 @@
-# 词感 WordSense · Windows 版
+﻿# 词感 WordSense · Windows 版
 
 把单词放进真实句子里，跟着原声读出来，再用间隔复习把句子和词一起记住。
 
 Windows 版是原生窗口（WebView2），**不需要 Chrome / Edge，也不会启动浏览器**，不需要管理员权限。
 
-![首页](preview/42-native-ring.png)
+![首页](preview/43-github-icon.png)
 
 ## 功能
 
