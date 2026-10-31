@@ -17,6 +17,7 @@
     sound: true,
     theme: 'auto',
     quizType: 'mix',
+    onlineTts: true,
     homeBank: 'all',
     reminderOn: false,
     reminderTime: '20:30'

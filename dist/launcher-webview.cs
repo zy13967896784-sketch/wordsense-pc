@@ -77,7 +77,7 @@ static class Program
     internal static string BaseDir { get { return baseDir; } }
     internal static string AppDir { get { return appDir; } }
     internal static int ServerPort { get { return Port; } }
-    internal static string Url { get { return "http://127.0.0.1:" + Port + "/"; } }
+    internal static string Url { get { return "http://127.0.0.1:" + Port + "/?desktop=1"; } }
 
     internal static void Log(string message)
     {
@@ -146,6 +146,11 @@ static class Program
                 string method = parts[0].ToUpperInvariant();
                 if (method != "GET" && method != "HEAD") { WriteStatus(ns, "405 Method Not Allowed"); return; }
                 string target = parts[1];
+                if (target.StartsWith("/__tts", StringComparison.OrdinalIgnoreCase))
+                {
+                    HandleTts(ns, target);
+                    return;
+                }
                 int q = target.IndexOf('?');
                 if (q >= 0) target = target.Substring(0, q);
                 string decoded;
@@ -193,6 +198,73 @@ static class Program
                          "Content-Length: " + body.Length + "\r\nAccess-Control-Allow-Origin: *\r\n" +
                          "Cache-Control: no-store\r\nConnection: close\r\n\r\n";
         WriteRaw(ns, headers, body);
+    }
+
+    private static string QueryValue(string target, string name)
+    {
+        int q = target.IndexOf('?');
+        if (q < 0) return "";
+        string[] parts = target.Substring(q + 1).Split('&');
+        for (int i = 0; i < parts.Length; i++)
+        {
+            int eq = parts[i].IndexOf('=');
+            if (eq < 0) continue;
+            string key = parts[i].Substring(0, eq);
+            if (!string.Equals(key, name, StringComparison.OrdinalIgnoreCase)) continue;
+            try { return Uri.UnescapeDataString(parts[i].Substring(eq + 1)); }
+            catch { return ""; }
+        }
+        return "";
+    }
+
+    private static void HandleTts(NetworkStream ns, string target)
+    {
+        string kind = QueryValue(target, "kind");
+        string text = QueryValue(target, "text").Trim();
+        if (text.Length == 0 || text.Length > 500)
+        {
+            WriteStatus(ns, "400 Bad Request");
+            return;
+        }
+        string url;
+        string referer;
+        if (string.Equals(kind, "youdao", StringComparison.OrdinalIgnoreCase))
+        {
+            url = "https://dict.youdao.com/dictvoice?audio=" + Uri.EscapeDataString(text) + "&type=2";
+            referer = "https://dict.youdao.com/";
+        }
+        else
+        {
+            url = "https://fanyi.baidu.com/gettts?lan=en&text=" + Uri.EscapeDataString(text) + "&spd=3&source=web";
+            referer = "https://fanyi.baidu.com/";
+        }
+        try
+        {
+            ServicePointManager.SecurityProtocol |= SecurityProtocolType.Tls12;
+            HttpWebRequest req = (HttpWebRequest)WebRequest.Create(url);
+            req.UserAgent = "Mozilla/5.0";
+            req.Referer = referer;
+            req.Timeout = 15000;
+            req.ReadWriteTimeout = 15000;
+            using (HttpWebResponse resp = (HttpWebResponse)req.GetResponse())
+            using (Stream input = resp.GetResponseStream())
+            using (MemoryStream ms = new MemoryStream())
+            {
+                input.CopyTo(ms);
+                byte[] body = ms.ToArray();
+                string type = string.IsNullOrEmpty(resp.ContentType) ? "audio/mpeg" : resp.ContentType;
+                string headers = "HTTP/1.1 200 OK\r\nContent-Type: " + type +
+                                 "\r\nContent-Length: " + body.Length +
+                                 "\r\nAccess-Control-Allow-Origin: *" +
+                                 "\r\nCache-Control: public, max-age=86400" +
+                                 "\r\nConnection: close\r\n\r\n";
+                WriteRaw(ns, headers, body);
+            }
+        }
+        catch
+        {
+            WriteStatus(ns, "502 Bad Gateway");
+        }
     }
 
     private static void WriteRaw(NetworkStream ns, string headers, byte[] body)
@@ -389,7 +461,8 @@ class MainForm : Form
             string version = CoreWebView2Environment.GetAvailableBrowserVersionString();
             Program.Log("WebView2 runtime=" + version);
             CoreWebView2Environment env = await CoreWebView2Environment.CreateAsync(
-                null, Path.Combine(Program.BaseDir, "WebView2"));
+                null, Path.Combine(Program.BaseDir, "WebView2"),
+                new CoreWebView2EnvironmentOptions("--autoplay-policy=no-user-gesture-required"));
             await webView.EnsureCoreWebView2Async(env);
 
             CoreWebView2 core = webView.CoreWebView2;

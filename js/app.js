@@ -261,25 +261,33 @@
     if (cb) cb();
   };
 
-  function speak(text, btn, opts) {
-    var o = opts || {};
-    var seq = ++speakSeq;
-    var finished = false;
-    function finish() {
-      if (finished || seq !== speakSeq) return;
-      finished = true;
-      if (btn) {
-        btn.classList.remove('is-playing');
-        if (speakingBtn === btn) speakingBtn = null;
-      }
-      var cb = o.onend;
-      o.onend = null;
-      if (cb) cb();
+  var onlineAudio = null;
+  var onlineTimer = null;
+
+  function stopOnlineAudio() {
+    if (onlineTimer) { clearTimeout(onlineTimer); onlineTimer = null; }
+    if (onlineAudio) {
+      try { onlineAudio.pause(); onlineAudio.currentTime = 0; } catch (e) { }
+      onlineAudio = null;
     }
-    // Android 版：WebView 不一定支持 speechSynthesis，走原生 TTS
+  }
+
+  function onlineTtsUrl(text) {
+    if (!store.settings.onlineTts) return '';
+    var t = String(text || '').replace(/\s+/g, ' ').trim();
+    if (!t) return '';
+    var nativeProxy = !!window.AndroidBridge ||
+      (location.hostname === '127.0.0.1' && location.search.indexOf('desktop=1') >= 0);
+    // 网页版已移除；普通浏览器开发页直接走系统 TTS，避免跨域请求
+    if (!nativeProxy) return '';
+    var sentence = /\s/.test(t) || /[.!?;:]/.test(t) || t.length > 24;
+    var kind = sentence ? 'baidu' : 'youdao';
+    return '/__tts?kind=' + kind + '&text=' + encodeURIComponent(t);
+  }
+
+  function speakSystem(text, btn, o, seq, finish) {
     if (window.AndroidBridge && typeof window.AndroidBridge.speak === 'function') {
       try {
-        if (window.speechSynthesis) window.speechSynthesis.cancel();
         if (speakingBtn) speakingBtn.classList.remove('is-playing');
         speakingBtn = btn || null;
         if (btn) btn.classList.add('is-playing');
@@ -288,7 +296,7 @@
         return;
       } catch (e) { /* 退回 Web Speech */ }
     }
-    if (!TTS_OK) { toast('当前浏览器不支持语音朗读'); finish(); return; }
+    if (!TTS_OK) { toast('当前设备不支持语音朗读'); finish(); return; }
     try {
       window.speechSynthesis.cancel();
       var u = new SpeechSynthesisUtterance(text);
@@ -304,6 +312,68 @@
       u.onerror = finish;
       window.speechSynthesis.speak(u);
     } catch (e) { finish(); }
+  }
+
+  function speak(text, btn, opts) {
+    var o = opts || {};
+    var seq = ++speakSeq;
+    var finished = false;
+    function finish() {
+      if (finished || seq !== speakSeq) return;
+      finished = true;
+      if (btn) {
+        btn.classList.remove('is-playing');
+        if (speakingBtn === btn) speakingBtn = null;
+      }
+      var cb = o.onend;
+      o.onend = null;
+      if (cb) cb();
+    }
+
+    stopOnlineAudio();
+    try { if (window.speechSynthesis) window.speechSynthesis.cancel(); } catch (e) { }
+    try {
+      if (window.AndroidBridge && typeof window.AndroidBridge.stop === 'function') window.AndroidBridge.stop();
+    } catch (e) { }
+
+    var url = onlineTtsUrl(text);
+    if (url && typeof Audio !== 'undefined') {
+      var audio;
+      try { audio = new Audio(url); } catch (e) { audio = null; }
+      if (audio) {
+        onlineAudio = audio;
+        audio.preload = 'auto';
+        audio.playbackRate = (Number(o.rate) || 0.9) < 0.85 ? 0.72 : 1;
+        if (speakingBtn) speakingBtn.classList.remove('is-playing');
+        speakingBtn = btn || null;
+        if (btn) btn.classList.add('is-playing');
+
+        var fallback = function () {
+          if (seq !== speakSeq || finished) return;
+          if (onlineAudio === audio) stopOnlineAudio();
+          if (btn) btn.classList.remove('is-playing');
+          speakSystem(text, btn, o, seq, finish);
+        };
+
+        audio.onplaying = function () {
+          if (onlineTimer) { clearTimeout(onlineTimer); onlineTimer = null; }
+        };
+        audio.onended = function () {
+          if (seq !== speakSeq || finished) return;
+          stopOnlineAudio();
+          finish();
+        };
+        audio.onerror = fallback;
+        onlineTimer = setTimeout(fallback, 6000);
+        try {
+          var p = audio.play();
+          if (p && typeof p.catch === 'function') p.catch(fallback);
+        } catch (e) { fallback(); }
+        return;
+      }
+    }
+
+    speakSystem(text, btn, o, seq, finish);
   }
 
   var actx = null;
@@ -1358,6 +1428,7 @@
 
   function cleanupReadMedia() {
     stopAsr();
+    stopOnlineAudio();
     if (readState.autoTimer) { clearTimeout(readState.autoTimer); readState.autoTimer = null; }
     readState.autoPhase = null;
     readState.autoToken += 1;
@@ -1903,6 +1974,7 @@
     if (readState.preTimer) { clearTimeout(readState.preTimer); readState.preTimer = null; }
     readState.preToken++;
     readState.preplaying = false;
+    stopOnlineAudio();
     var btn = $('#recordBtn');
     if (btn) btn.classList.remove('is-preplaying');
     var lab = btn ? $('.rec-label', btn) : null;
@@ -2470,6 +2542,7 @@
         return '<button data-value="' + t[0] + '" class="' + (s.quizType === t[0] ? 'is-active' : '') + '">' + t[1] + '</button>';
       }).join('') + '</div></div>' +
       '<div class="field"><label>朗读音色</label>' +
+      switchRow('onlineTts', '优先在线自然发音（需联网）', s.onlineTts) +
       '<p class="field-note" id="voiceName">当前：' + esc(currentVoiceLabel()) + '</p>' +
       '<div class="voice-row">' +
       '<button type="button" class="mini-btn" data-action="tts-demo">试听</button>' +
@@ -2477,7 +2550,7 @@
         ? '<button type="button" class="mini-btn" data-action="tts-settings">系统语音设置</button>'
         : '') +
       '</div>' +
-      '<p class="field-note">想要更自然，建议在系统里安装/选择英语神经音色；系统 TTS 的语调限制无法完全消除。</p>' +
+      '<p class="field-note">在线发音：单词用有道，整句用百度；断网、超时或接口不可用时自动退回系统 TTS。朗读文本会发送到对应语音服务。</p>' +
       '</div>' +
       '<div class="field"><label>自动评分</label>' +
       '<p class="field-note">' + (asrAvailable()
