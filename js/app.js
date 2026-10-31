@@ -1992,6 +1992,7 @@
     if (scoreSlot) scoreSlot.innerHTML = '';
     var btn = $('#recordBtn');
     setRecordState('正在请求麦克风…');
+    stopOnlineAudio();
     try { if (TTS_OK) window.speechSynthesis.cancel(); } catch (e) { }
     try {
       if (window.AndroidBridge && typeof window.AndroidBridge.stop === 'function') window.AndroidBridge.stop();
