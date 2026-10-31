@@ -1617,7 +1617,7 @@
     if (btn) btn.textContent = show ? '收起翻译' : '看整句翻译';
   }
 
-  function showWordPanel(token, entry) {
+  function showWordPanel(token, entry, autoSpeak) {
     var panel = $('#wordPanel');
     if (!panel) return;
     var known = !!entry;
@@ -1629,6 +1629,10 @@
       (known && entry.ph ? '<p class="wp-ph">/' + esc(entry.ph) + '/ ' + esc(entry.pos || '') + '</p>' : '') +
       '<p class="wp-zh">' + (known ? esc(entry.zh) : '词库暂未收录这个词，可以先听发音。') + '</p>' +
       (known ? '<p class="wp-note">来自「' + esc(entry.bankName) + '」' + (entry.w.toLowerCase() !== token.toLowerCase() ? ' · 原形 ' + esc(entry.w) : '') + '</p>' : '');
+    if (autoSpeak !== false) {
+      var btn = $('[data-speak-token]', panel);
+      speak(token, btn);
+    }
   }
 
   /* ---------- 跟读自动评分 ---------- */
