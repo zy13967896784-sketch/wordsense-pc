@@ -228,14 +228,17 @@ static class Program
         }
         string url;
         string referer;
-        if (string.Equals(kind, "youdao", StringComparison.OrdinalIgnoreCase))
+        if (string.Equals(kind, "youdao", StringComparison.OrdinalIgnoreCase) ||
+            string.Equals(kind, "youdao_uk", StringComparison.OrdinalIgnoreCase))
         {
-            url = "https://dict.youdao.com/dictvoice?audio=" + Uri.EscapeDataString(text) + "&type=2";
+            string type = string.Equals(kind, "youdao_uk", StringComparison.OrdinalIgnoreCase) ? "1" : "2";
+            url = "https://dict.youdao.com/dictvoice?audio=" + Uri.EscapeDataString(text) + "&type=" + type;
             referer = "https://dict.youdao.com/";
         }
         else
         {
-            url = "https://fanyi.baidu.com/gettts?lan=en&text=" + Uri.EscapeDataString(text) + "&spd=3&source=web";
+            string lan = string.Equals(kind, "baidu_uk", StringComparison.OrdinalIgnoreCase) ? "uk" : "en";
+            url = "https://fanyi.baidu.com/gettts?lan=" + lan + "&text=" + Uri.EscapeDataString(text) + "&spd=3&source=web";
             referer = "https://fanyi.baidu.com/";
         }
         try
@@ -294,6 +297,8 @@ static class Program
             case ".ico": return "image/x-icon";
             case ".woff2": return "font/woff2";
             case ".txt": return "text/plain; charset=utf-8";
+            case ".ogg": return "audio/ogg";
+            case ".mp3": return "audio/mpeg";
             default: return "application/octet-stream";
         }
     }

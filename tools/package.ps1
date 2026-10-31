@@ -16,6 +16,7 @@ Copy-Item (Join-Path $root 'index.html') $stage
 Copy-Item (Join-Path $root 'manifest.webmanifest') $stage
 Copy-Item (Join-Path $root 'assets') $stage -Recurse
 Copy-Item (Join-Path $root 'js') $stage -Recurse
+Copy-Item (Join-Path $root 'audio') $stage -Recurse
 Copy-Item (Join-Path $root 'data\words.js') (Join-Path $stage 'data\words.js')
 Remove-Item (Join-Path $stage 'assets\app-icon-source.jpg') -Force -ErrorAction SilentlyContinue
 

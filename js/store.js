@@ -18,6 +18,8 @@
     theme: 'auto',
     quizType: 'mix',
     onlineTts: true,
+    accent: 'us',
+    speechRate: 1,
     homeBank: 'all',
     reminderOn: false,
     reminderTime: '20:30'

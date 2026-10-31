@@ -244,6 +244,8 @@ h3 { font-size: 16px; font-weight: 650; }
   background-repeat: no-repeat; background-position: right 15px center;
 }
 .bank-select:focus { outline: 2px solid var(--jade); outline-offset: 2px; }
+.speed-range { width: 100%; accent-color: var(--jade); margin: 6px 0 2px; }
+#speedVal { color: var(--jade-deep); font-weight: 650; }
 .hero-note { margin-top: 14px; font-size: 12.5px; color: var(--muted); }
 
 .hero-ring { position: relative; display: grid; place-items: center; width: 168px; height: 168px; z-index: 1; }

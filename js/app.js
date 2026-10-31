@@ -236,22 +236,33 @@
   var speakSeq = 0;
   var nativeOnEnd = null;
 
+  function speechRate() {
+    var r = Number(store.settings.speechRate);
+    if (!isFinite(r)) r = 1;
+    return Math.max(0.7, Math.min(1.3, r));
+  }
+
+  function applyAccent() {
+    if (window.AndroidBridge && typeof window.AndroidBridge.setAccent === 'function') {
+      try { window.AndroidBridge.setAccent((store.settings.accent || 'us') === 'uk' ? 'uk' : 'us'); } catch (e) { }
+    }
+  }
+
   function pickWebVoice() {
+    var uk = (store.settings.accent || 'us') === 'uk';
     var en = voices.filter(function (v) { return /^en([-_]|$)/i.test(v.lang || ''); });
-    var prefs = [
-      /Microsoft\s+(Aria|Jenny|Guy).*Natural/i,
-      /Microsoft\s+(Aria|Jenny|Guy)/i,
-      /Google\s+US\s+English/i,
-      /Samantha/i,
-      /Microsoft\s+(Zira|David)/i,
-      /Natural/i
-    ];
+    var target = uk ? /^en[-_]GB/i : /^en[-_]US/i;
+    var regional = en.filter(function (v) { return target.test(v.lang || ''); });
+    var pool = regional.length ? regional : en;
+    var prefs = uk
+      ? [/Microsoft\s+(Libby|Ryan|Sonia|Hazel|George).*Natural/i, /Microsoft\s+(Libby|Ryan|Sonia|Hazel|George)/i, /Daniel/i, /UK\s+English/i, /English\s+United Kingdom/i]
+      : [/Microsoft\s+(Aria|Jenny|Guy).*Natural/i, /Microsoft\s+(Aria|Jenny|Guy)/i, /Google\s+US\s+English/i, /Samantha/i, /Microsoft\s+(Zira|David)/i];
+    prefs.push(/Natural/i);
     for (var i = 0; i < prefs.length; i++) {
-      var hit = en.find(function (v) { return prefs[i].test(v.name || ''); });
+      var hit = pool.find(function (v) { return prefs[i].test(v.name || ''); });
       if (hit) return hit;
     }
-    var us = en.find(function (v) { return /en[-_]US/i.test(v.lang || ''); });
-    return us || en[0] || voices[0] || null;
+    return pool[0] || en[0] || voices[0] || null;
   }
 
   window.__onNativeTtsEnd = function () {
@@ -263,6 +274,41 @@
 
   var onlineAudio = null;
   var onlineTimer = null;
+  var offlineAudioIndex = null;
+  var offlineSentenceIndex = null;
+
+  function loadOfflineAudioIndex() {
+    try {
+      fetch('/audio/index.json', { cache: 'no-cache' }).then(function (r) {
+        if (!r.ok) return null;
+        return r.json();
+      }).then(function (j) { if (j && j.us) offlineAudioIndex = j; }).catch(function () { });
+      fetch('/audio/sentences.json', { cache: 'no-cache' }).then(function (r) {
+        if (!r.ok) return null;
+        return r.json();
+      }).then(function (j) { if (j && j.us) offlineSentenceIndex = j; }).catch(function () { });
+    } catch (e) { }
+  }
+
+  function offlineWordUrl(text) {
+    if (!offlineAudioIndex) return '';
+    var t = String(text || '').trim().toLowerCase();
+    if (!t || /\s/.test(t) || /[.!?;:]/.test(t)) return '';
+    var accent = (store.settings.accent || 'us') === 'uk' ? 'uk' : 'us';
+    var map = offlineAudioIndex[accent];
+    var file = map && map[t];
+    return file ? '/audio/' + accent + '/' + file : '';
+  }
+
+  function offlineSentenceUrl(text) {
+    if (!offlineSentenceIndex) return '';
+    var t = String(text || '').trim();
+    if (!t) return '';
+    var accent = (store.settings.accent || 'us') === 'uk' ? 'uk' : 'us';
+    var map = offlineSentenceIndex[accent];
+    var file = map && map[t];
+    return file ? '/audio/sent-' + accent + '/' + file : '';
+  }
 
   function stopOnlineAudio() {
     if (onlineTimer) { clearTimeout(onlineTimer); onlineTimer = null; }
@@ -281,11 +327,13 @@
     // 网页版已移除；普通浏览器开发页直接走系统 TTS，避免跨域请求
     if (!nativeProxy) return '';
     var sentence = /\s/.test(t) || /[.!?;:]/.test(t) || t.length > 24;
-    var kind = sentence ? 'baidu' : 'youdao';
+    var uk = (store.settings.accent || 'us') === 'uk';
+    var kind = sentence ? (uk ? 'baidu_uk' : 'baidu') : (uk ? 'youdao_uk' : 'youdao');
     return '/__tts?kind=' + kind + '&text=' + encodeURIComponent(t);
   }
 
   function speakSystem(text, btn, o, seq, finish) {
+    applyAccent();
     if (window.AndroidBridge && typeof window.AndroidBridge.speak === 'function') {
       try {
         if (speakingBtn) speakingBtn.classList.remove('is-playing');
@@ -300,8 +348,8 @@
     try {
       window.speechSynthesis.cancel();
       var u = new SpeechSynthesisUtterance(text);
-      u.lang = 'en-US';
-      u.rate = Number(o.rate) || 0.92;
+      u.lang = (store.settings.accent || 'us') === 'uk' ? 'en-GB' : 'en-US';
+      u.rate = Number(o.rate) || speechRate();
       u.pitch = 1;
       u.volume = 1;
       u.voice = pickWebVoice();
@@ -316,6 +364,8 @@
 
   function speak(text, btn, opts) {
     var o = opts || {};
+    var rate = Number(o.rate) || speechRate();
+    o.rate = rate;
     var seq = ++speakSeq;
     var finished = false;
     function finish() {
@@ -336,14 +386,16 @@
       if (window.AndroidBridge && typeof window.AndroidBridge.stop === 'function') window.AndroidBridge.stop();
     } catch (e) { }
 
-    var url = onlineTtsUrl(text);
+    var url = offlineWordUrl(text) || offlineSentenceUrl(text) || onlineTtsUrl(text);
+    window.__lastAudioUrl = url || '';
+    window.__lastSpeechRate = rate;
     if (url && typeof Audio !== 'undefined') {
       var audio;
       try { audio = new Audio(url); } catch (e) { audio = null; }
       if (audio) {
         onlineAudio = audio;
         audio.preload = 'auto';
-        audio.playbackRate = (Number(o.rate) || 0.9) < 0.85 ? 0.72 : 1;
+        audio.playbackRate = Math.max(0.6, Math.min(2, rate));
         if (speakingBtn) speakingBtn.classList.remove('is-playing');
         speakingBtn = btn || null;
         if (btn) btn.classList.add('is-playing');
@@ -1345,7 +1397,7 @@
       setTimeout(function () {
         if (!state.session || state.session.idx !== s.idx || s.answeredNow) return;
         var b = $('[data-action="say"]');
-        if (b) speak(w.ex || w.w, b, { rate: 0.92 });
+        if (b) speak(w.ex || w.w, b, { rate: speechRate() });
       }, 450);
     }
   }
@@ -1682,7 +1734,7 @@
 
     if (!canSpeak()) { beginListen(); return; }
     readState.autoTimer = setTimeout(beginListen, 10000);
-    speak(readState.sentence, null, { rate: 0.95, onend: beginListen });
+    speak(readState.sentence, null, { rate: speechRate(), onend: beginListen });
   }
 
   function stopAutoScore() {
@@ -1971,7 +2023,7 @@
     }
 
     readState.preTimer = setTimeout(startActual, 8000);
-    speak(readState.sentence, null, { rate: 0.95, onend: startActual });
+    speak(readState.sentence, null, { rate: speechRate(), onend: startActual });
   }
 
   function stopPrePlay(silent) {
@@ -2391,7 +2443,7 @@
 
     if (store.settings.autoplay) {
       var b = $('[data-action="speak"]', slot);
-      speak(mode === 'blind' ? (w.ex || w.w) : w.w, b, { rate: mode === 'blind' ? 0.95 : 0.9 });
+      speak(mode === 'blind' ? (w.ex || w.w) : w.w, b, { rate: speechRate() });
     }
   }
 
@@ -2548,6 +2600,13 @@
       }).join('') + '</div></div>' +
       '<div class="field"><label>朗读音色</label>' +
       switchRow('onlineTts', '优先在线自然发音（需联网）', s.onlineTts) +
+      '<div class="field"><label>发音口音</label><div class="seg" data-seg="accent">' +
+      [['us', '美式 US'], ['uk', '英式 UK']].map(function (t) {
+        return '<button data-value="' + t[0] + '" class="' + ((s.accent || 'us') === t[0] ? 'is-active' : '') + '">' + t[1] + '</button>';
+      }).join('') + '</div></div>' +
+      '<div class="field"><label>跟读语速 <b id="speedVal">' + speechRate().toFixed(2) + '×</b></label>' +
+      '<input type="range" class="speed-range" id="speedRange" min="0.7" max="1.3" step="0.05" value="' + speechRate() + '" />' +
+      '<p class="field-note">影响原声、慢读、快刷和盲听；1.00× 为正常速度。</p></div>' +
       '<p class="field-note" id="voiceName">当前：' + esc(currentVoiceLabel()) + '</p>' +
       '<div class="voice-row">' +
       '<button type="button" class="mini-btn" data-action="tts-demo">试听</button>' +
@@ -2556,6 +2615,7 @@
         : '') +
       '</div>' +
       '<p class="field-note">在线发音：单词用有道，整句用百度；断网、超时或接口不可用时自动退回系统 TTS。朗读文本会发送到对应语音服务。</p>' +
+      '<p class="field-note">四级/六级词库已内置美式、英式单词和例句音频，有本地文件时优先离线播放。</p>' +
       '</div>' +
       '<div class="field"><label>自动评分</label>' +
       '<p class="field-note">' + (asrAvailable()
@@ -2585,14 +2645,30 @@
         var val = btn.dataset.value;
         if (key === 'theme') store.setSetting('theme', val);
         else if (key === 'quizType') store.setSetting('quizType', val);
+        else if (key === 'accent') store.setSetting('accent', val);
         else store.setSetting(key, Number(val));
         $$('button', seg).forEach(function (b) { b.classList.toggle('is-active', b === btn); });
+        if (key === 'accent') {
+          var vn = $('#voiceName');
+          if (vn) vn.textContent = '当前：' + currentVoiceLabel();
+          applyAccent();
+        }
         if (key === 'sessionSize') { $('#vSize').textContent = val; $('#sizeCustom').value = val; }
         if (key === 'newPerDay') { $('#vNew').textContent = val; $('#newCustom').value = val; }
         if (key === 'theme') applyTheme();
         renderHome();
       });
     });
+
+    var speedRange = $('#speedRange', m);
+    if (speedRange) {
+      speedRange.addEventListener('input', function () {
+        var v = Math.max(0.7, Math.min(1.3, Number(speedRange.value) || 1));
+        store.setSetting('speechRate', v);
+        var lab = $('#speedVal');
+        if (lab) lab.textContent = v.toFixed(2) + '×';
+      });
+    }
 
     function setSegActive(key, val) {
       var seg = $('[data-seg="' + key + '"]', m);
@@ -3022,21 +3098,21 @@
         var s1 = state.session;
         if (!s1) return;
         var word1 = BY_ID[s1.items[s1.idx].id];
-        speak(word1.ex || word1.w, target, { rate: 0.95 });
+        speak(word1.ex || word1.w, target, { rate: speechRate() });
         return;
       }
       if (action === 'say-slow') {
         var s2 = state.session;
         if (!s2) return;
         var word2 = BY_ID[s2.items[s2.idx].id];
-        speak(word2.ex || word2.w, target, { rate: 0.68 });
+        speak(word2.ex || word2.w, target, { rate: speechRate() * 0.7 });
         return;
       }
       if (action === 'toggle-zh') { toggleSentenceZh(); return; }
       if (action === 'toggle-word') { toggleReadWord(); return; }
       if (action === 'close-word') { var panel = $('#wordPanel'); if (panel) panel.hidden = true; return; }
       if (action === 'tts-demo') {
-        speak('Learning a language is a journey, not a race.', target, { rate: 0.92 });
+        speak('Learning a language is a journey, not a race.', target, { rate: speechRate() });
         return;
       }
       if (action === 'tts-settings') {
@@ -3148,7 +3224,7 @@
       var rw = BY_ID[s.items[s.idx].id];
       if (e.key === ' ') {
         e.preventDefault();
-        if (rw) speak(rw.ex, $('[data-action="say"]'), { rate: 0.95 });
+        if (rw) speak(rw.ex, $('[data-action="say"]'), { rate: speechRate() });
         return;
       }
       if (e.key === 'r' || e.key === 'R') { toggleRecording(); return; }
@@ -3167,11 +3243,11 @@
       var bw = BY_ID[s.items[s.idx].id];
       if (e.key === ' ' && !s.answeredNow) {
         e.preventDefault();
-        if (bw) speak(bw.ex || bw.w, $('[data-action="say"]'), { rate: 0.92 });
+        if (bw) speak(bw.ex || bw.w, $('[data-action="say"]'), { rate: speechRate() });
         return;
       }
       if (e.key === 'a' || e.key === 'A') {
-        if (bw) speak(bw.ex || bw.w, $('[data-action="say"]'), { rate: 0.92 });
+        if (bw) speak(bw.ex || bw.w, $('[data-action="say"]'), { rate: speechRate() });
         return;
       }
     }
@@ -3247,8 +3323,10 @@
     applyTheme();
     detectDesktopAsr();
     renderTtsBtn();
+    loadOfflineAudioIndex();
     initBankSelects();
     initGithubLink();
+    applyAccent();
     setView('home');
     if (location.protocol === 'http:' && location.hostname === '127.0.0.1' && location.search.indexOf('desktop=1') >= 0) {
       // 桌面版心跳：窗口关闭后，本地服务器据此退出
