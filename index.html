@@ -13,7 +13,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="default" />
   <meta name="apple-mobile-web-app-title" content="词感" />
-  <link rel="stylesheet" href="assets/app.css?v=20261030i" />
+  <link rel="stylesheet" href="assets/app.css?v=20261107a" />
 </head>
 <body>
   <div class="bg-art" aria-hidden="true">
@@ -39,7 +39,7 @@
         <button class="nav-btn is-active" data-nav="home">首页</button>
         <button class="nav-btn" data-nav="library">词库</button>
         <button class="nav-btn" data-nav="stats">统计</button>
-        <button class="nav-btn" data-nav="wrong">错词本</button>
+        <button class="nav-btn" data-nav="wrong">错题本</button>
       </nav>
 
       <div class="top-actions">
@@ -200,7 +200,7 @@
           </div>
         </div>
         <div class="card wrong-card" id="resultWrongCard" hidden>
-          <div class="card-head"><div><h3 id="resultWrongTitle">这一组需要再读一遍的句子</h3><p id="resultWrongSub">已自动加入错词本</p></div></div>
+          <div class="card-head"><div><h3 id="resultWrongTitle">这一组需要再读一遍的句子</h3><p id="resultWrongSub">可点单词旁星标手动收藏</p></div></div>
           <ul class="wrong-list" id="resultWrongList"></ul>
         </div>
       </section>
@@ -247,7 +247,7 @@
           </div>
         </div>
         <div class="card lib-card">
-          <div class="lib-head"><label class="check-all"><input type="checkbox" id="libCheckAll" aria-label="全选当前筛选" /></label><span>单词</span><span>释义</span><span>状态</span></div>
+          <div class="lib-head"><label class="check-all"><input type="checkbox" id="libCheckAll" aria-label="全选当前筛选" /></label><span>单词</span><span>释义</span><span>状态</span><span>收藏</span></div>
           <ul class="word-list" id="wordList"></ul>
           <div class="lib-empty" id="libEmpty" hidden>没有符合条件的单词</div>
           <div class="lib-more"><button class="btn btn-ghost btn-sm" id="libMore">加载更多</button></div>
@@ -293,15 +293,15 @@
       </section>
 
       <!-- ============ 错词本 ============ -->
-      <section class="view" id="view-wrong" aria-label="错词本">
+      <section class="view" id="view-wrong" aria-label="错题本">
         <div class="section-head">
-          <h1>错词本</h1>
-          <p>答错的词会自动收进来，连续答对 2 次后自动移出</p>
+          <h1>错题本</h1>
+          <p>在词库或单词详情点星标主动收藏；答错不再自动加入</p>
         </div>
         <div class="wrong-hero card" id="wrongHero">
           <div>
             <strong id="wrongCount">0</strong>
-            <span>个词等你收拾</span>
+            <span>个已收藏单词</span>
           </div>
           <div class="wrong-hero-actions">
             <button class="btn btn-primary" id="wrongStudyBtn">跟读错词</button>
@@ -310,7 +310,7 @@
         </div>
         <div class="card lib-card">
           <ul class="word-list" id="wrongList"></ul>
-          <div class="lib-empty" id="wrongEmpty" hidden>错词本是空的，继续保持 ✨</div>
+          <div class="lib-empty" id="wrongEmpty" hidden>还没有收藏的单词；在词库列表或单词详情点 ☆ 收藏。</div>
         </div>
       </section>
     </main>
@@ -324,11 +324,11 @@
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
   <div class="confetti-layer" id="confettiLayer" aria-hidden="true"></div>
 
-  <script src="data/words.js?v=20261030s"></script>
-  <script src="js/polyfills.js?v=20261030s"></script>
-  <script src="js/srs.js?v=20261030s"></script>
-  <script src="js/store.js?v=20261030s"></script>
-  <script src="js/score.js?v=20261030s"></script>
-  <script src="js/app.js?v=20261030s"></script>
+  <script src="data/words.js?v=20261107a"></script>
+  <script src="js/polyfills.js?v=20261107a"></script>
+  <script src="js/srs.js?v=20261107a"></script>
+  <script src="js/store.js?v=20261107a"></script>
+  <script src="js/score.js?v=20261107a"></script>
+  <script src="js/app.js?v=20261107a"></script>
 </body>
 </html>

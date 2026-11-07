@@ -882,11 +882,13 @@
   function wordRow(w) {
     var st = wordStatus(w);
     var checked = !!libState.selected[w.id];
+    var starred = store.isWrong(w.id);
     return '<li data-word="' + esc(w.id) + '" class="' + (checked ? 'is-selected' : '') + '" style="--bank-color:' + esc(w.color) + '">' +
       '<label class="wl-check" title="选择这个单词"><input type="checkbox" data-word-check="' + esc(w.id) + '"' + (checked ? ' checked' : '') + ' /></label>' +
       '<div class="w-cell"><span class="w">' + esc(w.w) + '</span><span class="ph">' + (w.ph ? '/' + esc(w.ph) + '/' : '') + '</span></div>' +
       '<span class="z">' + esc(w.zh || '—') + '</span>' +
       '<span class="status s-' + st + '">' + STATUS_LABEL[st] + '</span>' +
+      '<button type="button" class="w-star' + (starred ? ' is-on' : '') + '" data-star-word="' + esc(w.id) + '" title="' + (starred ? '取消收藏' : '收藏到错题本') + '" aria-label="' + (starred ? '取消收藏' : '收藏到错题本') + '">' + (starred ? '★' : '☆') + '</button>' +
       '</li>';
   }
 
@@ -946,6 +948,16 @@
   });
   $('#wordList').addEventListener('click', function (e) {
     if (e.target.closest('.wl-check')) return;
+    var star = e.target.closest('[data-star-word]');
+    if (star) {
+      e.stopPropagation();
+      var on = store.toggleWrong(star.dataset.starWord);
+      star.classList.toggle('is-on', on);
+      star.textContent = on ? '★' : '☆';
+      star.title = on ? '取消收藏' : '收藏到错题本';
+      toast(on ? '已收藏到错题本' : '已取消收藏');
+      return;
+    }
     var li = e.target.closest('[data-word]');
     if (li) openWordModal(li.dataset.word);
   });
@@ -990,7 +1002,7 @@
     var bank = libState.bank === 'all' ? null : bankById(libState.bank);
     var ids = bank ? bank.words.map(function (w) { return w.id; }) : WORDS.map(function (w) { return w.id; });
     var name = bank ? bank.name : '全部词库';
-    confirmAction('重学整本词书？', '会把「' + name + '」的 ' + ids.length + ' 个单词全部重置为未学，并移出错词本。学习历史统计不会删除。', '确认重学', function () {
+    confirmAction('重学整本词书？', '会把「' + name + '」的 ' + ids.length + ' 个单词全部重置为未学；已收藏的单词会保留。学习历史统计不会删除。', '确认重学', function () {
       store.resetWords(ids.map(function (id) { return modeKey(id, libMode); }));
       libState.selected = {};
       refreshAfterChange();
@@ -1035,7 +1047,7 @@
       '<button class="btn btn-ghost btn-sm" id="masterWordBtn">我已掌握并标熟</button>' +
       (w.bankId === 'my' ? '<button class="btn btn-quiet btn-sm danger-text" id="deleteCustomBtn">删除自定义词</button>' : '') +
       (c ? '<button class="btn btn-quiet btn-sm" id="resetWordBtn">重置进度</button>' : '') +
-      (inWrong ? '<button class="btn btn-quiet btn-sm" id="removeWrongBtn">移出错词本</button>' : '') +
+      '<button class="btn btn-ghost btn-sm w-detail-star' + (inWrong ? ' is-on' : '') + '" id="favWordBtn">' + (inWrong ? '★ 取消收藏' : '☆ 收藏到错题本') + '</button>' +
       '</div>'
     );
     $('#practiceWordBtn').addEventListener('click', function () {
@@ -1058,12 +1070,12 @@
       toast('已重置「' + w.w + '」');
       refreshAfterChange();
     });
-    var rw = $('#removeWrongBtn');
-    if (rw) rw.addEventListener('click', function () {
-      store.removeWrong(id);
-      closeModal();
-      toast('已移出错词本');
-      refreshAfterChange();
+    var fav = $('#favWordBtn');
+    if (fav) fav.addEventListener('click', function () {
+      var on = store.toggleWrong(id);
+      fav.classList.toggle('is-on', on);
+      fav.textContent = on ? '★ 取消收藏' : '☆ 收藏到错题本';
+      toast(on ? '已收藏到错题本' : '已取消收藏');
     });
     var del = $('#deleteCustomBtn');
     if (del) del.addEventListener('click', function () {
@@ -1092,11 +1104,11 @@
     $('#wrongCount').textContent = words.length;
     $('#wrongEmpty').hidden = words.length > 0;
     $('#wrongList').innerHTML = words.map(function (w) {
-      var e = entries.find(function (x) { return x.id === w.id; });
       return '<li data-word="' + esc(w.id) + '" style="--bank-color:' + esc(w.color) + '">' +
         '<div class="w-cell"><span class="w">' + esc(w.w) + '</span><span class="ph">' + (w.ph ? '/' + esc(w.ph) + '/' : '') + '</span></div>' +
         '<span class="z">' + esc(w.zh) + '</span>' +
-        '<span class="status s-learning">错 ' + (e ? e.count : 1) + ' 次</span>' +
+        '<span class="status s-learning">已收藏</span>' +
+        '<button type="button" class="w-star is-on" data-star-word="' + esc(w.id) + '" title="取消收藏" aria-label="取消收藏">★</button>' +
         '</li>';
     }).join('');
     $('#wrongStudyBtn').disabled = words.length === 0;
@@ -1104,6 +1116,14 @@
   }
 
   $('#wrongList').addEventListener('click', function (e) {
+    var star = e.target.closest('[data-star-word]');
+    if (star) {
+      e.stopPropagation();
+      store.toggleWrong(star.dataset.starWord);
+      renderWrong();
+      toast('已取消收藏');
+      return;
+    }
     var li = e.target.closest('[data-word]');
     if (li) openWordModal(li.dataset.word);
   });
@@ -1338,6 +1358,7 @@
       '<div id="feedbackSlot"></div>' +
       '<div class="study-actions" id="studyActions"></div>' +
       '</div>';
+    renderForgotAction();
 
     var input = $('#answerInput');
     if (input) {
@@ -1386,6 +1407,7 @@
       '<div id="feedbackSlot"></div>' +
       '<div class="study-actions" id="studyActions"></div>' +
       '</div>';
+    renderForgotAction();
 
     $('#studyCount').textContent = (s.idx + 1) + ' / ' + s.items.length;
     $('#studyBar').style.width = Math.round((s.idx / s.items.length) * 100) + '%';
@@ -1673,11 +1695,14 @@
     var panel = $('#wordPanel');
     if (!panel) return;
     var known = !!entry;
+    var starred = known && store.isWrong(entry.id);
     panel.hidden = false;
     panel.innerHTML =
       '<button type="button" class="wp-close" data-action="close-word" aria-label="关闭词义">✕</button>' +
       '<div class="wp-top"><span class="wp-word">' + esc(token) + '</span>' +
-      '<button type="button" class="icon-btn small" data-speak-token="' + esc(token) + '">' + ICON_SPEAK + '</button></div>' +
+      '<button type="button" class="icon-btn small" data-speak-token="' + esc(token) + '">' + ICON_SPEAK + '</button>' +
+      (known ? '<button type="button" class="icon-btn small wp-star' + (starred ? ' is-on' : '') + '" data-star-id="' + esc(entry.id) + '" aria-label="' + (starred ? '取消收藏' : '收藏到错题本') + '">' + (starred ? '★' : '☆') + '</button>' : '') +
+      '</div>' +
       (known && entry.ph ? '<p class="wp-ph">/' + esc(entry.ph) + '/ ' + esc(entry.pos || '') + '</p>' : '') +
       '<p class="wp-zh">' + (known ? esc(entry.zh) : '词库暂未收录这个词，可以先听发音。') + '</p>' +
       (known ? '<p class="wp-note">来自「' + esc(entry.bankName) + '」' + (entry.w.toLowerCase() !== token.toLowerCase() ? ' · 原形 ' + esc(entry.w) : '') + '</p>' : '');
@@ -2174,7 +2199,6 @@
       s.maxCombo = Math.max(s.maxCombo, s.combo);
       sfx('ok');
     } else {
-      store.addWrong(w.id);
       s.combo = 0;
       sfx('no');
     }
@@ -2347,6 +2371,22 @@
     if (ht) ht.textContent = '已提示 ' + reveal + ' 个字母（本题按「模糊」计入复习）';
   }
 
+  function renderForgotAction() {
+    var actions = $('#studyActions');
+    if (!actions) return;
+    actions.innerHTML = '<button type="button" class="btn btn-ghost btn-sm forgot-btn" data-action="forgot">忘记了，直接看答案</button>';
+  }
+
+  function forgotCurrent() {
+    var s = state.session;
+    if (!s || s.answeredNow || s.style === 'read') return;
+    var item = s.items[s.idx];
+    if (!item) return;
+    var w = BY_ID[item.id];
+    if (!w) return;
+    commitAnswer({ correct: false, forgot: true, word: w, mode: item.mode });
+  }
+
   function requeueAfterThree(s) {
     var old = s.idx;
     if (old < 0 || old >= s.items.length) return;
@@ -2361,6 +2401,8 @@
     var s = state.session;
     if (!s || s.answeredNow) return;
     s.answeredNow = true;
+    var actions = $('#studyActions');
+    if (actions) actions.innerHTML = '';
     var w = info.word;
     var item = s.items[s.idx];
     var ms = Date.now() - s.qStart;
@@ -2372,13 +2414,19 @@
     if (!info.correct && retryable) {
       s.combo = 0;
       sfx('no');
+      var actions0 = $('#studyActions');
+      if (actions0) actions0.innerHTML = '';
+      if (info.forgot) {
+        s.forgotCount = (s.forgotCount || 0) + 1;
+        store.recordAnswer({ correct: false, isNew: isNew, ms: ms, mode: s.style, answerMode: info.mode || item.mode || 'read' });
+      }
       var card2 = $('#studyCard');
       if (card2) {
         card2.classList.add('shake');
         setTimeout(function () { card2.classList.remove('shake'); }, 420);
       }
       requeueAfterThree(s);
-      renderFeedback(w, { correct: false, retry: true, typed: info.typed || '', chosen: info.chosen || '' }, prev || SRS.blank(), isNew, item.mode, ms);
+      renderFeedback(w, { correct: false, retry: true, forgot: !!info.forgot, typed: info.typed || '', chosen: info.chosen || '' }, prev || SRS.blank(), isNew, item.mode, ms);
       updateHud();
       $('#studyCount').textContent = (s.idx + 1) + ' / ' + s.items.length;
       $('#studyBar').style.width = Math.round((s.idx / s.items.length) * 100) + '%';
@@ -2392,7 +2440,7 @@
     store.putCard(modeKey(w.id, s.style), next);
     store.recordAnswer({ correct: info.correct, isNew: isNew, ms: ms, mode: s.style, answerMode: info.mode || item.mode || 'read' });
     if (info.correct) { store.noteCorrect(w.id); s.correct += 1; s.combo += 1; s.maxCombo = Math.max(s.maxCombo, s.combo); }
-    else { store.addWrong(w.id); s.combo = 0; }
+    else { s.combo = 0; }
     s.answered += 1;
     s.results.push({ id: w.id, correct: info.correct, mode: item.mode, ms: ms, grade: grade, next: next, isNew: isNew, typed: info.typed || '' });
 
@@ -2423,7 +2471,7 @@
     if (!slot) return;
     var head = info.correct
       ? '<div class="feedback-head ok">✓ 答对了</div>'
-      : (info.retry ? '<div class="feedback-head no">✗ 选错了，3 个词后再来</div>' : '<div class="feedback-head no">✗ 再记一下</div>');
+      : (info.forgot ? '<div class="feedback-head no">已看答案 · 算答错，3 个词后再来</div>' : (info.retry ? '<div class="feedback-head no">✗ 选错了，3 个词后再来</div>' : '<div class="feedback-head no">✗ 再记一下</div>'));
     var typedNote = '';
     if (!info.correct && info.typed) {
       typedNote = '<div class="typed-note">你写的是 <s>' + esc(info.typed) + '</s></div>';
@@ -2438,7 +2486,7 @@
       typedNote + ex +
       '<div class="feedback-actions">' +
       '<button class="btn btn-primary btn-sm" data-action="next">继续 <span class="kbd-inline">Enter</span></button>' +
-      '<span class="note">' + (info.retry ? '答错不记错词，3 个词后会再出现' : '下次复习：' + esc(dueText)) + (isNew ? ' · 已计入今日新词' : '') + (ms > 12000 ? ' · 用时偏长' : '') + '</span>' +
+      '<span class="note">' + (info.retry ? (info.forgot ? '已直接看答案，按答错处理，3 个词后会再出现' : '答错不记错词，3 个词后会再出现') : '下次复习：' + esc(dueText)) + (isNew ? ' · 已计入今日新词' : '') + (ms > 12000 ? ' · 用时偏长' : '') + '</span>' +
       '</div></div>';
 
     if (store.settings.autoplay) {
@@ -2523,7 +2571,7 @@
       : '这一组没有计入统计。下次试着跟着原声读完一句。';
 
     $('#resultWrongTitle').textContent = isRead ? '需要再读一遍的句子' : isBlind ? '需要再听一遍的句子' : '这一组需要再看一眼的词';
-    $('#resultWrongSub').textContent = isRead ? '读不顺的句子已自动加入错词本' : isBlind ? '没听对的句子已自动加入错词本' : '已自动加入错词本';
+    $('#resultWrongSub').textContent = '可点单词旁星标手动收藏到错题本';
     $('#againWrongBtn').textContent = isRead ? '重读这些句子' : isBlind ? '重听这些句子' : '重刷错词';
     $('#resultWrongCard').hidden = wrongIds.length === 0;
     $('#resultWrongList').innerHTML = wrongIds.map(function (id) {
@@ -2598,15 +2646,8 @@
       [['choice', '看词选义'], ['pick', '据义择词'], ['spell', '拼写'], ['mix', '混合']].map(function (t) {
         return '<button data-value="' + t[0] + '" class="' + (s.quizType === t[0] ? 'is-active' : '') + '">' + t[1] + '</button>';
       }).join('') + '</div></div>' +
-      '<div class="field"><label>朗读音色</label>' +
+      '<div class="field"><label>朗读</label>' +
       switchRow('onlineTts', '优先在线自然发音（需联网）', s.onlineTts) +
-      '<div class="field"><label>发音口音</label><div class="seg" data-seg="accent">' +
-      [['us', '美式 US'], ['uk', '英式 UK']].map(function (t) {
-        return '<button data-value="' + t[0] + '" class="' + ((s.accent || 'us') === t[0] ? 'is-active' : '') + '">' + t[1] + '</button>';
-      }).join('') + '</div></div>' +
-      '<div class="field"><label>跟读语速 <b id="speedVal">' + speechRate().toFixed(2) + '×</b></label>' +
-      '<input type="range" class="speed-range" id="speedRange" min="0.7" max="1.3" step="0.05" value="' + speechRate() + '" />' +
-      '<p class="field-note">影响原声、慢读、快刷和盲听；1.00× 为正常速度。</p></div>' +
       '<p class="field-note" id="voiceName">当前：' + esc(currentVoiceLabel()) + '</p>' +
       '<div class="voice-row">' +
       '<button type="button" class="mini-btn" data-action="tts-demo">试听</button>' +
@@ -2615,8 +2656,15 @@
         : '') +
       '</div>' +
       '<p class="field-note">在线发音：单词用有道，整句用百度；断网、超时或接口不可用时自动退回系统 TTS。朗读文本会发送到对应语音服务。</p>' +
-      '<p class="field-note">四级/六级词库已内置美式、英式单词和例句音频，有本地文件时优先离线播放。</p>' +
+      '<p class="field-note">四级/六级单词已内置美式、英式离线音频；整句仍在线播放，避免低码率影响质量。</p>' +
       '</div>' +
+      '<div class="field"><label>发音口音</label><div class="seg" data-seg="accent">' +
+      [['us', '美式 US'], ['uk', '英式 UK']].map(function (t) {
+        return '<button data-value="' + t[0] + '" class="' + ((s.accent || 'us') === t[0] ? 'is-active' : '') + '">' + t[1] + '</button>';
+      }).join('') + '</div></div>' +
+      '<div class="field"><label>跟读语速 <b id="speedVal">' + speechRate().toFixed(2) + '×</b></label>' +
+      '<input type="range" class="speed-range" id="speedRange" min="0.7" max="1.3" step="0.05" value="' + speechRate() + '" />' +
+      '<p class="field-note">影响原声、慢读、快刷和盲听；1.00× 为正常速度。</p></div>' +
       '<div class="field"><label>自动评分</label>' +
       '<p class="field-note">' + (asrAvailable()
         ? (window.AndroidBridge ? '可用：先播放例句，再自动录音；读完点「停止并评分」。识别服务不可用时仍可自评。' : '可用：先播放例句，再自动录音；读完点「停止并评分」。')
@@ -3065,6 +3113,16 @@
 
   /* 学习页事件 */
   $('#cardStage').addEventListener('click', function (e) {
+    var starBtn = e.target.closest('[data-star-id]');
+    if (starBtn) {
+      e.stopPropagation();
+      var starOn = store.toggleWrong(starBtn.dataset.starId);
+      starBtn.classList.toggle('is-on', starOn);
+      starBtn.textContent = starOn ? '★' : '☆';
+      starBtn.setAttribute('aria-label', starOn ? '取消收藏' : '收藏到错题本');
+      toast(starOn ? '已收藏到错题本' : '已取消收藏');
+      return;
+    }
     var tokenBtn = e.target.closest('[data-token]');
     if (tokenBtn) {
       var s0 = state.session;
@@ -3087,6 +3145,7 @@
     var target = e.target.closest('[data-action]');
     if (target) {
       var action = target.dataset.action;
+      if (action === 'forgot') { forgotCurrent(); return; }
       if (action === 'speak') {
         var s = state.session;
         if (!s) return;

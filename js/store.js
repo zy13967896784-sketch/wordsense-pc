@@ -136,8 +136,6 @@
       if (!id) return;
       if (status === 'new') {
         delete data.cards[id];
-        delete data.wrong[id];
-        delete data.wrong[baseId(id)];
         save();
         return;
       }
@@ -163,16 +161,12 @@
         return;
       }
       data.cards[id] = c;
-      delete data.wrong[id];
-      delete data.wrong[baseId(id)];
       save();
     }
 
     function resetWords(ids) {
       (ids || []).forEach(function (id) {
         delete data.cards[id];
-        delete data.wrong[id];
-        delete data.wrong[baseId(id)];
       });
       save();
     }
@@ -361,11 +355,24 @@
       var w = data.wrong[id];
       if (!w) return;
       w.right = (w.right || 0) + 1;
-      if (w.right >= 2) delete data.wrong[id];
       save();
     }
 
     function removeWrong(id) { delete data.wrong[id]; save(); }
+
+    function isWrong(id) { return !!data.wrong[id]; }
+
+    function toggleWrong(id) {
+      if (!id) return false;
+      if (data.wrong[id]) {
+        delete data.wrong[id];
+        save();
+        return false;
+      }
+      data.wrong[id] = { count: 1, right: 0, last: Date.now() };
+      save();
+      return true;
+    }
 
     function wrongEntries() {
       return Object.keys(data.wrong).map(function (id) {
@@ -463,6 +470,8 @@
       addWrong: addWrong,
       noteCorrect: noteCorrect,
       removeWrong: removeWrong,
+      isWrong: isWrong,
+      toggleWrong: toggleWrong,
       wrongEntries: wrongEntries,
       wrongCount: wrongCount,
       addCustom: addCustom,

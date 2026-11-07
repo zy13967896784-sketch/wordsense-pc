@@ -531,15 +531,15 @@ h3 { font-size: 16px; font-weight: 650; }
   background-size: 5px 5px, 5px 5px; background-repeat: no-repeat;
 }
 .lib-card { padding: 10px 18px 18px; }
-.lib-head { display: grid; grid-template-columns: 1.1fr 1.6fr 100px; gap: 12px; padding: 12px 12px 8px; font-size: 11px; letter-spacing: 0.08em; color: var(--muted); text-transform: uppercase; border-bottom: 1px solid var(--line); }
+.lib-head { display: grid; grid-template-columns: 1.1fr 1.6fr 100px 32px; gap: 12px; padding: 12px 12px 8px; font-size: 11px; letter-spacing: 0.08em; color: var(--muted); text-transform: uppercase; border-bottom: 1px solid var(--line); }
 .word-list li {
-  display: grid; grid-template-columns: 1.1fr 1.6fr 100px; gap: 12px; align-items: center;
+  display: grid; grid-template-columns: 1.1fr 1.6fr 100px 32px; gap: 12px; align-items: center;
   padding: 13px 12px; border-bottom: 1px solid var(--line); cursor: pointer;
   transition: background 0.15s;
 }
 .check-all, .wl-check { display: none; align-items: center; justify-content: center; cursor: pointer; }
-#view-library.is-selecting .lib-head { grid-template-columns: 34px 1.1fr 1.6fr 100px; }
-#view-library.is-selecting .word-list li { grid-template-columns: 34px 1.1fr 1.6fr 100px; }
+#view-library.is-selecting .lib-head { grid-template-columns: 34px 1.1fr 1.6fr 100px 32px; }
+#view-library.is-selecting .word-list li { grid-template-columns: 34px 1.1fr 1.6fr 100px 32px; }
 #view-library.is-selecting .check-all,
 #view-library.is-selecting .wl-check { display: flex; }
 .check-all input, .wl-check input { width: 16px; height: 16px; accent-color: var(--jade); cursor: pointer; }
@@ -562,6 +562,14 @@ h3 { font-size: 16px; font-weight: 650; }
 .word-list .status.s-review { background: var(--jade-soft); color: var(--jade-deep); }
 .word-list .status.s-mastered { background: var(--jade); color: #fff; }
 .word-list .status.s-new { background: var(--line); color: var(--muted); }
+.w-star {
+  border: 0; background: transparent; color: var(--muted); font-size: 20px; line-height: 1;
+  cursor: pointer; width: 32px; height: 32px; border-radius: 50%; justify-self: center;
+}
+.w-star:hover { background: var(--amber-soft); color: var(--amber); }
+.w-star.is-on { color: var(--amber); }
+.w-detail-star.is-on { color: var(--amber); }
+.wp-star.is-on { color: var(--amber); }
 .pick-word { font-family: var(--font-display); font-size: 18px; letter-spacing: 0.01em; }
 .quiz-type-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 16px; }
 .quiz-type-btn {
@@ -578,7 +586,7 @@ h3 { font-size: 16px; font-weight: 650; }
 .wrong-hero { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 26px 30px; margin-bottom: 14px; background: radial-gradient(100% 160% at 0% 0%, var(--rose-soft), transparent 60%), var(--card); }
 .wrong-hero strong { font-size: 42px; font-weight: 650; margin-right: 10px; letter-spacing: -0.03em; }
 .wrong-hero span { color: var(--muted); font-size: 13px; }
-#view-wrong .word-list li { grid-template-columns: 1.1fr 1.6fr 100px; }
+#view-wrong .word-list li { grid-template-columns: 1.1fr 1.6fr 100px 32px; }
 
 /* ---------- 弹窗 ---------- */
 .modal-root { position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; padding: 20px; }
@@ -933,9 +941,9 @@ body.in-session .main { padding-top: 8px; }
   .rating-btns { display: grid; grid-template-columns: 1fr 1fr; }
   .grade-btn { justify-content: center; padding: 0 8px; }
   .word-panel { padding: 14px; }
-  .lib-head, .word-list li { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1.3fr) 78px; gap: 8px; }
+  .lib-head, .word-list li { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1.3fr) 78px 30px; gap: 8px; }
   #view-library.is-selecting .lib-head,
-  #view-library.is-selecting .word-list li { grid-template-columns: 28px minmax(0, 1.1fr) minmax(0, 1.3fr) 78px; }
+  #view-library.is-selecting .word-list li { grid-template-columns: 28px minmax(0, 1.1fr) minmax(0, 1.3fr) 78px 30px; }
   .word-list .status { font-size: 10px; padding: 2px 6px; }
   .bulk-bar { flex-direction: column; align-items: flex-start; }
   .bulk-actions { width: 100%; }
@@ -957,9 +965,10 @@ body.in-session .main { padding-top: 8px; }
   .result-stats { justify-content: center; }
   .result-hero .hero-actions { justify-content: center; }
   .lib-head { display: none; }
-  .word-list li, #view-wrong .word-list li { grid-template-columns: 1fr auto; }
+  .word-list li, #view-wrong .word-list li { grid-template-columns: 1fr auto 30px; }
   .word-list .z { grid-column: 1 / -1; white-space: normal; }
   .word-list .status { grid-row: 1; grid-column: 2; }
+  .word-list .w-star { grid-row: 1; grid-column: 3; }
   .search-box input { width: 100%; }
   .lib-right { width: 100%; }
   .search-box { flex: 1; }
