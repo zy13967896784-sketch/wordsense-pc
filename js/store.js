@@ -94,6 +94,13 @@
       data.settingsVersion = 2;
       try { root.localStorage.setItem(KEY, JSON.stringify(data)); } catch (e) { }
     }
+    // 错题本改为手动星标：清掉旧版自动加入的记录一次
+    data.flags = data.flags && typeof data.flags === 'object' ? data.flags : {};
+    if (!data.flags.manualWrongV1) {
+      data.wrong = {};
+      data.flags.manualWrongV1 = true;
+      try { root.localStorage.setItem(KEY, JSON.stringify(data)); } catch (e) { }
+    }
 
     function save() {
       if (!storageOk) return false;
