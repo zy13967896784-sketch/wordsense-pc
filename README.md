@@ -1,4 +1,6 @@
-﻿# 词感 WordSense · Windows 版
+﻿> 本仓库已停止维护，不再发布新版本；当前仅维护 Android 版：https://github.com/zy13967896784-sketch/wordsense-android
+
+# 词感 WordSense · Windows 版
 
 把单词放进真实句子里，跟着原声读出来，再用间隔复习把句子和词一起记住。
 
